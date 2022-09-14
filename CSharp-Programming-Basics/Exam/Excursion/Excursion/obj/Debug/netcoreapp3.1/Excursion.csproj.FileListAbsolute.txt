@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\bin\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Excursion\Excursion\obj\Debug\netcoreapp3.1\Excursion.genruntimeconfig.cache
