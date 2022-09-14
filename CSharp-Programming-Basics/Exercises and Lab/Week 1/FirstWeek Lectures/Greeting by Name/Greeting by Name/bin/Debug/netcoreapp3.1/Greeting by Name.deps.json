@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Greeting by Name/1.0.0": {
+        "runtime": {
+          "Greeting by Name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Greeting by Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

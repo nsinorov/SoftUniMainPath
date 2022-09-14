@@ -1,0 +1,28 @@
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.exe
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.deps.json
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.dll
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.pdb
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.dll
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.pdb
+C:\Users\niki\Desktop\SoftUni\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.genruntimeconfig.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.exe
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.deps.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.dll
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp3.1\Greeting by Name.pdb
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.dll
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.pdb
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Лекции\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp3.1\Greeting by Name.genruntimeconfig.cache
