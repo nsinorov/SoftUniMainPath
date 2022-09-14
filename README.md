@@ -7,3 +7,18 @@
 <br/>
 <br/>
 <br/>
+
+<h2> Certificates </h2>
+
+<table>
+
+<tr>
+  <th> C# </th>
+</tr>
+
+<tr>
+<td>
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3740/programming-basics-with-csharp-april-2022" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/134052/1d8d5f63"> Link</a> |
