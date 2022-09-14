@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Hair Salon\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.genruntimeconfig.cache

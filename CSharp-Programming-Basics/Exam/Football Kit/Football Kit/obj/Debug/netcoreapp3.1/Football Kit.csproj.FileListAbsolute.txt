@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Football Kit\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.genruntimeconfig.cache
