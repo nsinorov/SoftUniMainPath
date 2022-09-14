@@ -1,0 +1,28 @@
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.exe
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.deps.json
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\niki\Desktop\SoftUni\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.genruntimeconfig.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.exe
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.deps.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\niki\Desktop\SoftUni\Programming Basic C#\От 1-6та седмица всичко\1ва седмица\FirstWeek Упр\Food Delivery\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.genruntimeconfig.cache
