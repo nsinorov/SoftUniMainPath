@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.exe
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.deps.json
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.dll
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.pdb
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.dll
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.pdb
+C:\Users\niki\Desktop\SoftUni\Area of Figures\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.genruntimeconfig.cache
