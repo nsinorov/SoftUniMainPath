@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Unique PIN Codes\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.genruntimeconfig.cache

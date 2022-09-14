@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\bin\Debug\netcoreapp3.1\Workout.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Workout\Workout\obj\Debug\netcoreapp3.1\Workout.genruntimeconfig.cache

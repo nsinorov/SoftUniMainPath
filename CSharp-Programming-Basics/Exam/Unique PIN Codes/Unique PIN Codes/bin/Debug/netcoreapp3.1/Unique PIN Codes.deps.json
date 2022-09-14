@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unique PIN Codes/1.0.0": {
+        "runtime": {
+          "Unique PIN Codes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unique PIN Codes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
