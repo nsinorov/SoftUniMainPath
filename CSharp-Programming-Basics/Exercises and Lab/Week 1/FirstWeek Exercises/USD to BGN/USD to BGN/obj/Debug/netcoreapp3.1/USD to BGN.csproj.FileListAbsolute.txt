@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.exe
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.deps.json
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.dll
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.pdb
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.dll
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.pdb
+C:\Users\niki\Desktop\SoftUni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.genruntimeconfig.cache
