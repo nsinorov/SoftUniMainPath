@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.exe
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.deps.json
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\niki\Desktop\SoftUni\2ра седмица\Задачи от упр\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.genruntimeconfig.cache
