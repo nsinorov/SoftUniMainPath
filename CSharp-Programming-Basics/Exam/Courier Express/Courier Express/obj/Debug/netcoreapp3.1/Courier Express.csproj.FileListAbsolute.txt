@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.exe
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.deps.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.dll
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.pdb
+C:\Users\niki\Desktop\SoftUni\Изпит 29-05-2022\Courier Express\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.genruntimeconfig.cache
