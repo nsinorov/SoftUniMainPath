@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\niki\Desktop\SoftUni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache
