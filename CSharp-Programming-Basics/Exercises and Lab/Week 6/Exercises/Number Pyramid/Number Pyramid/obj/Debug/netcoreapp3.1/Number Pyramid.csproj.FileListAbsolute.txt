@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.exe
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.deps.json
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.json
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfo.cs
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\SoftUni\6та седмица\упр\Number Pyramid\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.genruntimeconfig.cache
