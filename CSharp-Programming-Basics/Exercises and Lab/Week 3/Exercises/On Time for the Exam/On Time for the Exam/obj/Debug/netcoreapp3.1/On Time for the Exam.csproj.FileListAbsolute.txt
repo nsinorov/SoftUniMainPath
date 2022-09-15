@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.exe
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.dll
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.pdb
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.dll
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.pdb
+C:\SoftUni\3та седмица\Задачи от упр\On Time for the Exam\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.genruntimeconfig.cache

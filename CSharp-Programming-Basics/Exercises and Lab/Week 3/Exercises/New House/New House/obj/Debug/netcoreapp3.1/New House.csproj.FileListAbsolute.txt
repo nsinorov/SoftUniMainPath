@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.exe
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.dll
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\bin\Debug\netcoreapp3.1\New House.pdb
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.dll
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.pdb
+C:\SoftUni\3та седмица\Задачи от упр\New House\New House\obj\Debug\netcoreapp3.1\New House.genruntimeconfig.cache
