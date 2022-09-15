@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Numbers Ending in 7/1.0.0": {
+        "runtime": {
+          "Numbers Ending in 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numbers Ending in 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

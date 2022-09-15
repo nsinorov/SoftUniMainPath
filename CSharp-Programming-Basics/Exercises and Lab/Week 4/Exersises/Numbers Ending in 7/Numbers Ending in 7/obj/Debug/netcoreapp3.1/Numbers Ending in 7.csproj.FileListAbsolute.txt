@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.exe
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.deps.json
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\SoftUni\4та седмица\задачи от упр\Numbers Ending in 7\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.genruntimeconfig.cache
