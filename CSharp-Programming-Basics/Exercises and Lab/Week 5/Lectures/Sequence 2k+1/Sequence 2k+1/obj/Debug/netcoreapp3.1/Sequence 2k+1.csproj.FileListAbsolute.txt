@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.exe
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.deps.json
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.runtimeconfig.json
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.dll
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\bin\Debug\netcoreapp3.1\Sequence 2k+1.pdb
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.AssemblyInfo.cs
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.dll
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.pdb
+C:\SoftUni\5та седмица\лекции\Sequence 2k+1\Sequence 2k+1\obj\Debug\netcoreapp3.1\Sequence 2k+1.genruntimeconfig.cache
