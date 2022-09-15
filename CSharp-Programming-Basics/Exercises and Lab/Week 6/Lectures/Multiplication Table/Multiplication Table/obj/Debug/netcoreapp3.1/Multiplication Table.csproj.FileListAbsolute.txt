@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\SoftUni\6та седмица\лекции\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

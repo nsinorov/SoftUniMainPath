@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.exe
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.deps.json
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.runtimeconfig.json
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.dll
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.pdb
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.AssemblyInfo.cs
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.dll
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.pdb
+C:\SoftUni\6та седмица\лекции\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.genruntimeconfig.cache
