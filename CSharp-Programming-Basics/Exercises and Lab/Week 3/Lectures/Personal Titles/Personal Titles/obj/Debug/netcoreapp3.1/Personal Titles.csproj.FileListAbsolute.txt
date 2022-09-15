@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Personal Titles\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.genruntimeconfig.cache

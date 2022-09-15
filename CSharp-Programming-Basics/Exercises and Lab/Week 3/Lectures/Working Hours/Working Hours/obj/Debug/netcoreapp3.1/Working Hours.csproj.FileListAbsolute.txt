@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\bin\Debug\netcoreapp3.1\Working Hours.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Working Hours\Working Hours\obj\Debug\netcoreapp3.1\Working Hours.genruntimeconfig.cache

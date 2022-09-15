@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Small Shop\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.genruntimeconfig.cache
