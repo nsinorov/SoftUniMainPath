@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.exe
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.deps.json
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.json
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.dll
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\bin\Debug\netcoreapp3.1\Max Number.pdb
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfo.cs
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.dll
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.pdb
+C:\SoftUni\5та седмица\лекции\Max Number\Max Number\obj\Debug\netcoreapp3.1\Max Number.genruntimeconfig.cache

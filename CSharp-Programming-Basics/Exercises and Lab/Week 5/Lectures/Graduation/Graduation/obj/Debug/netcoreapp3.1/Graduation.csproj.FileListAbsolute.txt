@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+C:\SoftUni\5та седмица\лекции\Graduation\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache
