@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.exe
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.deps.json
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.json
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfo.cs
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\SoftUni\6та седмица\упр\Train The Trainers\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.genruntimeconfig.cache

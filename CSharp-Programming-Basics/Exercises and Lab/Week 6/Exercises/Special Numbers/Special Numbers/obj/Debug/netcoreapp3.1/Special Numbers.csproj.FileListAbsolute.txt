@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\SoftUni\6та седмица\упр\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache

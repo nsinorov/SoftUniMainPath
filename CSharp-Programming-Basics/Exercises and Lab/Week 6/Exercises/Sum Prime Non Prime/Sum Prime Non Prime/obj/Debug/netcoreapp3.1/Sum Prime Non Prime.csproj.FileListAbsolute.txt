@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.exe
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.deps.json
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.runtimeconfig.json
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.dll
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.pdb
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.AssemblyInfo.cs
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.dll
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.pdb
+C:\SoftUni\6та седмица\упр\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.genruntimeconfig.cache
