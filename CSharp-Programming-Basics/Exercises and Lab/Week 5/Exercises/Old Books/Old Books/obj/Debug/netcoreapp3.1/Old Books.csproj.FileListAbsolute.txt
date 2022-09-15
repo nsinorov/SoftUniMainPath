@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.exe
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.deps.json
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.json
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.dll
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\bin\Debug\netcoreapp3.1\Old Books.pdb
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfo.cs
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.dll
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.pdb
+C:\SoftUni\5та седмица\упр\Old Books\Old Books\obj\Debug\netcoreapp3.1\Old Books.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\SoftUni\5та седмица\упр\Exam Preparation\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.genruntimeconfig.cache
