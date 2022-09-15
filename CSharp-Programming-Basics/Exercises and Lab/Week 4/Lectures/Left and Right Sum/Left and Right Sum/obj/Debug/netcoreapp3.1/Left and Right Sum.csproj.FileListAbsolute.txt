@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.exe
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Left and Right Sum\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.genruntimeconfig.cache

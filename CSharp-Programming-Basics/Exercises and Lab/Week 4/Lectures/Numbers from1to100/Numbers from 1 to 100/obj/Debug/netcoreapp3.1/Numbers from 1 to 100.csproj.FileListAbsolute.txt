@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.exe
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers from 1 to 100\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.genruntimeconfig.cache

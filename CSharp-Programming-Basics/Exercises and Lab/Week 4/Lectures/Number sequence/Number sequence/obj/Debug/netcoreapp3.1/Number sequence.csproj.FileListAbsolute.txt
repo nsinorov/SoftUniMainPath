@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.exe
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.dll
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.dll
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Number sequence\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.genruntimeconfig.cache
