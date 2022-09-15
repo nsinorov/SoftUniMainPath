@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.exe
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Vowels Sum\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.genruntimeconfig.cache

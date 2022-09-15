@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.exe
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Odd Even Sum\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.genruntimeconfig.cache
