@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.exe
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.deps.json
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\SoftUni\4та седмица\задачи от упр\Half Sum Element\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.genruntimeconfig.cache

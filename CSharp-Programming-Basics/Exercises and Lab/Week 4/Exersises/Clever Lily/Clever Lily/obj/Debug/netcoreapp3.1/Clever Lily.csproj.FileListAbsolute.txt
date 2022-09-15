@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.exe
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.deps.json
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.dll
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.pdb
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.dll
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.pdb
+C:\SoftUni\4та седмица\задачи от упр\Clever Lily\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.genruntimeconfig.cache
