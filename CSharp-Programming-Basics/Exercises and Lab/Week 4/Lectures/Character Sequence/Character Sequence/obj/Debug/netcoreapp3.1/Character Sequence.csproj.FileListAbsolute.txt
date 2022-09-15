@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.exe
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.dll
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.dll
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Character Sequence\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.genruntimeconfig.cache

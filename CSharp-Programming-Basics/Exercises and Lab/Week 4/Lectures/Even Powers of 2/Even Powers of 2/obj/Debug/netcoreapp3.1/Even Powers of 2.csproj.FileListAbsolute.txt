@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.exe
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.dll
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.dll
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Even Powers of 2\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.genruntimeconfig.cache
