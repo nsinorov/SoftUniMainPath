@@ -1,0 +1,14 @@
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\SoftUni\5та седмица\упр\Coins\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.AssemblyReference.cache
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+C:\SoftUni\5та седмица\упр\Coins\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache
