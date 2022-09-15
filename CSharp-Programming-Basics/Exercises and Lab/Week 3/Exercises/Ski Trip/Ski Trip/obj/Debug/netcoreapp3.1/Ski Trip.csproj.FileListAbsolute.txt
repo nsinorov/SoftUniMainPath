@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.exe
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.dll
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.dll
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Ski Trip\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.genruntimeconfig.cache

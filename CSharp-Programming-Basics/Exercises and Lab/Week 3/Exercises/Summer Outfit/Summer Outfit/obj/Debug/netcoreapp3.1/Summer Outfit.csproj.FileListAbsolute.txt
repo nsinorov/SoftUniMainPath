@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.exe
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.dll
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.dll
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Summer Outfit\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.genruntimeconfig.cache
