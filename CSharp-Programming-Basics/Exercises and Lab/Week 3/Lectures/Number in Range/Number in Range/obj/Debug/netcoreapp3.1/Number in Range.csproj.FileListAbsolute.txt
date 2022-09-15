@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\bin\Debug\netcoreapp3.1\Number in Range.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Number in Range\Number in Range\obj\Debug\netcoreapp3.1\Number in Range.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Invalid Number\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.genruntimeconfig.cache

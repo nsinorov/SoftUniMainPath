@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit Shop\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.genruntimeconfig.cache
