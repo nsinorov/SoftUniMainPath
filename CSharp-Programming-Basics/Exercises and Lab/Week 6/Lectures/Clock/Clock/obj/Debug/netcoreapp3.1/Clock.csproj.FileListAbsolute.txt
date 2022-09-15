@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\SoftUni\6та седмица\лекции\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\SoftUni\6та седмица\лекции\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

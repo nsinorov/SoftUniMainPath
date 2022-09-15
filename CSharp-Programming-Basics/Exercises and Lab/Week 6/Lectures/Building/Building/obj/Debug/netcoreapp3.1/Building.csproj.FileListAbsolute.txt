@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.exe
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.dll
+C:\SoftUni\6та седмица\лекции\Building\Building\bin\Debug\netcoreapp3.1\Building.pdb
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.dll
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.pdb
+C:\SoftUni\6та седмица\лекции\Building\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

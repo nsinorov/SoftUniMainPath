@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\SoftUni\6та седмица\лекции\Combinations\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache
