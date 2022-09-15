@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.exe
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.dll
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.dll
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Fishing Boat\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.genruntimeconfig.cache

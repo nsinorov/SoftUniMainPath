@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.exe
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.deps.json
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.dll
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.dll
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.pdb
+C:\SoftUni\3та седмица\Задачи от упр\Hotel Room\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.genruntimeconfig.cache
