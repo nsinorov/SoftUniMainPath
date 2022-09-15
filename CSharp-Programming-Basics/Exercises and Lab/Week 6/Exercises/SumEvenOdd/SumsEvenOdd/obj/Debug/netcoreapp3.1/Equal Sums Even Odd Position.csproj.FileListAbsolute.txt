@@ -1,0 +1,14 @@
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.exe
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.deps.json
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.json
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+C:\SoftUni\6та седмица\упр\Equal Sums Even Odd Position\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.genruntimeconfig.cache
