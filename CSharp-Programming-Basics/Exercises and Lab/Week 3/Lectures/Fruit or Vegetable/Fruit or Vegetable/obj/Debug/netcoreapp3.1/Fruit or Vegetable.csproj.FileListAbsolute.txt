@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\bin\Debug\netcoreapp3.1\Fruit or Vegetable.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Fruit or Vegetable\Fruit or Vegetable\obj\Debug\netcoreapp3.1\Fruit or Vegetable.genruntimeconfig.cache

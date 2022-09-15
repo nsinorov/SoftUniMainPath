@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Day of Week\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.genruntimeconfig.cache

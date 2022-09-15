@@ -1,0 +1,14 @@
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.exe
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.deps.json
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.runtimeconfig.json
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.runtimeconfig.dev.json
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.csproj.AssemblyReference.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.AssemblyInfoInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.AssemblyInfo.cs
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.dll
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.pdb
+C:\SoftUni\3та седмица\Задачи от лекции\Cinema Ticket\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.genruntimeconfig.cache
