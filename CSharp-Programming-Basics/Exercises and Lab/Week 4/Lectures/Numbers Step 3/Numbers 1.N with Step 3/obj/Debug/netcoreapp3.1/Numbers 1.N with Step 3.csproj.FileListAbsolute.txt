@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.exe
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\Numbers 1.N with Step 3.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers 1.N with Step 3\Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\Numbers 1.N with Step 3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.exe
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.deps.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.runtimeconfig.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.runtimeconfig.dev.json
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.csproj.AssemblyReference.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.AssemblyInfoInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.AssemblyInfo.cs
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.csproj.CoreCompileInputs.cache
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.dll
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.pdb
+C:\SoftUni\4та седмица\задачи от лекции\Numbers N.1\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.genruntimeconfig.cache
