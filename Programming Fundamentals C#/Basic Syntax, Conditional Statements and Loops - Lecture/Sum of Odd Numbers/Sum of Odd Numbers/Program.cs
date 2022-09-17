@@ -25,3 +25,36 @@ namespace Sum_of_Odd_Numbers
         }
     }
 }
+
+With For Loop
+
+using System;
+
+namespace Multiplication_Table
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            int n = int.Parse(Console.ReadLine());
+
+            int sum = 0;
+            int counter = 0;
+
+            for (int i = 1; i <= 100; i+=2)
+            {
+                Console.WriteLine(i);
+                counter++;
+                sum += i;
+
+                if(counter == n)
+                {
+                    break;
+                }
+            }
+            Console.WriteLine($"Sum: {sum}");
+        }
+    }
+}
+
