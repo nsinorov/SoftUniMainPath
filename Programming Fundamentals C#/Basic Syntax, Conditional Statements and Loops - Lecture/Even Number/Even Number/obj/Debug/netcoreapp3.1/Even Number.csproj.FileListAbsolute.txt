@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\bin\Debug\netcoreapp3.1\Even Number.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lecture\Even Number\Even Number\obj\Debug\netcoreapp3.1\Even Number.genruntimeconfig.cache
