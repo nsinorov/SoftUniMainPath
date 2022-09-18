@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Padawan Equipment/1.0.0": {
+        "runtime": {
+          "Padawan Equipment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Padawan Equipment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
