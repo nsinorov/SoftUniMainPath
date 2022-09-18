@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache
