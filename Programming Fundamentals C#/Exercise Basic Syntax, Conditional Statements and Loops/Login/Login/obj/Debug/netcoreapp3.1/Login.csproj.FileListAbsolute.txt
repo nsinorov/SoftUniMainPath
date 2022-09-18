@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Exercise Basic Syntax, Conditional Statements and Loops\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
