@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.genruntimeconfig.cache
