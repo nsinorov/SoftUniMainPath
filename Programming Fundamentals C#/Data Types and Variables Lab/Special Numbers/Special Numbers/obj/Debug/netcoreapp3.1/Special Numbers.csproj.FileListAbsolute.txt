@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Special Numbers\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache
