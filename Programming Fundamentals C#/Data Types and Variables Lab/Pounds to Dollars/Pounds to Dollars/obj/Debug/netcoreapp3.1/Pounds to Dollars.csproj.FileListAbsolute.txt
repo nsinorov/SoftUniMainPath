@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.genruntimeconfig.cache
