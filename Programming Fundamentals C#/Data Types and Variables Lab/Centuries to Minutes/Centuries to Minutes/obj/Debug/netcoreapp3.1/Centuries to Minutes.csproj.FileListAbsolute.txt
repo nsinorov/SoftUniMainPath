@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.genruntimeconfig.cache
