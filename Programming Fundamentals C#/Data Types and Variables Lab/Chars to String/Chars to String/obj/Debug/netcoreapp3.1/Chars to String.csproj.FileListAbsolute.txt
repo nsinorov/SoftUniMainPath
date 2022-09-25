@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\bin\Debug\netcoreapp3.1\Chars to String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Chars to String\Chars to String\obj\Debug\netcoreapp3.1\Chars to String.genruntimeconfig.cache
