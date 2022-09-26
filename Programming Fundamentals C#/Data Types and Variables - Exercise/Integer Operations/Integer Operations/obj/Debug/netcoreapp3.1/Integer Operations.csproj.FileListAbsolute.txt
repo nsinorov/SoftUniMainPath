@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Lab\Integer Operations\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.genruntimeconfig.cache
