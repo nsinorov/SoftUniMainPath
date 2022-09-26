@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Integer_Operations
 {
@@ -12,16 +12,9 @@ namespace Integer_Operations
             int num3 = int.Parse(Console.ReadLine());
             int num4 = int.Parse(Console.ReadLine());
 
-            int sum = 0;
-            sum = num1 + num2;
+            int finalResult = (num1 + num2) / num3 * num4;
 
-            int divide = 0;
-            divide = sum / num3;
-
-            int multiply = 0;
-            multiply = divide * num4;
-
-            Console.WriteLine(multiply);
+            Console.WriteLine(finalResult);
         }
     }
 }
