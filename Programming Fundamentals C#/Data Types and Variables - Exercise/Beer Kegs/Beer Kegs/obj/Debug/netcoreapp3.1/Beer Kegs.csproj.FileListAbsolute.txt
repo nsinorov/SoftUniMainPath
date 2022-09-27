@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.genruntimeconfig.cache
