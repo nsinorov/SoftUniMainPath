@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\bin\Debug\netcoreapp3.1\Poke Mon.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Poke Mon\Poke Mon\obj\Debug\netcoreapp3.1\Poke Mon.genruntimeconfig.cache
