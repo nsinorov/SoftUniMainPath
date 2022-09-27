@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables Exercise\Snowballs\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.genruntimeconfig.cache
