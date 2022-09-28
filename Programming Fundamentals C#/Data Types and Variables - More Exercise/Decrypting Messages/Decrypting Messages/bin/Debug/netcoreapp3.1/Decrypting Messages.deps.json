@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Decrypting Messages/1.0.0": {
+        "runtime": {
+          "Decrypting Messages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decrypting Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
