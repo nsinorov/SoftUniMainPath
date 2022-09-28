@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring Prime Checker", "Refactoring Prime Checker\Refactoring Prime Checker.csproj", "{C6514EFC-5139-412A-9C8A-AA7411041DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6514EFC-5139-412A-9C8A-AA7411041DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6514EFC-5139-412A-9C8A-AA7411041DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6514EFC-5139-412A-9C8A-AA7411041DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6514EFC-5139-412A-9C8A-AA7411041DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6C0383-B546-4099-A2D7-44831E446958}
+	EndGlobalSection
+EndGlobal

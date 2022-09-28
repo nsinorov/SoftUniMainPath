@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Refactoring Prime Checker/1.0.0": {
+        "runtime": {
+          "Refactoring Prime Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Refactoring Prime Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
