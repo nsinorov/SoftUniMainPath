@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\bin\Debug\netcoreapp3.1\Floating Equality.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Floating Equality\Floating Equality\obj\Debug\netcoreapp3.1\Floating Equality.genruntimeconfig.cache

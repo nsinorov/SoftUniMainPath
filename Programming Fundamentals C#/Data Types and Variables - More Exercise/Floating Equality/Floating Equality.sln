@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floating Equality", "Floating Equality\Floating Equality.csproj", "{10BD6E1E-F0A3-4EC9-BF52-ADC4B3A4F6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BD6E1E-F0A3-4EC9-BF52-ADC4B3A4F6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BD6E1E-F0A3-4EC9-BF52-ADC4B3A4F6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BD6E1E-F0A3-4EC9-BF52-ADC4B3A4F6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BD6E1E-F0A3-4EC9-BF52-ADC4B3A4F6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FBEB02-EDC6-4C0E-B731-59A5BB4B5675}
+	EndGlobalSection
+EndGlobal
