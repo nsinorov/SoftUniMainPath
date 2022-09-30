@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\bin\Debug\netcoreapp3.1\Balanced Brackets.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Data Types and Variables More Exercises\Balanced Brackets\Balanced Brackets\obj\Debug\netcoreapp3.1\Balanced Brackets.genruntimeconfig.cache
