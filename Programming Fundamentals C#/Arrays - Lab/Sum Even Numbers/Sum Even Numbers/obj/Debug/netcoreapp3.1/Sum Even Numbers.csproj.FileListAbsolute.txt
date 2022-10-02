@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.genruntimeconfig.cache
