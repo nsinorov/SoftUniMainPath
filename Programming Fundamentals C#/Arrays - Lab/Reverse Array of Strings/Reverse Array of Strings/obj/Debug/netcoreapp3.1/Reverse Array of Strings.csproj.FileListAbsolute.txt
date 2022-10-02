@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays Lab\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.genruntimeconfig.cache
