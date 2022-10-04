@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\bin\Debug\netcoreapp3.1\Magic Sum.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Magic Sum\Magic Sum\obj\Debug\netcoreapp3.1\Magic Sum.genruntimeconfig.cache
