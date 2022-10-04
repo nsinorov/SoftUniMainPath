@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\bin\Debug\netcoreapp3.1\Array Rotation.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Array Rotation\Array Rotation\obj\Debug\netcoreapp3.1\Array Rotation.genruntimeconfig.cache
