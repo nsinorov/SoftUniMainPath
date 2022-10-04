@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Top Integers\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.genruntimeconfig.cache
