@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp3.1\Zig-Zag Arrays.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp3.1\Zig-Zag Arrays.genruntimeconfig.cache
