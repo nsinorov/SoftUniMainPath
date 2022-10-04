@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - Exercise\Common Elements\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.genruntimeconfig.cache
