@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Repeat String\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.genruntimeconfig.cache
