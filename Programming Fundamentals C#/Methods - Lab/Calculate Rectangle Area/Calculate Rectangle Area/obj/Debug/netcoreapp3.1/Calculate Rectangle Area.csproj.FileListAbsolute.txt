@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.genruntimeconfig.cache
