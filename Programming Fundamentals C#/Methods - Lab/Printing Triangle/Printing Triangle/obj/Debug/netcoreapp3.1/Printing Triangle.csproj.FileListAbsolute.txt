@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Printing Triangle\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.genruntimeconfig.cache
