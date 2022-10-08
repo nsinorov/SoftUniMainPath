@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\bin\Debug\netcoreapp3.1\Math Power.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Power\Math Power\obj\Debug\netcoreapp3.1\Math Power.genruntimeconfig.cache
