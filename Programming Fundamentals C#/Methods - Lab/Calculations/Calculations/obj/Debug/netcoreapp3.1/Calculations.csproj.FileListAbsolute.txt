@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache
