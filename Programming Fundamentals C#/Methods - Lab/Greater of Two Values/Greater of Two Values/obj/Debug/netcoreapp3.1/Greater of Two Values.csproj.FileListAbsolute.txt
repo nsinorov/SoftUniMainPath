@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.genruntimeconfig.cache
