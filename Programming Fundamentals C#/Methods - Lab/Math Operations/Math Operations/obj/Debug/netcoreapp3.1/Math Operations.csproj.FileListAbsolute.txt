@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Math Operations\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.genruntimeconfig.cache
