@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.genruntimeconfig.cache
