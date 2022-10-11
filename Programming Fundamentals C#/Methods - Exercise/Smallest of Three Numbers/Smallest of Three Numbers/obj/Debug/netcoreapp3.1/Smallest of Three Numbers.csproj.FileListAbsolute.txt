@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Smallest of Three Numbers\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.genruntimeconfig.cache
