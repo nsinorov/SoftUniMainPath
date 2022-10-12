@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Add and Subtract\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.genruntimeconfig.cache

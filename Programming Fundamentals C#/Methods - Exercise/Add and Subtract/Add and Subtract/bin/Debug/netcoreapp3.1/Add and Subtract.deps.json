@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Add and Subtract/1.0.0": {
+        "runtime": {
+          "Add and Subtract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add and Subtract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
