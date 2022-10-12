@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Vowels Count\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.genruntimeconfig.cache
