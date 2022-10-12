@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\NxN Matrix\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.genruntimeconfig.cache
