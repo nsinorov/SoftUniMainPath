@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Characters in Range\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.genruntimeconfig.cache
