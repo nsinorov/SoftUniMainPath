@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Middle Characters\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.genruntimeconfig.cache
