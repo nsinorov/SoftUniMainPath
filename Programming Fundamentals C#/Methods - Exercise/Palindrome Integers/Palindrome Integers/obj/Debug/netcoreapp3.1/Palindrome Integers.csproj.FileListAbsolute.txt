@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - Exercise\Palindrome Integers\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.genruntimeconfig.cache
