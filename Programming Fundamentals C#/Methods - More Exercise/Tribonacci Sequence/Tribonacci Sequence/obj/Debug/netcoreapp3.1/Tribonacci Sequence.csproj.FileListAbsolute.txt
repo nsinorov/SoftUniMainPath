@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\netcoreapp3.1\Tribonacci Sequence.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\netcoreapp3.1\Tribonacci Sequence.genruntimeconfig.cache
