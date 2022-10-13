@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Multiplication Sign\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.genruntimeconfig.cache
