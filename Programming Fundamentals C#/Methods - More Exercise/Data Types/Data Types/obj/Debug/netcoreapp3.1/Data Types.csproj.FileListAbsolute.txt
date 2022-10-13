@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Methods - More Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.genruntimeconfig.cache
