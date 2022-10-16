@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Merging Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.genruntimeconfig.cache
