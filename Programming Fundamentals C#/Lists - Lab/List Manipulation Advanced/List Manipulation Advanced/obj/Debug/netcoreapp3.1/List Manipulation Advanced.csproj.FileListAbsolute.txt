@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\bin\Debug\netcoreapp3.1\List Manipulation Advanced.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Advanced\List Manipulation Advanced\obj\Debug\netcoreapp3.1\List Manipulation Advanced.genruntimeconfig.cache
