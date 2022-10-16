@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gauss' Trick/1.0.0": {
+        "runtime": {
+          "Gauss' Trick.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gauss' Trick/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

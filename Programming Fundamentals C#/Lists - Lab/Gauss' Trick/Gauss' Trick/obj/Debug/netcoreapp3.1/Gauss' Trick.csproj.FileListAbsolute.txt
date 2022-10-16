@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Gauss' Trick\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.genruntimeconfig.cache
