@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.genruntimeconfig.cache
