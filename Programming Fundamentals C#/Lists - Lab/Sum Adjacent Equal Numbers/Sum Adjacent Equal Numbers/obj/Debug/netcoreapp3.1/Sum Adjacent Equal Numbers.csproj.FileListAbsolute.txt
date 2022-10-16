@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Lab\Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.genruntimeconfig.cache
