@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\bin\Debug\netcoreapp3.1\List Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\List Operations\List Operations\obj\Debug\netcoreapp3.1\List Operations.genruntimeconfig.cache
