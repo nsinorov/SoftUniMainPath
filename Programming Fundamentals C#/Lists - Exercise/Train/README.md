@@ -4,3 +4,9 @@ On the first line, we will receive a **list of wagons** (integers). Each **integ
 
 •	{passengers} – find a single wagon to fit all the incoming passengers (starting from the first wagon).
 
+In the end, print the final state of the train (all the wagons separated by a space).
+
+![Capture](https://user-images.githubusercontent.com/45227327/196256970-da9ffeb0-7fce-4a92-9af1-4554838275ec.PNG)
+
+
+
