@@ -9,3 +9,6 @@ The **possible commands** are:
   	Shift right {count} – last number becomes first. To be repeated the specified number of times
 
 **Note:** the index given may be outside of the bounds of the array. In that case print: **"Invalid index".**
+
+![Capture](https://user-images.githubusercontent.com/45227327/196273767-a645849f-4e7e-4d15-9d3d-a633af9ebd55.PNG)
+
