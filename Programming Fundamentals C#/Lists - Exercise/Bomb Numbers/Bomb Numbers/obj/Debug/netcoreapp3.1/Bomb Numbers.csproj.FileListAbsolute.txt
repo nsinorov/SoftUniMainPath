@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.genruntimeconfig.cache
