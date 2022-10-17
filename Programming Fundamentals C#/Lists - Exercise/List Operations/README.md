@@ -7,3 +7,5 @@ The **possible commands** are:
   	Remove {index} – remove the number at the given index
   	Shift left {count} – first number becomes last. This has to be repeated the specified number of time
   	Shift right {count} – last number becomes first. To be repeated the specified number of times
+
+**Note:** the index given may be outside of the bounds of the array. In that case print: **"Invalid index".**
