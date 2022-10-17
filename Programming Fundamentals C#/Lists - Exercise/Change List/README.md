@@ -6,3 +6,5 @@ Your program may receive the following **commands**:
 •	**Insert {element} {position}** – insert the element at the given position.
 
 You should **exit the program** when you receive the **"end"** command. Print all numbers in the array, **separated by a single whitespace**.
+
+![Capture1](https://user-images.githubusercontent.com/45227327/196264350-c7ce80b8-d9be-4f56-9ae3-5e58f7eed5fd.PNG)
