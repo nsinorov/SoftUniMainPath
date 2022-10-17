@@ -3,4 +3,5 @@ Your task is to **detonate every occurrence of the special bomb number** and acc
 The bomb power refers to how many numbers to the left and right will be removed, no matter their values.
 Detonations are performed **from left to right** and all the detonated numbers **disappear.** Finally, **print the sum of the remaining elements** in the sequence.
 
-![Capture](https://user-images.githubusercontent.com/45227327/196276854-fc0acd89-186f-445a-a1c8-9c88d1fce2a5.PNG)
+![Capture2](https://user-images.githubusercontent.com/45227327/196276915-decad3ce-7d72-4a7b-8d19-219e12b628d5.PNG)
+
