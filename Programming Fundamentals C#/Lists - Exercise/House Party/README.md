@@ -10,3 +10,5 @@ On the next lines, you are going to receive some of the following:  **"{name} is
 •	If not, print out: **"{name} is not in the list!"**
 
 Finally, print all of the guests, each on a new line.
+
+![Capture2](https://user-images.githubusercontent.com/45227327/196267575-e778451f-3909-49ff-9589-5dd11c766a8f.PNG)
