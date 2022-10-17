@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\bin\Debug\netcoreapp3.1\Train.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Train\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache
