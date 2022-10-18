@@ -25,4 +25,5 @@ The program ends when the sequence has no elements (there are no pokemon left fo
 
     When the program ends, you must print the summed value of all removed elements.
     
-    
+    ![Capture](https://user-images.githubusercontent.com/45227327/196555472-9f8e728a-f20c-4c56-bbdd-0cd80b2921ba.PNG)
+
