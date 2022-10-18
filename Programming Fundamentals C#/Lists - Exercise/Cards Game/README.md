@@ -6,3 +6,5 @@ Compare the cards from the first deck to the cards from the second deck. The pla
 
 The **game is over** only when one of the decks is left **without any cards.** 
 You have to **display the result on the console** and **the sum of the remaining** cards: "{First/Second} player wins! Sum: {sum}".
+
+![Capture](https://user-images.githubusercontent.com/45227327/196312543-71f46391-8947-4e74-af5a-4b43aa5ff29c.PNG)
