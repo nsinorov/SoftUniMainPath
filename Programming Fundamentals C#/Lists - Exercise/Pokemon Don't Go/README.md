@@ -8,3 +8,6 @@ When you receive an index, you must remove the element at that index from the se
 
 	You must increase the value of all elements in the sequence, which are less or equal to the removed element, with the value of the removed element.
 	You must decrease the value of all elements in the sequence, which are greater than the removed element, with the value of the removed element.
+
+If the given index is less than 0, remove the first element of the sequence, and copy the last element to its place.
+If the given index is greater than the last index of the sequence, remove the last element from the sequence, and copy the first element to its place.
