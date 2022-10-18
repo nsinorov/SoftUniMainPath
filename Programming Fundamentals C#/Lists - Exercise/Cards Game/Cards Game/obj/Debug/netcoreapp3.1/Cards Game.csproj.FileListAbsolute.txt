@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Cards Game\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.genruntimeconfig.cache
