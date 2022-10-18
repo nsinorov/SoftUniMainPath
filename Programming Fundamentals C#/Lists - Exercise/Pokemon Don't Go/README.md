@@ -21,3 +21,8 @@ The program ends when the sequence has no elements (there are no pokemon left fo
     On the first line of input you will receive a sequence of integers, separated by spaces.
     On the next several lines, you will receive integers – the indexes
 
+## Output
+
+    When the program ends, you must print the summed value of all removed elements.
+    
+    
