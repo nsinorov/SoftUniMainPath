@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.genruntimeconfig.cache
