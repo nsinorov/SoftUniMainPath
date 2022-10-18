@@ -15,3 +15,9 @@ If the given index is greater than the last index of the sequence, remove the la
 The increasing and decreasing of elements should be done in these cases, also. The element, whose value you should use, is the removed element.
 
 The program ends when the sequence has no elements (there are no pokemon left for Ely to catch).
+
+## Input
+
+    On the first line of input you will receive a sequence of integers, separated by spaces.
+    On the next several lines, you will receive integers – the indexes
+
