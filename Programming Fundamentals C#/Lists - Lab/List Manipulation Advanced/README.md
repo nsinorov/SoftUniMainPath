@@ -5,3 +5,5 @@ Next, we are going to implement more complicated list commands, **extending the 
   	PrintOdd – print all the odd numbers, separated by a space.
   	GetSum – print the sum of all the numbers.
   	Filter {condition} {number} – print all the numbers that fulfill the given condition. The condition will be either '<', '>', ">=", "<=".
+
+After the end command, print the list only if you have made some changes to the original list. Changes are made only from the commands from the previous task.
