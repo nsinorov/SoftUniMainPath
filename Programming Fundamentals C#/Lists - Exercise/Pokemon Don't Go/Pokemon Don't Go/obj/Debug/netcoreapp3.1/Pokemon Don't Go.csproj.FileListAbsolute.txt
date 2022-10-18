@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.1\Pokemon Don't Go.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Lists - Exercise\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.1\Pokemon Don't Go.genruntimeconfig.cache
