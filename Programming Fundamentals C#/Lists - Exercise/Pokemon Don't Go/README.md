@@ -12,3 +12,6 @@ When you receive an index, you must remove the element at that index from the se
 If the given index is less than 0, remove the first element of the sequence, and copy the last element to its place.
 If the given index is greater than the last index of the sequence, remove the last element from the sequence, and copy the first element to its place.
 
+The increasing and decreasing of elements should be done in these cases, also. The element, whose value you should use, is the removed element.
+
+The program ends when the sequence has no elements (there are no pokemon left for Ely to catch).
