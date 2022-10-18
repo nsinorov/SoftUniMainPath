@@ -1,7 +1,3 @@
-Long story short:
-
-Ely likes to play Pokemon Go a lot. But Pokemon Go bankrupted… So the developers made Pokemon Don't Go out of depression. And so Ely now plays Pokemon Don't Go. In Pokemon Don't Go, when you walk to a certain pokemon, those closest to you, naturally get further, and those further from you, get closer.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 You will receive a sequence of integers, separated by spaces – the distances to the pokemon. Then you will begin receiving integers, which will correspond to indexes in that sequence.
 
 When you receive an index, you must remove the element at that index from the sequence (as if you've captured the pokemon).
@@ -25,5 +21,6 @@ The program ends when the sequence has no elements (there are no pokemon left fo
 
     When the program ends, you must print the summed value of all removed elements.
     
-    ![Capture](https://user-images.githubusercontent.com/45227327/196555472-9f8e728a-f20c-4c56-bbdd-0cd80b2921ba.PNG)
+   
+ ![Capture](https://user-images.githubusercontent.com/45227327/196555472-9f8e728a-f20c-4c56-bbdd-0cd80b2921ba.PNG)
 
