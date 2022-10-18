@@ -6,4 +6,4 @@ Create a program that reads a list of integers. Then until you receive **"end"**
 	Insert {number} {index}: insert a number at a given index.
 
 **Note: All the indices will be valid!**
-When you receive the "end" command, print the final state of the list (separated by spaces).
+ When you receive the "end" command, print the final state of the list (separated by spaces).
