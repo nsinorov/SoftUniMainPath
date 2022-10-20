@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Computer Store\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.genruntimeconfig.cache
