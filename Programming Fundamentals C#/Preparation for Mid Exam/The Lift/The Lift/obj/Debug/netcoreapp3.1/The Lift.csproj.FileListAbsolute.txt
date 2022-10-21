@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\bin\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\The Lift\The Lift\obj\Debug\netcoreapp3.1\The Lift.genruntimeconfig.cache

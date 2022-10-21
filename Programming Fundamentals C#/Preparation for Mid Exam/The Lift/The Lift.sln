@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Lift", "The Lift\The Lift.csproj", "{00BE95E1-11CA-404E-86D1-18F093BED95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BE95E1-11CA-404E-86D1-18F093BED95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BE95E1-11CA-404E-86D1-18F093BED95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BE95E1-11CA-404E-86D1-18F093BED95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BE95E1-11CA-404E-86D1-18F093BED95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B8CE523-6E42-429C-95B5-490FA62E2E6D}
+	EndGlobalSection
+EndGlobal
