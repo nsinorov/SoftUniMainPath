@@ -20,3 +20,6 @@ If there are no more people and the lift have empty spots, you should print:
 {wagons separated by ' '}"
 
 If the lift is full and there are no more people in the queue, you should print only the wagons separated by " "
+
+![Capture](https://user-images.githubusercontent.com/45227327/197360616-3161d7b9-42b1-4a37-9cd9-c405e6f1318f.PNG)
+
