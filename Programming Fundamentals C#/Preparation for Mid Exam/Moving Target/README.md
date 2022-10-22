@@ -6,11 +6,15 @@ You are at the shooting gallery again, and you need a program that helps you kee
 	Remove the target if it is shot. A target is considered shot when its value reaches 0.
 
 •	"Add {index} {value}"
-o	Insert a target with the received value at the received index if it exists. 
-o	If not, print: "Invalid placement!"
+
+         Insert a target with the received value at the received index if it exists. 
+         If not, print: "Invalid placement!"
+
 •	"Strike {index} {radius}"
-o	Remove the target at the given index and the ones before and after it depending on the radius.
-o	If any of the indices in the range is invalid, print: "Strike missed!" and skip this command.
+
+         Remove the target at the given index and the ones before and after it depending on the radius.
+         If any of the indices in the range is invalid, print: "Strike missed!" and skip this command.
+
  Example:  "Strike 2 2"
 	{radius}	{radius}	{strikeIndex}	{radius}	{radius}		
 
