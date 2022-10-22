@@ -14,7 +14,9 @@ When there is no more available space left on the lift, or there are no more peo
 If there are no more people and the lift have empty spots, you should print:
 "The lift has empty spots!
 {wagons separated by ' '}"
-        If there are still people in the queue and no more available space, you should print:
+
+ If there are still people in the queue and no more available space, you should print:
 "There isn't enough space! {people} people in a queue!
 {wagons separated by ' '}"
-      	If the lift is full and there are no more people in the queue, you should print only the wagons separated by " "
+
+If the lift is full and there are no more people in the queue, you should print only the wagons separated by " "
