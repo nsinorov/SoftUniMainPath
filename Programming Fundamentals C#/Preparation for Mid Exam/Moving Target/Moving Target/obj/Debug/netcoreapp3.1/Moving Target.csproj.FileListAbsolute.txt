@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Moving Target\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.genruntimeconfig.cache
