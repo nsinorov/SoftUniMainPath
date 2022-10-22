@@ -15,8 +15,10 @@ You are at the shooting gallery again, and you need a program that helps you kee
          Remove the target at the given index and the ones before and after it depending on the radius.
          If any of the indices in the range is invalid, print: "Strike missed!" and skip this command.
 
- Example:  "Strike 2 2"
-	{radius}	{radius}	{strikeIndex}	{radius}	{radius}		
+ Example: 
+ 
+ ![Capture](https://user-images.githubusercontent.com/45227327/197363553-1f7f00c4-f1d3-4b7e-9ed4-f80d40c92b9f.PNG)
+
 
 •	"End"
 o	Print the sequence with targets in the following format and end the program:
