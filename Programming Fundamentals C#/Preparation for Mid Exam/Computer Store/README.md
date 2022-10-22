@@ -21,7 +21,6 @@ If the total price is equal to zero, you should print "Invalid order!" on the co
 Price without taxes: {total price without taxes}$
 
 Taxes: {total amount of taxes}$
-
 -----------
 
 Total price: {total price with taxes}$"
