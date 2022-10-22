@@ -4,3 +4,6 @@ The taxes are 20% of each part's price you receive.
 
 If the customer is special, he has a 10% discount on the total price with taxes.
 
+If a given price is not a positive number, you should print "Invalid price!" on the console and continue with the next price.
+
+If the total price is equal to zero, you should print "Invalid order!" on the console.
