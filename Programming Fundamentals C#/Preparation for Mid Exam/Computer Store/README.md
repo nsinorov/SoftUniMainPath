@@ -17,7 +17,9 @@ If the total price is equal to zero, you should print "Invalid order!" on the co
 	The receipt should be in the following format: 
   
 "Congratulations you've just bought a new computer!
+
 Price without taxes: {total price without taxes}$
+
 Taxes: {total amount of taxes}$
 -----------
 Total price: {total price with taxes}$"
