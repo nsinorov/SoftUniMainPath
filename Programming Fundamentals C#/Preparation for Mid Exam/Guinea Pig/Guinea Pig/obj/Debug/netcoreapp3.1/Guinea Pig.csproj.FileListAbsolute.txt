@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\bin\Debug\netcoreapp3.1\Guinea Pig.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Preparation for Mid Exam\Guinea Pig\Guinea Pig\obj\Debug\netcoreapp3.1\Guinea Pig.genruntimeconfig.cache
