@@ -11,7 +11,7 @@ Output:
 
 When there is no more available space left on the lift, or there are no more people in the queue, you should print on the console the final state of the lift's wagons separated by " " and one of the following messages:
 
-	If there are no more people and the lift have empty spots, you should print:
+If there are no more people and the lift have empty spots, you should print:
 "The lift has empty spots!
 {wagons separated by ' '}"
         If there are still people in the queue and no more available space, you should print:
