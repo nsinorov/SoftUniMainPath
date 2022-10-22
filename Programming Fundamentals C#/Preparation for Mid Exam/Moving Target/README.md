@@ -1,16 +1,16 @@
 You are at the shooting gallery again, and you need a program that helps you keep track of moving targets. On the first line, you will receive a sequence of targets with their integer values, split by a single space. Then, you will start receiving commands for manipulating the targets until the "End" command. The commands are the following:
 
-•	"Shoot {index} {power}"
+->	"Shoot {index} {power}"
 
 	Shoot the target at the index if it exists by reducing its value by the given power (integer value). 
 	Remove the target if it is shot. A target is considered shot when its value reaches 0.
 
-•	"Add {index} {value}"
+->	"Add {index} {value}"
 
          Insert a target with the received value at the received index if it exists. 
          If not, print: "Invalid placement!"
 
-•	"Strike {index} {radius}"
+->	"Strike {index} {radius}"
 
          Remove the target at the given index and the ones before and after it depending on the radius.
          If any of the indices in the range is invalid, print: "Strike missed!" and skip this command.
