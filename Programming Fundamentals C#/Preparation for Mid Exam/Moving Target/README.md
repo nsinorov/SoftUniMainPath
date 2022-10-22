@@ -20,7 +20,22 @@ You are at the shooting gallery again, and you need a program that helps you kee
  ![Capture](https://user-images.githubusercontent.com/45227327/197363553-1f7f00c4-f1d3-4b7e-9ed4-f80d40c92b9f.PNG)
 
 
-•	"End"
-o	Print the sequence with targets in the following format and end the program:
-"{target1}|{target2}…|{targetn}"
+->       "End"
+
+	Print the sequence with targets in the following format and end the program:
+        "{target1}|{target2}…|{targetn}"
+
+## Input:
+
+	On the first line, you will receive the sequence of targets – integer values [1-10000].
+	On the following lines, until the "End" will be receiving the command described above – strings.
+	There will never be a case when the "Strike" command would empty the whole sequence.
+	
+## Output:
+
+	Print the appropriate message in case of any command if necessary.
+	In the end, print the sequence of targets in the format described above
+
+
+![Capture](https://user-images.githubusercontent.com/45227327/197363621-153412a7-2e7a-49f9-a48d-0d7e35b9bc88.PNG)
 
