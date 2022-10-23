@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.exe
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.deps.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.runtimeconfig.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.runtimeconfig.dev.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\bin\Debug\netcoreapp3.1\Space Travel.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.AssemblyInfo.cs
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\Space Travel\Space Travel\obj\Debug\netcoreapp3.1\Space Travel.genruntimeconfig.cache
