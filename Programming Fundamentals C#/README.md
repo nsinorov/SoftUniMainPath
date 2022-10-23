@@ -4,6 +4,6 @@ With **"Programming Fundamentals"** students begin to study SoftUni's in-house p
   
 Additional technologies needed by every software developer are studied, such as **HTML and CSS, HTTP, bitwise operations, and more.** The basics of web development are covered, as well as one of the most common technologies and tools, with which the course successfully builds an idea among students about the upcoming professional modules and the knowledge they will gain from them to become successful software developers.
 
-The course **"Programming Fundamentals"** has a middle exam and ends with a **practical programming exam + theory**. Details can be found <a href="https://softuni.bg/curriculum"> here <a/>.
+The course **"Programming Fundamentals"** has a middle exam and ends with a **practical programming exam + theory**. Details can be found <a href="https://softuni.bg/curriculum"> here<a/>.
 
 
