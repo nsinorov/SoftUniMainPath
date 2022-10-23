@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.exe
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.deps.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.dev.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\bin\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfo.cs
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\School Library\School Library\obj\Debug\netcoreapp3.1\School Library.genruntimeconfig.cache
