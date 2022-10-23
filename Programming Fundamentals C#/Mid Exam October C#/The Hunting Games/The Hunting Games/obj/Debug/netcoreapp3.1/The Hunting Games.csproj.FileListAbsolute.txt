@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.exe
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.deps.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.runtimeconfig.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.runtimeconfig.dev.json
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\bin\Debug\netcoreapp3.1\The Hunting Games.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.AssemblyInfo.cs
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.dll
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.pdb
+C:\Users\niki\Desktop\Mid Exam 23.10.2022 C#\The Hunting Games\The Hunting Games\obj\Debug\netcoreapp3.1\The Hunting Games.genruntimeconfig.cache
