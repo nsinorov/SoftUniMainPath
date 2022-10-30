@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randomize Words", "Randomize Words\Randomize Words.csproj", "{77D8C524-3757-4C29-A0CC-0121C2F67F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D8C524-3757-4C29-A0CC-0121C2F67F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D8C524-3757-4C29-A0CC-0121C2F67F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D8C524-3757-4C29-A0CC-0121C2F67F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D8C524-3757-4C29-A0CC-0121C2F67F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E284D0-5AE4-474E-A769-7CDB38516EB0}
+	EndGlobalSection
+EndGlobal
