@@ -4,3 +4,6 @@ Define a class Truck with the following properties: Brand, Model, and Weight.
 
 Define a class Car with the following properties: Brand, Model, and Horse Power.
 
+You must read the input, until you receive the "end" command. It will be in following format: "{type}/{brand}/{model}/{horse power / weight}"
+
+In the end, you have to print all of the vehicles ordered alphabetical by brand, in the following format:
