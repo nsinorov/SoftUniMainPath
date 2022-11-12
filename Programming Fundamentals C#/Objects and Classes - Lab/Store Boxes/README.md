@@ -15,4 +15,5 @@ The price should be formatted to the 2nd digit after the decimal separator.
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201490029-5fb655fb-4e3e-477e-9b69-fef2ced22670.PNG)
 
