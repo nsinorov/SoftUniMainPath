@@ -8,3 +8,7 @@ Define a class called Student, which will hold the following information about s
 Input / Constraints
 
 Read information about some students, until you receive the "end" command. After that, you will receive a city name.
+
+Output
+
+Print the students who are from the given city in the following format: "{firstName} {lastName} is {age} years old."
