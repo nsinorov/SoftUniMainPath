@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache
