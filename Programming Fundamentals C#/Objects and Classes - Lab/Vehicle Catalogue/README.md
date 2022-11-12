@@ -13,3 +13,5 @@ In the end, you have to print all of the vehicles ordered alphabetical by brand,
     Trucks:
     {Brand}: {Model} - {Weight}kg"
 
+Examples:
+
