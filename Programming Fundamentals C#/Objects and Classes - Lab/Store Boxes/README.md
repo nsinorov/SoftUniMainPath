@@ -12,3 +12,7 @@ Print all the boxes ordered descending by price for a box, in the following form
     -- ${boxPrice}
     
 The price should be formatted to the 2nd digit after the decimal separator.
+
+Examples:
+
+
