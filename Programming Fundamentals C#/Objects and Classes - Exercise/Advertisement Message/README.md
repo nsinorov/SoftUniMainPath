@@ -14,3 +14,4 @@ You will receive the number of messages to be generated. Print each random messa
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201529839-5140c0d4-33c2-455f-b16c-3847b0492d9c.PNG)
