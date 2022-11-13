@@ -11,4 +11,7 @@ For every vehicle, print out the information about it in the following format:
     Color: {colorOfVehicle}
     Horsepower: {horsepowerOfVehicle}"
 
+When you receive the "Close the Catalogue" command, print out the average horsepower of the cars and the average horsepower of the trucks in the format:
+
+    "{typeOfVehicles} have average horsepower of {averageHorsepower}."
 
