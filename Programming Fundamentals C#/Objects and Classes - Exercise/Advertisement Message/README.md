@@ -8,3 +8,6 @@ Create a program that generates random fake advertisement messages to advertise 
   
 	Cities – {"Burgas", "Sofia", "Plovdiv", "Varna", "Ruse"}
 
+The format of the output message is the following: "{phrase} {event} {author} – {city}."
+
+You will receive the number of messages to be generated. Print each random message at a separate line.
