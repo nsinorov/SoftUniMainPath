@@ -16,3 +16,6 @@ When you receive the "Close the Catalogue" command, print out the average horsep
     "{typeOfVehicles} have average horsepower of {averageHorsepower}."
 
 The average horsepower is calculated by dividing the sum of the horsepower of all vehicles of the given type by the total count of all vehicles from that type. Format the answer to the second digit after the decimal point.
+
+Examples:
+
