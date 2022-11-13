@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\bin\Debug\netcoreapp3.1\Articles 2.0.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Articles 2.0\Articles 2.0\obj\Debug\netcoreapp3.1\Articles 2.0.genruntimeconfig.cache
