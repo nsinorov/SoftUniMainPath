@@ -17,11 +17,7 @@ Next, you will receive а user with a team, separated with "->", which means tha
     
     Every valid team should be printed ordered by name (ascending) in the following format:
 
-"{teamName}
-
-- {creator}
-- 
--- {member}…"
+![Capture](https://user-images.githubusercontent.com/45227327/201530470-265c1e4e-d9f9-42ee-8abc-429f435aeb26.PNG)
 
 Examples: 
 
