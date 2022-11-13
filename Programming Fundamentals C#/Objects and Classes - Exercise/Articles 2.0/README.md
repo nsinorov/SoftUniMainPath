@@ -2,4 +2,5 @@ Change the program from the previous problem in such a way, that you will be abl
 
 Examples: 
 
+![Capture](https://user-images.githubusercontent.com/45227327/201530103-6d4b2dd6-7a85-4713-b727-d092065a9589.PNG)
 
