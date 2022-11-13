@@ -19,3 +19,5 @@ Create a program that reads an article in the following format "{title}, {conten
 
 In the end, print the final state of the article.
 
+Examples: 
+
