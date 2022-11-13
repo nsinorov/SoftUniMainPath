@@ -4,3 +4,4 @@ You will receive an unknown number of lines. On each line you will receive an ar
 	The second element a string - the ID of the person
 	The third element is an integer - the age of the person
 
+If you get a person whose ID you have already received before, update the name and age for that ID with that of the new person. When you receive the command "End", print all of the people, ordered by age. 
