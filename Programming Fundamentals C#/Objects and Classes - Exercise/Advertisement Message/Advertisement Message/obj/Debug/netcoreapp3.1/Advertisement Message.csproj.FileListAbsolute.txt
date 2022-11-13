@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Objects and Classes - Exercise\Advertisement Message\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.genruntimeconfig.cache
