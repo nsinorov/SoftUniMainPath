@@ -6,3 +6,9 @@ When you receive the "End" command, you will start receiving information about s
 
 For every vehicle, print out the information about it in the following format:
 
+    "Type: {typeOfVehicle}
+    Model: {modelOfVehicle}
+    Color: {colorOfVehicle}
+    Horsepower: {horsepowerOfVehicle}"
+
+
