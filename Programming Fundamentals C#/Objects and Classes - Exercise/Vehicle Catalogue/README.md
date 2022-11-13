@@ -19,3 +19,4 @@ The average horsepower is calculated by dividing the sum of the horsepower of al
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201530634-7f2fea92-9cd8-4fb5-bea0-62d9c7da8c75.PNG)
