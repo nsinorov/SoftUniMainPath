@@ -16,3 +16,10 @@ Next, you will receive а user with a team, separated with "->", which means tha
     In the end, teams with zero members (with only a creator) should disband and you have to print them ordered by name in ascending order. 
     
     Every valid team should be printed ordered by name (ascending) in the following format:
+
+"{teamName}
+- {creator}
+-- {member}…"
+
+Examples: 
+
