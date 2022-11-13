@@ -18,7 +18,9 @@ Next, you will receive а user with a team, separated with "->", which means tha
     Every valid team should be printed ordered by name (ascending) in the following format:
 
 "{teamName}
+
 - {creator}
+- 
 -- {member}…"
 
 Examples: 
