@@ -12,3 +12,6 @@ Input:
 Output: 
 
 	Print out the information about each student in the following format: "{first name} {second name}: {grade}".
+
+Examples: 
+
