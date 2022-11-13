@@ -10,3 +10,9 @@ The class should have a constructor and the following methods:
 	ChangeAuthor (new author) – change the author
         Rename (new title) – change the title of the article
 	Override the ToString method – print the article in the following format: "{title} - {content}: {author}"
+
+Create a program that reads an article in the following format "{title}, {content}, {author}". On the next line, you will receive a number n, representing the number of commands, which will follow after it. On the next n lines, you will be receiving the following commands: 
+
+	"Edit: {new content}"
+	"ChangeAuthor: {new author}"
+	"Rename: {new title}"
