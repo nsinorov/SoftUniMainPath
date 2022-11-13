@@ -21,3 +21,4 @@ In the end, print the final state of the article.
 
 Examples: 
 
+![Capture](https://user-images.githubusercontent.com/45227327/201530017-363bcaf9-9889-476a-a9bd-043bd78a5481.PNG)
