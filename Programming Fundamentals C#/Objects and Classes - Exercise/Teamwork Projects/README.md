@@ -21,3 +21,5 @@ Next, you will receive а user with a team, separated with "->", which means tha
 
 Examples: 
 
+![Capture](https://user-images.githubusercontent.com/45227327/201530495-3f6ed84e-6ef4-46a5-b5cd-877b8335fe0d.PNG)
+
