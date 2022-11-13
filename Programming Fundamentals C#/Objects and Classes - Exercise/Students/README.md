@@ -8,3 +8,7 @@ Input:
 
 	On the first line, you will receive a number n - the count of all students.
 	On the next n lines, you will be receiving information about these students in the following format: "{first name} {second name} {grade}".
+
+Output: 
+
+	Print out the information about each student in the following format: "{first name} {second name}: {grade}".
