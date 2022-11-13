@@ -16,3 +16,6 @@ Create a program that reads an article in the following format "{title}, {conten
 	"Edit: {new content}"
 	"ChangeAuthor: {new author}"
 	"Rename: {new title}"
+
+In the end, print the final state of the article.
+
