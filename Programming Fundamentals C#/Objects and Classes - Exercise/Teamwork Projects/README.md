@@ -11,8 +11,8 @@ Next, you will receive а user with a team, separated with "->", which means tha
 	If а user tries to join a non-existent team, a message should be displayed: 
     -	"Team {teamName} does not exist!"
 	A member of a team cannot join another team – the following message should be thrown:
-   -	"Member {user} cannot join team {team Name}!"
+    -	"Member {user} cannot join team {team Name}!"
    
     In the end, teams with zero members (with only a creator) should disband and you have to print them ordered by name in ascending order. 
     
-	 Every valid team should be printed ordered by name (ascending) in the following format:
+    Every valid team should be printed ordered by name (ascending) in the following format:
