@@ -4,3 +4,4 @@ Create a program that extracts all elements from a given sequence of words that 
 
 •	Print the result elements in lowercase, in their order of appearance.
 
+![Capture](https://user-images.githubusercontent.com/45227327/201687329-004e8def-c370-4c22-ba67-a73af652d692.PNG)
