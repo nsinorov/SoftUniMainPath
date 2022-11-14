@@ -10,3 +10,5 @@ If you get the same word twice, just add the new synonym to the list.
 Print the words in the following format:
 
 	"{word} - {synonym1, synonym2, …, synonymN}"
+	
+![Capture](https://user-images.githubusercontent.com/45227327/201687806-ef207299-b5e0-438c-ba68-c7828ee67391.PNG)
