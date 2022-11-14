@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.genruntimeconfig.cache
