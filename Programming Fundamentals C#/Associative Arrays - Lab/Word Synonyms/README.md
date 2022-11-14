@@ -5,3 +5,6 @@ The value will be a list of all the synonyms of that word. You will be given a n
 	{word}
 	{synonym}
 
+If you get the same word twice, just add the new synonym to the list. 
+
+Print the words in the following format:
