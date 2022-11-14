@@ -5,6 +5,9 @@ Read an array of doubles:
 
     double[] nums = Console.ReadLine().Split().Select(double.Parse).ToArray();
 
+Use: 
+
+    var numOfOcc = new SortedDictionary<double, int>();
 
 Examples: 
 
