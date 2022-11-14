@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.genruntimeconfig.cache
