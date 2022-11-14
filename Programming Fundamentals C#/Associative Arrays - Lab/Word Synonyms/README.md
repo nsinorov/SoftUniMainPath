@@ -8,3 +8,5 @@ The value will be a list of all the synonyms of that word. You will be given a n
 If you get the same word twice, just add the new synonym to the list. 
 
 Print the words in the following format:
+
+	"{word} - {synonym1, synonym2, …, synonymN}"
