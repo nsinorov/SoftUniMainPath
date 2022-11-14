@@ -3,7 +3,7 @@ Read a list of integers and print them in ascending order, along with their numb
 
 Read an array of doubles:
 
-double[] nums = Console.ReadLine().Split().Select(double.Parse).ToArray();
+    double[] nums = Console.ReadLine().Split().Select(double.Parse).ToArray();
 
 
 Examples: 
