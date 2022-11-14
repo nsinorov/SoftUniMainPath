@@ -2,4 +2,5 @@ Read an array of strings and take only words, whose length is an even number. Pr
 
  Examples: 
  
- 
+ ![Capture](https://user-images.githubusercontent.com/45227327/201688072-ae3bd090-1096-4f31-b43a-56e632064041.PNG)
+
