@@ -15,3 +15,13 @@ The program receives 2 commands:
      "ERROR: user {username} not found"
     -If the aforementioned check passes successfully, the system should print:
     "{username} unregistered successfully"
+
+Input:
+
+	First line: n - number of commands – integer.
+	Next n lines: commands in one of the two possible formats:
+     o	Register: "register {username} {licensePlateNumber}"
+     o	Unregister: "unregister {username}"
+     
+The input will always be valid and you do not need to check it explicitly.
+
