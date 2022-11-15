@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Orders\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache
