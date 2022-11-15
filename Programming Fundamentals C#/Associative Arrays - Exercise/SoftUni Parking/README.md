@@ -27,3 +27,4 @@ The input will always be valid and you do not need to check it explicitly.
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201797654-7e1877b8-16ec-402d-82f0-94894082d4db.PNG)
