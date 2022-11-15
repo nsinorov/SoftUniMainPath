@@ -8,3 +8,8 @@ When you finish reading the data, print the company's name and each employee's i
     -- {id1}
     -- {id2}
     -- {idN}
+
+Input / Constraints:
+
+	Until you receive the "End" command, you will be receiving input in the format: "{companyName} -> {employeeId}".
+	The input always will be valid.
