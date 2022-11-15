@@ -12,3 +12,5 @@ Output:
 	Print the information about each course in the following the format: "{courseName}: {registeredStudents}"
         Print the information about each student in the following the format: "-- {studentName}"
 
+Examples:
+
