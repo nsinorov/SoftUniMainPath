@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.1\Count Chars in a String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.1\Count Chars in a String.genruntimeconfig.cache
