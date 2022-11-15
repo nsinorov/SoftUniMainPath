@@ -4,3 +4,6 @@ Print all the occurrences in the following format:
 
     	"{char} -> {occurrences}"
 
+Examples: 
+
+
