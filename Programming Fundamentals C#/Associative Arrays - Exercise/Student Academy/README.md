@@ -12,3 +12,4 @@ Format the average grade to the 2nd decimal place.
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201798029-eda89977-2353-4784-a134-59a46463caff.PNG)
