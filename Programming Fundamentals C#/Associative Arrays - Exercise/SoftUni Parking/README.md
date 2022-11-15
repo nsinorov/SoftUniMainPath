@@ -10,3 +10,8 @@ The program receives 2 commands:
     -	If the aforementioned checks passes successfully, the plate can be registered, so the system should print:
     "{username} registered {licensePlateNumber} successfully"
 
+	"unregister {username}":
+    -If the user is not present in the database, the system should print:
+     "ERROR: user {username} not found"
+    -If the aforementioned check passes successfully, the system should print:
+    "{username} unregistered successfully"
