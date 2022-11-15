@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\Courses\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache
