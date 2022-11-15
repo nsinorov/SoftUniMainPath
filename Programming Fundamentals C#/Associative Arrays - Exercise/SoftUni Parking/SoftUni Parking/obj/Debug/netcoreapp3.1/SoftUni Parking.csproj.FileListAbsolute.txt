@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Associative Arrays - Exercise\SoftUni Parking\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.genruntimeconfig.cache
