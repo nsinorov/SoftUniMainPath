@@ -16,3 +16,4 @@ Output:
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/201797282-961e3757-ba9a-4564-925c-45c8c2f08bfd.PNG)
