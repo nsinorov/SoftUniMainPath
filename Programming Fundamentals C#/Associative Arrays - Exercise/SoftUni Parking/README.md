@@ -25,3 +25,5 @@ Input:
      
 The input will always be valid and you do not need to check it explicitly.
 
+Examples:
+
