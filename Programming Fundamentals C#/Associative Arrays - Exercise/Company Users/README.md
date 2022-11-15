@@ -13,3 +13,6 @@ Input / Constraints:
 
 	Until you receive the "End" command, you will be receiving input in the format: "{companyName} -> {employeeId}".
 	The input always will be valid.
+
+Examples: 
+
