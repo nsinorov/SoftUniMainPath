@@ -10,3 +10,5 @@ Print the students and their average grade in the following format:
 
 Format the average grade to the 2nd decimal place.
 
+Examples:
+
