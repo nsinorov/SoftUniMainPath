@@ -4,3 +4,5 @@ Print the resources and their quantities in the following format:
 
     "{resource} –> {quantity}"
 
+Examples:
+
