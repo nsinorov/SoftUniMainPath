@@ -6,3 +6,9 @@ Input:
 
 	Until the "end" command is received, you will be receiving input in the format: "{courseName} : {studentName}".
 	The product data is always delimited by " : ".
+	
+Output:
+
+	Print the information about each course in the following the format: "{courseName}: {registeredStudents}"
+        Print the information about each student in the following the format: "-- {studentName}"
+
