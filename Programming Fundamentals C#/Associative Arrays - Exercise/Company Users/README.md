@@ -16,3 +16,4 @@ Input / Constraints:
 
 Examples: 
 
+![Capture](https://user-images.githubusercontent.com/45227327/201798247-ac9f378c-689d-4491-8481-736496768256.PNG)
