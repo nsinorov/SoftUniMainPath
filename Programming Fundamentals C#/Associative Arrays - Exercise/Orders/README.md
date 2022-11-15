@@ -13,3 +13,6 @@ Output:
 
 	Print information about each product in the following format: "{productName} -> {totalPrice}"
         Format the average grade to the 2nd digit after the decimal separator.
+
+Examples:
+
