@@ -8,3 +8,8 @@ Input:
 
 	Until you receive "buy", the products will be coming in the format: "{name} {price} {quantity}".
 	The product data is always delimited by a single space.
+
+Output: 
+
+	Print information about each product in the following format: "{productName} -> {totalPrice}"
+        Format the average grade to the 2nd digit after the decimal separator.
