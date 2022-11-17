@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.genruntimeconfig.cache
