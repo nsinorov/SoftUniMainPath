@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Digits, Letters and Other\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.genruntimeconfig.cache
