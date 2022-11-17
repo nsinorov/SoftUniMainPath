@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.genruntimeconfig.cache
