@@ -1,4 +1,4 @@
-Create a program that takes a text and a string of banned words. 
+Create a program that takes a text and a string of **banned** words. 
 
 All words included in the ban list should be replaced with a string of asterisks '*', whose length must be equal to the word's length.
 
