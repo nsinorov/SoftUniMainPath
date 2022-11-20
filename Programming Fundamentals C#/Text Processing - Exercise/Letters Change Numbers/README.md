@@ -21,3 +21,7 @@ Input:
 The input comes from the console as a single line, holding the sequence of strings. Strings are separated by one or more white spaces.
 
 The input data will always be valid and in the format described. There is no need to check it explicitly.
+
+Output:
+
+Print at the console a single number: the total sum of all processed numbers rounded up to two digits after the decimal separator.
