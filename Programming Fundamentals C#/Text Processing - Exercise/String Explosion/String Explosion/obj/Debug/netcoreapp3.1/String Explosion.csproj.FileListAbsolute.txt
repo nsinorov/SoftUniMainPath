@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\String Explosion\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Explosion", "String Explosion\String Explosion.csproj", "{044D76C1-B3F4-42EC-9F4D-8F0906A845AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044D76C1-B3F4-42EC-9F4D-8F0906A845AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044D76C1-B3F4-42EC-9F4D-8F0906A845AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044D76C1-B3F4-42EC-9F4D-8F0906A845AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044D76C1-B3F4-42EC-9F4D-8F0906A845AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E18A69-59A4-4C5A-A787-C88279CBB90E}
+	EndGlobalSection
+EndGlobal
