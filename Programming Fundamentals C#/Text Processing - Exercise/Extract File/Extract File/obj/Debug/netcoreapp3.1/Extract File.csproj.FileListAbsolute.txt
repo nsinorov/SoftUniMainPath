@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Text Processing - Exercise\Extract File\Extract File\obj\Debug\netcoreapp3.1\Extract File.genruntimeconfig.cache
