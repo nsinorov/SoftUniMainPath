@@ -16,3 +16,4 @@ You will receive a single line with the string.
 
 Print what is left from the string after the explosions.
 
+![Capture](https://user-images.githubusercontent.com/45227327/202922949-6540a764-c1cc-4864-ae28-98f1828999b6.PNG)
