@@ -25,3 +25,8 @@ The input data will always be valid and in the format described. There is no nee
 Output:
 
 Print at the console a single number: the total sum of all processed numbers rounded up to two digits after the decimal separator.
+
+Examples:
+
+![Capture](https://user-images.githubusercontent.com/45227327/202923259-590cfe92-78e2-487d-89a9-e51d284f868d.PNG)
+
