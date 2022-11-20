@@ -2,4 +2,5 @@ Create a method that takes two strings as arguments and returns the sum of their
 
 Examples:
 
+![Capture](https://user-images.githubusercontent.com/45227327/202922447-c681b721-fb0d-4fe3-9a25-0a545abab52f.PNG)
 
