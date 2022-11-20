@@ -15,3 +15,9 @@ But the game became too easy for Nakov. He decided to complicate it a bit by doi
 For example, you are given the sequence "A12b s17G":
 
 We have two strings – "A12b" and "s17G". We do the operations on each and sum them. We start with the letter before the number on the first string. A is Uppercase and its position in the alphabet is 1. So we divide the number 12 with position 1 (12/1 = 12). Then we move to the letter after the number. b is lowercase and its position is 2. So we add 2 to the resulting number (12+2=14). Similarly for the second string s is lowercase and its position is 19 so we multiply it with the number (17*19 = 323). Then we have Uppercase G with position 7, so we subtract it from the resulted number (323 – 7 = 316). Finally, we sum the 2 results and we get 14 + 316=330.
+
+Input:
+
+The input comes from the console as a single line, holding the sequence of strings. Strings are separated by one or more white spaces.
+
+The input data will always be valid and in the format described. There is no need to check it explicitly.
