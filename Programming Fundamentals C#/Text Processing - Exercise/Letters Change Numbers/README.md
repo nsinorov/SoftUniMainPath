@@ -10,3 +10,4 @@ Then you move to the letter after the number.
 	If it's uppercase you subtract its position from the resulted number.
 	If it's lowercase you add its position to the resulted number.
 
+But the game became too easy for Nakov. He decided to complicate it a bit by doing the same but with multiple strings keeping track of only the total sum of all results. Once he started to solve this with more strings and bigger numbers, it became quite hard to do it only in his mind. So he kindly asks you to write a program that calculates the sum of all numbers after the operations on each number have been done.
