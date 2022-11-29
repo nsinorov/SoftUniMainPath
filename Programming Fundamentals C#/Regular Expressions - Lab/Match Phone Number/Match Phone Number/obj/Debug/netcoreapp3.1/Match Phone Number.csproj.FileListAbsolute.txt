@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.genruntimeconfig.cache
