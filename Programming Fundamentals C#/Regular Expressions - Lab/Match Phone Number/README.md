@@ -14,3 +14,7 @@ You can use the following RegEx properties to help with the matching:
     Use a capturing group to make sure the delimiter is only one of the allowed characters (space or hyphen) and not a combination of both (e.g. +359 2-111 111 has mixed delimiters, it is invalid). Use a group backreference to achieve this.
   	Add a word boundary at the end of the match to avoid partial matches (the last example on the right-hand side).
   	Ensure that before the '+' sign there is either a space or the beginning of the string.
+
+## Examples: 
+
+![Capture](https://user-images.githubusercontent.com/45227327/204631955-d9ea3cf5-01b5-430c-8d0e-f9274d44b1f5.PNG)
