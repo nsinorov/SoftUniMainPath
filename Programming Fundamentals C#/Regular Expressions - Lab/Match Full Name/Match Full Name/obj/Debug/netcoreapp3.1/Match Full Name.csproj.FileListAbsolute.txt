@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\netcoreapp3.1\Match Full Name.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\netcoreapp3.1\Match Full Name.genruntimeconfig.cache
