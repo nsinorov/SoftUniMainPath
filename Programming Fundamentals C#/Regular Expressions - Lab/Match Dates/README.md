@@ -12,3 +12,4 @@ Now it's time to find all the valid dates in the input and print each date in th
 
 ## Examples: 
 
+![Capture](https://user-images.githubusercontent.com/45227327/204632309-833592a8-bcb3-46d0-ba43-d4a155cc30d1.PNG)
