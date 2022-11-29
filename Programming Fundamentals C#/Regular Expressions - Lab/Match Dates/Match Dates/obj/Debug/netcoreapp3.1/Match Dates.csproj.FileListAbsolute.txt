@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.genruntimeconfig.cache
