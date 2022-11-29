@@ -9,3 +9,6 @@ Every valid date has the following characteristics:
 	The separator needs to be the same for the whole date (e.g. 13.03.2016 is valid, 13.03/2016 is NOT). Use a group backreference to check for this.
 
 Now it's time to find all the valid dates in the input and print each date in the following format: "Day: {day}, Month: {month}, Year: {year}", each on a new line.
+
+## Examples: 
+
