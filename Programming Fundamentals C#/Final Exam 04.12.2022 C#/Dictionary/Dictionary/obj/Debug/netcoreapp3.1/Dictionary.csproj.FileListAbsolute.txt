@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Final Exam 04.12.2022 C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
