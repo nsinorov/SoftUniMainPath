@@ -33,4 +33,5 @@
   
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/134052/1d8d5f63"> Click me</a> |
+| <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>         
+| <a href="https://softuni.bg/certificates/details/134052/1d8d5f63"> Click me</a> |
