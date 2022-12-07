@@ -1,3 +1,21 @@
+## Input
+
+The possible commands are:
+
+	"End"
+	"Translate {char} {replacement}"
+	"Includes {substring}"
+	"Start {substring}"
+	"Lowercase"
+	"FindIndex {char}"
+	"Remove {startIndex} {count}"
+
+## Output
+
+The possible outputs are:
+  
+ 	"True"
+	"False"
 
 
 ## Examples: 
