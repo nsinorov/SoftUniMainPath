@@ -4,7 +4,7 @@ Example for a valid message:
 
 ## |GEORGI|:#Lead architect#
 
-Output
+## Output
 
 The possible outputs are:
 
@@ -12,4 +12,7 @@ The possible outputs are:
     Strength: {length of the name}
     Armor: {length of the title}"
 	 "Access denied!"
+
+Examples: 
+
 
