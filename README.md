@@ -30,3 +30,7 @@
 | <a href="https://softuni.bg/trainings/3836/programming-fundamentals-with-csharp-september-2022" > Programming Fundamentals with C# </a>    | <a href="https://softuni.bg/certificates/details/149101/779ceff8"> Click me</a> |
 
   Grade: 6.00 (out of 6.00)<br /> Issue Date: 06/12/2022</th>
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3740/programming-basics-with-csharp-april-2022" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/134052/1d8d5f63"> Click me</a> |
