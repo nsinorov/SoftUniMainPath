@@ -1,8 +1,8 @@
 ## Input
 
-Example for a valid message: 
+Example for a valid message 
 
-## |GEORGI|:#Lead architect#
+ |GEORGI|:#Lead architect#
 
 ## Output
 
