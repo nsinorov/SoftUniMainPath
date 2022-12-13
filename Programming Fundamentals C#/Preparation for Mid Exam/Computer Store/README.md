@@ -27,4 +27,6 @@ Total price: {total price with taxes}$"
 
 Note: All prices should be displayed to the second digit after the decimal point! The discount is applied only on the total price. Discount is only applicable to the final price!
 
+## Examples:
+
 ![Capture2](https://user-images.githubusercontent.com/45227327/197361262-5d4237b9-754a-4e89-95b9-4236d4bc33a1.PNG)
