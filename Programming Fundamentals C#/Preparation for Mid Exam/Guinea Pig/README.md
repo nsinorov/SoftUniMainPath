@@ -24,5 +24,7 @@ If Merry runs out of food, hay, or cover, stop the program!
   
   The output values must be formatted to the second decimal place!
   
+  ## Examples:
+  
   ![Capture1](https://user-images.githubusercontent.com/45227327/197361114-b72cfbf7-4fae-441c-8e8c-e88512b6de49.PNG)
 
