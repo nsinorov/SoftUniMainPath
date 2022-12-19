@@ -19,6 +19,8 @@
 	"Ammunitions added: {added amount of ammunitions}."
 	"Fuel added: {added amount of fuel}."
 	"You have reached Titan, all passengers are safe."
+	
+## Example:
 
 ![Capture](https://user-images.githubusercontent.com/45227327/197400769-a4d90e83-3d1f-4516-9c8a-823a5004aa69.PNG)
 
