@@ -14,7 +14,7 @@ The possible outputs are:
 	 "Access denied!"
 
 
-## Examples: 
+## Example: 
 
 ![image](https://user-images.githubusercontent.com/45227327/206108975-b9fe367d-2dc7-4545-86c4-a42a69a41ee6.png)
 
