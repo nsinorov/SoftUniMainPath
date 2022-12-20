@@ -6,6 +6,6 @@ You will receive an unknown number of lines. On each line you will receive an ar
 
 If you get a person whose ID you have already received before, update the name and age for that ID with that of the new person. When you receive the command "End", print all of the people, ordered by age. 
 
-Examples: 
+## Examples: 
 
 ![Capture](https://user-images.githubusercontent.com/45227327/201530738-ded32c90-c33d-4bd5-991c-dd51da1fcfe5.PNG)
