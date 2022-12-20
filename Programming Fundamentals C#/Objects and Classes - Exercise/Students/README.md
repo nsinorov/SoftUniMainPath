@@ -13,6 +13,6 @@ Create a program that sorts some students by their grade in descending order. Ea
 
 	Print out the information about each student in the following format: "{first name} {second name}: {grade}".
 
-Examples: 
+## Examples: 
 
 ![Capture](https://user-images.githubusercontent.com/45227327/201530232-9f50dcd6-2d69-4ec2-9370-8abc3ba97890.PNG)
