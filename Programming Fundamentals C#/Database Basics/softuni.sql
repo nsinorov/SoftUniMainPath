@@ -1,4 +1,4 @@
-Creating the Table
+1) Creating the Table
 
 CREATE TABLE `students` (
 
@@ -10,6 +10,7 @@ CREATE TABLE `students` (
 );
 
 
+2) Inserting data in the table `students`
 
 INSERT INTO `students` (`id`, `first_name`, `last_name`, `age`, `grade`)
 VALUES
