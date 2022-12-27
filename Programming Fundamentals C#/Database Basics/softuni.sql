@@ -39,3 +39,8 @@ LIMIT 5;
 
 SELECT `last_name`, `grade` FROM `students`
 LIMIT 5;
+
+7) Truncate Table
+
+TRUNCATE TABLE `students`;
+
