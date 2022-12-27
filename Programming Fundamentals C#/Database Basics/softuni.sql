@@ -37,3 +37,5 @@ LIMIT 5;
 
 6) Find First 5 Last Name and Grade
 
+SELECT `last_name`, `grade` FROM `students`
+LIMIT 5;
