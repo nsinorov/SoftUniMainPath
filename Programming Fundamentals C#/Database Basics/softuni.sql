@@ -20,3 +20,9 @@ VALUES
 (4, 'Linda', 'Smith', 18, 5),
 (5, 'John', 'Stones', 16, 4.25),
 (6, 'Nicole', 'Nelson', 17, 5.5);
+
+3) Find all records 
+
+SELECT * FROM `students`;
+
+
