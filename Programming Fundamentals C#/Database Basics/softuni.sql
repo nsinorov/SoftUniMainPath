@@ -1,3 +1,5 @@
+Creating the Table
+
 CREATE TABLE `students` (
 
          `id` INT AUTO_INCREMENT PRIMARY KEY,
