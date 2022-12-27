@@ -25,4 +25,8 @@ VALUES
 
 SELECT * FROM `students`;
 
+4) Find Last Name, Age and Grade
+
+SELECT `last_name`, `age`, `grade` FROM `students`;
+
 
