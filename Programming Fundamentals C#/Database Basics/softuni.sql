@@ -44,3 +44,6 @@ LIMIT 5;
 
 TRUNCATE TABLE `students`;
 
+8) Drop Table
+
+DROP TABLE `students`;
