@@ -30,3 +30,10 @@ SELECT * FROM `students`;
 SELECT `last_name`, `age`, `grade` FROM `students`;
 
 
+5) Find First 5 Records
+
+SELECT * FROM `students`
+LIMIT 5;
+
+6) Find First 5 Last Name and Grade
+
