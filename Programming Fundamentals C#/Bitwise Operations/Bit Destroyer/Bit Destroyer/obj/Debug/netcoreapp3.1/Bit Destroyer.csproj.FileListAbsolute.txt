@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\bin\Debug\netcoreapp3.1\Bit Destroyer.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Bit Destroyer\Bit Destroyer\obj\Debug\netcoreapp3.1\Bit Destroyer.genruntimeconfig.cache
