@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\bin\Debug\netcoreapp3.1\Binary Digits Count.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Binary Digits Count\Binary Digits Count\obj\Debug\netcoreapp3.1\Binary Digits Count.genruntimeconfig.cache
