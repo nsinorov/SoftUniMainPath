@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\bin\Debug\netcoreapp3.1\P-th Bit.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\P-th Bit\P-th Bit\obj\Debug\netcoreapp3.1\P-th Bit.genruntimeconfig.cache
