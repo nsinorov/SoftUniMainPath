@@ -5,3 +5,6 @@ DB common lecture:
     • DBMS Systems;
     • Relational Databases, SQL and MySQL Database;
     • NoSQL Databases and MongoDB.
+
+Results from the .sql file: 
+
