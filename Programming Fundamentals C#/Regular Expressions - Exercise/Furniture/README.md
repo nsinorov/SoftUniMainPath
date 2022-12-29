@@ -16,3 +16,4 @@ And on the last line, print the following: "Total money spend: {spend money}", f
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/209978527-b811b89c-ed99-488f-bd03-1574066ca285.png)
