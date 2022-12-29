@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\bin\Debug\netcoreapp3.1\Odd Times.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Odd Times\Odd Times\obj\Debug\netcoreapp3.1\Odd Times.genruntimeconfig.cache
