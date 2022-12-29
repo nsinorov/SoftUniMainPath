@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\netcoreapp3.1\Tri-bit Switch.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Bitwise operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\netcoreapp3.1\Tri-bit Switch.genruntimeconfig.cache
