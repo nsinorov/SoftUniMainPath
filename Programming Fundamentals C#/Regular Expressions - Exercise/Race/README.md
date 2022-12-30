@@ -7,3 +7,7 @@ The letters are the name of the person and the sum of the digits is the distance
 If you receive the same person more than once, just add the distance to his old distance. 
 
 At the end print the top 3 racers in the format:
+
+    "1st place: {first racer}
+    2nd place: {second racer}
+    3rd place: {third racer}"
