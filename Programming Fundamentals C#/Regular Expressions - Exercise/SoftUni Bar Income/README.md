@@ -9,3 +9,11 @@ Each valid order should have a customer, product, count and a price:
    	A valid product contains any word character and must be surrounded by '<' and '>' .
    	A valid count is an integer, surrounded by '|'.
    	A valid price is any real number followed by '$'.
+
+The parts of a valid order should appear in the order given: customer, product, count and price.
+
+Between each part there can be other symbols, except '|', '$', '%' and '.'.
+
+For each valid line, print on the console: "{customerName}: {product} - {totalPrice}".
+
+When you receive "end of shift" print the total amount of money for the day, rounded to 2 decimal places in the following format: "Total income: {income}".
