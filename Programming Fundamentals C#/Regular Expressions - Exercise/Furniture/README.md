@@ -12,7 +12,7 @@ Bought furniture:
 
     …"
 
-And on the last line, print the following: "Total money spend: {spend money}", formatted to the second decimal point.
+And on the last line, print the following: **"Total money spend: {spend money}", formatted to the second decimal point.**
 
 ## Examples:
 
