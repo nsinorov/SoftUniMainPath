@@ -17,3 +17,7 @@ Between each part there can be other symbols, except '|', '$', '%' and '.'.
 For each valid line, print on the console: "{customerName}: {product} - {totalPrice}".
 
 When you receive "end of shift" print the total amount of money for the day, rounded to 2 decimal places in the following format: "Total income: {income}".
+
+## Input: 
+
+	Strings that you have to process until you receive text "end of shift".
