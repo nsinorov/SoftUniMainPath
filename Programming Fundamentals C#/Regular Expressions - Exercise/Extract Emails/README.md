@@ -16,3 +16,6 @@ Emails are considered to be in format <user>@<host>, where:
   
   *	Examples of invalid emails: --123@gmail.com, …@mail.bg, .info@info.info, _steve@yahoo.cn, mike@helloworld, mike@.unknown.soft., s.johnson@invalid-.
 
+## Examples:
+      
+      
