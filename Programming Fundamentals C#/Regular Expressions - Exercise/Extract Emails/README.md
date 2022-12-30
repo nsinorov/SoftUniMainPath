@@ -19,3 +19,4 @@ Emails are considered to be in format <user>@<host>, where:
 ## Examples:
       
       
+![image](https://user-images.githubusercontent.com/45227327/210111675-ed3e7466-d400-4813-8631-96a34684c197.png)
