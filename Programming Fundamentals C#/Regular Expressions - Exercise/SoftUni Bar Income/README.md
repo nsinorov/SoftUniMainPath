@@ -5,7 +5,7 @@ But before processing that line, you have to do some validations first.
 
 Each valid order should have a customer, product, count and a price:
 
-    •	A valid customer's name should be surrounded by '%' and must start with a capital letter, followed by lower-case letters.
-    •	A valid product contains any word character and must be surrounded by '<' and '>' .
-    •	A valid count is an integer, surrounded by '|'.
-    •	A valid price is any real number followed by '$'.
+   	A valid customer's name should be surrounded by '%' and must start with a capital letter, followed by lower-case letters.
+   	A valid product contains any word character and must be surrounded by '<' and '>' .
+   	A valid count is an integer, surrounded by '|'.
+   	A valid price is any real number followed by '$'.
