@@ -24,3 +24,4 @@ When you receive "end of shift" print the total amount of money for the day, rou
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/210111392-6b2bd1d6-82c9-474e-a7b4-68d9bd304e46.png)
