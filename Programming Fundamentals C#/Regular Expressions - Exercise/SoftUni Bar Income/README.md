@@ -21,3 +21,6 @@ When you receive "end of shift" print the total amount of money for the day, rou
 ## Input: 
 
 	Strings that you have to process until you receive text "end of shift".
+
+## Examples:
+
