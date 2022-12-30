@@ -11,3 +11,5 @@ At the end print the top 3 racers in the format:
     "1st place: {first racer}
     2nd place: {second racer}
     3rd place: {third racer}"
+
+![image](https://user-images.githubusercontent.com/45227327/210111252-81c14d70-4a91-4a69-b171-f17a1d05dcb7.png)
