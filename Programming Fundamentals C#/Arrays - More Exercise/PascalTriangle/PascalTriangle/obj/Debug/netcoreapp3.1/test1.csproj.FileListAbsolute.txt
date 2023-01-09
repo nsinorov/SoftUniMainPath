@@ -1,0 +1,14 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.dev.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\bin\Debug\netcoreapp3.1\test1.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\Programming Fundamentals C#\Arrays - More Exercise\test1\test1\obj\Debug\netcoreapp3.1\test1.genruntimeconfig.cache
