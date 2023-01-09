@@ -7,4 +7,4 @@ Sort the number sequence in ascending order and print it in the console.
 
 On the first line, you will always receive the number of strings you have to read.
 
-
+## Examples:
