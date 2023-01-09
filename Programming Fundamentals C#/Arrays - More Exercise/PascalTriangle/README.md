@@ -6,3 +6,7 @@ If you want more info about it: https://en.wikipedia.org/wiki/Pascal's_triangle
 Print each row element separated with whitespace.
 
 ## Examples
+
+![image](https://user-images.githubusercontent.com/45227327/211378120-9cb52dfb-500f-4a40-9982-80a682da8918.png)
+
+![Capture](https://user-images.githubusercontent.com/45227327/211378141-c5aacbf4-df42-4b99-b9fb-9297f26ece50.PNG)
