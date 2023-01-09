@@ -1,5 +1,3 @@
- Model-View Controller (MVC);
- 
- ASP.NET Core Framework;
- 
- ASP.NET Core Web App
+SoftUni website.
+
+Not yet finished, just started learning asp.net core.
