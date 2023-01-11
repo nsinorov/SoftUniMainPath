@@ -7,3 +7,5 @@
       Remove <n>: removes the n elements from the stack or does nothing if the stack holds less than n elements.
     Prints the sum of the remaining elements of the stack.
 
+## Examples:
+
