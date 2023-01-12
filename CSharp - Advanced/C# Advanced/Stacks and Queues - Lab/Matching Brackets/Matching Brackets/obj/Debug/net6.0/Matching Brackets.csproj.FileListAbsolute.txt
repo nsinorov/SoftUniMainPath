@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\bin\Debug\net6.0\Matching Brackets.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\bin\Debug\net6.0\Matching Brackets.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\bin\Debug\net6.0\Matching Brackets.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\bin\Debug\net6.0\Matching Brackets.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\bin\Debug\net6.0\Matching Brackets.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\refint\Matching Brackets.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\Matching Brackets.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Matching Brackets\Matching Brackets\obj\Debug\net6.0\ref\Matching Brackets.dll
