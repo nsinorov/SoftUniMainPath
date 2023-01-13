@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\bin\Debug\net6.0\Simple Calculator.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\bin\Debug\net6.0\Simple Calculator.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\bin\Debug\net6.0\Simple Calculator.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\bin\Debug\net6.0\Simple Calculator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\bin\Debug\net6.0\Simple Calculator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\refint\Simple Calculator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\Simple Calculator.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Simple Calculator\Simple Calculator\obj\Debug\net6.0\ref\Simple Calculator.dll
