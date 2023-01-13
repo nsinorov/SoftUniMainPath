@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\refint\Print Even Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net6.0\ref\Print Even Numbers.dll

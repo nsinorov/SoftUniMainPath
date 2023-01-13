@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Print Even Numbers/1.0.0": {
+        "runtime": {
+          "Print Even Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print Even Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
