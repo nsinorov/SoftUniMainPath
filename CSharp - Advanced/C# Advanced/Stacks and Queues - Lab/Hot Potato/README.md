@@ -11,3 +11,6 @@ Create a program that simulates the game of Hot Potato. Print every kid that is 
 ![image](https://user-images.githubusercontent.com/45227327/212335483-5629fc42-1e1f-455a-bfc6-3f9320f239f3.png)
 
 ![image](https://user-images.githubusercontent.com/45227327/212335519-5f9ff431-42b2-49ed-a4ea-762f24b14179.png)
+
+![Capture1](https://user-images.githubusercontent.com/45227327/212335595-4eb7a2c4-2885-49a9-bfa9-13d1cabb9fef.PNG)
+
