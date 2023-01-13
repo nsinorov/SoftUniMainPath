@@ -10,3 +10,4 @@ Your task is to read and process the input:
 
 ![image](https://user-images.githubusercontent.com/45227327/212258146-8e03b4d9-9a58-4d64-aaed-7e7db4ab39fd.png)
 
+![Capture3](https://user-images.githubusercontent.com/45227327/212258180-ed28feba-7add-4379-ba8a-0c3c26298eeb.PNG)
