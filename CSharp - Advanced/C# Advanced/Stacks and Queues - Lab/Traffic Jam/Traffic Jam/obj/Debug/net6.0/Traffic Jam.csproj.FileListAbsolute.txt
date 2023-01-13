@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\bin\Debug\net6.0\Traffic Jam.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\bin\Debug\net6.0\Traffic Jam.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\bin\Debug\net6.0\Traffic Jam.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\bin\Debug\net6.0\Traffic Jam.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\bin\Debug\net6.0\Traffic Jam.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\refint\Traffic Jam.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\Traffic Jam.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Lab\Traffic Jam\Traffic Jam\obj\Debug\net6.0\ref\Traffic Jam.dll
