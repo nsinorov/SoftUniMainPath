@@ -15,4 +15,8 @@ When the "end" command is given, terminate the program and display a message wit
     When the "end" command is given, print out a message in the format "{number of cars} cars passed the crossroads.".
 
 ## Examples: 
+	
+![image](https://user-images.githubusercontent.com/45227327/212336038-9b09d7e7-4b82-4400-9f77-616ed90cb7c9.png)
+
+![Capture2](https://user-images.githubusercontent.com/45227327/212336944-915cfc9f-a9ad-440a-8211-81f80defcca5.PNG)
 
