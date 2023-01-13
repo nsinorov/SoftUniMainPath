@@ -6,3 +6,4 @@ Your task is to read and process the input:
 	When you receive the "Paid" command, print the customer names from the queue (each at separate line), then empty the queue.
   	When you receive the "End" command, print the count of the remaining customers from the queue in the format: "{count} people remaining." and stop processing the commands (see the examples below).
 
+## Examples: 
