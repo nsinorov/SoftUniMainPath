@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\refint\Basic Stack Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\ref\Basic Stack Operations.dll
