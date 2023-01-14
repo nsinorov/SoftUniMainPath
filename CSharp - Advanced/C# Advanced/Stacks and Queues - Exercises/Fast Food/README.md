@@ -7,3 +7,11 @@ First, you will be given the quantity of the food that you have for the day (an 
 If not – print:
  
     "Orders left: {order1} {order2} .... {orderN}".
+
+## Input:
+
+	On the first line, you will be given the quantity of your food – an integer in the range [0…1000].
+	On the second line, you will receive a sequence of integers, representing each order, separated by a single space.
+
+## Examples:
+
