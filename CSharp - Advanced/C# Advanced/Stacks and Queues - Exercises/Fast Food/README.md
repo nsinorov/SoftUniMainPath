@@ -15,3 +15,4 @@ If not – print:
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/212493485-5639d523-6e0f-45d2-b614-7522f7170a5a.png)
