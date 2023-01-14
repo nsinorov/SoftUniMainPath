@@ -4,3 +4,4 @@ If it is, print true on the console. If it's not printed the smallest element is
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/212493180-9103b2cd-b7aa-4469-93a8-477f225ec47e.png)
