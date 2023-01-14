@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\refint\Basic Queue Operations.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Basic Queue Operations\Basic Queue Operations\obj\Debug\net6.0\ref\Basic Queue Operations.dll
