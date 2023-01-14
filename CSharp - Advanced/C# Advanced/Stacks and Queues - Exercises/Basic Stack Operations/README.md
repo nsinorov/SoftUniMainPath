@@ -9,3 +9,4 @@ If it's found, print "true" on the console. If it isn't, print the smallest elem
 
 ## Examples: 
 
+![image](https://user-images.githubusercontent.com/45227327/212493124-6245afba-543b-41b7-8f68-2eba9d6ae6cf.png)
