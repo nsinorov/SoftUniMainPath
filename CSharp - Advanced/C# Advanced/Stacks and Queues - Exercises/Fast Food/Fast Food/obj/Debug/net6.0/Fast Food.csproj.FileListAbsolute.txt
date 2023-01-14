@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\bin\Debug\net6.0\Fast Food.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\bin\Debug\net6.0\Fast Food.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\bin\Debug\net6.0\Fast Food.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\bin\Debug\net6.0\Fast Food.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\bin\Debug\net6.0\Fast Food.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\refint\Fast Food.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\Fast Food.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fast Food\Fast Food\obj\Debug\net6.0\ref\Fast Food.dll
