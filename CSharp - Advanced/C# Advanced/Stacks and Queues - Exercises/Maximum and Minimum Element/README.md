@@ -13,3 +13,7 @@ After you go through all of the queries, print the stack in the following format
 
 	The first line of input contains an integer – N.
 	The next N lines each contain an above-mentioned query. (It is guaranteed that each query is valid.)
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/212493315-89bfdc00-f5b6-4a78-8d1a-3c7a65d21066.png)
