@@ -6,3 +6,6 @@ If it's found, print "true" on the console. If it isn't, print the smallest elem
 
 	On the first line, you will be given N, S and X, separated by a single space.
 	On the next line, you will be given N number of integers.
+
+## Examples: 
+
