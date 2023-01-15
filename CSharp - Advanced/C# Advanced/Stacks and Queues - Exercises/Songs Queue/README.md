@@ -17,3 +17,6 @@ The possible commands are:
 
 	While receiving the commands, print the proper messages described above
 	After the command "Show", print the songs from the first to the last.
+
+## Examples:
+
