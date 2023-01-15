@@ -20,3 +20,4 @@ The possible commands are:
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/212543857-f73ca054-547a-4601-bb92-0d79f1749762.png)
