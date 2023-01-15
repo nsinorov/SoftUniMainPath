@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net6.0\Songs Queue.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net6.0\Songs Queue.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net6.0\Songs Queue.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net6.0\Songs Queue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net6.0\Songs Queue.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\refint\Songs Queue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\Songs Queue.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net6.0\ref\Songs Queue.dll
