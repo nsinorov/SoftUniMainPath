@@ -7,3 +7,8 @@ The possible commands are:
 	"Play" - plays a song (removes it from the queue)
 	"Add {song}" - adds the song to the queue, if it isn't contained already, otherwise print "{song} is already contained!"
 	"Show" - prints all songs in the queue, separated by a comma and a white space (start from the first song in the queue to the last)
+
+## Input: 
+
+	On the first line, you will be given a sequence of strings, separated by a comma and a white space.
+	On the next lines, you will be given commands until there are no songs in the queue.
