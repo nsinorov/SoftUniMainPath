@@ -15,3 +15,4 @@ While the sum of the clothes is less than the capacity, keep summing them. If th
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/212744972-0c802075-109f-4c6a-9b57-88ed33b29157.png)
