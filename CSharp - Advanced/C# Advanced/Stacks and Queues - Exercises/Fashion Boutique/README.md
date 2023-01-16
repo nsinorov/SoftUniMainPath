@@ -8,3 +8,7 @@ While the sum of the clothes is less than the capacity, keep summing them. If th
 
 	On the first line, you will be given a sequence of integers, representing the clothes in the box, separated by a single space.
 	On the second line, you will be given an integer, representing the capacity of a rack.
+
+## Output:
+
+	Print the number of racks, needed to hang all of the clothes from the box.
