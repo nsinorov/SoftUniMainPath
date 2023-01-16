@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\refint\Balanced Parentheses.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net6.0\ref\Balanced Parentheses.dll
