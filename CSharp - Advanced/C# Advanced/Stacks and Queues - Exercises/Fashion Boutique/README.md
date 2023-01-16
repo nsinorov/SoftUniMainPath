@@ -12,3 +12,6 @@ While the sum of the clothes is less than the capacity, keep summing them. If th
 ## Output:
 
 	Print the number of racks, needed to hang all of the clothes from the box.
+
+## Examples:
+
