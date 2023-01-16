@@ -8,3 +8,5 @@ Also, the interval between them must be balanced. You will be given three types 
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/212744473-3ef56060-55e2-4767-b9bd-4d5aae1a6351.png)
+![image](https://user-images.githubusercontent.com/45227327/212744545-e87d757d-f7e5-4e16-9653-47cb169f9122.png)
