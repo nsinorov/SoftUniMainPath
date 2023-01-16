@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\refint\Fashion Boutique.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net6.0\ref\Fashion Boutique.dll
