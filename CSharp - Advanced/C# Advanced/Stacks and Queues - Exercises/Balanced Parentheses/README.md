@@ -2,9 +2,9 @@ Given a sequence consisting of parentheses, determine whether the expression is 
 
 Also, the interval between them must be balanced. You will be given three types of parentheses: (, {, and [.
 
-{[()]} - This is a balanced parenthesis.
+--> {[()]} - This is a balanced parenthesis.
 
-{[(])} - This is not a balanced parenthesis.
+X   {[(])} - This is not a balanced parenthesis.
 
 ## Examples:
 
