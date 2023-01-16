@@ -18,3 +18,4 @@ If it becomes greater than the capacity, don't add the piece of clothing to the 
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/212744972-0c802075-109f-4c6a-9b57-88ed33b29157.png)
+![image](https://user-images.githubusercontent.com/45227327/212745087-464bbb25-6ba5-491c-a05e-fe681ecf919b.png)
