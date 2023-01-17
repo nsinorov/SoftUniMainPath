@@ -30,3 +30,5 @@ A green light cycle goes as follows:
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/213012192-e7451139-e402-4a2f-a23b-86211f7f3202.png)
+![image](https://user-images.githubusercontent.com/45227327/213012320-b7bf25e3-3945-40e4-817f-0de27f5a5431.png)
