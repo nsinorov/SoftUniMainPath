@@ -28,3 +28,5 @@ A green light cycle goes as follows:
 	"Everyone is safe.".
 	"{totalCarsPassed} total cars passed the crossroads.".
 
+## Examples:
+
