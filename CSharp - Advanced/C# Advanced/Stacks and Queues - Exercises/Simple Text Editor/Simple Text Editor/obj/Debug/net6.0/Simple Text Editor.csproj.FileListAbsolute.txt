@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\refint\Simple Text Editor.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net6.0\ref\Simple Text Editor.dll
