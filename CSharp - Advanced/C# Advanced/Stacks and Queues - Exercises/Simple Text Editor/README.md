@@ -13,3 +13,8 @@ You are given an empty text. Your task is to implement 4 commands related to man
 ## Output:
 
 	For each operation of type 3 print a single line with the returned character of that operation.
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/213013975-70282db9-485b-4ec6-b2bd-4d421eef993b.png)
+![image](https://user-images.githubusercontent.com/45227327/213014088-183e9c54-5abb-4fbf-9c4c-aa9acc32cdb7.png)
