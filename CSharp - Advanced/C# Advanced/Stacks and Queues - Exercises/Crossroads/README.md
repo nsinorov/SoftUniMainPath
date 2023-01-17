@@ -12,3 +12,8 @@ The road Sam is on has a single lane where cars queue up until the light goes gr
 	On the following lines, until you receive the "END" command, you will receive one of two things:
          	A car – a string containing any ASCII character, or
         	The command "green" indicates the start of a green light cycle
+		
+A green light cycle goes as follows:
+
+	During the green light, cars will enter and exit the crossroads one by one.
+	During the free window, cars will only exit the crossroads
