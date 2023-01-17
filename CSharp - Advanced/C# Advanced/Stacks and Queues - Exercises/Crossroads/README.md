@@ -5,3 +5,10 @@ Your job is to keep track of traffic at the crossroads and report whether a cras
 
 The road Sam is on has a single lane where cars queue up until the light goes green. When it does, they start passing one by one during the green light and the free window before the intersecting road's light goes green. During one second only one part of a car (a single character) passes the crossroads. If a car is still at the crossroads when the free window ends, it will get hit at the first character that is still in the crossroads.
 
+## Input:
+
+	On the first line, you will receive the duration of the green light in seconds – an integer in the range [1…100].
+	On the second line, you will receive the duration of the free window in seconds – an integer in the range [0…100].
+	On the following lines, until you receive the "END" command, you will receive one of two things:
+         	A car – a string containing any ASCII character, or
+        	The command "green" indicates the start of a green light cycle
