@@ -17,3 +17,14 @@ A green light cycle goes as follows:
 
 	During the green light, cars will enter and exit the crossroads one by one.
 	During the free window, cars will only exit the crossroads
+
+## Output:
+
+	If a crash happens, end the program and print:
+	"A crash happened!"
+	"{car} was hit at {characterHit}."
+
+	If everything goes smoothly and you receive an "END" command, print:
+	"Everyone is safe.".
+	"{totalCarsPassed} total cars passed the crossroads.".
+
