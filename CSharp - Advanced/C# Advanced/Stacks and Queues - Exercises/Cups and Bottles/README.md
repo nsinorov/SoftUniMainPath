@@ -21,3 +21,6 @@ If you have managed to fill up all of the cups, print the remaining water bottle
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/213013221-bb20fba1-b488-4471-aad7-e8ff7c96540b.png)
+![image](https://user-images.githubusercontent.com/45227327/213013304-2aa4d06c-7870-4782-a1eb-7bd9e72ae73c.png)
+![image](https://user-images.githubusercontent.com/45227327/213013388-42a44922-a9ba-41bb-9ece-251d267b6b40.png)
