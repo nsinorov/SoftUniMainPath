@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\bin\Debug\net6.0\Cups and Bottles.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\bin\Debug\net6.0\Cups and Bottles.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\bin\Debug\net6.0\Cups and Bottles.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\bin\Debug\net6.0\Cups and Bottles.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\bin\Debug\net6.0\Cups and Bottles.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\refint\Cups and Bottles.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\Cups and Bottles.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Cups and Bottles\Cups and Bottles\obj\Debug\net6.0\ref\Cups and Bottles.dll
