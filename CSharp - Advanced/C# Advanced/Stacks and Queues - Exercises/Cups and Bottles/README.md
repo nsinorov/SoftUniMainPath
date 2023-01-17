@@ -8,3 +8,7 @@ If a bottle's value is greater or equal to the cup's current value, you fill up 
 
 If you have managed to fill up all of the cups, print the remaining water bottles, from the last entered – to the first, otherwise you must print the remaining cups, by order of entrance – from the first entered – to the last. 
 
+## Input:
+
+	On the first line of input, you will receive the integers, representing the cups' capacity, separated by a single space. 
+	On the second line of input, you will receive the integers, representing the filled bottles, separated by a single space.
