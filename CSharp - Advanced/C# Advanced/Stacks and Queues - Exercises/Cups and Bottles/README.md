@@ -12,3 +12,9 @@ If you have managed to fill up all of the cups, print the remaining water bottle
 
 	On the first line of input, you will receive the integers, representing the cups' capacity, separated by a single space. 
 	On the second line of input, you will receive the integers, representing the filled bottles, separated by a single space.
+	
+## Output:
+
+	On the first line of output, you must print the remaining bottles or the remaining cups, depending on the case you are in. Just keep the orders of printing exactly as specified. 
+	"Bottles: {remainingBottles}" or "Cups: {remainingCups}"
+	On the second line, print the wasted litters of water in the following format: "Wasted litters of water: {wastedLittersOfWater}".
