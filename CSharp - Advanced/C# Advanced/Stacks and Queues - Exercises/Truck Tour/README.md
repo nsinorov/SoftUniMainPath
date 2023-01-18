@@ -2,3 +2,7 @@ Let’s suppose there is a circular route for lorries. There are N petrol pumps 
 
 You have a tank of infinite capacity carrying no petrol. Your task is to figure out, which is the first possible petrol pump, from which the lorry will be able to complete the route. Consider that the lorry will stop at each of the petrol pumps. The lorry will move one kilometer for each liter of petrol.
 
+## Input: 
+
+	The first line will contain the value of N
+	The next N lines will contain a pair of integers each, i.e. the amount of petrol that petrol pump will give and the distance between that petrol pump and the next petrol pump.
