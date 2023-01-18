@@ -33,4 +33,5 @@ Make sure to account for the price of the bullets when calculating the money ear
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/213292664-24f85d34-368c-4c8e-8639-5235e57fcbc2.png)
+![image](https://user-images.githubusercontent.com/45227327/213294873-66ce8ecc-4307-4e24-9dec-5fd11858bfef.png)
 
