@@ -29,3 +29,8 @@ The program ends when Sam either runs out of bullets or the safe runs out of loc
 	"{bulletsLeft} bullets left. Earned ${moneyEarned}".
 	
 Make sure to account for the price of the bullets when calculating the money earned.
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/213292664-24f85d34-368c-4c8e-8639-5235e57fcbc2.png)
+
