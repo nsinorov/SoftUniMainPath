@@ -10,3 +10,7 @@ You have a tank of infinite capacity carrying no petrol. Your task is to figure 
 ## Output:
 
 	An integer which will be the smallest index of the petrol pump from which we can start the tour.
+
+## Examples: 
+
+![image](https://user-images.githubusercontent.com/45227327/213291956-7dca9e43-02b8-42b6-a1aa-067412b9ff8c.png)
