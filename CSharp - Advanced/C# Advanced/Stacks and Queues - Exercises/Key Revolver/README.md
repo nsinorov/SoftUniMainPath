@@ -19,3 +19,13 @@ If the bullet has a smaller or equal size to the current lock, print "Bang!", th
 
 If Sam runs out of bullets in his barrel, print "Reloading!" in the console, then continue shooting. If there aren't any bullets left, don't print it.
 The program ends when Sam either runs out of bullets or the safe runs out of locks.
+
+## Output:
+
+	 If Sam runs out of bullets before the safe runs out of locks, print:
+	"Couldn't get through. Locks left: {locksLeft}".
+	
+	If Sam manages to open the safe, print:
+	"{bulletsLeft} bullets left. Earned ${moneyEarned}".
+	
+Make sure to account for the price of the bullets when calculating the money earned.
