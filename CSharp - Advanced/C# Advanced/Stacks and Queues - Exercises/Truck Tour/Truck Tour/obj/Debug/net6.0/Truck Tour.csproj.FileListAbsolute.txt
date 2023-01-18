@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\bin\Debug\net6.0\Truck Tour.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\bin\Debug\net6.0\Truck Tour.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\bin\Debug\net6.0\Truck Tour.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\bin\Debug\net6.0\Truck Tour.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\bin\Debug\net6.0\Truck Tour.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\refint\Truck Tour.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\Truck Tour.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Stacks and Queues - Exercise\Truck Tour\Truck Tour\obj\Debug\net6.0\ref\Truck Tour.dll
