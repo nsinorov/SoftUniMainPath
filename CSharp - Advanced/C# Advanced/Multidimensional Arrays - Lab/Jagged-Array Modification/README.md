@@ -6,3 +6,5 @@ separated with space. You will be receiving commands in the following format:
   
 Coordinates might be invalid. In this case, you should print "Invalid coordinates". When you receive "END" you should print the matrix and stop the program.
 
+## Examples:
+
