@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<h2> Certificates </h2>
+<h1 align="center">Certificates </h1>
 
 <table>
 
