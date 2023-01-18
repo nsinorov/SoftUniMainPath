@@ -13,3 +13,9 @@ What's behind the safe, you ask? Well, intelligence! It is told that Sam's sworn
 	On the third line, you will receive the bullets – a space-separated integer sequence with [1…100] integers.
 	On the fourth line, you will receive the locks – a space-separated integer sequence with [1…100] integers.
 	On the fifth line, you will receive the value of the intelligence – an integer in the range [1…100000].
+
+After Sam receives all of his information and gear (input), he starts to shoot the locks front-to-back, while going through the bullets back-to-front.
+If the bullet has a smaller or equal size to the current lock, print "Bang!", then remove the lock. If not, print "Ping!", leaving the lock intact. The bullet is removed in both cases.
+
+If Sam runs out of bullets in his barrel, print "Reloading!" in the console, then continue shooting. If there aren't any bullets left, don't print it.
+The program ends when Sam either runs out of bullets or the safe runs out of locks.
