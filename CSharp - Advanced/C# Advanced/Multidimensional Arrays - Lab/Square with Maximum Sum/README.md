@@ -9,3 +9,4 @@ Print the biggest top-left square, which you find, and the sum of its elements.
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/213569501-946f9f6e-d943-4965-8b0c-a395c32a6f9b.png)
+![image](https://user-images.githubusercontent.com/45227327/213569572-78aae3bb-ce22-4021-8ca1-e4da5971c545.png)
