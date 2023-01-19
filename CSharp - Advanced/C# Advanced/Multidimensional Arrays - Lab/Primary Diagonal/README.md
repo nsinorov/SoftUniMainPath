@@ -9,3 +9,5 @@ Create a program that finds the sum of elements from the matrix’s primary diag
 
 ## Examples: 
 
+![image](https://user-images.githubusercontent.com/45227327/213569136-cd46759e-4284-476e-af89-a1da83ce54cb.png)
+![image](https://user-images.githubusercontent.com/45227327/213569202-833bbd14-7308-4608-b59e-1d37f6d81125.png)
