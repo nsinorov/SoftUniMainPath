@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\refint\Square with Maximum Sum.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Square with Maximum Sum\Square with Maximum Sum\obj\Debug\net6.0\ref\Square with Maximum Sum.dll
