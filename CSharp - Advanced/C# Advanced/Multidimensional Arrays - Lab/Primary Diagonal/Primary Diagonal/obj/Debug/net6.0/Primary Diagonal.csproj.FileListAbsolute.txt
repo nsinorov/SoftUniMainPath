@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\refint\Primary Diagonal.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net6.0\ref\Primary Diagonal.dll
