@@ -8,3 +8,4 @@ Write a program to print the Pascal’s triangle of given size n.
 
 ## Examples: 
 
+![image](https://user-images.githubusercontent.com/45227327/213568592-55092ff3-4038-458d-9258-a014f411c6d9.png)
