@@ -6,3 +6,5 @@ Write a program that reads a matrix from the console and prints:
 
 On the first line, you will get matrix sizes in format [rows, columns]
 
+## Examples:
+
