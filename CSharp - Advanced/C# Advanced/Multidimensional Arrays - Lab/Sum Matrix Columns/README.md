@@ -2,4 +2,6 @@ Create a program that reads a matrix from the console and prints the sum for eac
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/213806965-95983c50-93e0-487d-ad57-02c59945d3fa.png)
+
 
