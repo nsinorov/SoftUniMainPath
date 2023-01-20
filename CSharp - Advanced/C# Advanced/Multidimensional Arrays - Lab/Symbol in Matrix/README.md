@@ -4,3 +4,6 @@ Find the first occurrence of that symbol in the matrix and print its position in
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/213807639-73377724-f491-417a-a5a8-ba6c3f690f64.png)
+![image](https://user-images.githubusercontent.com/45227327/213807881-fa51d8d2-9f14-4497-82da-6b0f84596110.png)
+
