@@ -1,0 +1,57 @@
+
+int[] dimensions = Console.ReadLine()
+    .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+    .Select(int.Parse).
+    ToArray();
+
+int rows = dimensions[0];
+int cols = dimensions[1];
+
+int[,] matrix = new int[rows, cols];
+
+for (int row = 0; row < rows; row++)
+{
+    int[] nums = Console.ReadLine()
+        .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+        .Select(int.Parse).
+        ToArray();
+
+    for (int col = 0; col < cols; col++)
+    {
+        matrix[row, col] = nums[col];     
+    }
+}
+
+-----------------------------------------------
+
+int sizeOfMatrix = int.Parse(Console.ReadLine());
+
+int primaryDiagonal = 0;
+
+int[,] square = new int[sizeOfMatrix, sizeOfMatrix];
+
+for (int row = 0; row < sizeOfMatrix; row++)
+{
+    int[] values = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+	for (int col = 0; col < sizeOfMatrix; col++)
+	{
+        square[row, col] = values[col];
+    }
+}
+
+
+------------------------------------- Printing matrix
+
+void PrintMatrix()
+{
+    for (int row = 0; row < rows; row++)
+    {
+        for (int col = 0; col < cols; col++)
+        {
+            Console.Write($"{matrix[row, col]} ");
+        }
+
+        Console.WriteLine();
+    }
+
