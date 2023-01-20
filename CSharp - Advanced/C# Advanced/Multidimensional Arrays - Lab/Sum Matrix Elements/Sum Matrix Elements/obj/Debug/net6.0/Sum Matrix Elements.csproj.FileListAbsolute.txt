@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\refint\Sum Matrix Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\net6.0\ref\Sum Matrix Elements.dll
