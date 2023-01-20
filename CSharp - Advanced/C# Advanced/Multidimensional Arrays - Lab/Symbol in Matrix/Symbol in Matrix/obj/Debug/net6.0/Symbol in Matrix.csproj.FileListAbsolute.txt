@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\refint\Symbol in Matrix.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\Symbol in Matrix\obj\Debug\net6.0\ref\Symbol in Matrix.dll
