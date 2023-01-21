@@ -8,3 +8,6 @@
 ## Output:
 
 	Print the absolute difference between the sums of the primary and the secondary diagonal.
+
+## Examples:
+
