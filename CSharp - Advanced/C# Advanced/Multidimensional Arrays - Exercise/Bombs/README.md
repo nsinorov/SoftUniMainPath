@@ -28,3 +28,4 @@ You must print the count of all alive cells and their sum. Afterward, print the 
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/213867092-c43a562c-f7d4-4031-8646-2bc242d82937.png)
+![image](https://user-images.githubusercontent.com/45227327/213867236-ccfa65ce-061c-4419-985d-2b49f856b1ed.png)
