@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\refint\Diagonal Difference.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\Diagonal Difference\obj\Debug\net6.0\ref\Diagonal Difference.dll
