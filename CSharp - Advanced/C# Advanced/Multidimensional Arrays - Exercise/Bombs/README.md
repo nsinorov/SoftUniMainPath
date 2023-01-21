@@ -17,3 +17,10 @@ You must print the count of all alive cells and their sum. Afterward, print the 
 	On the second line, you need to print the sum of all alive cells in the format: 
 		"Sum: {sumOfCells}"
 	At the end print the matrix. The cells must be separated by a single space.
+
+## Constraints:
+
+	The size of the matrix will be between [0…1000].
+	The bomb coordinates will always be in the matrix.
+	The bomb's values will always be greater than 0.
+	The integers of the matrix will be in the range [1…10000]. 
