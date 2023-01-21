@@ -4,3 +4,7 @@
 
 	On the first line, you are given the integer N – the size of the square matrix.
 	The next N lines, hold the values for every row – N numbers separated by a space.
+
+## Output:
+
+	Print the absolute difference between the sums of the primary and the secondary diagonal.
