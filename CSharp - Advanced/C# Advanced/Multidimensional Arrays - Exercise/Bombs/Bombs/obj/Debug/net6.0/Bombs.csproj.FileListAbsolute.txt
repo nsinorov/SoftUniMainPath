@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\bin\Debug\net6.0\Bombs.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\bin\Debug\net6.0\Bombs.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\bin\Debug\net6.0\Bombs.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\bin\Debug\net6.0\Bombs.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\bin\Debug\net6.0\Bombs.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\refint\Bombs.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\Bombs.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\Bombs\obj\Debug\net6.0\ref\Bombs.dll
