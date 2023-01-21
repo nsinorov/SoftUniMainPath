@@ -9,3 +9,11 @@ You must print the count of all alive cells and their sum. Afterward, print the 
 	On the first line, you are given the integer N – the size of the square matrix.
 	The next N lines hold the values for every row – N numbers separated by a space.
 	On the last line, you will receive the coordinates of the cells with the bombs in the format described above.
+
+## Output:
+
+	On the first line, you need to print the count of all alive cells in the format: 
+		"Alive cells: {aliveCells}"
+	On the second line, you need to print the sum of all alive cells in the format: 
+		"Sum: {sumOfCells}"
+	At the end print the matrix. The cells must be separated by a single space.
