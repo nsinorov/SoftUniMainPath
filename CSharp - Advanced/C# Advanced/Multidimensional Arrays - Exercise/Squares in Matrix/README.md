@@ -9,3 +9,5 @@ Find the count of 2 x 2 squares of equal chars in a matrix.
 
 	Print the number of all the squares matrixes you have found.
 
+## Examples:
+
