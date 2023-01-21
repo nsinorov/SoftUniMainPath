@@ -24,3 +24,7 @@ You must print the count of all alive cells and their sum. Afterward, print the 
 	The bomb coordinates will always be in the matrix.
 	The bomb's values will always be greater than 0.
 	The integers of the matrix will be in the range [1…10000]. 
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/213867092-c43a562c-f7d4-4031-8646-2bc242d82937.png)
