@@ -13,3 +13,4 @@ You will receive a board with K for knights and '0' for empty cells. Your task i
 	
 ## Output:
 
+	Print a single integer with the minimum number of knights that needs to be removed.
