@@ -19,3 +19,7 @@ Then, you will receive commands. There are three possible commands:
 	{value} will always be an integer number.
 	Then you will be receiving commands until reading "End".
 
+## Output:
+
+	The output should be printed on the console and it should consist of N lines.
+	Each line should contain a string representing the respective row of the final matrix, elements separated by a single space.
