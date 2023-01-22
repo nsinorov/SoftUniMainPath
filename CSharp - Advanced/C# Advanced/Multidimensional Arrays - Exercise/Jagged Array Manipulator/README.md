@@ -11,3 +11,11 @@ Then, you will receive commands. There are three possible commands:
 	"Add {row} {column} {value}" - add {value} to the element at the given indexes, if they are valid.
 	"Subtract {row} {column} {value}" - subtract {value} from the element at the given indexes, if they are valid.
 	"End" - print the final state of the matrix (all elements separated by a single space) and stop the program.
+
+## Input: 
+
+	On the first line, you will receive the number of rows of the matrix - integer N.
+	On the next N lines, you will receive each row – sequence of integers, separated by a single space
+	{value} will always be an integer number.
+	Then you will be receiving commands until reading "End".
+
