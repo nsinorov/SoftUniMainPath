@@ -27,3 +27,4 @@ Then, you will receive commands. There are three possible commands:
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/213917877-e29266e6-6ad7-4269-bf9e-ae5aef5d5092.png)
+![image](https://user-images.githubusercontent.com/45227327/213917909-6cb4fe8d-8a9f-4fac-af76-909b04110a0a.png)
