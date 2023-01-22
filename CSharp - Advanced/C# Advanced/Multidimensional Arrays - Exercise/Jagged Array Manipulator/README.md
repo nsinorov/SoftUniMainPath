@@ -23,3 +23,6 @@ Then, you will receive commands. There are three possible commands:
 
 	The output should be printed on the console and it should consist of N lines.
 	Each line should contain a string representing the respective row of the final matrix, elements separated by a single space.
+
+## Examples:
+
