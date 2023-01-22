@@ -18,3 +18,4 @@ You will receive a board with K for knights and '0' for empty cells. Your task i
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/213918000-193ae955-b305-4708-a272-8d40783a7585.png)
+![image](https://user-images.githubusercontent.com/45227327/213918025-84a7f310-2704-46d7-a98d-ca2eab5fccc5.png)
