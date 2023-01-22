@@ -17,3 +17,4 @@ You will receive a board with K for knights and '0' for empty cells. Your task i
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/213918000-193ae955-b305-4708-a272-8d40783a7585.png)
