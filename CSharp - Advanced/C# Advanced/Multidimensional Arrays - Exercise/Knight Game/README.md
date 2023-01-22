@@ -6,3 +6,7 @@ The knight game is played on a board with dimensions N x N and a lot of chess kn
 
 You will receive a board with K for knights and '0' for empty cells. Your task is to remove a minimum of the knights, so there will be no knights left that can attack another knight. 
 
+## Input:
+
+	On the first line, you will receive the N side of the board.
+	On the next N lines, you will receive strings with Ks and 0s.
