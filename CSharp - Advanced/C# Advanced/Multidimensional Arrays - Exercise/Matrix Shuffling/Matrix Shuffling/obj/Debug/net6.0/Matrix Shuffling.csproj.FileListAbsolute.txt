@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\refint\Matrix Shuffling.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net6.0\ref\Matrix Shuffling.dll
