@@ -4,3 +4,5 @@ Your program should then receive commands in the format: "swap row1 col1 row2 co
 
 If the command is not valid (doesn't contain the keyword "swap", has fewer or more coordinates entered or the given coordinates do not exist), print "Invalid input!" and move on to the next command. Your program should finish when the string "END" is entered.
 
+## Examples: 
+
