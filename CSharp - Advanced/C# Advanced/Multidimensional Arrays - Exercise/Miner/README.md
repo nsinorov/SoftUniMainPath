@@ -28,3 +28,5 @@ If there are no more commands and none of the above cases had happened, you have
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214079176-7d6ed62e-fe56-4ffb-b5a4-fce9a1786210.png)
+![image](https://user-images.githubusercontent.com/45227327/214079331-fbd43fef-9c6b-478a-8a50-ea3f200663f8.png)
