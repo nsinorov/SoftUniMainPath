@@ -18,3 +18,10 @@ If there are no more commands and none of the above cases had happened, you have
 	Field size – an integer number.
 	Commands to move the miner – an array of strings separated by  ' '.
 	The field: some of the following characters (*, e, c, s), separated by whitespace (' ').
+
+## Output:
+
+	There are three types of output:
+	If all the coals have been collected, print the following output: "You collected all coals! ({rowIndex}, {colIndex})".
+	If you have reached the end, you have to stop moving and print the following line: "Game over! ({rowIndex}, {colIndex})".
+	If there are no more commands and none of the above cases had happened, you have to print the following message: "{totalCoals} coals left. ({rowIndex}, {colIndex})".
