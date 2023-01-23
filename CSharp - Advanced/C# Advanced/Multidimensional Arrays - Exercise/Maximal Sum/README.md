@@ -10,3 +10,4 @@ Create a program that reads a rectangular integer matrix of size N x M and finds
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214078326-181105a7-b4c8-49ed-8512-311b03124e6c.png)
