@@ -12,3 +12,9 @@ Each time when the miner finds coal, he collects it and replaces it with '*'. Ke
 If the miner steps at 'e' the game is over (the program stops) and you have to print the following message: "Game over! ({rowIndex}, {colIndex})".
 
 If there are no more commands and none of the above cases had happened, you have to print the following message: "{remainingCoals} coals left. ({rowIndex}, {colIndex})".
+
+## Input:
+
+	Field size – an integer number.
+	Commands to move the miner – an array of strings separated by  ' '.
+	The field: some of the following characters (*, e, c, s), separated by whitespace (' ').
