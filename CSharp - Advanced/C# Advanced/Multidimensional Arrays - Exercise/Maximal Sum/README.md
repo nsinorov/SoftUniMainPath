@@ -7,3 +7,6 @@ Create a program that reads a rectangular integer matrix of size N x M and finds
 ## Output:
 
 	Print the elements of the 3 x 3 square as a matrix, along with their sum.
+
+## Examples:
+
