@@ -25,3 +25,6 @@ If there are no more commands and none of the above cases had happened, you have
 	If all the coals have been collected, print the following output: "You collected all coals! ({rowIndex}, {colIndex})".
 	If you have reached the end, you have to stop moving and print the following line: "Game over! ({rowIndex}, {colIndex})".
 	If there are no more commands and none of the above cases had happened, you have to print the following message: "{totalCoals} coals left. ({rowIndex}, {colIndex})".
+
+## Examples:
+
