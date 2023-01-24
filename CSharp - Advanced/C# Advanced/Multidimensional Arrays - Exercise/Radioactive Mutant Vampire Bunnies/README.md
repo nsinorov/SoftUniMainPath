@@ -25,3 +25,4 @@ Finally, print the final state of the lair with every row on a separate line. On
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214413434-b7d6dd20-73ef-4200-b9ae-ed14427bce03.png)
