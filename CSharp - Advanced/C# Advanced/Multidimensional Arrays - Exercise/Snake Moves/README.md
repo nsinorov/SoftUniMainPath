@@ -9,3 +9,6 @@ The first cell is filled with the first symbol of the snake, the second cell is 
 	The input data should be read from the console. It consists of exactly two lines.
 	On the first line, you'll receive the dimensions of the stairs in the format: "N M", where N is the number of rows, and M is the number of columns. They'll be separated by a single space.
 	On the second line, you'll receive the string representing the snake.
+
+## Output:
+
