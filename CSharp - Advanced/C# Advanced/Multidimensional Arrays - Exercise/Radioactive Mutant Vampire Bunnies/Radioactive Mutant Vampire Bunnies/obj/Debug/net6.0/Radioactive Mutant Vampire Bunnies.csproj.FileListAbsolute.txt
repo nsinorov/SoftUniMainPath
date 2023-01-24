@@ -1,0 +1,1 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
