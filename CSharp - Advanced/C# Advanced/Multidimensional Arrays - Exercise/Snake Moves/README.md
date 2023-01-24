@@ -12,3 +12,5 @@ The first cell is filled with the first symbol of the snake, the second cell is 
 
 ## Output:
 
+	The output should be printed on the console. It should consist of N lines.
+	Each line should contain a string representing the respective row of the matrix.
