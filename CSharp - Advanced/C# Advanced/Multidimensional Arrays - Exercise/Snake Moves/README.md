@@ -17,3 +17,4 @@ The first cell is filled with the first symbol of the snake, the second cell is 
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214414334-16e4c483-c7b4-45db-ba41-2bdaecd67503.png)
