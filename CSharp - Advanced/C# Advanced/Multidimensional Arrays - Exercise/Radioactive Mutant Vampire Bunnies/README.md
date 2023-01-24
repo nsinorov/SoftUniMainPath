@@ -22,3 +22,6 @@ Finally, print the final state of the lair with every row on a separate line. On
 
 	On the first N lines, print the final state of the bunny lair.
 	On the last line, print the outcome – "won:" or "dead:" + {row} {col}.
+
+## Examples:
+
