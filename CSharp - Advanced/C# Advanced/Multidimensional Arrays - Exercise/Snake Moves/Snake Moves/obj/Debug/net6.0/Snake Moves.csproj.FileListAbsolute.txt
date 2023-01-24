@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\bin\Debug\net6.0\Snake Moves.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\bin\Debug\net6.0\Snake Moves.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\bin\Debug\net6.0\Snake Moves.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\bin\Debug\net6.0\Snake Moves.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\bin\Debug\net6.0\Snake Moves.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\refint\Snake Moves.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\Snake Moves.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\Snake Moves\obj\Debug\net6.0\ref\Snake Moves.dll
