@@ -8,3 +8,5 @@ Write a program that reads the contents of two input text files (e. g. input1.tx
   
 If some of the files have more lines than the other, append at the end of the output the lines, which cannot be matched with the other file.
 
+## Examples:
+
