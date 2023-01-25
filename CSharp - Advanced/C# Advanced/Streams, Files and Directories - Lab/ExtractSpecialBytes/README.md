@@ -2,4 +2,5 @@ You are given a binary file (e. g. example.png) and a text file (e. g. bytes.txt
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214652326-f2935d66-48d0-4206-9a56-5317d9d74ebd.png)
 
