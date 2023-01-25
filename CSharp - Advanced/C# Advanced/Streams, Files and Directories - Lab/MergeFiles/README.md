@@ -10,3 +10,4 @@ If some of the files have more lines than the other, append at the end of the ou
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214653216-2d6381be-b01b-405d-91a1-3482180e7065.png)
