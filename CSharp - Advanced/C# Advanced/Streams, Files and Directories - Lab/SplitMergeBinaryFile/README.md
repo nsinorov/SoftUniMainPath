@@ -2,3 +2,4 @@ You are given an input binary file (e. g. example.png). Write a program to split
 
 After splitting the input file, join the obtained files into a new file (e. g. example-joined.png). The obtained result file should be the same as the initial input file.
 
+Items in folder Files
