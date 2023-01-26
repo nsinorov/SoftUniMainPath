@@ -13,7 +13,7 @@
 <table>
 
 <tr>
-  <th> C# </th>
+  <th> C# - CSharp (.NET) </th>
 </tr>
 
 <tr>
