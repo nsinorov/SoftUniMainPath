@@ -2,3 +2,4 @@ Write a program that reads a list of words from a given file (e. g. words.txt) a
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/214940364-587c95f4-c5d6-4ccd-9795-da9c6d330c1c.png)
