@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll
