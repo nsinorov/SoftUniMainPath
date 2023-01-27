@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll
