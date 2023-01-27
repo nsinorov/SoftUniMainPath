@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\bin\Debug\net6.0\Sum Numbers.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\bin\Debug\net6.0\Sum Numbers.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\bin\Debug\net6.0\Sum Numbers.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\bin\Debug\net6.0\Sum Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\bin\Debug\net6.0\Sum Numbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\refint\Sum Numbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\Sum Numbers.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Sum Numbers\Sum Numbers\obj\Debug\net6.0\ref\Sum Numbers.dll
