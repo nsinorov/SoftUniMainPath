@@ -2,3 +2,4 @@ Create a program that reads one line of integers separated by ", ". Then prints 
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215222388-f032a9d4-c966-445c-b07d-27062b67ef30.png)
