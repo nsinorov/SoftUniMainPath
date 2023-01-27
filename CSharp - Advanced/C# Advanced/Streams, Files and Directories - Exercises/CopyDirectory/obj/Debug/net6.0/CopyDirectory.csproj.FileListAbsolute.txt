@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\refint\CopyDirectory.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\ref\CopyDirectory.dll
