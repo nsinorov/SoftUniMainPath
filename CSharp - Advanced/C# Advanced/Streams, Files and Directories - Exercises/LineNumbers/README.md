@@ -2,3 +2,4 @@ Write a program that reads a text file (e. g. text.txt) and inserts line numbers
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215200344-6a832dac-9519-4624-be5b-111f43e1331b.png)
