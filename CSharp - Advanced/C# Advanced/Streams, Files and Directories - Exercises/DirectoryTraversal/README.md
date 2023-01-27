@@ -4,3 +4,4 @@ The files should be grouped by their extension. Extensions should be ordered by 
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215199165-995c9f53-b1a5-4448-bba7-b476603fd87e.png)
