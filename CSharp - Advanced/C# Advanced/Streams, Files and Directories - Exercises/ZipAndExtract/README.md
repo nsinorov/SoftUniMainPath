@@ -5,3 +5,7 @@ Write a program that creates a ZIP file (archive), holding a given input file, a
 
 If your code works correctly, the input and output files should be the same.
 
+Hints
+
+	Use the ZipFile class.
+	The entry in the ZIP file should hold the file name only without its path.
