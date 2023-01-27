@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
