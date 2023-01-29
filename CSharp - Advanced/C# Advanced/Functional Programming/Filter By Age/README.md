@@ -6,3 +6,5 @@ Write a program that receives an integer N on the first line. On the next N line
 
 Depending on the condition, print the correct pairs in the correct format. Don't use the built-in functionality from .NET. Create your own methods.
 
+## Examples:
+
