@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\bin\Debug\net6.0\Add VAT.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\bin\Debug\net6.0\Add VAT.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\bin\Debug\net6.0\Add VAT.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\bin\Debug\net6.0\Add VAT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\bin\Debug\net6.0\Add VAT.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\refint\Add VAT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\Add VAT.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Add VAT\Add VAT\obj\Debug\net6.0\ref\Add VAT.dll
