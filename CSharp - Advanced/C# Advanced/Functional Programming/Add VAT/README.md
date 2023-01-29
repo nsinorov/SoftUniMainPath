@@ -3,3 +3,4 @@ VAT is equal to 20% of the price.
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215353167-2efba057-c62f-4600-ab03-6fd68ac535a3.png)
