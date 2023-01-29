@@ -9,3 +9,4 @@ Depending on the condition, print the correct pairs in the correct format. Don't
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/215352913-af079f9b-8374-43d5-ac15-f9981b438d18.png)
+![image](https://user-images.githubusercontent.com/45227327/215352990-86c57eef-5500-49a0-a1b8-b7986de01bd3.png)
