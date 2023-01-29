@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\bin\Debug\net6.0\Count Uppercase Words.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\bin\Debug\net6.0\Count Uppercase Words.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\bin\Debug\net6.0\Count Uppercase Words.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\bin\Debug\net6.0\Count Uppercase Words.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\bin\Debug\net6.0\Count Uppercase Words.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\refint\Count Uppercase Words.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\Count Uppercase Words.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming\Count Uppercase Words\Count Uppercase Words\obj\Debug\net6.0\ref\Count Uppercase Words.dll
