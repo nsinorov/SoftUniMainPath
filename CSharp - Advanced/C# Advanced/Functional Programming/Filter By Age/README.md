@@ -13,3 +13,11 @@ Depending on the condition, print the correct pairs in the correct format. Don't
 
 ## Hints:
 
+Implement the following steps:
+
+	List<Person> people = ReadPeople();
+	Func<Person, bool> filter = CreateFilter(condition, ageThreshold);
+	Action<Person> printer = CreatePrinter(format);
+	PrintFilteredPeople(people, filter, printer);
+	
+The methods CreateFilter(condition, ageThreshold) and CreatePrinter(format) should return lambda functions as output.
