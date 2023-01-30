@@ -10,3 +10,5 @@ Note: Use functions
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215600076-d71515d1-bb30-470a-9bdd-165feba92829.png)
+![image](https://user-images.githubusercontent.com/45227327/215600140-ad38757e-db4b-4f13-9d6c-87d03e1d475c.png)
