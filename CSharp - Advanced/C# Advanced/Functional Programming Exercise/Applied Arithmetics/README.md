@@ -8,3 +8,5 @@ Create a program that executes some mathematical operations on a given collectio
   
 Note: Use functions
 
+## Examples:
+
