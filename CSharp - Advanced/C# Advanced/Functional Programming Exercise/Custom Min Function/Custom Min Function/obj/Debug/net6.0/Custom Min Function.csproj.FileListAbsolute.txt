@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\bin\Debug\net6.0\Custom Min Function.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\bin\Debug\net6.0\Custom Min Function.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\bin\Debug\net6.0\Custom Min Function.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\bin\Debug\net6.0\Custom Min Function.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\bin\Debug\net6.0\Custom Min Function.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\refint\Custom Min Function.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\Custom Min Function.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Functional Programming Exercise\Custom Min Function\Custom Min Function\obj\Debug\net6.0\ref\Custom Min Function.dll
