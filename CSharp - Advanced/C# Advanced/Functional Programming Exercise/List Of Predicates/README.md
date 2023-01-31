@@ -2,4 +2,6 @@ Find all numbers in the range 1…N that are divisible by the numbers of a given
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/215847103-46ef8a7d-9cbe-4ada-995e-5eb59a27d3b5.png)
+![image](https://user-images.githubusercontent.com/45227327/215847176-c1c39825-014a-46b0-87c8-caf71f15a8fd.png)
 
