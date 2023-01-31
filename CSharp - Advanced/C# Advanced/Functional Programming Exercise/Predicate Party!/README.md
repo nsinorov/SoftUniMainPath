@@ -11,3 +11,4 @@ Finally, print all the guests who are going to the party separated by ", " and t
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/215847849-ab115261-e4bd-4ca7-b017-5b014888df0b.png)
+![image](https://user-images.githubusercontent.com/45227327/215847952-4a43bf52-1754-48e4-8b0b-7eae52ac1a49.png)
