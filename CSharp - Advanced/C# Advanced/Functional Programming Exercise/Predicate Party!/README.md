@@ -8,3 +8,5 @@ On the first line, you receive a list of all the people that are coming. On the 
 
 Finally, print all the guests who are going to the party separated by ", " and then add the ending "are going to the party!". If no guests are going to the party print "Nobody is going to the party!". See the examples below:
 
+## Examples:
+
