@@ -2,4 +2,4 @@ Write a program that filters a list of names according to their length. On the f
 
 ## Examples:
 
-
+![image](https://user-images.githubusercontent.com/45227327/215847432-ac88f23e-205e-49c1-9d7f-081b496247c6.png)
