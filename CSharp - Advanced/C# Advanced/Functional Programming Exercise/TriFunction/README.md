@@ -2,3 +2,4 @@ Create a program that traverses a collection of names and returns the first name
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/216150667-2241e5a0-3090-4e74-87e6-500e28cf6ee1.png)
