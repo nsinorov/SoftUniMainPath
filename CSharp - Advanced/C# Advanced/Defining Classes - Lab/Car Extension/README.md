@@ -31,3 +31,4 @@ The class should also have methods for:
        
 You should be able to use the class like this:
 
+![image](https://user-images.githubusercontent.com/45227327/216152330-08c3188a-4b6f-49b3-9e63-2788e0b6ebc2.png)
