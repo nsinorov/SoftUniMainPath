@@ -18,3 +18,6 @@ The possible PRFM filter types are:
 	"Contains"
   
 All PRFM filter parameters will be a string (or an integer only for the "Length" filter). Each command will be valid e.g. you won't be asked to remove a non-existent filter. The input will end with a "Print" command, after which you should print all the party-goers that are left after the filtration. See the examples below:
+
+## Examples:
+
