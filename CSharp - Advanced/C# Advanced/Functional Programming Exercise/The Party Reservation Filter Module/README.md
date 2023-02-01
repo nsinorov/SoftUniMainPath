@@ -21,3 +21,4 @@ All PRFM filter parameters will be a string (or an integer only for the "Length"
 
 ## Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/216150397-102bee14-56c6-4d99-a049-fcee69323309.png)
