@@ -1,1 +1,1 @@
-
+You need to implement a filtering module to a party reservation software. First, the Party Reservation Filter Module (PRFM for short) has been passed a list with invitations. Next, the PRFM receives a sequence of commands that specify whether you need to add or remove a given filter.
