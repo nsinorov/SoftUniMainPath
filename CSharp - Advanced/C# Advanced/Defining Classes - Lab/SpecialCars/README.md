@@ -25,3 +25,5 @@ Finally, print information about each special car in the following format:
        "Year: {specialCar.Year}"
        "HorsePowers: {specialCar.Engine.HorsePower}"
        "FuelQuantity: {specialCar.FuelQuantity}"
+
+![image](https://user-images.githubusercontent.com/45227327/216331350-8b987ab6-5a71-42a4-ac9d-34b646afa0c7.png)
