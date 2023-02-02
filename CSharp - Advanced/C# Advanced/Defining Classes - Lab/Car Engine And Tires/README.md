@@ -27,3 +27,6 @@ The class should also have a constructor, which accepts horsepower and cubicCapa
 The class should also have a constructor, which accepts year and pressure upon initialization
 
 Finally, go to the Car class and create private fields and public properties for Engine and Tire[].Create another constructor, which accepts make, model, year, fuelQuantity, fuelConsumption, Engine and Tire[] upon initialization:
+
+You should be able to use the classes like this:
+![image](https://user-images.githubusercontent.com/45227327/216330593-ea68dcdf-ad3f-4b1a-ba50-93c863d83036.png)
