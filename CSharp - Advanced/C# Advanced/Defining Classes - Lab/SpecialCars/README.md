@@ -15,3 +15,13 @@ The final step - until you receive "Show special", you will be given information
        
        {make} {model} {year} {fuelQuantity} {fuelConsumption} {engineIndex} {tiresIndex}
        …
+
+Every time you have to create a new Car with the information provided. The car engine is the provided engineIndex and the tires are tiresIndex. Finally, collect all the created cars. When you receive the command "Show special", drive 20 kilometers all the cars, which were manufactured during 2017 or after, have horsepower above 330 and the sum of their tire pressure is between 9 and 10. 
+
+Finally, print information about each special car in the following format:
+
+       "Make: {specialCar.Make}"
+       "Model: {specialCar.Model}"
+       "Year: {specialCar.Year}"
+       "HorsePowers: {specialCar.Engine.HorsePower}"
+       "FuelQuantity: {specialCar.FuelQuantity}"
