@@ -11,3 +11,7 @@ You have to collect all the tires provided. Next, until you receive the command 
        {horsePower} {cubicCapacity} 
        …
 
+The final step - until you receive "Show special", you will be given information about cars in the format:
+       
+       {make} {model} {year} {fuelQuantity} {fuelConsumption} {engineIndex} {tiresIndex}
+       …
