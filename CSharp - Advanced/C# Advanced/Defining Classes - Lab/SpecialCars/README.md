@@ -27,3 +27,4 @@ Finally, print information about each special car in the following format:
        "FuelQuantity: {specialCar.FuelQuantity}"
 
 ![image](https://user-images.githubusercontent.com/45227327/216331350-8b987ab6-5a71-42a4-ac9d-34b646afa0c7.png)
+![image](https://user-images.githubusercontent.com/45227327/216331465-50ac5174-0774-42fa-aa9c-f8e546457745.png)
