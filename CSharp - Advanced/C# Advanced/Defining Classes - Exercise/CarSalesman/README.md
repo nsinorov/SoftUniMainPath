@@ -21,7 +21,7 @@ Next, the Engine class has the following properties:
 	On each of the next N lines, you will receive information about an Engine in the following format: "{model} {power} {displacement} {efficiency}"
 	Keep in mind that "displacement" and "efficiency" are optional, they could be missing from the command.
 
-2.	Next, you will receive a number M, which will specify how many lines of car you will receive. 
+2.Next, you will receive a number M, which will specify how many lines of car you will receive. 
 
 	On each of the next M lines, you will receive information about a Car in the following format: "{model} {engine} {weight} {color}".
 	Keep in mind that "weight" and "color" are optional, they could be missing from the command.
