@@ -29,3 +29,15 @@ Next, the Engine class has the following properties:
 	When creating the object for a Car, you should keep a reference to the real engine in it, instead of just the engine's model. 
 
 Note: The optional properties might be missing from the formats.
+
+## Output:
+
+Your task is to print all the cars in the order they were received and their information in the format defined below. If any of the optional fields are missing, print "n/a" in its place:
+
+"{CarModel}:
+  {EngineModel}:
+    Power: {EnginePower}
+    Displacement: {EngineDisplacement}
+    Efficiency: {EngineEfficiency}
+  Weight: {CarWeight}
+  Color: {CarColor}"
