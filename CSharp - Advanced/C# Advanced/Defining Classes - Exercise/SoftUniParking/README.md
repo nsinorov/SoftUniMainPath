@@ -24,3 +24,9 @@ Implement the following fields:
 	Field capacity – accessed only by the base class (responsible for the parking capacity).
 
 Implement the following methods:
+
+	AddCar(Car Car)
+	RemoveCar(string RegistrationNumber)
+	GetCar(string RegistrationNumber)
+	RemoveSetOfRegistrationNumber(List<string> RegistrationNumbers)
+	
