@@ -13,3 +13,14 @@ The class' constructor should receive make, model, horsePower and registrationNu
 	"Model: {model}"
 	"HorsePower: {horse power}"
 	"RegistrationNumber: {registration number}"
+	
+Create a C# class Parking that has Cars (a collection that stores the entity Car). All entities inside the class have the same properties.
+
+The class' constructor should initialize the Cars with a new instance of the collection and accept capacity as a parameter. 
+
+Implement the following fields:
+
+	Field cars –  a collection that holds added cars.
+	Field capacity – accessed only by the base class (responsible for the parking capacity).
+
+Implement the following methods:
