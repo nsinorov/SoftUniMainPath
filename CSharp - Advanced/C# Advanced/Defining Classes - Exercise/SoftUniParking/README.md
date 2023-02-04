@@ -30,3 +30,6 @@ Implement the following methods:
 	GetCar(string RegistrationNumber)
 	RemoveSetOfRegistrationNumber(List<string> RegistrationNumbers)
 	
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/216777375-a2575c46-9f76-4ab3-a432-954f30968d5c.png)
