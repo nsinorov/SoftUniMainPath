@@ -35,3 +35,4 @@ If a pokemon falls to 0 or less health, he dies and must be deleted from the tra
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/216777084-2924c08e-e0c8-4db6-a714-aaf2a2b7161b.png)
+![image](https://user-images.githubusercontent.com/45227327/216777101-6fd9d7b2-a7f0-4518-ba14-9128764c7cf1.png)
