@@ -31,3 +31,7 @@ For every command, you must check if a trainer has at least 1 pokemon with the g
 If a pokemon falls to 0 or less health, he dies and must be deleted from the trainer's collection. In the end, you should print all of the trainers, sorted by the number of badges they have in descending order (if two trainers have the same amount of badges, they should be sorted by order of appearance in the input) in the format: 
 
 	"{trainerName} {badges} {numberOfPokemon}"
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/216777084-2924c08e-e0c8-4db6-a714-aaf2a2b7161b.png)
