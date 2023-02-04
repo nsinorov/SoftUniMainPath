@@ -7,3 +7,9 @@ First, write a C# class Car with the following properties:
 	HorsePower: int
 	RegistrationNumber: string
 
+The class' constructor should receive make, model, horsePower and registrationNumber and override the ToString() method in the following format:
+
+	"Make: {make}"
+	"Model: {model}"
+	"HorsePower: {horse power}"
+	"RegistrationNumber: {registration number}"
