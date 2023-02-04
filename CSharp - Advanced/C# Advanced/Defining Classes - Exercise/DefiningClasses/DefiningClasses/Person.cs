@@ -1,31 +1,23 @@
-﻿namespace DefiningClasses;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class Person
+namespace DefiningClasses
 {
-    private string name;
-    private int age;
-
-    public string Name
+    public class Person
     {
-        get
-        {
-            return this.name;
-        }
-        set
-        {
-            this.name = value;
-        }
-    }
+        private string name;
+        private int age;
+      
 
-    public int Age
-    {
-        get
-        {
-            return this.age;
+        public Person()
+        { 
+
         }
-        set
-        {
-            this.age = value;
-        }
+
+        public string Name { get; set; }
+
+        public int Age { get; set; }
+
     }
 }
