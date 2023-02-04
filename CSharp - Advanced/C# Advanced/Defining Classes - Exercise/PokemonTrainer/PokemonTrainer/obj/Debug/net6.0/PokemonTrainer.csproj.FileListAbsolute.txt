@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll
