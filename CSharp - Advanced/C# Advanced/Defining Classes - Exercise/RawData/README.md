@@ -22,3 +22,10 @@ On the first line of input, you will receive a number N representing the number 
 -The tire pressure is a floating point number. 
 
 **2.** Next, you will receive a single line with one of the following commands:  "fragile" or "flammable".
+
+## Output:
+
+	"fragile" - print all cars, whose cargo is "fragile" and have a pressure of a single tire < 1.
+	"flammable" - print all cars, whose cargo is "flammable" and have engine power > 250.
+	
+The cars should be printed in order of appearing in the input.
