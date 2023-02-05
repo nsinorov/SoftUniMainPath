@@ -29,3 +29,6 @@ On the first line of input, you will receive a number N representing the number 
 	"flammable" - print all cars, whose cargo is "flammable" and have engine power > 250.
 	
 The cars should be printed in order of appearing in the input.
+
+## Examples:
+
