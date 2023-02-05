@@ -9,3 +9,6 @@ A car's model is unique - there will never be 2 cars with the same model. On the
   
   	"{model} {fuelAmount} {fuelConsumptionFor1km}"
 
+All cars start at 0 kilometers traveled. After the N lines, until the command "End" is received, you will receive commands in the following format: 
+
+	"Drive {carModel} {amountOfKm}"
