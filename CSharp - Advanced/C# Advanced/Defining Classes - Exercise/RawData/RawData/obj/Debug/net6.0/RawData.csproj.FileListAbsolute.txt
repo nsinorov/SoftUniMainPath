@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\bin\Debug\net6.0\RawData.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\bin\Debug\net6.0\RawData.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\bin\Debug\net6.0\RawData.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\bin\Debug\net6.0\RawData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\bin\Debug\net6.0\RawData.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\refint\RawData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\RawData.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\StartUp\RawData\obj\Debug\net6.0\ref\RawData.dll
