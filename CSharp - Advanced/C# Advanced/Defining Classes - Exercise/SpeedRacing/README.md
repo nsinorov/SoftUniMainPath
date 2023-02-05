@@ -7,5 +7,5 @@ Create a program that keeps track of cars and their fuel and supports methods fo
 
 A car's model is unique - there will never be 2 cars with the same model. On the first line of the input, you will receive a number N – the number of cars you need to track. On each of the next N lines, you will receive information about a car in the following format: 
   
-  "{model} {fuelAmount} {fuelConsumptionFor1km}"
+  	"{model} {fuelAmount} {fuelConsumptionFor1km}"
 
