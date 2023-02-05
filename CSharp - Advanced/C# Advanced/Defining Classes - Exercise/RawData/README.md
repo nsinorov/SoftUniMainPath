@@ -9,3 +9,16 @@ Start by defining a class Car that holds information about:
 
 Create a constructor that receives all of the information about the Car and creates and initializes the model and its inner components (engine, cargo and tires).
 
+## Input:
+
+On the first line of input, you will receive a number N representing the number of cars you have. 
+
+**1.** On the next N lines, you will receive information about each car in the format:
+	
+		"{model} {engineSpeed} {enginePower} {cargoWeight} {cargoType} {tire1Pressure} {tire1Age} {tire2Pressure} {tire2Age} {tire3Pressure} {tire3Age} {tire4Pressure} {tire4Age}"
+	
+-The speed, power, weight and tire age are integers.
+
+-The tire pressure is a floating point number. 
+
+**2.** Next, you will receive a single line with one of the following commands:  "fragile" or "flammable".
