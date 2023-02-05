@@ -28,3 +28,4 @@ Print the fuel amount formatted two digits after the decimal separator.
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/216830879-90ff9a6f-63a8-4112-97d4-83fde527fb74.png)
+![image](https://user-images.githubusercontent.com/45227327/216830899-07660b98-50eb-4cf3-b058-0a72b0f6075f.png)
