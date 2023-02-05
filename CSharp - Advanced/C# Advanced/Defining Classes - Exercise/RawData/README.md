@@ -33,3 +33,4 @@ The cars should be printed in order of appearing in the input.
 ## Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/216831149-60c7b81f-b148-4cff-a07f-9af2e2baecc4.png)
+![image](https://user-images.githubusercontent.com/45227327/216831159-921f7119-1a80-49ec-8e8e-79f32da74f79.png)
