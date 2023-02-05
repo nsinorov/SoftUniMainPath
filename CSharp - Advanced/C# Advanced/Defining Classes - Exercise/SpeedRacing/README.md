@@ -24,3 +24,7 @@ After the "End" command is received, print each car and its current fuel amount 
 	 "{model} {fuelAmount} {distanceTraveled}"
 	 
 Print the fuel amount formatted two digits after the decimal separator.
+
+## Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/216830879-90ff9a6f-63a8-4112-97d4-83fde527fb74.png)
