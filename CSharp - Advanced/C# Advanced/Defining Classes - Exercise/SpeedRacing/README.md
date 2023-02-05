@@ -18,3 +18,9 @@ Implement a method in the Car class to calculate whether or not a car can move t
 Otherwise, the car should not move (its fuel amount and the traveled distance should stay the same) and you should print on the console:
 
 	"Insufficient fuel for the drive"
+
+After the "End" command is received, print each car and its current fuel amount and the traveled distance in the format:
+
+	 "{model} {fuelAmount} {distanceTraveled}"
+	 
+Print the fuel amount formatted two digits after the decimal separator.
