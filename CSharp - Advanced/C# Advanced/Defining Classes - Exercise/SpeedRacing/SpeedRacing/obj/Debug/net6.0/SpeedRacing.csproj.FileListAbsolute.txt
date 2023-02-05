@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Defining Classes - Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll
