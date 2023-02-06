@@ -67,3 +67,7 @@ Now, implement the next method: ToArray()  int[]. It should copy all elements
 	Allocate an array int[] of size this.Count.
 	Pass through all elements of the list and fill them to int[0], int[1], …, int[Count-1].
 	Return the array as result.
+
+### Results: 
+	
+![image](https://user-images.githubusercontent.com/45227327/216959919-ceb04382-bcfc-40e2-92c8-e208494d4ee9.png)
