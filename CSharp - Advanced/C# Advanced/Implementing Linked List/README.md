@@ -41,3 +41,6 @@ Next, let's implement the method RemoveFirst()  int. It should remove the fir
 	Single element in the list  make the list empty (head == tail == null).
 	Multiple elements in the list  remove the first element and redirect the head to point to the second element (head = head.NextNode).
 
+### Implement RemoveLast() Method
+
+Next, let's implement the method RemoveLast()  int. It should remove the last element from the list and move its tail to point to the element before the last. It is very similar to the method RemoveFirst(). 
