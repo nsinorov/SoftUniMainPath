@@ -52,3 +52,11 @@ We have a doubly-linked list. We can add elements to it. But we cannot see what'
 Now let's define the ForEach(Action<int>) method. In programming, such a method is known as a "visitor" pattern. It takes as an argument a function (action) to be invoked for each of the elements of the list.
 
 The algorithm behind this method is simple: start from the head and pass to the next element until the last element is reached (its next element is null). A sample implementation is given below:
+	
+	For example, if you want to print all of the elements you can use the following code:
+	
+![image](https://user-images.githubusercontent.com/45227327/216959261-a9cf4d68-b93f-496c-8445-957faf56c2a9.png)
+
+ 
+Where list is DoublyLinkedList type object.
+
