@@ -28,3 +28,9 @@ Adding an element at the beginning of the list (before its head) has two scenari
 
  
 The above graphic visualizes the process of inserting a new node at the start (head) of the list. The red arrows denote the removed pointers from the old head. The green arrows denote the new pointers to the new head.
+
+### Implement AddLast(int) Method
+
+Next, implement the AddLast(int element) method for appending a new element as the list tail. It should be very similar to the AddFirst(int element) method. The logic inside it is the same, but we append the new element at the tail instead of at the head. 
+
+
