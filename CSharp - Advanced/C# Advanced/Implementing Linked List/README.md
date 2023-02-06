@@ -33,4 +33,11 @@ The above graphic visualizes the process of inserting a new node at the start (h
 
 Next, implement the AddLast(int element) method for appending a new element as the list tail. It should be very similar to the AddFirst(int element) method. The logic inside it is the same, but we append the new element at the tail instead of at the head. 
 
+### Implement RemoveFirst() Method
+
+Next, let's implement the method RemoveFirst()  int. It should remove the first element from the list and move its head to point to the second element. The removed element should be returned as a result of the method. In case of an empty list, the method should throw an exception. We have to consider the following three cases:
+
+	Empty list  throw an exception.
+	Single element in the list  make the list empty (head == tail == null).
+	Multiple elements in the list  remove the first element and redirect the head to point to the second element (head = head.NextNode).
 
