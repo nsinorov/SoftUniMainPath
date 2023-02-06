@@ -7,3 +7,12 @@ If you are interested, you can find more detailed information here: https://en.w
 This figure shows how the structure looks:
 
 ![image](https://user-images.githubusercontent.com/45227327/216958397-4e404b68-65e5-4155-b47c-869c3c166031.png)
+
+### Implementation:
+
+The first step when implementing a linked / doubly linked list is to understand that we need two classes:
+
+	ListNode – a class to hold a single list node (its value + next node + previous node)
+	DoublyLinkedList – a class that holds the entire list (it's head + tail + operations)
+
+Now, let's create the ListNode class. It should hold a Value and a reference to its previous and next node. We can do that inside the DoublyLinkedList class because we will use it only internally inside it. 
