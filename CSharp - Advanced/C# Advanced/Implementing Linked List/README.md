@@ -60,3 +60,10 @@ The algorithm behind this method is simple: start from the head and pass to the 
  
 Where list is DoublyLinkedList type object.
 
+### Implement ToArray() Method
+	
+Now, implement the next method: ToArray()  int[]. It should copy all elements of the linked list to an array of the same size. You could use the following steps to implement this method:
+	
+	Allocate an array int[] of size this.Count.
+	Pass through all elements of the list and fill them to int[0], int[1], …, int[Count-1].
+	Return the array as result.
