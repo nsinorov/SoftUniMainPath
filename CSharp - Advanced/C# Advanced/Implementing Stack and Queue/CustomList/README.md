@@ -34,3 +34,6 @@ In both accessors, we must check if the index is less than the Count and greater
 
 ### Implement Void Add(int Element) Method
 
+It is time to create the method, which adds a new element to the end of our collection, just like in the C# lists. It looks like an easy task, but keep in mind that if our internal array is filled, we have to increase it by twice the length it currently has and add the new element.
+
+To make our job easier let's create a Resize() method first. The method should be used only within the class so it must be private. 
