@@ -21,3 +21,8 @@ The structure will have internal methods to make the managing of the internal co
 
 Create a new public class CustomList and add a private constant field named InitialCapacity and set the value to 2. This field is used to declare the initial capacity of the internal array. It's always a good practice to use constants instead of magic numbers in your classes.
 This approach makes the code better for managing and reading.
+
+Now let's create the initial collection, which is a private array of type int. To initialize the array, we will use the constructor of the class.
+Keep in mind that if the internal array has a length of 4, this doesn't mean that our collection holds 4 elements. So we need a property, which will keep the information of the actual count of the elements in the structure.
+This property should be updated every single time when we make changes related to the count of the elements like adding or removing.
+It would be awesome if we can access the items in the collection without exposing the internal array. So, let's implement this functionality. 
