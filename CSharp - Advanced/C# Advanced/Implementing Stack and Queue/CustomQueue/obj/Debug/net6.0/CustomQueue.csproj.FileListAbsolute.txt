@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\bin\Debug\net6.0\CustomQueue.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\bin\Debug\net6.0\CustomQueue.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\bin\Debug\net6.0\CustomQueue.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\bin\Debug\net6.0\CustomQueue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\bin\Debug\net6.0\CustomQueue.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\refint\CustomQueue.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\CustomQueue.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Implementing Stack and Queue\CustomList\CustomQueue\obj\Debug\net6.0\ref\CustomQueue.dll
