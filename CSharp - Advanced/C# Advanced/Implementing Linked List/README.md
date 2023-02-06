@@ -44,3 +44,11 @@ Next, let's implement the method RemoveFirst()  int. It should remove the fir
 ### Implement RemoveLast() Method
 
 Next, let's implement the method RemoveLast()  int. It should remove the last element from the list and move its tail to point to the element before the last. It is very similar to the method RemoveFirst(). 
+
+### Implement ForEach(Action) Method
+
+We have a doubly-linked list. We can add elements to it. But we cannot see what's inside, because the list still does not have a method to traverse its elements (pass through each of them, one by one).
+
+Now let's define the ForEach(Action<int>) method. In programming, such a method is known as a "visitor" pattern. It takes as an argument a function (action) to be invoked for each of the elements of the list.
+
+The algorithm behind this method is simple: start from the head and pass to the next element until the last element is reached (its next element is null). A sample implementation is given below:
