@@ -16,3 +16,15 @@ The first step when implementing a linked / doubly linked list is to understand 
 	DoublyLinkedList – a class that holds the entire list (it's head + tail + operations)
 
 Now, let's create the ListNode class. It should hold a Value and a reference to its previous and next node. We can do that inside the DoublyLinkedList class because we will use it only internally inside it. 
+
+### Implement AddFirst(int) Method
+
+Adding an element at the beginning of the list (before its head) has two scenarios (considered in the above code):
+
+	Empty list  add the new element as head and tail at the same time.
+	Non-empty list  add the new element as a new head and redirect the old head as the second element, just after the new head.
+
+![image](https://user-images.githubusercontent.com/45227327/216958791-25a30c59-c0b1-46a2-bba7-3c8b6989e1e1.png)
+
+ 
+The above graphic visualizes the process of inserting a new node at the start (head) of the list. The red arrows denote the removed pointers from the old head. The green arrows denote the new pointers to the new head.
