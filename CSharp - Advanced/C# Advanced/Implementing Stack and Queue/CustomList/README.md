@@ -32,3 +32,5 @@ When somebody tries to access our collection using an index, the get accessor is
 
 In both accessors, we must check if the index is less than the Count and greater or equal to zero because our structure actual items count might be different from the internal array length.
 
+### Implement Void Add(int Element) Method
+
