@@ -17,3 +17,7 @@ The structure will have internal methods to make the managing of the internal co
 	Shrink – this method will help us to decrease the internal collection's length twice.
 	Shift – this method will help us to rearrange the internal collection's elements after removing one.
 
+### Implementation
+
+Create a new public class CustomList and add a private constant field named InitialCapacity and set the value to 2. This field is used to declare the initial capacity of the internal array. It's always a good practice to use constants instead of magic numbers in your classes.
+This approach makes the code better for managing and reading.
