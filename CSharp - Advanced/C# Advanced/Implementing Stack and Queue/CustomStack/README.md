@@ -35,3 +35,6 @@ This method adds an element to the end of the collection, just like the C# Stack
 ### Implement int Pop() Method
 
 The Pop() method returns the last element from the collection and removes it. The implementation is easier than the implementation of the RemoveAt(int index) and Remove() methods of the CustomList. Try to implement it on your own. 
+
+### Implement int Peek() Method
+
