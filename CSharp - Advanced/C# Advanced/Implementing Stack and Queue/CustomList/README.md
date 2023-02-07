@@ -77,3 +77,6 @@ Starting from the end of the actual elements, this method will copy every single
 This method should check if the given element is in the collection. Return true, if it is and false, if it's not. It's a simple task, so you should do it all on your own.  
 
 ***Hint:*** When you are iterating through the items, use the "Count" property as an end condition, instead of the internal array length.
+
+### Implement void Swap(int FirstIndex, Int SecondIndex) Method
+
