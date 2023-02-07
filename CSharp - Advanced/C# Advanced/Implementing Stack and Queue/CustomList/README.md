@@ -80,3 +80,6 @@ This method should check if the given element is in the collection. Return true,
 
 ### Implement void Swap(int FirstIndex, Int SecondIndex) Method
 
+Just like the method above, we consider this an easy task for you. Of course, you have a hint. When we work with indexes, we must always check if they are less than the count, because you may end up in the situation, where the collection has 3 actual elements, while the internal array has a length of 4.
+
+If you have good ideas to implement new functionalities, like Find(), Reverse() or overriding ToString methods, feel free to do it.
