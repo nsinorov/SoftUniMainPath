@@ -50,3 +50,11 @@ The RemoveAt() method has the functionality to remove an item on the given index
 	In the end, return the variable to which we assigned the value of the requested index. 
 
 So you already know that we need to implement the other 2 internal methods **Shift()** and **Shrink()**.
+
+### Void Shift(int Index)
+
+The shift method uses a loop, which moves all the elements to the left starting from a given index.
+
+### Void Shrink()
+
+The Shrink() method is the same as the Resize() method with the small difference that it will reduce the length twice, instead of increasing it. 
