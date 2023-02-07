@@ -71,3 +71,9 @@ You are already familiar with this method, so let us go straight to the implemen
 You probably have already noticed, that since we have a method to rearrange the items to the left, used to fill up the space when we remove an item, we must have a method to rearrange items to the right, so let's create it.
 
 Starting from the end of the actual elements, this method will copy every single item on the next index. The loop will end on the requested index.
+
+### Implement bool Contains(int Element) Method
+
+This method should check if the given element is in the collection. Return true, if it is and false, if it's not. It's a simple task, so you should do it all on your own.  
+
+Hint: When you are iterating through the items, use the "Count" property as an end condition, instead of the internal array length.
