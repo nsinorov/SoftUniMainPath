@@ -58,3 +58,16 @@ The shift method uses a loop, which moves all the elements to the left starting 
 ### Void Shrink()
 
 The Shrink() method is the same as the Resize() method with the small difference that it will reduce the length twice, instead of increasing it. 
+
+### Implement void Insert(int Index, Int Item) Method
+
+You are already familiar with this method, so let us go straight to the implementation. First of all, we will split the logic into smaller tasks:
+
+	We have an index parameter, so we must validate the index.
+	We must check if the array should be resized.
+	We have to rearrange the items to free the space for the required index.
+	Finally, insert the given item on the index and increase the count.
+
+You probably have already noticed, that since we have a method to rearrange the items to the left, used to fill up the space when we remove an item, we must have a method to rearrange items to the right, so let's create it.
+
+Starting from the end of the actual elements, this method will copy every single item on the next index. The loop will end on the requested index.
