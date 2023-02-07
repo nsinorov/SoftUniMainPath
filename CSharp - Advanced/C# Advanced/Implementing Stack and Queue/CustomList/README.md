@@ -37,3 +37,16 @@ In both accessors, we must check if the index is less than the Count and greater
 It is time to create the method, which adds a new element to the end of our collection, just like in the C# lists. It looks like an easy task, but keep in mind that if our internal array is filled, we have to increase it by twice the length it currently has and add the new element.
 
 To make our job easier let's create a Resize() method first. The method should be used only within the class so it must be private. 
+
+### Implement int RemoveAt(int Index) Method
+
+The RemoveAt() method has the functionality to remove an item on the given index and return the item. Let's think about how to solve this problem by dividing it into smaller tasks.
+
+	First, we must check if the index is valid and if not, we should throw ArgumentOutOfRangeException.
+	Get the item on the given index and assign it to a variable, which will be returned at the end.
+	Set the value on the given index to the default value of int.
+	Now we have an empty element and we need to shift the elements.
+	Reduce the count and check if the count is 4 times smaller than the internal array length. If it is we have to think about a way to shrink the array.
+	In the end, return the variable to which we assigned the value of the requested index. 
+
+So you already know that we need to implement the other 2 internal methods **Shift()** and **Shrink()**.
