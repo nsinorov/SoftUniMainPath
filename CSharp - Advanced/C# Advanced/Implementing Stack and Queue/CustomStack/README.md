@@ -38,3 +38,4 @@ The Pop() method returns the last element from the collection and removes it. Th
 
 ### Implement int Peek() Method
 
+The Peek() method has the same functionality as the C# Stack – it returns the last element from the collection, but it doesn't remove it. The only thing we need to consider is that you can't get an element from an empty collection, so you must make sure you have the proper validation. For sure, you will be able to implement it on your own.
