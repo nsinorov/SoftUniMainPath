@@ -22,3 +22,5 @@ Create a new public class CustomStack and add a private constant field named Ini
 We already know that it's not a good practice to have magic numbers in your code. Afterward, we are going to declare our internal array and a field for the count of elements in our collection.
 
 Of course, you have to initialize the collection. Also, set the count variable to 0. As we already know, this can be done inside the constructor of the class:
+
+Next, you have to add a public property Count that holds the value of the count field. This way, you will be able to get the count of items in the collection from other classes.
