@@ -29,3 +29,5 @@ Now you can proceed to the implementation of the methods, which your CustomStack
 All of the functionality described in the description is very easy to implement, so we strongly recommend for you try to do it on your own. If you have any difficulties, you can help yourself with the code snippets below.
 
 ### Implement void Push(int Element) Method
+
+This method adds an element to the end of the collection, just like the C# Stack Push() method does. This is a very easy task. 
