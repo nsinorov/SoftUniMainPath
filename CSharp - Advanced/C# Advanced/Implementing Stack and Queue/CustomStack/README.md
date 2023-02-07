@@ -14,3 +14,9 @@ The CustomStack class should have the properties listed below:
 	int[] items – An array, which will hold all of our elements.
 	int Count – This property will return the count of items in the collection.
 	const int InitialCapacity – this constant's value will be the initial capacity of the internal array.
+
+### Implementation
+
+Create a new public class CustomStack and add a private constant field named InitialCapacity and set the value to 4. This field is used to declare the initial capacity of the internal array.
+
+We already know that it's not a good practice to have magic numbers in your code. Afterward, we are going to declare our internal array and a field for the count of elements in our collection.
