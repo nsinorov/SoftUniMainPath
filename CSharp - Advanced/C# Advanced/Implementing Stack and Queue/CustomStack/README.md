@@ -41,7 +41,7 @@ The Pop() method returns the last element from the collection and removes it. Th
 The Peek() method has the same functionality as the C# Stack – it returns the last element from the collection, but it doesn't remove it. The only thing we need to consider is that you can't get an element from an empty collection, so you must make sure you have the proper validation. For sure, you will be able to implement it on your own.
 
 ### Implement void ForEach(Action<object> Action) Method
-	
-This method goes through every element from the collection and executes the given action. The implementation is very easy, but it requires some additional knowledge.
 
-You can add any kind of functionalities to your CustomStack and afterward you can test how it works in your Main() method in your StartUp class.
+### This method goes through every element from the collection and executes the given action.
+
+### You can add any kind of functionalities to your CustomStack and afterward you can test how it works in your Main() method in your StartUp class.
