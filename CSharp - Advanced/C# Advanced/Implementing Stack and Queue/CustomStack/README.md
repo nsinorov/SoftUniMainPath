@@ -31,3 +31,7 @@ All of the functionality described in the description is very easy to implement,
 ### Implement void Push(int Element) Method
 
 This method adds an element to the end of the collection, just like the C# Stack Push() method does. This is a very easy task. 
+
+### Implement int Pop() Method
+
+The Pop() method returns the last element from the collection and removes it. The implementation is easier than the implementation of the RemoveAt(int index) and Remove() methods of the CustomList. Try to implement it on your own. 
