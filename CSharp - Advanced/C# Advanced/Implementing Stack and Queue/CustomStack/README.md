@@ -27,3 +27,5 @@ Next, you have to add a public property Count that holds the value of the count 
 
 Now you can proceed to the implementation of the methods, which your CustomStack is going to have.
 All of the functionality described in the description is very easy to implement, so we strongly recommend for you try to do it on your own. If you have any difficulties, you can help yourself with the code snippets below.
+
+### mplement void Push(int Element) Method
