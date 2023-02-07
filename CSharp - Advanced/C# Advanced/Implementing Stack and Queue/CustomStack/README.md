@@ -42,3 +42,4 @@ The Peek() method has the same functionality as the C# Stack – it returns the 
 
 ### Implement void ForEach(Action<object> Action) Method
 	
+This method goes through every element from the collection and executes the given action. The implementation is very easy, but it requires some additional knowledge.
