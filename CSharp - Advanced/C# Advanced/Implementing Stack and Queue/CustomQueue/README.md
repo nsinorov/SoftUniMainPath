@@ -43,3 +43,6 @@ The Peek() method has the same functionality as the C# Qeueue – it returns the
 ### Implement int Clear() Method
 
 The Clear() method has the same functionality as the C# Qeueue – it removes all the elements from the collection. The only thing we need to consider is that you can't remove an element from an empty collection, so you must make sure you have the proper validation. For sure, you will be able to implement it on your own.
+
+### Implement void ForEach(Action<object> Action) Method
+	
