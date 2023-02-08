@@ -21,3 +21,7 @@ Create a new public class CustomQueue and add a private constant field named Ini
 We already know that it's not a good practice to have magic numbers in your code, so we should add also FirstElementIndex and set its value to 0, which represents the index of the first element. Afterward, we are going to declare our internal array and a field for the count of elements in our collection.
 
 Of course, you must initialize the collection. Also, set the count variable to 0. As we already know, this can be done inside the constructor of the class.
+
+Next, you must add a public property Count that holds the value of the count field. This way, you will be able to get the count of items in the collection from other classes.
+
+Now you can proceed to the implementation of the methods, which your CustomQueue is going to have. All of the functionality described in the description is very easy to implement, so we strongly recommend for you try to do it on your own. 
