@@ -25,3 +25,8 @@ Of course, you must initialize the collection. Also, set the count variable to 0
 Next, you must add a public property Count that holds the value of the count field. This way, you will be able to get the count of items in the collection from other classes.
 
 Now you can proceed to the implementation of the methods, which your CustomQueue is going to have. All of the functionality described in the description is very easy to implement, so we strongly recommend for you try to do it on your own. 
+
+### Implement void Enqueue(int Element) Method
+
+This method adds an element at the beginning of the collection, just like the C# Queue Enqueue() method does. This is a very easy task. 
+
