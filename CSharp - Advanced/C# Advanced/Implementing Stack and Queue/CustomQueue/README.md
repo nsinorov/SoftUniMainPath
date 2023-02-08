@@ -39,3 +39,7 @@ The Dequeue() method returns the first element from the collection and removes i
 ### Implement int Peek() Method
 
 The Peek() method has the same functionality as the C# Qeueue – it returns the first element from the collection, but it doesn't remove it. The only thing we need to consider is that you can't get an element from an empty collection, so you must make sure you have the proper validation. For sure, you will be able to implement it on your own.
+
+### Implement int Clear() Method
+
+The Clear() method has the same functionality as the C# Qeueue – it removes all the elements from the collection. The only thing we need to consider is that you can't remove an element from an empty collection, so you must make sure you have the proper validation. For sure, you will be able to implement it on your own.
