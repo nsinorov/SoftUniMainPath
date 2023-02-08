@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\bin\Debug\net6.0\BoxOfT.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\bin\Debug\net6.0\BoxOfT.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\bin\Debug\net6.0\BoxOfT.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\bin\Debug\net6.0\BoxOfT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\bin\Debug\net6.0\BoxOfT.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\refint\BoxOfT.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\BoxOfT.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\BoxOfT\BoxOfT\obj\Debug\net6.0\ref\BoxOfT.dll
