@@ -14,3 +14,8 @@ The CustomQueue class should have the properties listed below:
 	int Peek() – Returns the first element in the queue without removing it
 	void Clear() – Delete all elements in the queue
 	void ForEach(Action<int> action) – Goes through each of the elements in the queue
+
+### Implementation
+
+Create a new public class CustomQueue and add a private constant field named InitialCapacity and set the value to 4. This field is used to declare the initial capacity of the internal array.
+We already know that it's not a good practice to have magic numbers in your code, so we should add also FirstElementIndex and set its value to 0, which represents the index of the first element. Afterward, we are going to declare our internal array and a field for the count of elements in our collection.
