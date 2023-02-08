@@ -46,5 +46,6 @@ The Clear() method has the same functionality as the C# Qeueue – it removes al
 
 ### Implement void ForEach(Action<object> Action) Method
 	
-This method goes through every element from the collection and executes the given action. The implementation is very easy, but it requires some additional knowledge.
+***This method goes through every element from the collection and executes the given action. The implementation is very easy, but it requires some additional knowledge.***
+	
 You can add any kind of functionalities to your CustomQueue and afterward you can test how it works in your Main() method in your StartUp class.
