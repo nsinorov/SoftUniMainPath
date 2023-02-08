@@ -10,3 +10,7 @@ Create a class Box<> that can store anything. It should have two public methods:
 
 ![image](https://user-images.githubusercontent.com/45227327/217566233-3513b288-7534-4cca-80c8-c01063a73889.png)
 ![image](https://user-images.githubusercontent.com/45227327/217566345-c1910556-09d6-4b47-bade-eb7aac40d759.png)
+
+### Hints:
+
+Use the syntax Box<T> to create a generic class
