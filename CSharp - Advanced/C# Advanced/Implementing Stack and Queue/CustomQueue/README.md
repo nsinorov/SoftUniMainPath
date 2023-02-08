@@ -6,3 +6,11 @@ You should be able to create it entirely on your own. The first thing you can do
 
 	It should hold a sequence of items in an array. 
 	The structure should have a capacity that grows twice when it is filled, always starting at 4. 
+
+The CustomQueue class should have the properties listed below:
+
+	void Enqueue(int element) – Adds the given element to the queue
+	int Dequeue() – Removes the first element
+	int Peek() – Returns the first element in the queue without removing it
+	void Clear() – Delete all elements in the queue
+	void ForEach(Action<int> action) – Goes through each of the elements in the queue
