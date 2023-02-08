@@ -30,3 +30,8 @@ Now you can proceed to the implementation of the methods, which your CustomQueue
 
 This method adds an element at the beginning of the collection, just like the C# Queue Enqueue() method does. This is a very easy task. 
 
+You also need to implement a private method IncreaseSize, which will double the size of the inner array.
+
+### Implement int Dequeue() Method
+
+The Dequeue() method returns the first element from the collection and removes it. The implementation is easier than the implementation of the RemoveAt(int index) and Remove() methods of the CustomList. Try to implement it on your own. 
