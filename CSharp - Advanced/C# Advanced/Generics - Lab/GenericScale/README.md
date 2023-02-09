@@ -12,3 +12,4 @@ The greater of the two elements is the heavier. The method should return true, i
 
 ### Example:
 	
+![image](https://user-images.githubusercontent.com/45227327/217905548-1b242fdb-3cb7-4d92-bc24-37855885f559.png)
