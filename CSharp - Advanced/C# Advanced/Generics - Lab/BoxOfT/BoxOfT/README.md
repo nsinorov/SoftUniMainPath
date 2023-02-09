@@ -6,3 +6,5 @@ Create a class Box<> that can store anything. It should have two public methods:
 	element Remove() – removes the topmost element.
 	int Count { get; }
 
+### Examples
+
