@@ -8,3 +8,4 @@ Create a class Box<> that can store anything. It should have two public methods:
 
 ### Examples
 
+![image](https://user-images.githubusercontent.com/45227327/217902966-8f253156-4706-4ddb-91f5-88b0522d6332.png)
