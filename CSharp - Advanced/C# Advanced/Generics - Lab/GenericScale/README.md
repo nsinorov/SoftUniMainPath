@@ -9,3 +9,6 @@ The scale should have a single method:
 	bool AreEqual()
   
 The greater of the two elements is the heavier. The method should return true, if the elements are equal.
+
+### Example:
+	
