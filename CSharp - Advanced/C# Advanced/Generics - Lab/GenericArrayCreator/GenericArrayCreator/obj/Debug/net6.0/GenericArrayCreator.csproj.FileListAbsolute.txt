@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\refint\GenericArrayCreator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Lab\GenericArrayCreator\GenericArrayCreator\obj\Debug\net6.0\ref\GenericArrayCreator.dll
