@@ -12,5 +12,6 @@ Create a generic method that receives a list, containing any type of data and sw
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/218198787-6a3770d1-46bc-4899-a2bb-a3473fa29c59.png)
+![image](https://user-images.githubusercontent.com/45227327/218198856-40ae396c-0c76-4ffa-8690-c562f6eef043.png)
 
 
