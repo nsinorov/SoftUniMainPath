@@ -11,3 +11,5 @@ Create a generic class Box that can be initialized with any type and store the v
     The output should be in the given format:
     "{class full name: value}"
 
+### Examples:
+
