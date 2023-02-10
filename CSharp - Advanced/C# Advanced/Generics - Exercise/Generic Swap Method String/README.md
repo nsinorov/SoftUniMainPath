@@ -9,3 +9,7 @@ Create a generic method that receives a list, containing any type of data and sw
 
 	Use the method you've created to swap the elements that correspond to the given indexes and print each element in the list.
 
+### Examples:
+
+
+
