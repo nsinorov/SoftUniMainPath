@@ -15,3 +15,6 @@ The input consists of three lines:
 
 	Print the Threeuples' objects in format:
 		"{firstElement} -> {secondElement} -> {thirdElement}"
+
+### Examples:
+
