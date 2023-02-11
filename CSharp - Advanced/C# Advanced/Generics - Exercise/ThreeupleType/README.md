@@ -10,3 +10,8 @@ The input consists of three lines:
       {name} {liters of beer} {drunk or not}
 	The last line will hold a name, a bank balance (double) and a bank name. Format:
      {name} {account balance} {bank name}
+     
+### Output:
+
+	Print the Threeuples' objects in format:
+		"{firstElement} -> {secondElement} -> {thirdElement}"
