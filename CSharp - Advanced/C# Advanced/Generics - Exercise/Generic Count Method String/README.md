@@ -14,3 +14,4 @@ Create a method that receives as an argument a list of any type, that can be com
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/218281620-f7e4bb5f-2b71-4e09-9dc4-8b7d36c467ad.png)
+![image](https://user-images.githubusercontent.com/45227327/218281631-6d4ff903-3265-4995-9e31-55c8adeb6712.png)
