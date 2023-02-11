@@ -18,3 +18,5 @@ The input consists of three lines:
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/218281301-5971a44d-afb8-4d3a-97f8-0eedc129e84f.png)
+![image](https://user-images.githubusercontent.com/45227327/218281326-f4bb689d-83d0-40e1-8b5b-e7e7b77053e1.png)
