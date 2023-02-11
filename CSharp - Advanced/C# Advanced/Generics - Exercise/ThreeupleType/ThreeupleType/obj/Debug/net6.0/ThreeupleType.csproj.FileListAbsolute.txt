@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\bin\Debug\net6.0\ThreeupleType.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\bin\Debug\net6.0\ThreeupleType.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\bin\Debug\net6.0\ThreeupleType.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\bin\Debug\net6.0\ThreeupleType.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\bin\Debug\net6.0\ThreeupleType.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\refint\ThreeupleType.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ThreeupleType.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Generics - Exercise\ThreeupleType\ThreeupleType\obj\Debug\net6.0\ref\ThreeupleType.dll
