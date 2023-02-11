@@ -14,3 +14,6 @@ It is kind of like a KeyValuePair, except – it simply has items, which are nei
 ### Output:
 
 	Print the tuples' items in format: {item1} -> {item2}
+
+### Examples:
+
