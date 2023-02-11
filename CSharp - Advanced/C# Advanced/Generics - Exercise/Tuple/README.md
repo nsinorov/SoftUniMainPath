@@ -5,8 +5,8 @@ It is kind of like a KeyValuePair, except – it simply has items, which are nei
 ### Input:
 
 	The first one holds a person's name and an address. They are separated by space(s). Your task is to collect them in the tuple and print them on the console. Format of the input:
-    {first name} {last name} {address}
+   	 {first name} {last name} {address}
 	The second line holds a name of a person and the amount of beer (int) he can drink. Format:
-    {name} {liters of beer}
+   	 {name} {liters of beer}
 	The last line holds an integer and a double. Format:
-    {integer} {double}
+   	 {integer} {double}
