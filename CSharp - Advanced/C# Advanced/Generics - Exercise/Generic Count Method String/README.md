@@ -7,3 +7,10 @@ Create a method that receives as an argument a list of any type, that can be com
       On the next n lines, you will receive the actual elements.
       On the last line, you will get the value of the element for comparison.
 
+### Output
+
+	Print the count of elements that are larger than the value of the given element.
+      
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/218281620-f7e4bb5f-2b71-4e09-9dc4-8b7d36c467ad.png)
