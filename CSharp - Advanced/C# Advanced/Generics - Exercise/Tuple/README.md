@@ -10,3 +10,7 @@ It is kind of like a KeyValuePair, except – it simply has items, which are nei
    	 {name} {liters of beer}
 	The last line holds an integer and a double. Format:
    	 {integer} {double}
+
+### Output:
+
+	Print the tuples' items in format: {item1} -> {item2}
