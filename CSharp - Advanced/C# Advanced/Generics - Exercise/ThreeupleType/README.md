@@ -1,1 +1,1 @@
-
+Create a Class Threeuple. Its name is telling us that it will hold no longer, just a pair of objects. The task is simple, our Threeuple should hold three objects. Make it have getters and setters. You can even extend the previous class.
