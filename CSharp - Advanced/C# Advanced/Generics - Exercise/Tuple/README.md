@@ -17,3 +17,5 @@ It is kind of like a KeyValuePair, except – it simply has items, which are nei
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/218281414-19d75800-e99b-4a1e-b88b-c8a90934cae8.png)
+![image](https://user-images.githubusercontent.com/45227327/218281424-497de145-3104-46f1-afbe-657211716de0.png)
