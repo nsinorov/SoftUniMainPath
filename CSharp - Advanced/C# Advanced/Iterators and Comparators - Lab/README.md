@@ -32,3 +32,12 @@ Now you should be able to iterate through a Library in the Main method.
 NOTE: You need the namespace IteratorsAndComparators.
 	
 Extend your solution from the previous task. Implement the IComparable<Book> interface in the existing class Book. The comparison between the two books should happen in the following order:
+
+	First, sort them in ascending chronological order (by year).
+	If two books are published in the same year, sort them alphabetically.
+	
+Override the ToString() method in your Book class, so it returns a string in the format:
+	
+	"{title} - {year}"
+	
+Change your Library class, so that it stores the books in the correct order.
