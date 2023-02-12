@@ -28,3 +28,7 @@ Extend your solution from the previous task. Inside the Library, create a nested
 Now you should be able to iterate through a Library in the Main method.
 
 ### Third problem 3.Comparable Book
+
+NOTE: You need the namespace IteratorsAndComparators.
+	
+Extend your solution from the previous task. Implement the IComparable<Book> interface in the existing class Book. The comparison between the two books should happen in the following order:
