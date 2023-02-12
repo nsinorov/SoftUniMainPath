@@ -1,4 +1,4 @@
-### First problem: 
+### First problem:  1.	Library
 
 Note: Put your classes in the namespace IteratorsAndComparators. Also your Visual Studio project should be named “IteratorsAndComparators”, as well as your assembly name (it is inherited from the Visual Studio project name).
 
@@ -15,3 +15,5 @@ Create a class Library, which should store a collection of books and implement t
 	List<Book> books
 	
 A Library could be initialized without books or with any number of books and should have only one constructor.
+
+### 
