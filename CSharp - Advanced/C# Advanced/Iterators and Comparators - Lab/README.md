@@ -16,4 +16,4 @@ Create a class Library, which should store a collection of books and implement t
 	
 A Library could be initialized without books or with any number of books and should have only one constructor.
 
-### 
+### Second problem
