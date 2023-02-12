@@ -8,3 +8,10 @@ Create a class Book, which should have the following public properties:
 	int Year
 	List<string> Authors
 
+Authors can be zero (anonymous), one or many. A Book should have only one constructor.
+
+Create a class Library, which should store a collection of books and implement the IEnumerable<Book> interface. 
+	
+	List<Book> books
+	
+A Library could be initialized without books or with any number of books and should have only one constructor.
