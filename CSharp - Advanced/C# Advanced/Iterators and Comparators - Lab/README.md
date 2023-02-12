@@ -26,3 +26,5 @@ Extend your solution from the previous task. Inside the Library, create a nested
 	int currentIndex
 	
 Now you should be able to iterate through a Library in the Main method.
+
+### Third problem 3.Comparable Book
