@@ -17,3 +17,7 @@ Create a class Library, which should store a collection of books and implement t
 A Library could be initialized without books or with any number of books and should have only one constructor.
 
 ### Second problem  2.Library Iterator
+
+Note: Put your classes in the namespace IteratorsAndComparators.
+	
+Extend your solution from the previous task. Inside the Library, create a nested class LibraryIterator, which should implement the IEnumerator<Book> interface. Try to implement the bodies of the inherited methods by yourself. You will need two more members:
