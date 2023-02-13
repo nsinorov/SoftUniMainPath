@@ -49,3 +49,10 @@ NOTE: You need the namespace IteratorsAndComparators.
 Extend your solution from the prevoius task. Create a class BookComparator, which should implement the IComparer<Book> interface and thus include the following method:
 
 	int Compare(Book, Book) 
+
+BookComparator must compare two books by:
+	
+1.	Book title - alphabetical order
+2.	Year of publishing a book - from the newest to the oldest
+	
+Modify your Library class once again to implement the new sorting.
