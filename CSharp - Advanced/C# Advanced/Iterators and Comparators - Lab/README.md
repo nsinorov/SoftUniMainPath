@@ -43,3 +43,9 @@ Override the ToString() method in your Book class, so it returns a string in the
 Change your Library class, so that it stores the books in the correct order.
 
 ### Fourth problem 4.Book Comparator
+
+NOTE: You need the namespace IteratorsAndComparators.
+
+Extend your solution from the prevoius task. Create a class BookComparator, which should implement the IComparer<Book> interface and thus include the following method:
+
+	int Compare(Book, Book) 
