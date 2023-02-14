@@ -12,3 +12,4 @@ Note: The price should not be rounded or formatted.
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/218809282-b620e620-93a2-4b39-b50b-85d8b7377f94.png)
+![image](https://user-images.githubusercontent.com/45227327/218809383-3f1d2cae-3921-4962-99c3-8aeab3cda860.png)
