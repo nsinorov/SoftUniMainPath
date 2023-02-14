@@ -11,7 +11,7 @@ Print the car numbers of the cars, which are still in the parking lot:
 
 ![image](https://user-images.githubusercontent.com/45227327/218808619-e6c9818f-c9f1-4c03-8d84-770022b77f4f.png)
 
-###Hints
+### Hints:
 
 	Car numbers are unique.
 	Before printing, first check if the set has any elements.
