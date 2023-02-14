@@ -8,3 +8,7 @@ Your output must be ordered by shop name and must be in the format:
   Product: {product}, Price: {price}"
 
 Note: The price should not be rounded or formatted.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/218809282-b620e620-93a2-4b39-b50b-85d8b7377f94.png)
