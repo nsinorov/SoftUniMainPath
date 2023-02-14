@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\bin\Debug\net6.0\Parking Lot.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\bin\Debug\net6.0\Parking Lot.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\bin\Debug\net6.0\Parking Lot.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\bin\Debug\net6.0\Parking Lot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\bin\Debug\net6.0\Parking Lot.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\refint\Parking Lot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\Parking Lot.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\Parking Lot\Parking Lot\obj\Debug\net6.0\ref\Parking Lot.dll
