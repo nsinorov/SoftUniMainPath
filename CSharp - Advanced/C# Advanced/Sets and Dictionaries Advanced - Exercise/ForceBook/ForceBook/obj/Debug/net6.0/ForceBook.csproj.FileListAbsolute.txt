@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\bin\Debug\net6.0\ForceBook.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\bin\Debug\net6.0\ForceBook.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\bin\Debug\net6.0\ForceBook.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\bin\Debug\net6.0\ForceBook.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\bin\Debug\net6.0\ForceBook.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\refint\ForceBook.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ForceBook.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\ForceBook\ForceBook\obj\Debug\net6.0\ref\ForceBook.dll
