@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net6.0\SoftUni Party.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net6.0\SoftUni Party.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net6.0\SoftUni Party.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net6.0\SoftUni Party.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net6.0\SoftUni Party.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\refint\SoftUni Party.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\SoftUni Party.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net6.0\ref\SoftUni Party.dll
