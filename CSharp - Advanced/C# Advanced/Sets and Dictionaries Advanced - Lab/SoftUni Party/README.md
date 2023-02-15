@@ -4,3 +4,7 @@ All reservation numbers will be with the length of 8 chars.
 
 All VIP numbers start with a digit.
 
+First, you will be receiving the reservation numbers of the guests. You can also receive 2 possible commands:
+
+	"PARTY" – After this command, you will begin receiving the reservation numbers of the people, who came to the party.
+      "END" – The party is over and you have to stop the program and print the appropriate output.
