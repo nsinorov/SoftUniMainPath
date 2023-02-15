@@ -32,3 +32,8 @@ In case there are no forceUsers in the side, you shouldn`t print the side inform
             "! {forceUser}"
 
 	In case there are NO forceUsers, don`t print this side. 
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219091430-9f93b6ce-8711-49e0-8539-a1598f1853e2.png)
+![image](https://user-images.githubusercontent.com/45227327/219091524-b47c5a11-e357-48ac-a490-21e25c23aa2a.png)
