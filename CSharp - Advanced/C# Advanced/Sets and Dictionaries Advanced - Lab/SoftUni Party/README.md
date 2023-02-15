@@ -13,3 +13,5 @@ In the end, print the count of the guests who didn't come to the party, and afte
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/219088884-f1f347f5-c0d8-42f3-9217-bfd1e51fcee8.png)
+![image](https://user-images.githubusercontent.com/45227327/219089065-79d9f883-d0e1-462a-8988-4ef67ff06c2e.png)
