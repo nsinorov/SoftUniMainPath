@@ -8,3 +8,5 @@ First, you will be receiving the reservation numbers of the guests. You can also
 
 	"PARTY" – After this command, you will begin receiving the reservation numbers of the people, who came to the party.
       "END" – The party is over and you have to stop the program and print the appropriate output.
+
+In the end, print the count of the guests who didn't come to the party, and afterward, print their reservation numbers. the VIP guests must be first.
