@@ -17,3 +17,18 @@ You should end your program when you receive the command "Lumpawaroo". At that p
 In case there are no forceUsers in the side, you shouldn`t print the side information. 
 
 ### Input / Constraints
+
+	The input comes in the form of commands in one of the formats specified above.
+	The input ends, when you receive the command "Lumpawaroo".
+
+### Output:
+
+	As output for each forceSide, ordered descending by forceUsers count, then by name,  you must print all the forceUsers, ordered by name alphabetically.
+	The output format is:
+    
+            "Side: {forceSide}, Members: {forceUsers.Count}"
+            "! {forceUser}"
+            "! {forceUser}"
+            "! {forceUser}"
+
+	In case there are NO forceUsers, don`t print this side. 
