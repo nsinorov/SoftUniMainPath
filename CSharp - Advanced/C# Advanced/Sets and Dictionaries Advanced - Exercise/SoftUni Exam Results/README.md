@@ -8,3 +8,8 @@ After receiving "exam finished" print each of the participants, ordered descendi
     "Results:"
     "{username} | {points}"
       …
+After that print each language, used in the exam, ordered descending by total submission count and then by language name, in the following format:
+
+    "Submissions:"
+    "{language} – {submissionsCount}"
+    …
