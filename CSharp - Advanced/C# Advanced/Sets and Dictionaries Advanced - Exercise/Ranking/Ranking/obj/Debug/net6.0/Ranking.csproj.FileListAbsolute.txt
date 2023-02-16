@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\bin\Debug\net6.0\Ranking.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\bin\Debug\net6.0\Ranking.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\bin\Debug\net6.0\Ranking.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\bin\Debug\net6.0\Ranking.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\bin\Debug\net6.0\Ranking.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\refint\Ranking.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\Ranking.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Ranking\Ranking\obj\Debug\net6.0\ref\Ranking.dll
