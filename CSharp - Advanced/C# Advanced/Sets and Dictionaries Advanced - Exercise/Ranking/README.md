@@ -24,3 +24,4 @@ At the end you have to print the info for the user with the most points in the f
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/219342049-0fee9e2d-3c5c-4760-a0a0-389210850353.png)
+![image](https://user-images.githubusercontent.com/45227327/219342193-baaf3396-e0ff-4ea3-ac2e-573f4d336fbe.png)
