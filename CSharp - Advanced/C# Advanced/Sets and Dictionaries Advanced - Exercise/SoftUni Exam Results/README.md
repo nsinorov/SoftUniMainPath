@@ -31,3 +31,7 @@ The points of the participant will always be a valid integer in the range [0-100
         "Submissions:"
         "{language} – {submissionsCount}"
         …
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219343293-4cd46379-d419-4322-b20f-b116d975f89e.png)
