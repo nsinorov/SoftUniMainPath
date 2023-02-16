@@ -12,3 +12,11 @@ At the end you have to print the info for the user with the most points in the f
 	#  {contest2} -> {points}
 	{user2 name}
 	…"
+### Input:
+
+	You will be receiving strings in the formats described above, until the appropriate commands, also described above, are given.
+
+### Output:
+
+	On the first line, print the best user in the format described above. 
+	On the next lines, print all students ordered as mentioned above in format.
