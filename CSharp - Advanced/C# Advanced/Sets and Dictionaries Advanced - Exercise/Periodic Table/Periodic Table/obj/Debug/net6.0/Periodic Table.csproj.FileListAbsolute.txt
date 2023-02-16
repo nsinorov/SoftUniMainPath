@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\bin\Debug\net6.0\Periodic Table.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\bin\Debug\net6.0\Periodic Table.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\bin\Debug\net6.0\Periodic Table.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\bin\Debug\net6.0\Periodic Table.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\bin\Debug\net6.0\Periodic Table.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\refint\Periodic Table.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\Periodic Table.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Periodic Table\Periodic Table\obj\Debug\net6.0\ref\Periodic Table.dll
