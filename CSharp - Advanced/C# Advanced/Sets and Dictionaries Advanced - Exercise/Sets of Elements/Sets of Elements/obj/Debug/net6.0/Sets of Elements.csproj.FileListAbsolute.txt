@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\bin\Debug\net6.0\Sets of Elements.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\bin\Debug\net6.0\Sets of Elements.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\bin\Debug\net6.0\Sets of Elements.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\bin\Debug\net6.0\Sets of Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\bin\Debug\net6.0\Sets of Elements.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\refint\Sets of Elements.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\Sets of Elements.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\Sets of Elements\obj\Debug\net6.0\ref\Sets of Elements.dll
