@@ -20,3 +20,7 @@ At the end you have to print the info for the user with the most points in the f
 
 	On the first line, print the best user in the format described above. 
 	On the next lines, print all students ordered as mentioned above in format.
+	
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219342049-0fee9e2d-3c5c-4760-a0a0-389210850353.png)
