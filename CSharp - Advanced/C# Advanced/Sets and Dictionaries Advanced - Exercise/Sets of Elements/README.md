@@ -5,3 +5,7 @@ For example:
       Set with length n = 4: {1, 3, 5, 7}
       Set with length m = 3: {3, 4, 5}
       Set that contains all the elements that repeat in both sets -> {3, 5}
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219342472-e47f9227-dd88-41ec-8751-d8e7e103be2f.png)
