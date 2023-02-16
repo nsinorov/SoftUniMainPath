@@ -35,3 +35,4 @@ The points of the participant will always be a valid integer in the range [0-100
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/219343293-4cd46379-d419-4322-b20f-b116d975f89e.png)
+![image](https://user-images.githubusercontent.com/45227327/219343411-5dc2406d-f277-4005-b372-5366d3e2340b.png)
