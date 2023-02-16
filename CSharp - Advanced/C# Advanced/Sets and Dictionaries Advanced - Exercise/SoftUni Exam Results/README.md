@@ -13,3 +13,21 @@ After that print each language, used in the exam, ordered descending by total su
     "Submissions:"
     "{language} – {submissionsCount}"
     …
+
+### Input / Constraints:
+
+Until you receive "exam finished" you will be receiving participant submissions in the following format: "{username}-{language}-{points}".
+You can receive a ban command -> "{username}-banned"
+The points of the participant will always be a valid integer in the range [0-100];
+
+### Output:
+
+	Print the exam results for each participant, ordered descending by max points and then by username, in the following format: 
+        "Results:"
+        "{username} | {points}"
+            …
+	After that print each language, ordered descending by total submissions and then by language name, in the following format:
+
+        "Submissions:"
+        "{language} – {submissionsCount}"
+        …
