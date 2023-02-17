@@ -2,4 +2,6 @@ Create a program that reads from the console a sequence of N usernames and keeps
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/219791597-0a693f34-ece5-41e6-bfd1-ae1657c86943.png)
+![image](https://user-images.githubusercontent.com/45227327/219791666-38507faf-1faa-4344-8b6e-914f15849db4.png)
 
