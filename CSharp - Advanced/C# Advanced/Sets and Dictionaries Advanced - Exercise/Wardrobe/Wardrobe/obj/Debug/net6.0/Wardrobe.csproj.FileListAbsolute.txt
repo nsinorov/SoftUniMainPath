@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll
