@@ -21,3 +21,13 @@ If more than one vloggers have the same number of followers, print the one follo
 	*  {follower2} … 
 	{No}. {vlogger} : {followers} followers, {followings} following
 	{No}. {vlogger} : {followers} followers, {followings} following…"
+
+###Input:
+
+	The input will come in the format described above.
+	
+### Output:
+
+	On the first line, print the total count of vloggers in the format described above.
+	On the second line print the most famous vlogger in the format described above.
+	On the next lines, print all of the rest vloggers in the format described above.
