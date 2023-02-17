@@ -10,3 +10,21 @@ After that, you will receive n – the n'th person from your collection, startin
 If there are no equal people print:
   
     "No matches".
+
+### Input:
+
+	You will be receiving lines in the format described above, until the "END" command.
+	After the "END" command, you will receive the position of the person you should compare the others to. 
+
+Note: Start counting the people in your collection from 1.
+
+### Output:
+
+	Print a single line of output in the format described above.
+
+### Constraints:
+
+	Input names, ages and addresses will be valid. 
+	Input number will always be а valid integer in the range [2…100].
+
+### Examples:
