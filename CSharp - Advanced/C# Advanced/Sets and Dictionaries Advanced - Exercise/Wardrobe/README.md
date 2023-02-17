@@ -29,3 +29,8 @@ If you find the item you are looking for, you need to print "(found!)" next to i
 ### Output:
 
 	Print the clothes from your wardrobe in the format described above.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219792082-f451d28e-b6a1-454f-afaa-a80c7e641a39.png)
+![image](https://user-images.githubusercontent.com/45227327/219792147-c7920622-0136-485c-a869-437c71ddfee5.png)
