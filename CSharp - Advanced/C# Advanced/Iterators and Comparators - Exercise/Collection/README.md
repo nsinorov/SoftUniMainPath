@@ -13,3 +13,9 @@ Using the ListyIterator from the last problem, extend it by implementing the IEn
 	In the case of a Print command, you don't have to do anything additional as the method itself should already print on the console.
  	In the case of a PrintAll command, you should print all of the elements on a single line separated by spaces. 
 
+### Constraints:
+	
+	Do NOT use the GetEnumerator() method from the base class. Use your implementation using "yield return".
+	There will always be only one Create command and it will always be the first command passed.
+	The number of commands received will be between [1…100].
+	The last command will always be the only END command.
