@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\bin\Debug\net6.0\Unique Usernames.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\bin\Debug\net6.0\Unique Usernames.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\bin\Debug\net6.0\Unique Usernames.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\bin\Debug\net6.0\Unique Usernames.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\bin\Debug\net6.0\Unique Usernames.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\refint\Unique Usernames.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\Unique Usernames.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Unique Usernames\Unique Usernames\obj\Debug\net6.0\ref\Unique Usernames.dll
