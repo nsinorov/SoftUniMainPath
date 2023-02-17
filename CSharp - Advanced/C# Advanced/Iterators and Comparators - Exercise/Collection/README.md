@@ -19,3 +19,8 @@ Using the ListyIterator from the last problem, extend it by implementing the IEn
 	There will always be only one Create command and it will always be the first command passed.
 	The number of commands received will be between [1…100].
 	The last command will always be the only END command.
+
+### Examples:
+	
+![image](https://user-images.githubusercontent.com/45227327/219794455-8afadbd9-5daa-441c-9f7d-66d171374dea.png)
+![image](https://user-images.githubusercontent.com/45227327/219794553-d2c7b930-3971-4780-b594-ea32b549953d.png)
