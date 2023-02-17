@@ -21,3 +21,11 @@ If you find the item you are looking for, you need to print "(found!)" next to i
 
     "* {itemN} - {count} (found!)"
 
+### Input:
+
+	On the first line, you will receive n - the number of lines of clothes, which you will receive.
+	On the next n lines, you will receive the clothes in the format described above.
+
+### Output:
+
+	Print the clothes from your wardrobe in the format described above.
