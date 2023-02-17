@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll
