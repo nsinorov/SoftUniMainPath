@@ -31,3 +31,8 @@ If more than one vloggers have the same number of followers, print the one follo
 	On the first line, print the total count of vloggers in the format described above.
 	On the second line print the most famous vlogger in the format described above.
 	On the next lines, print all of the rest vloggers in the format described above.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219791270-c90351c2-5658-44c1-a8bd-eb2e6baa826a.png)
+![image](https://user-images.githubusercontent.com/45227327/219791325-faee6761-764f-4c5e-9d4b-26c995e7bc17.png)
