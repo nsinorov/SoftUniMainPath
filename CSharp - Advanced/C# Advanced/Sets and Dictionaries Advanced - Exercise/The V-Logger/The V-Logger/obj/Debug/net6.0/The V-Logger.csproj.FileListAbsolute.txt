@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\bin\Debug\net6.0\The V-Logger.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\bin\Debug\net6.0\The V-Logger.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\bin\Debug\net6.0\The V-Logger.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\bin\Debug\net6.0\The V-Logger.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\bin\Debug\net6.0\The V-Logger.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\refint\The V-Logger.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\The V-Logger.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni Original\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\The V-Logger\The V-Logger\obj\Debug\net6.0\ref\The V-Logger.dll
