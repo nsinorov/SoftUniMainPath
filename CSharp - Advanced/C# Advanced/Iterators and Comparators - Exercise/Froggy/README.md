@@ -4,3 +4,4 @@ The order of the stones and their numbers will be given on the first line of inp
 
 ![image](https://user-images.githubusercontent.com/45227327/219899473-3f28adc5-9ccd-4009-9f7f-403bf1e43daa.png)
 
+Try to achieve this functionality by creating a class Lake (it will hold all stone numbers in order) that implements the IEnumerable<int> interface and overrides its GetEnumerator() methods.
