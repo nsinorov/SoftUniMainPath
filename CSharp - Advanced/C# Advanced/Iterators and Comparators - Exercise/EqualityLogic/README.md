@@ -24,3 +24,4 @@ You should add the people to both sets. In the end, you should print the size of
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/219899402-702daf37-f956-4925-8fbf-e65796ab887a.png)
+![image](https://user-images.githubusercontent.com/45227327/219899420-23d46b12-2c71-4111-9196-d026fd1ee144.png)
