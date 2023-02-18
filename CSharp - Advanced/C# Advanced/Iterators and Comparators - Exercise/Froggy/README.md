@@ -9,3 +9,4 @@ Try to achieve this functionality by creating a class Lake (it will hold all sto
   ### Examples:
   
   ![image](https://user-images.githubusercontent.com/45227327/219899489-e77a020a-5569-4924-b592-f59074ac1ae6.png)
+![image](https://user-images.githubusercontent.com/45227327/219899504-491c6b86-c479-433e-a005-3fa25094ace3.png)
