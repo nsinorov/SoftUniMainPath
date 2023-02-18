@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\refint\CustomLinkedList.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll
