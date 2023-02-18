@@ -4,3 +4,13 @@ Create a class Person holding a name and an age. A person with the same name and
   
 You should add the people to both sets. In the end, you should print the size of the sorted set and then the size of the HashSet.
 
+### Input:
+
+	On the first line of input, you will receive a number n. 
+	On each of the next n lines, you will receive information about people in the described format. 
+
+### Output:
+
+	The output should consist of exactly two lines. 
+	On the first one you should print the size of the sorted set.
+	On the second - the size of the HashSet.
