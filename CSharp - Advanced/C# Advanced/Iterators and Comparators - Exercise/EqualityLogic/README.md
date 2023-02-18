@@ -25,3 +25,7 @@ You should add the people to both sets. In the end, you should print the size of
 
 ![image](https://user-images.githubusercontent.com/45227327/219899402-702daf37-f956-4925-8fbf-e65796ab887a.png)
 ![image](https://user-images.githubusercontent.com/45227327/219899420-23d46b12-2c71-4111-9196-d026fd1ee144.png)
+
+### Hint:
+
+You should override both the Equals and GetHashCode methods. You can check online for implementation of GetHashCode – it doesn't have to be perfect, but it should be good enough to produce the same hash code for objects with the same name and age, and different enough hash codes for objects with different names and/or age.
