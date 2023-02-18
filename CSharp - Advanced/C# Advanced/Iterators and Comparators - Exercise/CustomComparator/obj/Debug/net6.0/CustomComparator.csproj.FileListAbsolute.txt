@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\bin\Debug\net6.0\CustomComparator.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\bin\Debug\net6.0\CustomComparator.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\bin\Debug\net6.0\CustomComparator.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\bin\Debug\net6.0\CustomComparator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\bin\Debug\net6.0\CustomComparator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\refint\CustomComparator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\CustomComparator.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\CustomComparator\obj\Debug\net6.0\ref\CustomComparator.dll
