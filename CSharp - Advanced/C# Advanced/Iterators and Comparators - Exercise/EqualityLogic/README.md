@@ -20,3 +20,7 @@ You should add the people to both sets. In the end, you should print the size of
 	A person's name will be a string that contains only alphanumerical characters with a length between [1…50] symbols.
 	A person's age will be a positive integer between [1…100].
 	The number of people N will be a positive integer between [0…100].
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/219899402-702daf37-f956-4925-8fbf-e65796ab887a.png)
