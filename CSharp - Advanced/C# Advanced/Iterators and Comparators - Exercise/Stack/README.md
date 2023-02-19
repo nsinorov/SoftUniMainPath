@@ -16,3 +16,9 @@ Write your custom implementation of Stack<T> and implement IEnumerable<T> interf
 ### Output:
 	
 	When you receive END, the input is over. Foreach the stack twice and print all elements each on the new line.
+
+### Constraints:
+	
+	The elements in the push command will be valid integers between [2-31…231-1].
+	The commands will always be valid (always be either Push, Pop, or END).
+	If the Pop command could not be executed as expected (e.g. no elements in the stack), print on the console: "No elements".
