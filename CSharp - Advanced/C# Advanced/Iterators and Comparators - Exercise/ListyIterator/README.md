@@ -32,3 +32,5 @@ Your program should catch any exceptions thrown because of the described validat
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/219971687-9b712a0a-7b2a-4c44-aa41-505477c4852e.png)
+![image](https://user-images.githubusercontent.com/45227327/219971719-b38348c1-c6a6-4528-8fd5-8339d6ac6375.png)
