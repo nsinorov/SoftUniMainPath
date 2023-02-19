@@ -7,3 +7,8 @@ Keep in mind that the first element, which is popped is the last in the collecti
       … "
       
 Write your custom implementation of Stack<T> and implement IEnumerable<T> interface. Your implementation of the GetEnumerator() method should follow the rules of the Abstract Data Type – Stack (return the elements in reverse order of adding them to the stack).
+
+### Input:
+    
+	The input will come from the console as lines of commands. 
+	Push and Pop will be the only possible commands, followed by integers for the Push command and no other input for the Pop command. 
