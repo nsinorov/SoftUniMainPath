@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll
