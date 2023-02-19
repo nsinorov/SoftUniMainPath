@@ -22,3 +22,6 @@ Write your custom implementation of Stack<T> and implement IEnumerable<T> interf
 	The elements in the push command will be valid integers between [2-31…231-1].
 	The commands will always be valid (always be either Push, Pop, or END).
 	If the Pop command could not be executed as expected (e.g. no elements in the stack), print on the console: "No elements".
+	
+### Examples:
+	
