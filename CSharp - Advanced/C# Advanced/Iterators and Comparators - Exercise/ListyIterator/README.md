@@ -6,3 +6,5 @@ Create a generic class ListyIterator. The collection, which it will iterate thro
 
 	Print - should print the element at the current internal index. Calling Print on a collection without elements should throw an appropriate exception with the message "Invalid Operation!". 
 
+By default, the internal index should be pointing to the 0th index of the List. Your program should support the following commands:
+
