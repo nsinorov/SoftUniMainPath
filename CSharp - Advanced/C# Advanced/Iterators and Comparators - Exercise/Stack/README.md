@@ -12,3 +12,7 @@ Write your custom implementation of Stack<T> and implement IEnumerable<T> interf
     
 	The input will come from the console as lines of commands. 
 	Push and Pop will be the only possible commands, followed by integers for the Push command and no other input for the Pop command. 
+
+### Output:
+	
+	When you receive END, the input is over. Foreach the stack twice and print all elements each on the new line.
