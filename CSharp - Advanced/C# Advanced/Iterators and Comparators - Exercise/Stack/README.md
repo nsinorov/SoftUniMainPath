@@ -5,3 +5,5 @@ Keep in mind that the first element, which is popped is the last in the collecti
     "Push {element1}, {element2}, … {elementN}
      Pop
       … "
+      
+Write your custom implementation of Stack<T> and implement IEnumerable<T> interface. Your implementation of the GetEnumerator() method should follow the rules of the Abstract Data Type – Stack (return the elements in reverse order of adding them to the stack).
