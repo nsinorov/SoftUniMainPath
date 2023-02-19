@@ -12,3 +12,14 @@ By default, the internal index should be pointing to the 0th index of the List. 
 
 Your program should catch any exceptions thrown because of the described validations - calling Print on an empty collection - and print their messages instead.
 
+### Input:
+
+	Input will come from the console as lines of commands. 
+	The first line will always be the Create command in the input. 
+	The last command received will always be the END command.
+
+### Output:
+
+	For every command from the input (except for the END and Create commands), print the result of that command on the console, each on a new line. 
+	In the case of Move or HasNext commands, print the return value of the methods.
+	In the case of a Print command, you don't have to do anything additional as the method itself should already print on the console.
