@@ -8,3 +8,4 @@ Create a generic class ListyIterator. The collection, which it will iterate thro
 
 By default, the internal index should be pointing to the 0th index of the List. Your program should support the following commands:
 
+![image](https://user-images.githubusercontent.com/45227327/219971613-78b576c2-180b-4f92-a0ce-02b1787aa0be.png)
