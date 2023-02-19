@@ -25,3 +25,5 @@ Write your custom implementation of Stack<T> and implement IEnumerable<T> interf
 	
 ### Examples:
 	
+![image](https://user-images.githubusercontent.com/45227327/219971915-7e66276e-3734-4aee-b1f2-197c5ce8c347.png)
+![image](https://user-images.githubusercontent.com/45227327/219971963-8fc27923-f2cc-42b4-babe-9c94d9ab31c1.png)
