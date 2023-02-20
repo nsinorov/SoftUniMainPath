@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\refint\ComputerArchitecture.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\ComputerArchitecture\ComputerArchitecture\obj\Debug\net6.0\ref\ComputerArchitecture.dll
