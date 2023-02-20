@@ -32,3 +32,13 @@ The race car starts moving across the race route:
 	On the next N lines, you will receive the race route (elements will be separated by a space).
 	On the following lines, you will receive directions (left, right, up, down).
 	On the last line, you will receive the command "End".
+
+### Output:
+
+	If the racing car has reached the finish line before the "End" command is given, print on the Console: "Racing car {racing number} finished the stage!"
+	If the "End"  command is given and the racing car has not reached the finish line yet, the race ends and the following message is printed on the Console:
+
+		"Racing car {racing number} DNF."
+
+	On the second line, print the distance that the tracked race car has covered: "Distance covered {kilometers passed} km." 
+	At the end, mark the last known position of the race car with "C" and print the final state of the matrix (race route). If the race car hasn’t gone through the tunnel, the tunnel exits should be visualized in the final state of the matrix. The row elements in the output matrix should NOT be separated by a whitespace.
