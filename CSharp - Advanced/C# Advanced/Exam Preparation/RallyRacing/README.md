@@ -15,3 +15,12 @@ On each line, after the matrix is given, you will be receiving the directions fo
 	up
 	down
 
+The race car starts moving across the race route:
+
+	If you receive "End" command, before the race car manages to reach the finish line, the car is disqualified and the following output should be printed on the Console: "Racing car {racing number} DNF."
+	
+	If the race car comes across a position marked with ".". The car passes 10 kilometers for the current move and waits for the next direction.
+	
+	If the race car comes across a position marked with "T" this is the tunnel. The race car goes through it and moves to the other position marked with  "T" (the other end of the tunnel). The car passes 30 kilometers for the current move. The tunnel stays behind the car, so the race route is clear, and both the positions marked with "T", should be marked with ".".
+	
+	If the car reaches the finish line - "F" position, the race is over. The tracked race car manages to finish the stage and the following output should be printed on the Console: "Racing car {racing number} finished the stage!". Don’t forget that the car has covered another 10 km with the last move.
