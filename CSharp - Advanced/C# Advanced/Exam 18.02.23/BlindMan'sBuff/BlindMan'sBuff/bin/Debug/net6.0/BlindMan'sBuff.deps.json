@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlindMan'sBuff/1.0.0": {
+        "runtime": {
+          "BlindMan'sBuff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlindMan'sBuff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
