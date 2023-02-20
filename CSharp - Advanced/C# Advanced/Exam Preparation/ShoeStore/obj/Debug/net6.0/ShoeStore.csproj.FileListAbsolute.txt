@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Exercises\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
