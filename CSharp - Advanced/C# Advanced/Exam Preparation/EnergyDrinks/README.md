@@ -29,3 +29,7 @@ For more clarification, see the examples below.
 	
 	On the next line, print:
 	"Stamat is going to sleep with { current caffeine } mg caffeine."
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/220182137-1ba4e7e4-893f-4d41-b4bd-0f0fb1b7e6d8.png)
