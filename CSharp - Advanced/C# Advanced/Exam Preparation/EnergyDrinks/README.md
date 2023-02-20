@@ -12,3 +12,20 @@ Stop calculating when you are out of drinks or milligrams of caffeine.
 
 For more clarification, see the examples below.
 
+### Input:
+
+	In the first line, you will be given a sequence of the milligrams of caffeinе - integers separated by comma and space ", " in the range [1, 50]
+	In the second line, you will be given a sequence of energy drinks - integers separated by comma and space ", " in the range [1, 300]
+
+### Output:
+
+	On the first line:
+	If Stamat hasn't drunk all the energy drinks, print the remaining ones separated by a comma and a space ", ": 
+	
+	"Drinks left: { remaining drinks separated by ", " }"
+	
+	If Stamat has drunk all the energy drinks, print:
+	"At least Stamat wasn't exceeding the maximum caffeine."
+	
+	On the next line, print:
+	"Stamat is going to sleep with { current caffeine } mg caffeine."
