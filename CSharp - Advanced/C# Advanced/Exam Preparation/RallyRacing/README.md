@@ -42,3 +42,8 @@ The race car starts moving across the race route:
 
 	On the second line, print the distance that the tracked race car has covered: "Distance covered {kilometers passed} km." 
 	At the end, mark the last known position of the race car with "C" and print the final state of the matrix (race route). If the race car hasn’t gone through the tunnel, the tunnel exits should be visualized in the final state of the matrix. The row elements in the output matrix should NOT be separated by a whitespace.
+
+### Еxamples:
+
+![image](https://user-images.githubusercontent.com/45227327/220182539-a00a4e9e-c17a-45ad-be1c-30ed6536652b.png)
+![image](https://user-images.githubusercontent.com/45227327/220182600-30f0eac0-faca-4524-8748-5906a2384dfa.png)
