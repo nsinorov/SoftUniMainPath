@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\refint\EnergyDrinks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Exam Preparation\Preparation from Lab\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\ref\EnergyDrinks.dll
