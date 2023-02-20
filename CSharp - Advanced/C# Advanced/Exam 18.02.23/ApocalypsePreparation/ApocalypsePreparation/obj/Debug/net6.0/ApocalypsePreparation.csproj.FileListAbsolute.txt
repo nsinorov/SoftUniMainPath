@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.exe
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.deps.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\refint\ApocalypsePreparation.dll
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.pdb
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\New folder\ApocalypsePreparation\ApocalypsePreparation\obj\Debug\net6.0\ref\ApocalypsePreparation.dll
