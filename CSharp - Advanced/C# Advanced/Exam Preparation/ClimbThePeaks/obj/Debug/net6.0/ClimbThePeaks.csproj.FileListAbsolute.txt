@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\refint\ClimbThePeaks.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\ClimbThePeaks\ClimbThePeaks\obj\Debug\net6.0\ref\ClimbThePeaks.dll
