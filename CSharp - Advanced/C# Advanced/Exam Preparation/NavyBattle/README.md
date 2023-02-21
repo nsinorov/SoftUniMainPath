@@ -25,3 +25,7 @@ When a new position is reached,  the submarine climbs up to periscope depth to s
 	If all battle cruisers are destroyed, print: "Mission accomplished, U-9 has destroyed all battle cruisers of the enemy!"
 	If U-9 is hit by a mine three times, print: "Mission failed, U-9 disappeared! Last known coordinates [{row}, {col}]!".
 	At the end, print the final state of the matrix (battlefield) with the last known U-9’s position on it.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/220458740-b76a0fe6-ae13-4177-a1a0-b8e7b7e4791f.png)
