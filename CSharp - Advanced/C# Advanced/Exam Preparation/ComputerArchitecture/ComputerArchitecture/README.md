@@ -33,3 +33,9 @@ Implement the following features:
 	Getter Count - returns the number of CPUs
 	
 	Method	 Add(CPU cpu) - adds an entity to the multiprocessor if there is room for it. If there is no room for another CPU, skip the command
+
+	Method Remove(string brand) - removes a CPU by a given brand. If such exists, returns true, otherwise, returns false.
+	
+	Method MostPowerful() - returns the most powerful CPU (the CPU with the highest frequency)
+	
+	Method GetCPU(string brand) – returns the CPU with the given brand. If there is no CPU, meeting the requirements, return null
