@@ -39,3 +39,9 @@ Implement the following features:
 	Method MostPowerful() - returns the most powerful CPU (the CPU with the highest frequency)
 	
 	Method GetCPU(string brand) – returns the CPU with the given brand. If there is no CPU, meeting the requirements, return null
+
+	Method Report() - returns a String in the following format:	
+		"CPUs in the Computer {model}:
+		{CPU1}
+		{CPU2}
+		(…)"
