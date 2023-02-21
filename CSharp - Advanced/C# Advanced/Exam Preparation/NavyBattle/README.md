@@ -29,3 +29,4 @@ When a new position is reached,  the submarine climbs up to periscope depth to s
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/220458740-b76a0fe6-ae13-4177-a1a0-b8e7b7e4791f.png)
+![image](https://user-images.githubusercontent.com/45227327/220458852-65e1bf9a-0b8a-4261-8e42-1323c32480b5.png)
