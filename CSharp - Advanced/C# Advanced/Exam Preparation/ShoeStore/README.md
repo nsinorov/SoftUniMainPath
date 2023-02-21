@@ -36,3 +36,14 @@ Implement the following features:
 	List<Shoe> GetShoesByType(string type) – searches and returns a list of shoes by given type. Search should be case insensitive.
 	
 	Shoe GetShoeBySize(double size) – return the first shoe, with the given size.
+
+	string StockList(double size, string type) – returns a string with information about the shoes which match the given size and type in the following format:		If there are any pairs mathcing the given parameters, print the following report on the Console:
+		"Stock list for size {size} - {type} shoes:
+		{Shoe1}
+		{Shoe2}
+		{…}"
+
+	If none of the pairs match the given parameters, print the following message on the console:
+	"No matches found!"
+	
+Note: Do not use "\n\r" for a new line. 
