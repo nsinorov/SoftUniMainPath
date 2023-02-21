@@ -25,3 +25,11 @@ Next, you are given a class Computer that has a Multiprocessor (a collection tha
 	Model - string
 	Capacity – int 
 	Multiprocessor – List<CPU>
+
+The class constructor should receive the model and capacity, also it should initialize the multiprocessor with a new instance of the collection.
+
+Implement the following features:
+
+	Getter Count - returns the number of CPUs
+	
+	Method	 Add(CPU cpu) - adds an entity to the multiprocessor if there is room for it. If there is no room for another CPU, skip the command
