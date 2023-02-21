@@ -11,3 +11,11 @@ When a new position is reached,  the submarine climbs up to periscope depth to s
 	If a battle cruiser is reached ('C'), the submarine destroys it and the position of the destroyed cruiser will be marked with '-' (dash).
   
 	If this is the last (third) battle cruiser on the battlefield, the battle is over and the following message should be printed on the Console: "Mission accomplished, U-9 has destroyed all battle cruisers of the enemy!"
+
+ The program will end when the battle is over (All battle cruisers are destroyed or the submarine hits mines three times).
+ 
+### Input:
+
+	On the first line, you are given the integer n – the size of the matrix (wall).
+	The next n lines hold the values for every row.
+	On each of the next lines, you will get a direction command.
