@@ -22,3 +22,11 @@ Next, you are given a class named ShoeStore, which has a collection of type Shoe
 	Shoes – List<Shoe>
 	
 The constructor of the ShoeStore class should receive name and storageCapacity. It should initialize also the Shoes with a new instance of the collection.
+
+Implement the following features:
+
+	Getter Count - returns the total count of the shoes in the storage room.
+	
+	string AddShoe(Shoe shoe) –  adds a Shoe to the Shoes collection and returns: "Successfully added {shoeType} {shoeMaterial} pair of shoes to the store." 
+			If the StorageCapacity doesn’t allow adding more shoes in the Store 
+			(Shoes.Count == StorageCapacity), returns: "No more space in the storage room." 
