@@ -30,3 +30,9 @@ Implement the following features:
 	string AddShoe(Shoe shoe) –  adds a Shoe to the Shoes collection and returns: "Successfully added {shoeType} {shoeMaterial} pair of shoes to the store." 
 			If the StorageCapacity doesn’t allow adding more shoes in the Store 
 			(Shoes.Count == StorageCapacity), returns: "No more space in the storage room." 
+
+	int RemoveShoes(string material) – removes all shoes by a given material, as a result, return the count of the shoes which were removed.
+	
+	List<Shoe> GetShoesByType(string type) – searches and returns a list of shoes by given type. Search should be case insensitive.
+	
+	Shoe GetShoeBySize(double size) – return the first shoe, with the given size.
