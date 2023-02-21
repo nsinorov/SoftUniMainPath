@@ -37,4 +37,4 @@
   
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>         | <a> In Progress </a> |
+| <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>         | <a href="https://softuni.bg/certificates/details/158231/9fe7c906"> Click here</a> |
