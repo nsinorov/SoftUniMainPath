@@ -13,3 +13,12 @@ The class constructor should receive brand, type, size and material.
 
 Override ToString() method: "Size {Size}, {Material} {Brand} {Type} shoe."
 
+### Class ShoeStore
+
+Next, you are given a class named ShoeStore, which has a collection of type Shoe. The name of the collection should be Shoes, which could not be modified directly. All the entities of the shoe collection have the same properties.  The ShoeStore also should have the following properties:
+
+	Name – string
+	StorageCapacity – int
+	Shoes – List<Shoe>
+	
+The constructor of the ShoeStore class should receive name and storageCapacity. It should initialize also the Shoes with a new instance of the collection.
