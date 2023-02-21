@@ -18,3 +18,10 @@ Override the ToString() method in the following format:
 
 Note: Format the Frequency to the first digit after the decimal point!
 
+### Class Computer
+
+Next, you are given a class Computer that has a Multiprocessor (a collection that stores CPU entities). All entities inside the collection have the same fields. Every Computer will have Capacity of the motherboard, and adding new CPU will be limited by the Capacity. Also, the Computer class should have the following properties:
+
+	Model - string
+	Capacity – int 
+	Multiprocessor – List<CPU>
