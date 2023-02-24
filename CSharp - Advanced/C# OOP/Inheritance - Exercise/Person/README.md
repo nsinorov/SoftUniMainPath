@@ -8,3 +8,5 @@ You are asked to model an application for storing data about people. You should 
 	
 Note
 Your class’s names MUST be the same as the names shown above!!!
+
+Create a new empty class and name it Person. Set its access modifier to the public so it can be instantiated from any project. Every person has a name and an age.
