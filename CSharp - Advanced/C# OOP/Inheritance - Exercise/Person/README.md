@@ -31,3 +31,4 @@ There is no need to rewrite the Name and Age properties since the Child inherits
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/221173098-e70edcd7-1137-455e-9a73-d40171400d3f.png)
+![image](https://user-images.githubusercontent.com/45227327/221173183-75003591-6938-4a3b-b295-df526192ad9d.png)
