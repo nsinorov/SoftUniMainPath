@@ -11,3 +11,4 @@ Follow the diagram and create all of the classes. Each of them, except the Anima
 
 ### Example:
 
+![image](https://user-images.githubusercontent.com/45227327/221297120-f6646675-9fee-4efd-abf1-1d485ef342e6.png)
