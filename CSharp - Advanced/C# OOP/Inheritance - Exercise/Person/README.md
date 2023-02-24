@@ -13,3 +13,7 @@ Create a new empty class and name it Person. Set its access modifier to the publ
 
 	Define a field for each property the class should have (e.g. Name, Age) 
 	Define the Name and Age properties of a Person. 
+
+### Step 1 – Define a Constructor
+
+Define a constructor that accepts name and age.
