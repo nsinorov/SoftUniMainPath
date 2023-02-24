@@ -10,3 +10,6 @@ Note
 Your class’s names MUST be the same as the names shown above!!!
 
 Create a new empty class and name it Person. Set its access modifier to the public so it can be instantiated from any project. Every person has a name and an age.
+
+	Define a field for each property the class should have (e.g. Name, Age) 
+	Define the Name and Age properties of a Person. 
