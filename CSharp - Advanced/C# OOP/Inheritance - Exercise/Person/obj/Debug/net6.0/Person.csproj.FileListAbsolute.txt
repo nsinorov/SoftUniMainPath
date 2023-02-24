@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\bin\Debug\net6.0\Person.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\bin\Debug\net6.0\Person.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Person\obj\Debug\net6.0\ref\Person.dll
