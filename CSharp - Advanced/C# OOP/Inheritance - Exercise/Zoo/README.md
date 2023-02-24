@@ -8,3 +8,6 @@ Follow the diagram and create all of the classes. Each of them, except the Anima
 
 	A constructor, which accepts one parameter: name. 
 	Property Name - string.
+
+### Example:
+
