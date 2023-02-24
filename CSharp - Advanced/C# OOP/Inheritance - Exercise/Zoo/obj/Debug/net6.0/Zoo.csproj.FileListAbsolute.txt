@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll
