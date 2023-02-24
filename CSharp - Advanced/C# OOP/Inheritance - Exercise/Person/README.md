@@ -27,3 +27,7 @@ As you probably already know, all classes in C# inherit the Object class and the
 Create a Child class that inherits Person and has the same constructor definition. However, do not copy the code from the Person class - reuse the Person class' constructor.
 
 There is no need to rewrite the Name and Age properties since the Child inherits Person and by default has them.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/221173098-e70edcd7-1137-455e-9a73-d40171400d3f.png)
