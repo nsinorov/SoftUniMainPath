@@ -17,3 +17,7 @@ Create a new empty class and name it Person. Set its access modifier to the publ
 ### Step 1 – Define a Constructor
 
 Define a constructor that accepts name and age.
+
+### Step 2 – Override ToString()
+
+As you probably already know, all classes in C# inherit the Object class and therefore have all its public members (ToString(), Equals(), and GetHashCode() methods). ToString() serves to return information about an instance as а string. Let's override (change) its behavior for our Person class.
