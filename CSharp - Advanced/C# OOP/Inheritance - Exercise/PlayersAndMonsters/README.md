@@ -12,3 +12,4 @@ Create a class Hero. It should contain the following members:
 	The following properties:
 		Username - string
 		Level – int
+	ToString() method
