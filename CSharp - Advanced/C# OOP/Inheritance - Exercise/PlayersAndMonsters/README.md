@@ -13,3 +13,6 @@ Create a class Hero. It should contain the following members:
 		Username - string
 		Level – int
 	ToString() method
+
+Hint: Override ToString() of the base class in the following way:
+
