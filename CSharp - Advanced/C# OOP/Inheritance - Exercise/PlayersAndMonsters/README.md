@@ -7,5 +7,8 @@ Your task is to create the following game hierarchy:
 Create a class Hero. It should contain the following members:
 
 	A constructor, which accepts:
-    o	username – string
-    o	level – int
+    		username – string
+    		level – int
+	The following properties:
+		Username - string
+		Level – int
