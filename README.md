@@ -1,8 +1,5 @@
 # <p align="center"> Courses from the main C# path in SoftUni <p>
 
-![SoftUni-Logo-Flat](https://user-images.githubusercontent.com/45227327/221373908-f1cae3de-eac5-421d-984d-97368f135442.png)
-
-<br/>
 
 <h1 align="center">Certificates </h1>
 
