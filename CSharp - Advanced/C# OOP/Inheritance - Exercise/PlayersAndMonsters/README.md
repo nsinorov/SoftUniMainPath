@@ -16,7 +16,8 @@ Create a class Hero. It should contain the following members:
 
 Hint: Override ToString() of the base class in the following way:
 
-public override string ToString()
-{
-    return $"Type: {this.GetType().Name} Username: {this.Username} Level: {this.Level}";
-}
+public override string ToString():
+
+	{
+  	  return $"Type: {this.GetType().Name} Username: {this.Username} Level: {this.Level}";
+	}
