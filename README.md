@@ -1,7 +1,5 @@
 # <p align="center"> Courses from the main C# path in SoftUni <p>
 
-
-
 <br/>
 
 <h1 align="center">Certificates </h1>
