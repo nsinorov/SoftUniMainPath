@@ -24,3 +24,4 @@ public override string ToString():
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/221373812-52945bd9-c1c5-4f88-8949-ce8cbffb7d00.png)
