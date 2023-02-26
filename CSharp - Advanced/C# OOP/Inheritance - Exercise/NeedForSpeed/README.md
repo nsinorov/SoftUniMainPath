@@ -2,3 +2,12 @@ NOTE: You need a public class StartUp. Create the following hierarchy with the f
 
 ![image](https://user-images.githubusercontent.com/45227327/221422475-de1c475f-810c-4a3c-9824-b055f4e03b75.png)
 
+Create a base class Vehicle. It should contain the following members:
+
+	A constructor that accepts the following parameters: int horsePower, double fuel
+	DefaultFuelConsumption – double 
+	FuelConsumption – virtual double
+	Fuel – double
+	HorsePower – int
+	virtual void Drive(double kilometers)
+	  The Drive method should have a functionality to reduce the Fuel based on the traveled kilometers.
