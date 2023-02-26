@@ -17,3 +17,6 @@ The default fuel consumption for Vehicle is 1.25. Some of the classes have diffe
 	SportCar – DefaultFuelConsumption = 10
 	RaceMotorcycle – DefaultFuelConsumption = 8
 	Car – DefaultFuelConsumption = 3
+
+### Examples: 
+
