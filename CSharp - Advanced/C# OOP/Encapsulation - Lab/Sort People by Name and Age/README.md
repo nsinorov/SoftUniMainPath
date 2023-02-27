@@ -6,3 +6,7 @@ Create a class Person, which should have public properties with private setters 
 	LastName: string
 	Age: int
 	ToString(): string - override
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/221663657-04af0fc2-9aaf-40c6-80f9-946732dce9a9.png)
