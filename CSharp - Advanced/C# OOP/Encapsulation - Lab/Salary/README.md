@@ -10,3 +10,4 @@ New properties and methods:
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/221664092-d1d1956f-6585-40a5-9ab5-d8a4e1fc11b3.png)
+![image](https://user-images.githubusercontent.com/45227327/221664157-c6a141d7-b8bf-487c-ab5d-8d6347a6a379.png)
