@@ -13,3 +13,6 @@ If some of the properties are NOT valid throw ArgumentExeption with the followin
 	"Last name cannot contain fewer than 3 symbols!"
 	"Salary cannot be less than 650 leva!"
 
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/221664428-ff7782ca-0cde-4f76-b61f-48c2fee3c33a.png)
