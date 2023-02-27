@@ -6,3 +6,7 @@ New properties and methods:
 
 	Salary: decimal 
 	IncreaseSalary(decimal percentage)
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/221664092-d1d1956f-6585-40a5-9ab5-d8a4e1fc11b3.png)
