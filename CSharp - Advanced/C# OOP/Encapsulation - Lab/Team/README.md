@@ -21,3 +21,6 @@ And a method for adding players:
 
 	AddPlayer(Person person): void
 
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/221664739-213a3a9e-1535-4ed8-9ef3-09e198aed6fb.png)
