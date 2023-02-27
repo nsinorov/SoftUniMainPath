@@ -24,3 +24,4 @@ And a method for adding players:
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/221664739-213a3a9e-1535-4ed8-9ef3-09e198aed6fb.png)
+![image](https://user-images.githubusercontent.com/45227327/221664846-68ee0258-1cd1-4711-8503-2e9a375e8073.png)
