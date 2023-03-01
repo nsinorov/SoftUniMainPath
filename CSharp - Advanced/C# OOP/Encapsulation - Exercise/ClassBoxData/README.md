@@ -16,3 +16,10 @@ double LateralSurfaceArea()
 
 double Volume()
 => Calculate and return the volume of the Box.
+
+### Input
+
+	On the first three lines, you will get the length, width, and height. 
+### Output
+
+	On the next three lines print the surface area, lateral surface area, and the volume of the box.
