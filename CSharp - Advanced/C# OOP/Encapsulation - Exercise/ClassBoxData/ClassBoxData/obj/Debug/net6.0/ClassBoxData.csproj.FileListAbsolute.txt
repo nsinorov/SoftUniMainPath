@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll
