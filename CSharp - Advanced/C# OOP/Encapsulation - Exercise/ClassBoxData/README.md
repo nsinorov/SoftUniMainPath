@@ -23,3 +23,6 @@ double Volume()
 ### Output
 
 	On the next three lines print the surface area, lateral surface area, and the volume of the box.
+
+### Examples
+
