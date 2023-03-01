@@ -25,3 +25,4 @@ For example, the dog should be able to bark. Your task is to model the hierarchy
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/222148401-71c1a50a-06ba-4444-bc94-9494d81d5e87.png)
