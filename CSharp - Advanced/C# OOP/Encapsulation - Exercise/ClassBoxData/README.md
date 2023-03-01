@@ -9,10 +9,10 @@ If one of the properties is a zero or negative number throw ArgumentException wi
 ### Behavior
 
 double SurfaceArea()
-Calculate and return the surface area of the Box.
+=> Calculate and return the surface area of the Box.
 
 double LateralSurfaceArea()
-Calculate and return the lateral surface area of the Box.
+=> Calculate and return the lateral surface area of the Box.
 
 double Volume()
-Calculate and return the volume of the Box.
+=> Calculate and return the volume of the Box.
