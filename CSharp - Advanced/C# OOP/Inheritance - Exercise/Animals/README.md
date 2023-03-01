@@ -22,3 +22,6 @@ For example, the dog should be able to bark. Your task is to model the hierarchy
 		Frog: "Ribbit"
 		Kittens: "Meow"
 		Tomcat: "MEOW"
+
+### Examples:
+
