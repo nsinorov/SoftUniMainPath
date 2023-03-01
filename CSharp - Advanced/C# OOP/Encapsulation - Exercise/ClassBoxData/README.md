@@ -27,3 +27,4 @@ double Volume()
 ### Examples
 
 ![image](https://user-images.githubusercontent.com/45227327/222273917-5266a91f-ebbf-4a30-8125-ee49ddd80e8e.png)
+![image](https://user-images.githubusercontent.com/45227327/222273979-3a145700-ad18-4bd8-a973-eb8fc861a9bc.png)
