@@ -19,3 +19,6 @@ Validate the age properly, minimum and maximum age are provided, make use of the
 ### Step 4. Hide Internal Logic
 
 If a method is intended to be used only by descendant classes or internally to perform some action, there is no point in keeping them public. The CalculateProductPerDay() method is used by the ProductPerDay public getter. This means the method can safely be hidden inside the Chicken class by declaring it private.
+
+### Examples:
+
