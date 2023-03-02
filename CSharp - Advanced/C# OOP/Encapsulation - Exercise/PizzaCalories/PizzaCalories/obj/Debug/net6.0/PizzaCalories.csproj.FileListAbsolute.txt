@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\PizzaCalories\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll
