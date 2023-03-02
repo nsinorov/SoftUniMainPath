@@ -15,3 +15,7 @@ Having getters and setters is useless if you don’t use them. The Chicken const
 Validate the chicken’s name (it cannot be null, empty, or whitespace). In case of an invalid name, print the Exception message: "Name cannot be empty.".
 
 Validate the age properly, minimum and maximum age are provided, make use of them. In case of an invalid age, print Exception message: "Age should be between 0 and 15.". Don’t forget to handle properly the possibly thrown Exceptions.
+
+### Step 4. Hide Internal Logic
+
+If a method is intended to be used only by descendant classes or internally to perform some action, there is no point in keeping them public. The CalculateProductPerDay() method is used by the ProductPerDay public getter. This means the method can safely be hidden inside the Chicken class by declaring it private.
