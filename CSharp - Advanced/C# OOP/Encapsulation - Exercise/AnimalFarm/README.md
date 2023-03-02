@@ -22,3 +22,4 @@ If a method is intended to be used only by descendant classes or internally to p
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/222400911-afdd9be4-d6d6-456b-9e17-f0c7f32806f6.png)
