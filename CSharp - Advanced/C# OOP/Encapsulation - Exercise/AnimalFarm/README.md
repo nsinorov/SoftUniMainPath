@@ -13,3 +13,5 @@ Having getters and setters is useless if you don’t use them. The Chicken const
 ### Step 3. Validate Data Properly
 
 Validate the chicken’s name (it cannot be null, empty, or whitespace). In case of an invalid name, print the Exception message: "Name cannot be empty.".
+
+Validate the age properly, minimum and maximum age are provided, make use of them. In case of an invalid age, print Exception message: "Age should be between 0 and 15.". Don’t forget to handle properly the possibly thrown Exceptions.
