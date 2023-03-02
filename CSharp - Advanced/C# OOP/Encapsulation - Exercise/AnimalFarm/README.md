@@ -5,3 +5,7 @@ You should be familiar with encapsulation already. For this problem, you’ll be
 ### Step 1. Encapsulate Fields
 
 Fields should be private. Leaving fields open for modification from outside the class is potentially dangerous. Make all fields in the Chicken class private. In case the value inside the field is needed elsewhere, use getters to reveal it.
+
+### Step 2. Ensure Classes Have a Correct State
+
+Having getters and setters is useless if you don’t use them. The Chicken constructor modifies the fields directly, which is wrong when there are suitable setters available. Modify the constructor to fix this issue.
