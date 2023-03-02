@@ -15,3 +15,4 @@ In case of invalid input (negative money Exception message: "Money cannot be neg
 
 ![image](https://user-images.githubusercontent.com/45227327/222531877-ee9ad349-95e1-4e32-95db-9dc6c584aced.png)
 ![image](https://user-images.githubusercontent.com/45227327/222532004-a75940db-6b61-4865-a1fc-351b2b4c1ad2.png)
+![image](https://user-images.githubusercontent.com/45227327/222532066-a1e25447-04f5-40c6-a248-a9a2d4d60c55.png)
