@@ -74,3 +74,7 @@ The name of the Pizza should not be an empty string. In addition, it should not 
 
 The number of toppings should be in the range [0..10]. If not, throw an Exception with the message "Number of toppings should be in range [0..10].".
 Your task is to print the name of the Pizza and the total calories it has according to the examples below.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/222785651-1ab70179-d22d-42df-ab4f-54de49a2436b.png)
