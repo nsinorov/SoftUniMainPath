@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll
