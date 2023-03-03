@@ -17,3 +17,11 @@ Modifiers:
 	Homemade - 1.0
 
 Everything that the class should expose is a getter for the calories per gram. Your task is to create the class with a proper constructor, fields, getters, and setters. Make sure you use the proper access modifiers.
+
+### Step 2. Validate Data for the Dough Class
+
+Change the internal logic of the Dough class by adding a data validation in the setters.
+
+Make sure that if an invalid flour type or an invalid baking technique is given a proper Exception is thrown with the message "Invalid type of dough.".
+
+The allowed weight of dough is in the range [1..200] grams. If it is outside of this range throw an Exception with the message "Dough weight should be in the range [1..200].".
