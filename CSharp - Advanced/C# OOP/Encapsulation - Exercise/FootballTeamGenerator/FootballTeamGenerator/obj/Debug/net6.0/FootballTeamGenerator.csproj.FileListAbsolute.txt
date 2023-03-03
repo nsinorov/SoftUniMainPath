@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\net6.0\FootballTeamGenerator.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\net6.0\FootballTeamGenerator.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\net6.0\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\net6.0\FootballTeamGenerator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\net6.0\FootballTeamGenerator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\refint\FootballTeamGenerator.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\FootballTeamGenerator.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\net6.0\ref\FootballTeamGenerator.dll
