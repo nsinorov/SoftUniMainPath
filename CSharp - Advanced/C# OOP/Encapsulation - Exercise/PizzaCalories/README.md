@@ -32,3 +32,16 @@ The allowed weight of dough is in the range [1..200] grams. If it is outside of 
 	"Dough weight should be in the range [1..200]."
 
 Make a test in your main method that reads Doughs and prints their calories until an "END" command is given.
+
+### Step 3. Create a Topping Class
+
+Next, you need to create a Topping class. It can be of four different types - meat, veggies, cheese, or a sauce. A Тopping weights grams. The calories per gram of topping are calculated depending on its type. The base calories per gram are 2. Every different type of topping has a modifier. For example, meat has a modifier of 1.2, so a meat topping will have 1.2 calories per gram (1 * 1.2). Everything that the class should expose is a getter for calories per gram. You are given the modifiers below:
+
+Modifiers:
+
+	Meat - 1.2;
+	Veggies - 0.8;
+	Cheese - 1.1;
+	Sauce - 0.9;
+
+Your task is to create the class with a proper constructor, fields, getters, and setters. Make sure you use the proper access modifiers.
