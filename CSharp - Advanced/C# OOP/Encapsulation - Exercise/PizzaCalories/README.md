@@ -79,3 +79,4 @@ Your task is to print the name of the Pizza and the total calories it has accord
 
 ![image](https://user-images.githubusercontent.com/45227327/222785651-1ab70179-d22d-42df-ab4f-54de49a2436b.png)
 ![image](https://user-images.githubusercontent.com/45227327/222785754-b03314a0-acbf-4413-abab-a3af76a80770.png)
+![image](https://user-images.githubusercontent.com/45227327/222785844-e8f6728f-df32-4b04-80c3-d96111b59de5.png)
