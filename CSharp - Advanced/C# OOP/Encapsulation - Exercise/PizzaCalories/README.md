@@ -67,3 +67,10 @@ A Pizza should have a name, some toppings, and dough. Make use of the two classe
 The input for a Pizza consists of several lines. On the first line is the Pizza name and on the second line, you will get input for the dough. On the next lines, you will receive every topping the Pizza has.
 
 If the creation of the Pizza was successful, print on a single line the name of the Pizza and the total calories it has.
+
+### Step 6. Validate Data for the Pizza Class
+
+The name of the Pizza should not be an empty string. In addition, it should not be longer than 15 symbols. If it does not fit, throw an Exception with the message "Pizza name should be between 1 and 15 symbols.".
+
+The number of toppings should be in the range [0..10]. If not, throw an Exception with the message "Number of toppings should be in range [0..10].".
+Your task is to print the name of the Pizza and the total calories it has according to the examples below.
