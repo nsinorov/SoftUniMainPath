@@ -25,3 +25,10 @@ Change the internal logic of the Dough class by adding a data validation in the 
 Make sure that if an invalid flour type or an invalid baking technique is given a proper Exception is thrown with the message "Invalid type of dough.".
 
 The allowed weight of dough is in the range [1..200] grams. If it is outside of this range throw an Exception with the message "Dough weight should be in the range [1..200].".
+
+### Exception Messages
+
+	"Invalid type of dough."
+	"Dough weight should be in the range [1..200]."
+
+Make a test in your main method that reads Doughs and prints their calories until an "END" command is given.
