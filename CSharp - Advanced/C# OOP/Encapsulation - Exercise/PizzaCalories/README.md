@@ -59,3 +59,11 @@ The allowed weight of a Тopping is in the range [1..50] grams. If it is outside
 	"[Topping type name] weight should be in the range [1..50]."
 
 Make a test in your main method that reads a single dough and a topping after that and prints their calories.
+
+### Step 5. Create a Pizza Class!
+
+A Pizza should have a name, some toppings, and dough. Make use of the two classes you made earlier. In addition, a Pizza should have public getters for its name, the number of toppings, and the total calories. The total calories are calculated by summing the calories of all the ingredients a Pizza has. Create the class using a proper constructor, expose a method for adding a topping, a public setter for the dough, and a getter for the total calories.
+
+The input for a Pizza consists of several lines. On the first line is the Pizza name and on the second line, you will get input for the dough. On the next lines, you will receive every topping the Pizza has.
+
+If the creation of the Pizza was successful, print on a single line the name of the Pizza and the total calories it has.
