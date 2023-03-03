@@ -21,3 +21,6 @@ Your application will receive commands until the "END" command is given. The com
 	If you receive a command to add a Player to a missing Team, print "Team [team name] does not exist."
 	If you receive a command to show stats for a missing Team, print "Team [team name] does not exist."
 
+### Examples
+
+![image](https://user-images.githubusercontent.com/45227327/222786380-34682aa2-4bac-4ff3-8bda-a89a35f11b10.png)
