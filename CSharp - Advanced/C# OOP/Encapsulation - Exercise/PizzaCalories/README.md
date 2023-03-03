@@ -52,3 +52,10 @@ Change the internal logic of the Topping class by adding data validation in the 
 Make sure the Тopping is one of the provided types, otherwise throw a proper Exception with the message "Cannot place [name of invalid argument] on top of your pizza.".
 
 The allowed weight of a Тopping is in the range [1..50] grams. If it is outside of this range throw an Exception with the message "[Topping type name] weight should be in the range [1..50].".
+
+### Exception Messages
+
+	"Cannot place [name of invalid argument] on top of your pizza."
+	"[Topping type name] weight should be in the range [1..50]."
+
+Make a test in your main method that reads a single dough and a topping after that and prints their calories.
