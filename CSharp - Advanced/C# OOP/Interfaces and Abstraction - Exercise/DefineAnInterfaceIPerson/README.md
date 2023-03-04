@@ -5,3 +5,4 @@ Define an interface IPerson with properties for Name and Age. Define a class Cit
 ### Examples
 
 ![image](https://user-images.githubusercontent.com/45227327/222908358-1ed4efeb-6c1e-4362-9432-71b38f041316.png)
+![image](https://user-images.githubusercontent.com/45227327/222908372-8cb0c9bd-797c-4009-939f-05f1a8cfc38e.png)
