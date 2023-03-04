@@ -47,3 +47,4 @@ The output will consist of 5 lines:
 ### Examples
 
 ![image](https://user-images.githubusercontent.com/45227327/222908252-e1d39c67-831f-4ca9-8193-e9db74b67f15.png)
+![image](https://user-images.githubusercontent.com/45227327/222908271-c8fd1c1d-4025-4012-80b0-1c7293be911d.png)
