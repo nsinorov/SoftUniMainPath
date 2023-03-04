@@ -8,3 +8,7 @@ The output of your program should consist of all detained Ids each on a separate
 ### Input
 
 The input comes from the console. Every commands’ parameters before the command "End" will be separated by a single space.
+
+### Examples
+
+![image](https://user-images.githubusercontent.com/45227327/222908117-be82effa-bf43-4137-bd08-575031e954e4.png)
