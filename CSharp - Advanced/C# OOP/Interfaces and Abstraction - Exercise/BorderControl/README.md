@@ -5,3 +5,6 @@ After the "End" command on the next line, you will receive a single number repre
 
 The output of your program should consist of all detained Ids each on a separate line in the order of input.
 
+### Input
+
+The input comes from the console. Every commands’ parameters before the command "End" will be separated by a single space.
