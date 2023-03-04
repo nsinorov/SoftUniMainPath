@@ -43,3 +43,7 @@ The output will consist of 5 lines:
 	All collections should have a length of 100.
 	There will never be more than 100 add operations.
 	The number of removed operations will never be more than the number of added operations.
+
+### Examples
+
+![image](https://user-images.githubusercontent.com/45227327/222908252-e1d39c67-831f-4ca9-8193-e9db74b67f15.png)
