@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\BorderControl\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
