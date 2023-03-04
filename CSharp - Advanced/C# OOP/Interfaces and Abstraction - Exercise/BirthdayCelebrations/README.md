@@ -9,3 +9,4 @@ After the "End" command on the next line, you will receive a single number repre
 ### Examples:
   
  ![image](https://user-images.githubusercontent.com/45227327/222907996-9d6154ab-50d3-4180-95b0-8ef4dc85ba53.png)
+![image](https://user-images.githubusercontent.com/45227327/222908012-7fba8c41-edab-4efc-b311-a4625d9915b5.png)
