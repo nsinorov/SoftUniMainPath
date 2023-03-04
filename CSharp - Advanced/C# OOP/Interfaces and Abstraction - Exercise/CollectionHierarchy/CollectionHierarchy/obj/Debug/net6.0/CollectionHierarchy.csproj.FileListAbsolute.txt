@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\refint\CollectionHierarchy.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\CollectionHierarchy\CollectionHierarchy\obj\Debug\net6.0\ref\CollectionHierarchy.dll
