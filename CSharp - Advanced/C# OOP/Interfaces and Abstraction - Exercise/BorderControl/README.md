@@ -12,3 +12,4 @@ The input comes from the console. Every commands’ parameters before the comman
 ### Examples
 
 ![image](https://user-images.githubusercontent.com/45227327/222908117-be82effa-bf43-4137-bd08-575031e954e4.png)
+![image](https://user-images.githubusercontent.com/45227327/222908132-f14f1368-3302-4b6e-ab22-863d022d1685.png)
