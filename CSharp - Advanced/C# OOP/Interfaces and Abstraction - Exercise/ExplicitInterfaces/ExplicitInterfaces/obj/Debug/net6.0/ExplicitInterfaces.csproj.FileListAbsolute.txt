@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\refint\ExplicitInterfaces.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\net6.0\ref\ExplicitInterfaces.dll
