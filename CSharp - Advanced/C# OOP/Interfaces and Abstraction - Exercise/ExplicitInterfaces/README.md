@@ -6,4 +6,5 @@ You will receive lines of Citizen information from the console until the command
 ### Examples
   
   ![image](https://user-images.githubusercontent.com/45227327/222984299-b3395c8f-0428-4aea-a23d-c3f8e4612101.png)
+  ![image](https://user-images.githubusercontent.com/45227327/222984325-583b6ecd-edd6-4f77-8816-7c66da9c1855.png)
 
