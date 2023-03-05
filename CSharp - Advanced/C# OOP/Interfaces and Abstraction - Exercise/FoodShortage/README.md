@@ -11,4 +11,5 @@ The output consists of only one line on which you should print the total amount 
 ### Examples
   
   ![image](https://user-images.githubusercontent.com/45227327/222984431-d64f9f35-5b22-4a0f-9d88-472685606610.png)
+  ![image](https://user-images.githubusercontent.com/45227327/222984458-bc7c3aaa-8d1a-4788-a740-13bbb457454d.png)
 
