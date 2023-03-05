@@ -14,3 +14,9 @@ You should start the project by implementing two classes:
   
 You should also implement interfaces for each class with the appropriate methods.
 
+### Input
+
+The input comes from the console. It will hold two lines:
+
+	The First line consists of phone numbers: a string, separated by spaces.
+	The Second line consists of websites: a string, separated by spaces.
