@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\Telephony\Telephony\obj\Debug\net6.0\ref\Telephony.dll
