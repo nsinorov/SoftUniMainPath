@@ -21,7 +21,7 @@ The input comes from the console. It will hold two lines:
 	The First line consists of phone numbers: a string, separated by spaces.
 	The Second line consists of websites: a string, separated by spaces.
 
-Output
+### Output
 
 1.First, call all valid numbers in the order of input:
 
@@ -33,3 +33,12 @@ Output
 
 	If there is a number in the input of the URLs, print: "Invalid URL!" and continue with the next URLs.
 	If the URL is valid, print on the console the website in the format: "Browsing: {site}!"
+
+### Constraints
+
+	Each site's URL should consist only of letters and symbols (No digits are allowed in the URL address).
+	The phone numbers will always be 7 or 10 digits long.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/222984617-75dc054d-12a5-4c6c-8949-3e5398acc80b.png)
