@@ -7,3 +7,7 @@ On the first line of the input you will receive an integer N - the number of peo
 ### Output
   
 The output consists of only one line on which you should print the total amount of food purchased.
+
+### Examples
+  
+  
