@@ -4,3 +4,4 @@ Using the code from the previous task, define an interface IIdentifiable with a 
 
 ### Examples
 
+![image](https://user-images.githubusercontent.com/45227327/222984687-c5b605ff-c386-4595-a23b-5b694d542a5f.png)
