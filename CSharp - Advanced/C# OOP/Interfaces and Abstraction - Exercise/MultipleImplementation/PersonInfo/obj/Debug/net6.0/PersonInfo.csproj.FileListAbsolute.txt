@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise GITHUB\PersonInfo\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
