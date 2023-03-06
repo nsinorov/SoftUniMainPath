@@ -9,3 +9,7 @@ Create the following class hierarchy:
         Commando - holds a set of Missions. A mission holds a code name and a state (inProgress or Finished). A Mission can be finished through the method CompleteMission().
         
 	  Spy - holds the code number of the Spy (int).
+
+Extract interfaces for each class. (e.g. ISoldier, IPrivate, ILieutenantGeneral, etc.) The interfaces should hold their public properties and methods (e.g. ISoldier should hold id, first name, and last name).
+
+Each class should implement its respective interface. Validate the input where necessary (corps, mission state) - input should match exactly one of the required values, otherwise, it should be treated as invalid. In case of invalid corps, the entire line should be skipped, in case of an invalid mission state, only the mission should be skipped. 
