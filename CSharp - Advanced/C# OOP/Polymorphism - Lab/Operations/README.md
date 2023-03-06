@@ -6,3 +6,6 @@ Create a class MathOperations, which should have 3 times method Add(). Method Ad
 	Add(double, double, double): double
 	Add(decimal, decimal, decimal): decimal
 
+### Examples
+
+![image](https://user-images.githubusercontent.com/45227327/223230377-d01c3713-e13c-4462-a70b-8d5660040ae4.png)
