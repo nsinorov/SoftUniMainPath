@@ -21,3 +21,5 @@ You will receive from the console an unknown amount of lines containing informat
 	Engineer: "Engineer <id> <firstName> <lastName> <salary> <corps> <repair1Part> <repair1Hours> … <repairNPart> <repairNHours>" where repairXPart is the name of a repaired part and repairXHours the hours it took to repair it (the two parameters will always come paired). 
 		Commando: "Commando <id> <firstName> <lastName> <salary> <corps> <mission1CodeName>  <mission1state> … <missionNCodeName> <missionNstate>" a missions code name, description and state will always come together.
 	Spy: "Spy <id> <firstName> <lastName> <codeNumber>"
+
+Define proper constructors. Avoid code duplication through abstraction. Override ToString() in all classes to print detailed information about the object.
