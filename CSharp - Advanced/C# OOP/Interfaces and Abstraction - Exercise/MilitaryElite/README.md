@@ -67,3 +67,5 @@ Define proper constructors. Avoid code duplication through abstraction. Override
 	
 	Mission:
 	Code Name: <codeName> State: <state>
+
+NOTE: Salary should be printed rounded to two decimal places after the separator
