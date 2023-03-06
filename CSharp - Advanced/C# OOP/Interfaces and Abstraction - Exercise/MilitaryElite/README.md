@@ -35,9 +35,9 @@ Define proper constructors. Avoid code duplication through abstraction. Override
 	
 		Name: <firstName> <lastName> Id: <id> Salary: <salary>
 	
-Privates:
+    Privates:
 
-  <private1 ToString()>
-  <private2 ToString()>
-  …
-  <privateN ToString()>
+ 	 <private1 ToString()>
+ 	 <private2 ToString()>
+ 	 …
+	  <privateN ToString()>
