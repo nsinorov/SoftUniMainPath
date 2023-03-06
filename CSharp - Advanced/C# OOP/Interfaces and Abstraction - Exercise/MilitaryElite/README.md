@@ -23,3 +23,21 @@ You will receive from the console an unknown amount of lines containing informat
 	Spy: "Spy <id> <firstName> <lastName> <codeNumber>"
 
 Define proper constructors. Avoid code duplication through abstraction. Override ToString() in all classes to print detailed information about the object.
+
+	Privates:
+		Name: <firstName> <lastName> Id: <id> Salary: <salary>
+		
+	Spy:
+		Name: <firstName> <lastName> Id: <id>
+		Code Number: <codeNumber>
+		
+	LieutenantGeneral:
+	
+		Name: <firstName> <lastName> Id: <id> Salary: <salary>
+	
+Privates:
+
+  <private1 ToString()>
+  <private2 ToString()>
+  …
+  <privateN ToString()>
