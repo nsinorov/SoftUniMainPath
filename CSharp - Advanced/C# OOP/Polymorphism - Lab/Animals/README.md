@@ -9,3 +9,5 @@ An animal has one virtual method ExplainSelf(): string.
 
 You should add two new classes - Cat and Dog. Override the ExplainSelf() method by adding concrete animal sound on a new line. (Look at examples below) 
 
+### Examples
+
