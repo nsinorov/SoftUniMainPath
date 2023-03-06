@@ -18,3 +18,6 @@ You will receive from the console an unknown amount of lines containing informat
 
 	Private: "Private <id> <firstName> <lastName> <salary>"
 	LeutenantGeneral: "LieutenantGeneral <id> <firstName> <lastName> <salary> <private1Id> <private2Id> … <privateNId>" where privateXId will always be an Id of a Private already received through the input.
+	Engineer: "Engineer <id> <firstName> <lastName> <salary> <corps> <repair1Part> <repair1Hours> … <repairNPart> <repairNHours>" where repairXPart is the name of a repaired part and repairXHours the hours it took to repair it (the two parameters will always come paired). 
+		Commando: "Commando <id> <firstName> <lastName> <salary> <corps> <mission1CodeName>  <mission1state> … <missionNCodeName> <missionNstate>" a missions code name, description and state will always come together.
+	Spy: "Spy <id> <firstName> <lastName> <codeNumber>"
