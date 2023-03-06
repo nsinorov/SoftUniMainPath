@@ -13,3 +13,8 @@ Create the following class hierarchy:
 Extract interfaces for each class. (e.g. ISoldier, IPrivate, ILieutenantGeneral, etc.) The interfaces should hold their public properties and methods (e.g. ISoldier should hold id, first name, and last name).
 
 Each class should implement its respective interface. Validate the input where necessary (corps, mission state) - input should match exactly one of the required values, otherwise, it should be treated as invalid. In case of invalid corps, the entire line should be skipped, in case of an invalid mission state, only the mission should be skipped. 
+
+You will receive from the console an unknown amount of lines containing information about soldiers until the command "End" is received. The information will be in one of the following formats:
+
+	Private: "Private <id> <firstName> <lastName> <salary>"
+	LeutenantGeneral: "LieutenantGeneral <id> <firstName> <lastName> <salary> <private1Id> <private2Id> … <privateNId>" where privateXId will always be an Id of a Private already received through the input.
