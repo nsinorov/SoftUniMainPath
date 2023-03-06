@@ -1,1 +1,11 @@
+Create the following class hierarchy:
 
+	Soldier - general class for Soldiers, holding id, first name, and last name.
+  
+  	Private - lowest base Soldier type, holding the salary(decimal). 
+    	LieutenantGeneral - holds a set of Privates under his command.
+    	SpecialisedSoldier - general class for all specialized Soldiers - holds the corps of the Soldier. The corps can only be one of the following: Airforces or Marines.
+      	Engineer - holds a set of Repairs. A Repair holds a part name and hours worked(int).
+        Commando - holds a set of Missions. A mission holds a code name and a state (inProgress or Finished). A Mission can be finished through the method CompleteMission().
+        
+	  Spy - holds the code number of the Spy (int).
