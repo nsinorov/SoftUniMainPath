@@ -73,3 +73,4 @@ NOTE: Salary should be printed rounded to two decimal places after the separator
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/223229017-468b8a87-d50c-4fec-bf64-47272536bac5.png)
+![image](https://user-images.githubusercontent.com/45227327/223229097-9356608f-0d0a-405d-a1f8-32c9130aa10e.png)
