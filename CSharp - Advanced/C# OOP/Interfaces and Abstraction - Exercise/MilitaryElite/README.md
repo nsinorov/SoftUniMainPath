@@ -41,3 +41,29 @@ Define proper constructors. Avoid code duplication through abstraction. Override
  	 <private2 ToString()>
  	 …
 	  <privateN ToString()>
+
+	Engineer:
+	
+		Name: <firstName> <lastName> Id: <id> Salary: <salary>
+	Corps: <corps>
+	Repairs:
+	  <repair1 ToString()>
+ 	 <repair2 ToString()>
+	  …
+	  <repairN ToString()>
+	  
+	Commando:
+
+	Name: <firstName> <lastName> Id: <id> Salary: <salary>
+	Corps: <corps>
+	Missions:
+ 	 <mission1 ToString()>
+ 	 <mission2 ToString()>
+	  …
+	  <missionN ToString()>
+	  
+	Repair:
+	Part Name: <partName> Hours Worked: <hoursWorked>
+	
+	Mission:
+	Code Name: <codeName> State: <state>
