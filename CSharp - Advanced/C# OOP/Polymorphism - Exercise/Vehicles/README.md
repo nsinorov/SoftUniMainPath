@@ -6,3 +6,7 @@ Also, the truck has a tiny hole in its tank and when it’s refueled it keeps on
 
 ### Input:
 
+	On the first line – information about the car in the format: "Car {fuel quantity} {liters per km}"
+	On the second line – info about the truck in the format: "Truck {fuel quantity} {liters per km}"
+	On the third line – the number of commands N that will be given on the next N lines
+	On the next N lines – commands in the format:
