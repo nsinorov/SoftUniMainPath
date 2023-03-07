@@ -21,3 +21,5 @@ Extend the Shape class with two children:
 Each of them needs to have: 
 
 	Fields: 
+		height and width for Rectangle
+		radius for Circle
