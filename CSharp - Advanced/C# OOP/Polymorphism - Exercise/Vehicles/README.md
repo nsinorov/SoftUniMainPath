@@ -25,3 +25,6 @@ Also, the truck has a tiny hole in its tank and when it’s refueled it keeps on
 	After the End command, print the remaining fuel for both the car and the truck, rounded to 2 digits after the floating point in the format:
 	  "Car: {liters}"
 	  "Truck: {liters}"
+
+### Examples:
+
