@@ -14,3 +14,14 @@ Also, the truck has a tiny hole in its tank and when it’s refueled it keeps on
 	  "Drive Truck {distance}"
 	  "Refuel Car {liters}"
 	  "Refuel Truck {liters}"
+
+### Output:
+
+	After each Drive command, if there was enough fuel, print on the console a message in the format:
+	  "Car/Truck travelled {distance} km"
+	  
+	If there was not enough fuel, print: "Car/Truck needs refueling"
+	
+	After the End command, print the remaining fuel for both the car and the truck, rounded to 2 digits after the floating point in the format:
+	  "Car: {liters}"
+	  "Truck: {liters}"
