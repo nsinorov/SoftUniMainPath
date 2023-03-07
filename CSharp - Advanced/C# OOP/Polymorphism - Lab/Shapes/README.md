@@ -17,3 +17,7 @@ Extend the Shape class with two children:
 
 	Rectangle
 	Circle
+
+Each of them needs to have: 
+
+	Fields: 
