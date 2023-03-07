@@ -28,3 +28,6 @@ Each of them needs to have:
 	A public constructor 
 	Concrete methods for calculations (perimeter and area)
 	Override methods for drawing 
+
+### Example
+
