@@ -13,3 +13,7 @@ Create a class hierarchy, starting with abstract class Shape:
 
 	The method should get the name of class type as string, and should return a message in the format: $"Drawing {classType.Name}"
 
+Extend the Shape class with two children:
+
+	Rectangle
+	Circle
