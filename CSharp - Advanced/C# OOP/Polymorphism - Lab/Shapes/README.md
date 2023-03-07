@@ -23,3 +23,8 @@ Each of them needs to have:
 	Fields: 
 		height and width for Rectangle
 		radius for Circle
+		
+	Encapsulation for these fields
+	A public constructor 
+	Concrete methods for calculations (perimeter and area)
+	Override methods for drawing 
