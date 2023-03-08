@@ -31,3 +31,6 @@ Finally, add validation for the amount of fuel given to the Refuel command – i
 	If the given fuel cannot fit in the tank, print:
 		"Cannot fit {fuel amount} fuel in the tank"
 	After the "End" command, print the remaining fuel for all vehicles, rounded to 2 digits after the floating point in the format:
+		"Car: {liters}"
+		"Truck: {liters}"
+		"Bus: {liters}"
