@@ -19,3 +19,15 @@ Finally, add validation for the amount of fuel given to the Refuel command – i
 		"Refuel Car {liters}"
 		"Refuel Truck {liters}"
 		"Refuel Bus {liters}"
+
+### Output:
+
+	After each Drive command, if there was enough fuel, print on the console a message in the format:
+		"Car/Truck travelled {distance} km"
+	If there was not enough fuel, print:
+		"Car/Truck needs refueling"
+	If you try to refuel with an amount ≤ 0 print:
+		"Fuel must be a positive number"
+	If the given fuel cannot fit in the tank, print:
+		"Cannot fit {fuel amount} fuel in the tank"
+	After the "End" command, print the remaining fuel for all vehicles, rounded to 2 digits after the floating point in the format:
