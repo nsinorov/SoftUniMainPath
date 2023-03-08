@@ -12,3 +12,10 @@ Finally, add validation for the amount of fuel given to the Refuel command – i
   	"Vehicle {initial fuel quantity} {liters per km} {tank capacity}"
 	On the fourth line - the number of commands N that will be given on the next N lines
 	On the next N lines - commands in format:
+		"Drive Car {distance}"
+		"Drive Truck {distance}"
+		"Drive Bus {distance}"
+		"DriveEmpty Bus {distance}"
+		"Refuel Car {liters}"
+		"Refuel Truck {liters}"
+		"Refuel Bus {liters}"
