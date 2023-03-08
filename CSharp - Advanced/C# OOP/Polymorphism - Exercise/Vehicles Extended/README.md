@@ -5,3 +5,10 @@ If you try to put more fuel in the tank than the available space, print on the c
 Add a new command for the bus. You can drive the bus with or without people. With people, the air-conditioner is turned on and its fuel consumption per kilometer is increased by 1.4 liters. If there are no people on the bus, the air-conditioner is turned off and does not increase the fuel consumption.
 
 Finally, add validation for the amount of fuel given to the Refuel command – if it is 0 or negative, print "Fuel must be a positive number".
+
+### Input:
+
+	On the first three lines you will receive information about the vehicles in the format:
+  	"Vehicle {initial fuel quantity} {liters per km} {tank capacity}"
+	On the fourth line - the number of commands N that will be given on the next N lines
+	On the next N lines - commands in format:
