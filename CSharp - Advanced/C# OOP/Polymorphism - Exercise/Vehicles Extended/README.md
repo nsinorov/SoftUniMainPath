@@ -34,3 +34,6 @@ Finally, add validation for the amount of fuel given to the Refuel command – i
 		"Car: {liters}"
 		"Truck: {liters}"
 		"Bus: {liters}"
+
+### Example:
+
