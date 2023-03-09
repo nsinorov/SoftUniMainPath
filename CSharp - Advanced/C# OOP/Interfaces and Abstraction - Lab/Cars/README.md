@@ -1,4 +1,4 @@
-NOTE: You need a public StartUp class with the namespace Cars.
+### NOTE: You need a public StartUp class with the namespace Cars.
 
 Build a hierarchy of interfaces and classes:
 
