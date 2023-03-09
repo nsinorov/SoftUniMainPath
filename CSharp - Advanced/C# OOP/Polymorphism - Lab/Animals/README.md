@@ -1,4 +1,4 @@
-NOTE: You need a public StartUp class with the namespace Animals.
+### NOTE: You need a public StartUp class with the namespace Animals.
 
 Create a class Animal, which holds two fields:
 
