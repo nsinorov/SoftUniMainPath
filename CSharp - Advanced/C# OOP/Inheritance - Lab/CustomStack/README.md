@@ -1,4 +1,4 @@
-NOTE: You need a public StartUp class with the namespace CustomStack.
+### NOTE: You need a public StartUp class with the namespace CustomStack.
 
 Create a class StackOfStrings that extends Stack, can store only strings, and has the following functionality:
 
