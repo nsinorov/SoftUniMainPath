@@ -1,4 +1,4 @@
-NOTE: You need a public StartUp class with the namespace Shapes.
+### NOTE: You need a public StartUp class with the namespace Shapes.
 
 Build a hierarchy of interfaces and classes: 
 
