@@ -25,3 +25,6 @@ All animals should also have the ability to ask for food by producing a sound:
 	Dog – "Woof!"
 	Cat – "Meow"
 	Tiger – "ROAR!!!"
+
+Now use the classes that you have created to instantiate some animals and feed them.
+Input should be read from the console. Every even line (starting from 0) will contain information about an animal in the following format:
