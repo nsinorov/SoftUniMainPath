@@ -32,3 +32,7 @@ Input should be read from the console. Every even line (starting from 0) will co
 	Felines - "{Type} {Name} {Weight} {LivingRegion} {Breed}"
 	Birds - "{Type} {Name} {Weight} {WingSize}"
 	Mice and Dogs - "{Type} {Name} {Weight} {LivingRegion}"
+
+On the odd lines, you will receive information about a piece of food that you should give to that animal. The line will consist of a FoodType and quantity, separated by whitespace.
+
+Animals will only eat a certain type of food, as follows:
