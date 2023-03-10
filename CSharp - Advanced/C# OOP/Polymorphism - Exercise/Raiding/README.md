@@ -28,3 +28,6 @@ Else print:
 ### Bonus*
 
 Use the Factory Design pattern to instantiate the classes.
+
+### Example:
+
