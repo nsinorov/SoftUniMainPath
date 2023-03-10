@@ -41,3 +41,16 @@ Animals will only eat a certain type of food, as follows:
 	Mice eat vegetables and fruits
 	Cats eat vegetables and meat
 	Tigers, Dogs, and Owls eat only meat
+
+If you try to give an animal a different type of food, it will not eat it and you should print:
+
+	"{AnimalType} does not eat {FoodType}!"
+	
+The weight of an animal will increase with every piece of food it eats, as follows:
+
+	Hen - 0.35
+	Owl - 0.25
+	Mouse - 0.10
+	Cat - 0.30
+	Dog - 0.40
+	Tiger - 1.00
