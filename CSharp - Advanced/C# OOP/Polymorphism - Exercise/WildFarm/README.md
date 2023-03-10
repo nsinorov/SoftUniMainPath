@@ -62,3 +62,6 @@ Override the ToString() method to print the information about an animal in the f
 	Mice and Dogs - "{AnimalType} [{AnimalName}, {AnimalWeight}, {AnimalLivingRegion}, {FoodEaten}]"
 
 After you have read the information about the animal and the food, the animal will produce a sound (print it on the console). Next, you should try to feed it. After receiving the "End" command, print information about every animal in order of input.
+
+### Example:
+
