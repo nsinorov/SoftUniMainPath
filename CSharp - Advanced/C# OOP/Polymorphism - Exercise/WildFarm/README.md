@@ -54,3 +54,9 @@ The weight of an animal will increase with every piece of food it eats, as follo
 	Cat - 0.30
 	Dog - 0.40
 	Tiger - 1.00
+	
+Override the ToString() method to print the information about an animal in the formats:
+
+	Birds - "{AnimalType} [{AnimalName}, {WingSize}, {AnimalWeight}, {FoodEaten}]"
+	Felines - "{AnimalType} [{AnimalName}, {Breed}, {AnimalWeight}, {AnimalLivingRegion}, {FoodEaten}]"
+	Mice and Dogs - "{AnimalType} [{AnimalName}, {AnimalWeight}, {AnimalLivingRegion}, {FoodEaten}]"
