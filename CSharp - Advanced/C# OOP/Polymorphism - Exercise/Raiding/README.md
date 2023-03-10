@@ -7,3 +7,8 @@ Your task is to create a class hierarchy like the one described below. The BaseH
   	Warrior – power = 100
 
 Each hero should override the CastAbility() method:
+
+	Druid - "{Type} - {Name} healed for {Power}"
+	Paladin - "{Type} - {Name} healed for {Power}"
+	Rogue - "{Type} - {Name} hit for {Power} damage"
+	Warrior - "{Type} - {Name} hit for {Power} damage"
