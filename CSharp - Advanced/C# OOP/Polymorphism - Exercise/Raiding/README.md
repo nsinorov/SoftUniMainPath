@@ -20,5 +20,11 @@ You will receive an integer N from the console. On the next lines, you will rece
 Then each of the heroes in the raid group should cast his ability once. You should sum the power of all of the heroes and if the total power is greater or equal to the boss’s power you have defeated him and you should print:
 
 	"Victory!"
-	Else print:
+
+Else print:
+	
 	"Defeat..."
+	
+### Bonus*
+
+Use the Factory Design pattern to instantiate the classes.
