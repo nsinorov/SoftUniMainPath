@@ -5,3 +5,5 @@ Your task is to create a class hierarchy like the one described below. The BaseH
   	Paladin – power = 100
   	Rogue – power = 80
   	Warrior – power = 100
+
+Each hero should override the CastAbility() method:
