@@ -65,3 +65,4 @@ After you have read the information about the animal and the food, the animal wi
 
 ### Example:
 
+![image](https://user-images.githubusercontent.com/45227327/224399665-a767b5ea-1468-4c49-89d6-9903323e732f.png)
