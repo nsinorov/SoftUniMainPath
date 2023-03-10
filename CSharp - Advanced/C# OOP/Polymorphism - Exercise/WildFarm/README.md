@@ -16,3 +16,12 @@ Your task is to create a class hierarchy like the one described below. The Anima
 	    Feline – string Breed
 	      Cat
 	      Tiger
+
+All animals should also have the ability to ask for food by producing a sound:
+
+	Owl – "Hoot Hoot"
+	Hen – "Cluck"
+	Mouse – "Squeak"
+	Dog – "Woof!"
+	Cat – "Meow"
+	Tiger – "ROAR!!!"
