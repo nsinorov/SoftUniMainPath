@@ -31,3 +31,4 @@ Use the Factory Design pattern to instantiate the classes.
 
 ### Example:
 
+![image](https://user-images.githubusercontent.com/45227327/224398299-2ad103f6-e185-4591-b2d1-78d3f4ce900d.png)
