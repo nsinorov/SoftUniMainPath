@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Polymorphism - Exercise\WildFarm\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll
