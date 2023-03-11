@@ -30,3 +30,7 @@ Write a program that takes a deck of cards as a string array and prints them as 
 
 ![image](https://user-images.githubusercontent.com/45227327/224511663-537c9d54-3666-4b1f-bb32-7ab811429229.png)
 ![image](https://user-images.githubusercontent.com/45227327/224511675-261b504c-8bf8-4846-bb95-a215860ef8be.png)
+
+### Hints
+
+Write a method CreateCard(face, suit), which creates a card face and card suit and returns a Card object. The method should throw an exception if invalid data are given in its arguments. Later, you can catch the exception and print an error message.
