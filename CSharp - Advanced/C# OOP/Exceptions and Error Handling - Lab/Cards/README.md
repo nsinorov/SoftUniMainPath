@@ -7,3 +7,9 @@ Both face and suit are expected as an uppercase string. The class also needs to 
 
 	"[{face}{suit}]" – example: [A♠] [5♣] [10♦]
 
+Use the following UTF code literals to represent the suits:
+
+	\u2660 – Spades (♠)
+	\u2665 – Hearts (♥)
+	\u2666 – Diamonds (♦)
+	\u2663 – Clubs (♣)
