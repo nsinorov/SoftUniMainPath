@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\bin\Debug\net6.0\EnterNumbers.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\bin\Debug\net6.0\EnterNumbers.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\bin\Debug\net6.0\EnterNumbers.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\bin\Debug\net6.0\EnterNumbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\bin\Debug\net6.0\EnterNumbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\refint\EnterNumbers.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\EnterNumbers.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\EnterNumbers\obj\Debug\net6.0\ref\EnterNumbers.dll
