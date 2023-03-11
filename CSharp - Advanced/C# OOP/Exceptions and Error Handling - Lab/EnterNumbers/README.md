@@ -6,3 +6,6 @@ If the user enters an invalid number, continue while there are 10 valid numbers 
 
 	When the entered input holds a non-integer value, print “Invalid Number!”
 	When the entered input holds an integer that is out of range, print "Your number is not in range {currentNumber} - 100!"
+	
+### Examples:
+
