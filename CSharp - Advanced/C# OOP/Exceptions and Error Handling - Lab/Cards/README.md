@@ -25,3 +25,7 @@ Write a program that takes a deck of cards as a string array and prints them as 
 ### Output:
 
 	As output, print on the console the list of cards as strings, separated by space.
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/224511663-537c9d54-3666-4b1f-bb32-7ab811429229.png)
