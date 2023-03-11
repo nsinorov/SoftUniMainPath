@@ -13,3 +13,5 @@ Use the following UTF code literals to represent the suits:
 	\u2665 – Hearts (♥)
 	\u2666 – Diamonds (♦)
 	\u2663 – Clubs (♣)
+
+Write a program that takes a deck of cards as a string array and prints them as a sequence of cards (space separated). Print an exception message "Invalid card!" when an invalid card definition is passed as input.
