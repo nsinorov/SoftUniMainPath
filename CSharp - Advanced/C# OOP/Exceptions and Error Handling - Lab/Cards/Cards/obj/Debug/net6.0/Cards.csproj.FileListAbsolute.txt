@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\bin\Debug\net6.0\Cards.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\bin\Debug\net6.0\Cards.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\bin\Debug\net6.0\Cards.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\refint\Cards.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\Cards\Cards\obj\Debug\net6.0\ref\Cards.dll
