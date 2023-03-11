@@ -15,3 +15,13 @@ Use the following UTF code literals to represent the suits:
 	\u2663 – Clubs (♣)
 
 Write a program that takes a deck of cards as a string array and prints them as a sequence of cards (space separated). Print an exception message "Invalid card!" when an invalid card definition is passed as input.
+
+### Input:
+
+	A single line with the faces and suits of the cards in the format:
+
+	   "{face} {suit}, {face} {suit}, …"
+
+### Output:
+
+	As output, print on the console the list of cards as strings, separated by space.
