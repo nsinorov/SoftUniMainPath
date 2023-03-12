@@ -6,3 +6,10 @@ You will receive on the first line an array of integers. After that you will rec
 
 You have the task to rewrite the messages from the exceptions which can be produced from your program:
 
+	If you receive an index, which does not exist in the array print:
+
+"The index does not exist!"
+
+	If you receive a variable, which is of invalid type:
+
+"The variable is not in the correct format!"
