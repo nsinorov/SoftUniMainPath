@@ -20,3 +20,10 @@ You have the task to rewrite the messages from the exceptions which can be produ
 
 ![image](https://user-images.githubusercontent.com/45227327/224575159-a2f3a0ca-1be2-4cc0-87dc-79ef06cd0189.png)
 ![image](https://user-images.githubusercontent.com/45227327/224575204-b77239f5-87b6-4476-8789-ecb5226968d0.png)
+
+### Constraints:
+
+	The elements of the array will be in integers in the interval [-2147483648…2147483647]
+	You will always receive a valid string for the first part of the command, but the parameters might be invalid
+	In the “Print” command always be true startIndex <= endIndex
+	You will always receive at least 3 exceptions
