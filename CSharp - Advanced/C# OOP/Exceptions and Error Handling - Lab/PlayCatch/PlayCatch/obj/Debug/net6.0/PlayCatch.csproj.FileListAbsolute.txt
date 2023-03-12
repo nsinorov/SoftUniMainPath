@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\bin\Debug\net6.0\PlayCatch.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\bin\Debug\net6.0\PlayCatch.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\bin\Debug\net6.0\PlayCatch.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\bin\Debug\net6.0\PlayCatch.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\bin\Debug\net6.0\PlayCatch.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\refint\PlayCatch.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\PlayCatch.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\PlayCatch\obj\Debug\net6.0\ref\PlayCatch.dll
