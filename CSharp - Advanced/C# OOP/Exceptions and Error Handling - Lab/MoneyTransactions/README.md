@@ -20,3 +20,7 @@ Print the following messages from the exceptions which can be produced from your
 	If you receive the "Withdraw" command with the sum, which is bigger than the balance:
 
 "Insufficient balance!"
+
+In all cases, after each received command, print the message:
+
+	"Enter another command"
