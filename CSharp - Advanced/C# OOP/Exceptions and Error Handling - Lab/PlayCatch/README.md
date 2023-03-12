@@ -4,3 +4,5 @@ You will receive on the first line an array of integers. After that you will rec
 	"Print {startIndex} {endIndex}" – Print the elements from the start index to the end index inclusive.
 	"Show {index}" – Print the element at the index.
 
+You have the task to rewrite the messages from the exceptions which can be produced from your program:
+
