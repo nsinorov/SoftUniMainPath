@@ -24,3 +24,7 @@ Print the following messages from the exceptions which can be produced from your
 In all cases, after each received command, print the message:
 
 	"Enter another command"
+
+After each successful operation print, the new balance is formatted to the second integer after the decimal point:
+
+	"Account {account number} has new balance: {balance}"
