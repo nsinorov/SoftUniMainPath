@@ -18,3 +18,4 @@ You have the task to rewrite the messages from the exceptions which can be produ
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/224575159-a2f3a0ca-1be2-4cc0-87dc-79ef06cd0189.png)
