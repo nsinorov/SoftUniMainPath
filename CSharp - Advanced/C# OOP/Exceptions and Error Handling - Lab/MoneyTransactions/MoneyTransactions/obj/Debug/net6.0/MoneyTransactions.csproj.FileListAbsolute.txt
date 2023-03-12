@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll
