@@ -13,3 +13,5 @@ You have the task to rewrite the messages from the exceptions which can be produ
 	If you receive a variable, which is of invalid type:
 
 "The variable is not in the correct format!"
+
+ When you catch 3 exceptions – stop the input and print the elements of the array separated with ", ".
