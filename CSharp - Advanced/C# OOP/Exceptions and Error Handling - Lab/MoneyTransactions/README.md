@@ -32,3 +32,5 @@ After each successful operation print, the new balance is formatted to the secon
 ### Examples:
 
 ![image](https://user-images.githubusercontent.com/45227327/224575061-b9858639-e5a8-41aa-b945-ac478f1f3500.png)
+![image](https://user-images.githubusercontent.com/45227327/224575077-8c08be62-375b-49cf-8619-a1b63b31fde4.png)
+
