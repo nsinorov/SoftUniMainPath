@@ -28,3 +28,6 @@ In all cases, after each received command, print the message:
 After each successful operation print, the new balance is formatted to the second integer after the decimal point:
 
 	"Account {account number} has new balance: {balance}"
+
+### Examples:
+
