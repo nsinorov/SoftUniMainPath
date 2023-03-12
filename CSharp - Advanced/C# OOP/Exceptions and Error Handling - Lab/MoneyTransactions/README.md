@@ -5,4 +5,18 @@ You will receive on the first line a collection of bank accounts, consisting of 
  After that, until the "End" command, you will receive commands, which should manipulate the given accounts balance:
 
 	"Deposit {account number} {sum}" – Add the given sum to the given account`s balance. 
-•	"Withdraw {account number} {sum}" – Subtract the given sum from the account`s balance.
+	"Withdraw {account number} {sum}" – Subtract the given sum from the account`s balance.
+
+Print the following messages from the exceptions which can be produced from your program:
+
+	If you receive an invalid command:
+
+"Invalid command!"
+
+	If you receive an account, which does not exist:
+
+"Invalid account!"
+
+	If you receive the "Withdraw" command with the sum, which is bigger than the balance:
+
+"Insufficient balance!"
