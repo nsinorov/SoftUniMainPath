@@ -33,4 +33,5 @@ Write a program that takes a deck of cards as a string array and prints them as 
 
 ### Hints
 
-Write a method CreateCard(face, suit), which creates a card face and card suit and returns a Card object. The method should throw an exception if invalid data are given in its arguments. Later, you can catch the exception and print an error message.
+Write a method CreateCard(face, suit), which creates a card face and card suit and returns a Card object.
+The method should throw an exception if invalid data are given in its arguments. Later, you can catch the exception and print an error message.
