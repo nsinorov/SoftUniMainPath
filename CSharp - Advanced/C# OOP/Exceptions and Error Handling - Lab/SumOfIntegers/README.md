@@ -18,3 +18,4 @@ At the end print the total sum of all integers:
 
 ### Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/224835034-937b0a74-9b13-4dd0-b5dd-20bda43e2725.png)
