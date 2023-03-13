@@ -7,3 +7,7 @@ You will receive a sequence of elements of different types, separated by space. 
 	If you receive an element, which is out of the integer type range (OverflowException):
   
     "The element '{element}' is out of range!"
+
+After each processed element add the following message:
+
+	"Element '{element}' processed - current sum: {sum}"
