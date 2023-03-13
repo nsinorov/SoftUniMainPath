@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
