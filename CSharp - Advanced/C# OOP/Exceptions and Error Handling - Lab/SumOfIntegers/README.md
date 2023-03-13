@@ -15,3 +15,6 @@ After each processed element add the following message:
 At the end print the total sum of all integers:
 
 	"The total sum of all integers is: {sum}"
+
+### Examples:
+
