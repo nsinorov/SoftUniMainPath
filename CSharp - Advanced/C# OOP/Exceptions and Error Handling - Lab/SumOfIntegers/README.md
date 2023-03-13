@@ -11,3 +11,7 @@ You will receive a sequence of elements of different types, separated by space. 
 After each processed element add the following message:
 
 	"Element '{element}' processed - current sum: {sum}"
+
+At the end print the total sum of all integers:
+
+	"The total sum of all integers is: {sum}"
