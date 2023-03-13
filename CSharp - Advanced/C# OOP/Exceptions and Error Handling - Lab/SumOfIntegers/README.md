@@ -1,1 +1,1 @@
-
+You will receive a sequence of elements of different types, separated by space. Your task is to calculate the sum of all valid integer numbers in the input. Try to add each element of the array to the sum and write messages for the possible exceptions while processing the element:
