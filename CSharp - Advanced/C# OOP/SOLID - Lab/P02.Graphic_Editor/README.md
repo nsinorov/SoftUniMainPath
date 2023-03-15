@@ -4,4 +4,5 @@ In the future, new shapes will be added to the system, so prepare the system for
 
 ### Examples:
 
-![image](https://user-images.githubusercontent.com/45227327/225395473-31fa3308-ef99-454c-9890-12b278be5065.png)
+![image](https://user-images.githubusercontent.com/45227327/225395605-e22b04d2-6669-409f-b186-65e8bc233c0d.png)
+
