@@ -62,3 +62,10 @@ The size of a file is calculated by summing ASCII codes of all alphabet characte
 ### Command Interpreter
 
 Implement a Command Interpreter, which reads all appenders that a Logger will have and input messages from the console. Every message should be evaluated by all the appenders and logged if they meet the report level. Console appenders should write directly on the console. File appenders write (save) the messages, but do not print them.
+
+### Input
+
+On the first line, you will get N - the number of appenders. On the next N lines, you will get information about the appenders in one of the formats below: 
+
+	"<appender type> <layout type> <REPORT LEVEL>"
+	"<appender type> <layout type>"
