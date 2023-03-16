@@ -82,3 +82,9 @@ Console appenders should print directly at the console in the layout they are pr
 
 	Simple layout example - "3/31/2015 5:33:07 PM - ERROR - Error parsing request"
 	Xml layout example (date, level, and message tags are indented by 1 tabulation):
+
+	<log>
+	    <date>3/31/2015 5:33:07 PM</date>
+	    <level>ERROR</level>
+	    <message>Error parsing request</message>
+	</log>
