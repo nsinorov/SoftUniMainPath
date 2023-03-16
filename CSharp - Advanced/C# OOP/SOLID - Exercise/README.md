@@ -50,3 +50,5 @@ The end-user should be able to add his own layouts/appenders/loggers and use the
 ### Report Threshold
 
 Implement a report level threshold in all appenders. The appender should append only messages with report level above or equal to its report level threshold (by default all messages are appended). The report level is in the order Info > Warning > Error > Critical > Fatal.
+
+![image](https://user-images.githubusercontent.com/45227327/225741998-95fd9fa4-28c0-4be9-a2ba-81be466aa09d.png)
