@@ -69,3 +69,9 @@ On the first line, you will get N - the number of appenders. On the next N lines
 
 	"<appender type> <layout type> <REPORT LEVEL>"
 	"<appender type> <layout type>"
+
+If no report level is provided, the appender should be set to record all messages.
+
+Next, until you get the "END" command you will receive messages containing report level, time, and message separated by pipe "|":
+
+	"<REPORT LEVEL>|<time>|<message>"
