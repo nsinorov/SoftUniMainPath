@@ -27,3 +27,12 @@ Your library should correctly follow all of the SOLID principles:
 	Dependency Inversion - no class/method should directly depend on concretions (only on abstractions)
 
 Avoid code repetition. Name everything accordingly.
+
+
+The library should provide the following ready classes for the client:
+
+	SimpleLayout - defines the format "<date-time> - <report level> - <message>"
+	ConsoleAppender - appends a log to the console, using the provided layout
+	FileAppender - appends a log to a file, using the provided layout
+	LogFile - a custom file class, which logs messages in a string builder, using the =-Method Write(). It should have a getter for its size, which is the sum of the ASCII codes of all alphabet characters it contains (e.g. a-z and A-Z)
+	Logger - a logger class, which is used to log messages. Calls each of its appenders when something needs to be logged
