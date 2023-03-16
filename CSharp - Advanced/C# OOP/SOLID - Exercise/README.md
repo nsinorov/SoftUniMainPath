@@ -36,3 +36,8 @@ The library should provide the following ready classes for the client:
 	FileAppender - appends a log to a file, using the provided layout
 	LogFile - a custom file class, which logs messages in a string builder, using the =-Method Write(). It should have a getter for its size, which is the sum of the ASCII codes of all alphabet characters it contains (e.g. a-z and A-Z)
 	Logger - a logger class, which is used to log messages. Calls each of its appenders when something needs to be logged
+
+![image](https://user-images.githubusercontent.com/45227327/225741768-f755e31e-9e73-4e54-8505-fbd47a1457c4.png)
+
+The above code should log the messages both on the console and in log.txt in the format SimpleLayout provides.
+
