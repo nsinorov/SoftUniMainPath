@@ -41,3 +41,6 @@ The library should provide the following ready classes for the client:
 
 The above code should log the messages both on the console and in log.txt in the format SimpleLayout provides.
 
+### Extensibility
+
+The end-user should be able to add his own layouts/appenders/loggers and use them. For example, he should be able to create his XmlLayout and make the appenders use it, without directly editing the library source code.
