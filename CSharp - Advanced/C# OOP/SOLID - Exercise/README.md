@@ -75,3 +75,10 @@ If no report level is provided, the appender should be set to record all message
 Next, until you get the "END" command you will receive messages containing report level, time, and message separated by pipe "|":
 
 	"<REPORT LEVEL>|<time>|<message>"
+
+### Output
+
+Console appenders should print directly at the console in the layout they are provided:
+
+	Simple layout example - "3/31/2015 5:33:07 PM - ERROR - Error parsing request"
+	Xml layout example (date, level, and message tags are indented by 1 tabulation):
