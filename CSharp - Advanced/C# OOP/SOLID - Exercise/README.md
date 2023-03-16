@@ -52,3 +52,9 @@ The end-user should be able to add his own layouts/appenders/loggers and use the
 Implement a report level threshold in all appenders. The appender should append only messages with report level above or equal to its report level threshold (by default all messages are appended). The report level is in the order Info > Warning > Error > Critical > Fatal.
 
 ![image](https://user-images.githubusercontent.com/45227327/225741998-95fd9fa4-28c0-4be9-a2ba-81be466aa09d.png)
+
+### LogFile
+
+A file should write all messages internally and it should keep information about its size.
+
+The size of a file is calculated by summing ASCII codes of all alphabet characters (a-Z). For example, a file appender with a simple layout and a single message "3/31/2015 5:33:07 PM - ERROR - Error parsing request" has size 2606 (including all characters in PM, ERROR, Error, parsing, request). In the case of XML layout, the file would have size 6632, because of the extra characters within the tags.
