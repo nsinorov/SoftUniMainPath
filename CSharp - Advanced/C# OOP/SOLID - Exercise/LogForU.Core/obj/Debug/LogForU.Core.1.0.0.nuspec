@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LogForU.Core</id>
+    <version>1.0.0</version>
+    <authors>LogForU.Core</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nikolay Sinorov\Desktop\CSharp-OOP-Exercises---February-2023-master\05.SOLID\LogForU.Core\bin\Debug\net6.0\LogForU.Core.dll" target="lib\net6.0\LogForU.Core.dll" />
+  </files>
+</package>
