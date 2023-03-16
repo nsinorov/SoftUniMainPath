@@ -88,3 +88,5 @@ Console appenders should print directly at the console in the layout they are pr
 	    <level>ERROR</level>
 	    <message>Error parsing request</message>
 	</log>
+
+After the "END" command, you should print Logger info, which includes statistics about every appender (its type, layout, report level, messages appended, and file size for file appenders):
