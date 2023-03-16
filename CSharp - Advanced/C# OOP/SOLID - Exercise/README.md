@@ -90,3 +90,6 @@ Console appenders should print directly at the console in the layout they are pr
 	</log>
 
 After the "END" command, you should print Logger info, which includes statistics about every appender (its type, layout, report level, messages appended, and file size for file appenders):
+
+	"Logger info
+	Appender type: <appender type>, Layout type: <layout type>, Report level: <REPORT LEVEL>, Messages appended: <count>, File size <size>"
