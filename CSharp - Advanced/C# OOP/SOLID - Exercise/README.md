@@ -93,3 +93,7 @@ After the "END" command, you should print Logger info, which includes statistics
 
 	"Logger info
 	Appender type: <appender type>, Layout type: <layout type>, Report level: <REPORT LEVEL>, Messages appended: <count>, File size <size>"
+
+### Examples:
+
+![image](https://user-images.githubusercontent.com/45227327/225742567-e48bd870-dc1d-4ba9-be6e-1cacdeb7a219.png)
