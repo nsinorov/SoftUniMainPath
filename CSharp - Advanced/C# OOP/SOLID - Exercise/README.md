@@ -46,3 +46,7 @@ The above code should log the messages both on the console and in log.txt in the
 The end-user should be able to add his own layouts/appenders/loggers and use them. For example, he should be able to create his XmlLayout and make the appenders use it, without directly editing the library source code.
 
 ![image](https://user-images.githubusercontent.com/45227327/225741883-67370762-1669-4387-b10c-048a9dbeaa3a.png)
+
+### Report Threshold
+
+Implement a report level threshold in all appenders. The appender should append only messages with report level above or equal to its report level threshold (by default all messages are appended). The report level is in the order Info > Warning > Error > Critical > Fatal.
