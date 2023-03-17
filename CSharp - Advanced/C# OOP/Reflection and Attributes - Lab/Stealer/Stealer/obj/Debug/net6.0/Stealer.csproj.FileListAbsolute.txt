@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\bin\Debug\net6.0\Stealer.exe
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\bin\Debug\net6.0\Stealer.deps.json
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\bin\Debug\net6.0\Stealer.dll
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\bin\Debug\net6.0\Stealer.pdb
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.csproj.AssemblyReference.cache
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.dll
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.pdb
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Lab\Stealer\Stealer\obj\Debug\net6.0\ref\Stealer.dll
