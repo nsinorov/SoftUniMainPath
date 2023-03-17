@@ -12,3 +12,7 @@ You have the information that this hacker is keeping some of his info in private
 After finding the fields, you must print on the console:
 
 	"Class under investigation: {nameOfTheClass}"
+
+On the next lines, print info about each field in the following format:
+	
+	"{filedName} = {fieldValue}"
