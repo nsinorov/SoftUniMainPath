@@ -20,3 +20,5 @@ On the next lines, print info about each field in the following format:
 Use StringBuilder to concatenate the answer. Don’t change anything in Hacker class!
 
 In your Main() method, you should be able to check your program with the current piece of code.
+
+### Example:
