@@ -8,3 +8,7 @@ You have the information that this hacker is keeping some of his info in private
 
 	string – the name of the class to investigate
 	an array of string - names of the fields to investigate
+
+After finding the fields, you must print on the console:
+
+	"Class under investigation: {nameOfTheClass}"
