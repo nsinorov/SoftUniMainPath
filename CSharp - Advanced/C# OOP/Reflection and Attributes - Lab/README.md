@@ -16,3 +16,7 @@ After finding the fields, you must print on the console:
 On the next lines, print info about each field in the following format:
 	
 	"{filedName} = {fieldValue}"
+
+Use StringBuilder to concatenate the answer. Don’t change anything in Hacker class!
+
+In your Main() method, you should be able to check your program with the current piece of code.
