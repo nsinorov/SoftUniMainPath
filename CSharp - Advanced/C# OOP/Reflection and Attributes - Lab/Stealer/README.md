@@ -23,3 +23,4 @@ In your Main() method, you should be able to check your program with the current
 Example:
 
 ![image](https://user-images.githubusercontent.com/45227327/225993105-1fe631ea-b1d3-44b7-bc7b-594b7534943f.png)
+![image](https://user-images.githubusercontent.com/45227327/226309960-5f27a1fd-5cad-4604-b59b-8b360a95f393.png)
