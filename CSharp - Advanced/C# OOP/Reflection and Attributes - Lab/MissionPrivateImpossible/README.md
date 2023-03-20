@@ -12,3 +12,4 @@ On the next lines, print found method’s names each on a new line. Use StringBu
 NOTE: The order of your output may differ based on your solution logic.
 
 ![image](https://user-images.githubusercontent.com/45227327/226309597-603d4d0e-70ba-4e71-8a0a-a1a19c6ea86b.png)
+![image](https://user-images.githubusercontent.com/45227327/226310200-8351d282-e2c6-4392-a64e-ce54bff4ad36.png)
