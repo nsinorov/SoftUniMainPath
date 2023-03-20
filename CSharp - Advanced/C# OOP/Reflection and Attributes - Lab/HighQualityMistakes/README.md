@@ -19,3 +19,7 @@ Create a method inside your Spy class called - AnalyzeAccessModifiers(string cla
 Use StringBuilder to concatenate the answer. Don’t change anything in Hacker class!
 
 In your Main() method you should be able to check your program with the current piece of code.
+
+### Example:
+
+NOTE: The order of your output may differ based on your solution logic.
