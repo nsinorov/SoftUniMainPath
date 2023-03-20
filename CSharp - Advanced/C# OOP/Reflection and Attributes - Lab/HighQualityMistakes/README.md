@@ -23,3 +23,5 @@ In your Main() method you should be able to check your program with the current 
 ### Example:
 
 NOTE: The order of your output may differ based on your solution logic.
+
+![image](https://user-images.githubusercontent.com/45227327/226309302-5ca83ae2-d773-4f0f-9079-d1fc82278d84.png)
