@@ -6,3 +6,7 @@ All Private Methods of Class: {className}
 Base Class: {baseClassName}
 
 On the next lines, print found method’s names each on a new line. Use StringBuilder to concatenate the answer. Don’t change anything in Hacker class! In your Main() method, you should be able to check your program with the current piece of code.
+
+### Example:
+
+NOTE: The order of your output may differ based on your solution logic.
