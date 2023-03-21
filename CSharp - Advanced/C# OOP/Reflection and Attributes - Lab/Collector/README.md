@@ -6,3 +6,6 @@ Print to console each getter on a new line in the format:
 
     "{name} will return {Return Type}"
 
+Then print all of the setters in the format:
+
+    "{name} will set field of {Parameter Type}"
