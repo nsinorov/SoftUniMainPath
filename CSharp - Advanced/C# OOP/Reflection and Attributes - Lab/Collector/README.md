@@ -15,3 +15,6 @@ Use StringBuilder to concatenate the answer. Don’t change anything in Hacker c
 In your Main() method you should be able to check your program with the current piece of code.
 
 ![image](https://user-images.githubusercontent.com/45227327/226718855-6533f605-5607-4d60-a0ac-d7ee329d3140.png)
+
+### Examples:
+
