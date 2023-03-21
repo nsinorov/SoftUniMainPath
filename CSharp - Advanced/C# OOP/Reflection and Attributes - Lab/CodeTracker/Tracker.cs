@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AuthorProblem
+{
+    public class Tracker
+    {
+        public void PrintMethodsByAuthor()
+        {
+            var authorAttributeType = typeof(AuthorAttribute);
+
+            var methodsByAuthor = Assembly
+                .GetExecutingAssembly()
+                .GetTypes()
+                .SelectMany(t => t.GetMethods(
+                    BindingFlags.Instance
+                    | BindingFlags.Public
+                    | BindingFlags.Static))
+                .Where(m => m.GetCustomAttributes(authorAttributeType).Any())
+                .ToArray();
+
+            foreach (var method in methodsByAuthor)
+            {
+                var attributes = method.GetCustomAttributes<AuthorAttribute>();
+
+                foreach (var attribute in attributes)
+                {
+                    Console.WriteLine($"{method.Name} is written by {attribute.Name}");
+                }
+            }
+        }
+    }
+
+}
