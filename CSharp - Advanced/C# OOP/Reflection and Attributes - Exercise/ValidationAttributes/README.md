@@ -15,3 +15,7 @@ Create a validation attribute: MyRangeAttribute.
 Create a validation attribute: MyRequiredAttribute.
 
 	It should implement the bool IsValid(object obj) method and its logic should validate whether a property has the attribute or not
+
+### Create an Entity
+
+Create a class Person. It should have a constructor, which accepts two parameters: string fullName, int age.
