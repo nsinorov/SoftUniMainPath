@@ -24,3 +24,7 @@ It should have two properties:
 
 	string FullName - the property is required. Apply the MyRequiredAttribute
 	int Age - the age should be between 12 and 90. Apply the MyRangeAttribute and set the right values for minimum and maximum age
+
+### Create a Validator Class
+
+Create a static class Validator. It should contain a method - public static bool IsValid(object obj), which must validate the properties of a given object.
