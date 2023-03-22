@@ -14,7 +14,7 @@ Create a Command interface - ICommand, which contains a method - Execute(string[
 
 For this exercise, you need to create the following commands:
 
-     HelloCommand - The result from its execution should be: $"Hello, {args[0]}".
+    HelloCommand - The result from its execution should be: $"Hello, {args[0]}".
     ExitCommand - It should exit the program and return null.
 
 ### Create a Command Interpreter Interface
