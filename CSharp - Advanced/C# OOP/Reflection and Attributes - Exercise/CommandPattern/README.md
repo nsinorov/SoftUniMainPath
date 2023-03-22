@@ -5,3 +5,7 @@ It is commented, so when you write the logic of your program, you can uncomment 
 Each command line will look as it follows: "{CommandName} {CommandArgs}". CommandName will be as follows: "Hello" -> executing HelloCommand and so on.
 
 There are a few steps you can follow to employ the command pattern design:
+
+### Create a Command Interface
+
+Create a Command interface - ICommand, which contains a method - Execute(string[] args). 
