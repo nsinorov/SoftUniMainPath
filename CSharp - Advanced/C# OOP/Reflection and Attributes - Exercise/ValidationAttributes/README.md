@@ -19,3 +19,8 @@ Create a validation attribute: MyRequiredAttribute.
 ### Create an Entity
 
 Create a class Person. It should have a constructor, which accepts two parameters: string fullName, int age.
+
+It should have two properties:
+
+	string FullName - the property is required. Apply the MyRequiredAttribute
+	int Age - the age should be between 12 and 90. Apply the MyRangeAttribute and set the right values for minimum and maximum age
