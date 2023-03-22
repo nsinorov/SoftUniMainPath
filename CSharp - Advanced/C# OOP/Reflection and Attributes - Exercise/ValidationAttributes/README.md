@@ -11,3 +11,7 @@ Create a validation attribute: MyRangeAttribute.
 	Its constructor should accept two parameters - int minValue, int maxValue, which represent a range of integer numbers
 	It should contain two fields: int minValue and int maxValue
 	It should implement the bool IsValid(object obj) method and its logic should validate whether the passed object obj parameter is within the set range
+
+Create a validation attribute: MyRequiredAttribute.
+
+	It should implement the bool IsValid(object obj) method and its logic should validate whether a property has the attribute or not
