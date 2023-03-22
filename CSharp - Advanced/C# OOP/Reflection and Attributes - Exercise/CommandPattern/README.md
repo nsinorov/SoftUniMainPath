@@ -9,3 +9,10 @@ There are a few steps you can follow to employ the command pattern design:
 ### Create a Command Interface
 
 Create a Command interface - ICommand, which contains a method - Execute(string[] args). 
+
+### Create Command Objects
+
+For this exercise, you need to create the following commands:
+
+  HelloCommand - The result from its execution should be: $"Hello, {args[0]}".
+  ExitCommand - It should exit the program and return null.
