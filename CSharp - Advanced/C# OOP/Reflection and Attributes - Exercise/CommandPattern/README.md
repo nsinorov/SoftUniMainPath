@@ -28,3 +28,9 @@ Create a class CommandInterpreter. Its purpose is to read commands, execute them
 ### reate a Class Engine
 
 Create a class Engine, which contains a void Run() method. It should hold the following field:
+
+     private readonly ICommandInterpreter commandInterpreter;
+     
+It should have a constructor, which accepts an ICommandInterpreter: 
+
+     public Engine(ICommandInterpreter commandInterpreter)
