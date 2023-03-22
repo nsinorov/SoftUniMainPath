@@ -7,3 +7,7 @@ Create a validation attribute: MyValidationAttribute. Its purpose is to validate
 	It should contain the following method: public abstract bool IsValid(object obj)
 
 Create a validation attribute: MyRangeAttribute.
+
+	Its constructor should accept two parameters - int minValue, int maxValue, which represent a range of integer numbers
+	It should contain two fields: int minValue and int maxValue
+	It should implement the bool IsValid(object obj) method and its logic should validate whether the passed object obj parameter is within the set range
