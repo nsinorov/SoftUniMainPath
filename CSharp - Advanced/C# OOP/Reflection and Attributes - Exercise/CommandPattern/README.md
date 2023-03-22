@@ -24,3 +24,7 @@ Create a command interpreter interface ICommandInterpreter, which contains a met
 ### Create a Command Interpreter Class
 
 Create a class CommandInterpreter. Its purpose is to read commands, execute them and return the result from their execution.  
+
+### reate a Class Engine
+
+Create a class Engine, which contains a void Run() method. It should hold the following field:
