@@ -16,3 +16,7 @@ For this exercise, you need to create the following commands:
 
      HelloCommand - The result from its execution should be: $"Hello, {args[0]}".
     ExitCommand - It should exit the program and return null.
+
+### Create a Command Interpreter Interface
+
+Create a command interpreter interface ICommandInterpreter, which contains a method Read(string args).
