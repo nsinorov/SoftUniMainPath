@@ -34,3 +34,5 @@ Create a class Engine, which contains a void Run() method. It should hold the fo
 It should have a constructor, which accepts an ICommandInterpreter: 
 
      public Engine(ICommandInterpreter commandInterpreter)
+
+The Run() method should accept input from the console and pass it to the proper class, as well as print the output from the commands. 
