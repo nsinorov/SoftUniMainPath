@@ -20,3 +20,7 @@ For this exercise, you need to create the following commands:
 ### Create a Command Interpreter Interface
 
 Create a command interpreter interface ICommandInterpreter, which contains a method Read(string args).
+
+### Create a Command Interpreter Class
+
+Create a class CommandInterpreter. Its purpose is to read commands, execute them and return the result from their execution.  
