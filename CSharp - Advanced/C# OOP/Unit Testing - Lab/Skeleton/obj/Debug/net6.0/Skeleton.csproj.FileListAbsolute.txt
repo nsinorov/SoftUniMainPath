@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
