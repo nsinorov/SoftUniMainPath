@@ -5,3 +5,5 @@ Create your custom validation attributes. There is a written logic inside the pr
 Create a validation attribute: MyValidationAttribute. Its purpose is to validate properties. 
 
 	It should contain the following method: public abstract bool IsValid(object obj)
+
+Create a validation attribute: MyRangeAttribute.
