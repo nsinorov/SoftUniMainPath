@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
