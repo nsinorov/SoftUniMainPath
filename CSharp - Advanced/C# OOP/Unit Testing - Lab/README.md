@@ -29,3 +29,9 @@ Follow the logic of the previous problem
 Refactor the tests for Axe and Dummy classes
 
 Make sure that:
+
+	Names of test methods are descriptive
+	You use appropriate assertions (assert equals vs assert true)
+	You use assertion messages
+	There are no magic numbers
+	There is no code duplication (Don’t Repeat Yourself)
