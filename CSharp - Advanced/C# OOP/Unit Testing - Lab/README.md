@@ -23,3 +23,9 @@ Create the following tests:
 ##Hints
 
 Follow the logic of the previous problem
+
+# Refactor Tests
+
+Refactor the tests for Axe and Dummy classes
+
+Make sure that:
