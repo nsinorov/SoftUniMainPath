@@ -38,3 +38,7 @@ Make sure that:
 
 ## Hints:
 
+	Extract constants and private fields for Axe class
+	Create a method that executes before each test
+	Make use of constants and private fields, as well as add assertion messages
+	Follow the same logic for other test methods and TestDummy class
