@@ -8,3 +8,7 @@ Create the following tests:
 
 	Test if weapon loses durability after each attack
     Test attacking with a broken weapon
+
+# Test Dummy
+
+A DummyTests is given
