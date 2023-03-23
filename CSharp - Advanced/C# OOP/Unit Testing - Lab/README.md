@@ -12,3 +12,5 @@ Create the following tests:
 # Test Dummy
 
 A DummyTests is given
+
+Create the following tests:
