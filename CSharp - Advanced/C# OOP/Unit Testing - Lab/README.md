@@ -35,3 +35,6 @@ Make sure that:
 	You use assertion messages
 	There are no magic numbers
 	There is no code duplication (Don’t Repeat Yourself)
+
+## Hints:
+
