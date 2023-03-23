@@ -19,3 +19,7 @@ Create the following tests:
 	Dead Dummy throws an exception if attacked
 	Dead Dummy can give XP
 	Alive Dummy can't give XP
+
+##Hints
+
+Follow the logic of the previous problem
