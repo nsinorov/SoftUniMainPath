@@ -17,6 +17,10 @@ The database should have methods:
 
 	FindByUsername
 	
-         If no user is present by this username, InvalidOperationException is thrown.
-	 If the username parameter is null, ArgumentNullException is thrown
-	 Arguments are all CaseSensitive
+          If no user is present by this username, InvalidOperationException is thrown.
+	  If the username parameter is null, ArgumentNullException is thrown
+	  Arguments are all CaseSensitive
+
+	FindById
+	 If no user is present by this id, InvalidOperationException is thrown
+	 If negative ids are found, ArgumentOutOfRangeException is thrown
