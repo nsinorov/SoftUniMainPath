@@ -24,3 +24,7 @@ The database should have methods:
 	FindById
 	 If no user is present by this id, InvalidOperationException is thrown
 	 If negative ids are found, ArgumentOutOfRangeException is thrown
+
+### Hint
+
+Do not forget to test the constructor(s). They are methods too! Also, keep in mind that all the functionality from the previous task still exists and you need to test it again!
