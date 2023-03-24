@@ -4,5 +4,8 @@ The database has the functionality to add, remove and fetch all stored items. Yo
 
 ### Constraints:
 
-	Storing array's capacity must be exactly 16 integers
-  	If the size of the array is not 16 integers long, InvalidOperationException is thrown
+    Storing array's capacity must be exactly 16 integers
+  		If the size of the array is not 16 integers long, InvalidOperationException is thrown
+		
+    The "Add()" operation, should add an element at the next free cell (just like a stack)
+	If there are 16 elements in the Database and try to add 17th, InvalidOperationException is thrown
