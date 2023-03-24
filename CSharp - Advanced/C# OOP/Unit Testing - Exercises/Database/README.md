@@ -12,3 +12,5 @@ The database has the functionality to add, remove and fetch all stored items. Yo
 
 	The "Remove()" operation, should support only removing an element at the last index (just like a stack)
 		If you try to remove an element from an empty Database, InvalidOperationException is thrown
+		
+	Constructors should take integers only, and store them in the array
