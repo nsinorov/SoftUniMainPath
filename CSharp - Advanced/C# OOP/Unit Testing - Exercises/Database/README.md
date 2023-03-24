@@ -16,3 +16,9 @@ The database has the functionality to add, remove and fetch all stored items. Yo
 	Constructors should take integers only, and store them in the array
 	
 	The "Fetch()" method should return the elements as an array
+
+For better understanding, check the provided skeleton.
+
+### Hint
+
+Do not forget to test the constructor(s). They are methods too!
