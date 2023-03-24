@@ -9,7 +9,14 @@ As you may guess, each person has unique id and unique username. Your task is to
 The database should have methods:
 
 	Add
+	
 	  If there are already users with this username, InvalidOperationException is thrown
 	  If there are already users with this id, InvalidOperationException is thrown
 	  
 	Remove
+
+	FindByUsername
+	
+         If no user is present by this username, InvalidOperationException is thrown.
+	 If the username parameter is null, ArgumentNullException is thrown
+	 Arguments are all CaseSensitive
