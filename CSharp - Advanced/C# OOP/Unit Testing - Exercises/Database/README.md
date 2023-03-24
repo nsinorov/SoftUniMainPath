@@ -9,3 +9,6 @@ The database has the functionality to add, remove and fetch all stored items. Yo
 		
     The "Add()" operation, should add an element at the next free cell (just like a stack)
 		If there are 16 elements in the Database and try to add 17th, InvalidOperationException is thrown
+
+	The "Remove()" operation, should support only removing an element at the last index (just like a stack)
+		If you try to remove an element from an empty Database, InvalidOperationException is thrown
