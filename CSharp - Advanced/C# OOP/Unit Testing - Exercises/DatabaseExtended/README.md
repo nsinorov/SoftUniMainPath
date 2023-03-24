@@ -7,3 +7,7 @@ As you may guess, each person has unique id and unique username. Your task is to
 ### Constraints:
 
 The database should have methods:
+
+	Add
+	  If there are already users with this username, InvalidOperationException is thrown
+	  If there are already users with this id, InvalidOperationException is thrown
