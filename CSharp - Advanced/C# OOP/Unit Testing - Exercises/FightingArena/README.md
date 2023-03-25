@@ -10,3 +10,8 @@ Each Arena has a collection of Warriors enrolled for the fights. In the Arena, W
 	Warrior cannot attack if his HP is below 30
 	Warrior cannot attack Warriors whose HP are below 30
 	Warrior cannot attack stronger enemies
+
+On the Arena there should be performed some validations too:
+
+	Already enrolled Warriors should not be able to enroll again
+	There cannot be a figh if one of the Warriors is not enrolled for the fights
