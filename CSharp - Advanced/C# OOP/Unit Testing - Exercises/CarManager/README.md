@@ -15,3 +15,5 @@ Your job now is to write unit tests on the provided project and its functionalit
 	You should test all the constructors
 	You should test all properties (getters and setters)
 	You should test all the methods and validations inside the class
+
+Before you submit your solution to Judge, you should remove all the references and namespaces referencing the other project. You should upload only the "CarManager.Tests" project holding the class with your tests. Remove the "bin" and "obj" folders before submission.
