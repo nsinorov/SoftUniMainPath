@@ -15,3 +15,8 @@ On the Arena there should be performed some validations too:
 
 	Already enrolled Warriors should not be able to enroll again
 	There cannot be a figh if one of the Warriors is not enrolled for the fights
+
+In the skeleton, you are provided Test Project named "FightingArena.Tests". There you should place all the unit tests you write. The Test Project has two classes inside:
+
+	"WarriorTests" - here you should place all code testing the "Warrior" and its functionality
+	"ArenaTests" - here you should place all code testing the "Arena" and its functionality
