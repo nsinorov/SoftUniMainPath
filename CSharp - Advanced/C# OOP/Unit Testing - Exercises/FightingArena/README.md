@@ -1,1 +1,1 @@
-
+You are provided with a project named "FightingArena" containing two classes - "Warrior" and "Arena".  Your task here is simple - you need to write tests on the project covering the whole functionality. But before start writing tests, you need to get to know the project's structure and business logic. Each Arena has a collection of Warriors enrolled for the fights. In the Arena, Warriors should be able to Enroll in the fights and fight each other. Each Warrior has a unique name, damage, and HP. Warriors can attack other Warriors. Of course, there is validations:
