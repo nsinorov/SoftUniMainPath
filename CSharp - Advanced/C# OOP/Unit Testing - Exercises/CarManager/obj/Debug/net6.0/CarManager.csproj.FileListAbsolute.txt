@@ -1,0 +1,12 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\CarManager\obj\Debug\net6.0\ref\CarManager.dll
