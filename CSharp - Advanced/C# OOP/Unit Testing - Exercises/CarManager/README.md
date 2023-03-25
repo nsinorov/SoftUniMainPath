@@ -7,3 +7,5 @@ Each car contains information about its Make, Model, Fuel Consumption, Fuel Amou
 Also, each car can add some fuel to its tank by refueling and can travel distance by driving. To be driven, our car needs to have enough fuel. Everything in the provided skeleton is working perfectly fine and you mustn't change it.
 
 In the skeleton, you are provided Test Project named "CarManager.Tests". There you should place all the unit tests you write. The Test Project has only one class inside:
+
+	"CarTests" - here you should place all code testing the "Car" and its functionality.
