@@ -9,3 +9,5 @@ Also, each car can add some fuel to its tank by refueling and can travel distanc
 In the skeleton, you are provided Test Project named "CarManager.Tests". There you should place all the unit tests you write. The Test Project has only one class inside:
 
 	"CarTests" - here you should place all code testing the "Car" and its functionality.
+
+Your job now is to write unit tests on the provided project and its functionality. You should test exactly every part of the code inside the "Car" class:
