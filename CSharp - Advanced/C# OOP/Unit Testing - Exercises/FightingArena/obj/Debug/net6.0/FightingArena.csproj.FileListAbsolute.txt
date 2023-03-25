@@ -1,0 +1,12 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll
