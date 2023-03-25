@@ -20,3 +20,9 @@ Before you submit your solution to Judge, you should remove all the references a
 
 ### Constraints:
 
+	Everything in the provided skeleton is working perfectly fine
+	You mustn't change anything in the project structure
+	You can test both constructors together
+	You shouldn't test the auto-properties
+	Any part of validation should be tested
+	There is no limit on the tests you will write but keep your attention on the main functionality
