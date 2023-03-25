@@ -20,3 +20,9 @@ In the skeleton, you are provided Test Project named "FightingArena.Tests". Ther
 
 	"WarriorTests" - here you should place all code testing the "Warrior" and its functionality
 	"ArenaTests" - here you should place all code testing the "Arena" and its functionality
+
+Your job now is to write unit tests on the provided project and its functionality. You should test exactly every part of the code inside the "Warrior" and "Arena" classes:
+
+	You should test all the constructors
+	You should test all properties (getters and setters)
+	You should test all the methods and validations inside the class
