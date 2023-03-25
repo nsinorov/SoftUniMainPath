@@ -1,2 +1,1 @@
-
-TODO: More Exercise folder or a new folder.
+### All tests from the 4 exercises
