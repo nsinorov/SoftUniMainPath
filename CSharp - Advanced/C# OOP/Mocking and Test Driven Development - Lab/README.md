@@ -20,3 +20,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Returns the most expensive product in stock.
     FindAllByQuantity(int) 
     – Returns all products in stock with the given remaining quantity. If there is no product with an identical quantity, return empty enumeration.
+    GetEnumerator<Product>() 
+    – Returns all products in stock.
