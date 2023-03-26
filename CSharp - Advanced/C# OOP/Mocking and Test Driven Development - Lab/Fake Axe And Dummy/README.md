@@ -21,3 +21,8 @@ Create fake Weapon and fake Dummy for the test
 
     Create HeroTests class and test gaining XP functionality by faking Weapon and Target classes
 
+Include Moq in the project dependencies, then:
+
+	Mock fakes from previous problem Hints
+	
+Go to HeroTests and refactor the code, making use of Moq
