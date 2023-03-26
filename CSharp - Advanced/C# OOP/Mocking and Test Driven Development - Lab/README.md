@@ -24,3 +24,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Returns all products in stock.
     this[int index]
     - Indexer
+
+Duplicates of the product class are allowed. That means that the price and quantity of multiple objects might be the same (It is acceptable for the quantity to be 0). 
