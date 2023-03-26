@@ -18,3 +18,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Returns all products in stock with given price or empty collection if none were found.
     FindMostExpensiveProducts(int) 
     – Returns the most expensive product in stock.
+    FindAllByQuantity(int) 
+    – Returns all products in stock with the given remaining quantity. If there is no product with an identical quantity, return empty enumeration.
