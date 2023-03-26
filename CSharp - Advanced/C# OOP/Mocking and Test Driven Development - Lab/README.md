@@ -10,3 +10,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Returns the number of products currently in stock.
     Find(int)
     – Return the N-th product that was added to stock. The index is based on insertion order in the data structure. If such an index is not present, throw IndexOutOfRangeException.
+    FindByLabel(string) 
+    – Returns the product with a given label, throws ArgumentException if no such product is in stock.
