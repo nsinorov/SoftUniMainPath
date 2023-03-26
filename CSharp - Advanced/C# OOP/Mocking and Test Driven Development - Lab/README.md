@@ -6,3 +6,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Add the new manufactured Product in stock. 
     Contains(Product) 
     – Checks if a particular product is in stock. *Keep in mind that only labels are unique.
+	Count 
+    – Returns the number of products currently in stock.
