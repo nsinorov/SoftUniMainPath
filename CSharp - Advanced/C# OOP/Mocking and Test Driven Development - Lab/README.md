@@ -8,3 +8,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     – Checks if a particular product is in stock. *Keep in mind that only labels are unique.
 	Count 
     – Returns the number of products currently in stock.
+    Find(int)
+    – Return the N-th product that was added to stock. The index is based on insertion order in the data structure. If such an index is not present, throw IndexOutOfRangeException.
