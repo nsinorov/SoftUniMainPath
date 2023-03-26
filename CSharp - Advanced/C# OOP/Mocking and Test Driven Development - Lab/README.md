@@ -16,3 +16,5 @@ Peter has been struggling lately. He is a major shareholder at one of the larges
     - Returns all products within the given price range (lower end and higher end are inclusive). Keep in mind that they should be returned in descending order. If there are no such products, return empty enumeration (collection).
     FindAllByPrice(decimal) 
     – Returns all products in stock with given price or empty collection if none were found.
+    FindMostExpensiveProducts(int) 
+    – Returns the most expensive product in stock.
