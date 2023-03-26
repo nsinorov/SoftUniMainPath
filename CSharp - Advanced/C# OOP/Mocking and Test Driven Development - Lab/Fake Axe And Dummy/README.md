@@ -1,4 +1,4 @@
-# Fake Axe and Dummy
+## Fake Axe and Dummy
 
 Test if hero gains XP when a target dies
 
