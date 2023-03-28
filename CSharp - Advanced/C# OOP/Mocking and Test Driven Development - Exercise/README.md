@@ -49,3 +49,5 @@ You need to support the following operations (and they should be fast):
 	GetByTransactionStatusAndMaximumAmount(status, amount) – returns all transactions with given status and the amount less or equal to a maximum allowed amount ordered by amount descending. Returns an empty collection if no such transactions were found
 
 	GetBySenderAndMinimumAmountDescending(sender, amount) – returns all transactions with the given sender and amounts bigger than the given amount ordered by amount descending. If there are no such transactions throw InvalidOperationException
+
+	GetByReceiverAndAmountRange(receiver, lo, hi) – returns all transactions with given receiver and amount between lo (inclusive) and hi (exclusive) ordered by amount descending then by id. If there are no such transactions throw InvalidOperationException
