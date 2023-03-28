@@ -27,3 +27,5 @@ You need to support the following operations (and they should be fast):
 	RemoveTransactionById(id) – remove the transaction from the record if the id exists, otherwise throws InvalidOperationException
 	
 	GetById(id) – return the transaction with the given id. If such transaction doesn't exist, throw InvalidOperationException.
+	
+	GetByTransactionStatus(status) – return the transactions with the given status ordered by amount descending. If there are no transactions with the given status, throw     InvalidOperationException
