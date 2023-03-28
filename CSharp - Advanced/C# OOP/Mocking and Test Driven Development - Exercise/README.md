@@ -43,3 +43,5 @@ You need to support the following operations (and they should be fast):
 	GetAllOrderedByAmountDescendingThenById() – returns all transactions ordered by amount descending and by id
 
 	GetBySenderOrderedByAmountDescending(sender) – search for all transactions with a specific sender and return them ordered by amount descending. If there are no such transactions throw InvalidOperationException
+
+	GetByReceiverOrderedByAmountThenById(receiver) – returns all transactions with a particular receiver ordered by amount descending, then by id ascending. If there are no such transactions throw InvalidOperationException
