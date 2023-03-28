@@ -29,3 +29,5 @@ You need to support the following operations (and they should be fast):
 	GetById(id) – return the transaction with the given id. If such transaction doesn't exist, throw InvalidOperationException.
 	
 	GetByTransactionStatus(status) – return the transactions with the given status ordered by amount descending. If there are no transactions with the given status, throw     InvalidOperationException
+
+	GetAllSendersWithTransactionStatus(status) – returns all senders which have transactions with the given status ordered by transactions amount (if there are multiple transactions with the same sender, return them all).  If no transactions exist, throw InvalidOperationException
