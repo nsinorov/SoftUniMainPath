@@ -8,3 +8,6 @@ Transaction will hold:
 
 	int Id – unique transaction id
 	TransactionStatus Status – enumeration of work positions for the employee
+	string From – the sender of the transaction
+	string To – the receiver of the transaction
+	double Amount – the salary of the employee
