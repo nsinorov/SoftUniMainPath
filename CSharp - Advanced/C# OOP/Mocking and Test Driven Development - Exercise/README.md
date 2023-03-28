@@ -45,3 +45,5 @@ You need to support the following operations (and they should be fast):
 	GetBySenderOrderedByAmountDescending(sender) – search for all transactions with a specific sender and return them ordered by amount descending. If there are no such transactions throw InvalidOperationException
 
 	GetByReceiverOrderedByAmountThenById(receiver) – returns all transactions with a particular receiver ordered by amount descending, then by id ascending. If there are no such transactions throw InvalidOperationException
+
+	GetByTransactionStatusAndMaximumAmount(status, amount) – returns all transactions with given status and the amount less or equal to a maximum allowed amount ordered by amount descending. Returns an empty collection if no such transactions were found
