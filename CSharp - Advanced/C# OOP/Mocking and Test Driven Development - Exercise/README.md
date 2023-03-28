@@ -15,6 +15,13 @@ Transaction will hold:
 You need to support the following operations (and they should be fast):
 
 	Add() – Add a transaction to the record. You will need to implement the Contains() methods as well.
+	
 	Contains(Transaction) – checks if a given transaction is present in the record. Keep in mind that transaction Id is the unique identifier.
+	
 	Contains(id) – checks if a transaction with the given id exists in the record
+	
 	Count – returns the number of transactions in the record
+	
+	ChangeTransactionStatus(id, status) – changes the status of the transaction with the given id or throws ArgumentException if no such transaction exists.
+	
+	RemoveTransactionById(id) – remove the transaction from the record if the id exists, otherwise throws InvalidOperationException
