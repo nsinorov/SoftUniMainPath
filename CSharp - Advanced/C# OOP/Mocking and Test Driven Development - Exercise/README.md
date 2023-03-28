@@ -25,3 +25,5 @@ You need to support the following operations (and they should be fast):
 	ChangeTransactionStatus(id, status) – changes the status of the transaction with the given id or throws ArgumentException if no such transaction exists.
 	
 	RemoveTransactionById(id) – remove the transaction from the record if the id exists, otherwise throws InvalidOperationException
+	
+	GetById(id) – return the transaction with the given id. If such transaction doesn't exist, throw InvalidOperationException.
