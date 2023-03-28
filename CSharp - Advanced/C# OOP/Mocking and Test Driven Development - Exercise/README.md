@@ -6,3 +6,5 @@ You are ready to revolutionize the fintech industry beyond blockchains and payme
 
 Transaction will hold:
 
+	int Id – unique transaction id
+	TransactionStatus Status – enumeration of work positions for the employee
