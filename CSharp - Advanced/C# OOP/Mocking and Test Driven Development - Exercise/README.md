@@ -14,3 +14,5 @@ Transaction will hold:
 
 You need to support the following operations (and they should be fast):
 
+	Add() – Add a transaction to the record. You will need to implement the Contains() methods as well.
+	Contains(Transaction) – checks if a given transaction is present in the record. Keep in mind that transaction Id is the unique identifier.
