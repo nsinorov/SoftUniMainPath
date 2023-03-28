@@ -39,3 +39,5 @@ You need to support the following operations (and they should be fast):
 	The result of the call should be "john", "john", "michel"
 
 	GetAllReceiversWithTransactionStatus(status) – returns all receivers which have transactions with the given status in the same way as "GetAllSendersWithTransactionStatus". Throw InvalidOperationException if no such transactions are present in the record
+
+	GetAllOrderedByAmountDescendingThenById() – returns all transactions ordered by amount descending and by id
