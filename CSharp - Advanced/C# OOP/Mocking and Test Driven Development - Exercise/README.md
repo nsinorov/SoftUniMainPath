@@ -11,3 +11,6 @@ Transaction will hold:
 	string From – the sender of the transaction
 	string To – the receiver of the transaction
 	double Amount – the salary of the employee
+
+You need to support the following operations (and they should be fast):
+
