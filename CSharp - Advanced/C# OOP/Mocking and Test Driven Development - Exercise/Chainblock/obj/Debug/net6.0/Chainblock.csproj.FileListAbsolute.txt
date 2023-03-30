@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\net6.0\Chainblock.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\net6.0\Chainblock.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\net6.0\Chainblock.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\net6.0\Chainblock.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\bin\Debug\net6.0\Chainblock.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\refint\Chainblock.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\Chainblock.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Mocking and Test Driven Development - Exercise\Chainblock\obj\Debug\net6.0\ref\Chainblock.dll
