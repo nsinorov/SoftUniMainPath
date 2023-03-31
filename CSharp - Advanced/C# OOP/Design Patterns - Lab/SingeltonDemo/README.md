@@ -15,3 +15,6 @@ At this point, we can call the Instance property as many times as we want, but o
 The result in out console will be the following:
 
 ![image](https://user-images.githubusercontent.com/45227327/229228015-16d017cf-576c-4f57-a4a8-846d6b7913d4.png)
+
+We can see that we are calling our instance four times but it is initialized only once, which is exactly what we want.
+Let’s check if our console program works:
