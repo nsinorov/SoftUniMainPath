@@ -13,3 +13,5 @@ First, we will hide the constructor from the consumer classes by making it priva
 At this point, we can call the Instance property as many times as we want, but our object is going to be instantiated only once and shared for every other call. 
 
 The result in out console will be the following:
+
+![image](https://user-images.githubusercontent.com/45227327/229228015-16d017cf-576c-4f57-a4a8-846d6b7913d4.png)
