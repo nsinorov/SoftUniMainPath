@@ -18,3 +18,5 @@ The result in out console will be the following:
 
 We can see that we are calling our instance four times but it is initialized only once, which is exactly what we want.
 Let’s check if our console program works:
+
+![image](https://user-images.githubusercontent.com/45227327/229228558-4e05d88d-4ea8-4ce3-bc22-551993772eb2.png)
