@@ -7,3 +7,7 @@ First, you have to create an abstract class to represent the base gift. It shoul
 ### Basic Operations
 
 Create an interface IGiftOperations that will contain two operations - Add and Remove (a gift). You should create the interface because the Leaf class doesn’t need the operation methods.
+
+### 2.	Composite Class
+
+Now you have to create the composite class (CompositeGift). It should inherit the GiftBase class and implement the IGiftOperations interface. Therefore, the implementation is pretty forward. It will consist of many objects from the GiftBase class. The Add method will add a gift and the Remove - will remove one. The CalculateTotalPrice method will return the price of the CompositeGift.
