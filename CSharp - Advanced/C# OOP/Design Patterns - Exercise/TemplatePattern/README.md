@@ -3,3 +3,7 @@ There are easily hundreds of types of bread currently being made in the world, b
 ### 1.	Abstract Class
 
 First, you have to create an abstract class (Bread) to represent all loaves of bread we can bake. It should have two abstract void methods MixIngredients(), Bake(), one virtual void method Slice(), and the template method - Make().
+
+### 2.	Concrete Classes
+
+Extend the application by adding several Concrete Classes for different types of Bread. Examples: TwelveGrain, Sourdough, WholeWheat.
