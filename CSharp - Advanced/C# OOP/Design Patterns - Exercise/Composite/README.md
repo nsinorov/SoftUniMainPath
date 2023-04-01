@@ -11,3 +11,7 @@ Create an interface IGiftOperations that will contain two operations - Add and R
 ### 2.	Composite Class
 
 Now you have to create the composite class (CompositeGift). It should inherit the GiftBase class and implement the IGiftOperations interface. Therefore, the implementation is pretty forward. It will consist of many objects from the GiftBase class. The Add method will add a gift and the Remove - will remove one. The CalculateTotalPrice method will return the price of the CompositeGift.
+
+### 3.	Leaf Class
+
+You should also create a Leaf class (SingleGift). It will not have sub-levels so it doesn’t require to add and delete operations. Therefore, it should only inherit the GiftBase class. It will be like a single gift, without component gifts.
