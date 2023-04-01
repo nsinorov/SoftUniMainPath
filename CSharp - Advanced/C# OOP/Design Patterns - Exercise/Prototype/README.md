@@ -15,3 +15,5 @@ Let’s create a class that will have the purpose to store the sandwiches we’v
 ### Use What You’ve Done
 
 Now is the time to test what you have done by trying to use it. In your Main() method you can do just that by instantiating the prototype and then cloning it, thereby populating your SandwichMenu.
+
+![image](https://user-images.githubusercontent.com/45227327/229312279-28d3a3c1-f8f6-4469-a6c5-d6b29ab11888.png)
