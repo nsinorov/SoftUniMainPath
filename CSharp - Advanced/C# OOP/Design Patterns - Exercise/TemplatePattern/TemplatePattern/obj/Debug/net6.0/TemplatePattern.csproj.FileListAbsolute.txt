@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Design Patterns - Exercise\TemplatePattern\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll
