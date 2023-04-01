@@ -21,3 +21,5 @@ You should also create a Leaf class (SingleGift). It will not have sub-levels so
 Now is the time to test what you have done by trying to use it. In your Main() method you can do just that by instantiating the Leaf class (SingleGift) and the Composite class (CompositeGift) and using their methods.
 
 ![image](https://user-images.githubusercontent.com/45227327/229312335-05241c17-53a6-4c6a-ae95-8a4e60540d72.png)
+
+![image](https://user-images.githubusercontent.com/45227327/229312352-5e2e2649-1470-4cd6-875c-cfb19bb7f84a.png)
