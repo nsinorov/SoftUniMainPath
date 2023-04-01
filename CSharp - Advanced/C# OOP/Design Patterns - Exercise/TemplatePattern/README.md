@@ -1,1 +1,1 @@
-
+There are easily hundreds of types of bread currently being made in the world, but each kind involves specific steps to make them. Your task is to model a few different kinds of bread that all use this same pattern, which is a good fit for the Template Design Pattern.
