@@ -7,3 +7,7 @@ First, you have to create an abstract class (Bread) to represent all loaves of b
 ### 2.	Concrete Classes
 
 Extend the application by adding several Concrete Classes for different types of Bread. Examples: TwelveGrain, Sourdough, WholeWheat.
+
+### Use What You’ve Done
+
+Now is the time to test what you have done by trying to use it. In your Main() method you can do just that by instantiating objects of the classes you’ve just made. It was that simple. This, this might be something you’ve been already using but you didn’t know it was a Design Pattern.
