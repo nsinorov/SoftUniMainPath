@@ -3,3 +3,7 @@ Your task is to create a console application that calculates the total price of 
 ### 1.	Component
 
 First, you have to create an abstract class to represent the base gift. It should have two fields (name and price) and a method that calculates the total price. These fields and methods are going to be used as an interface between the Leaf and the Composite part of our pattern.
+
+### Basic Operations
+
+Create an interface IGiftOperations that will contain two operations - Add and Remove (a gift). You should create the interface because the Leaf class doesn’t need the operation methods.
