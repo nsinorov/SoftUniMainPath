@@ -15,3 +15,7 @@ Now you have to create the composite class (CompositeGift). It should inherit th
 ### 3.	Leaf Class
 
 You should also create a Leaf class (SingleGift). It will not have sub-levels so it doesn’t require to add and delete operations. Therefore, it should only inherit the GiftBase class. It will be like a single gift, without component gifts.
+
+### Use What You’ve Done
+
+Now is the time to test what you have done by trying to use it. In your Main() method you can do just that by instantiating the Leaf class (SingleGift) and the Composite class (CompositeGift) and using their methods.
