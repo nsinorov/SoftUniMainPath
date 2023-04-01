@@ -1,1 +1,1 @@
-Problem solutions are provided if you struggle doing it on your own as it can be too abstract. The solutions are just examples, you don’t need to follow them completely. There is no automated testing for this exercise, you have to validate what you’ve done by yourself.
+Your task is to create a console application for building sandwiches implementing the Prototype Design Pattern.
