@@ -21,3 +21,17 @@ For this task’s evaluation logic in the methods isn’t included.
 You are given 4 interfaces, and you must implement their functionality in the correct classes.
 
 There are 3 types of entities and 3 repositories in the application: Subject, Student, University and Repository (SubjectRepository, StudentRepository and UniversityRepository) for each of them:
+
+## Subject
+
+Subject is a base class for any type of Subject, and it should not be able to be instantiated.
+
+### Data
+
+	Id – int
+		The Id property will take its value upon adding the entity to the SubjectRepository. Every new Subject will take the next consecutive number in the repository, starting from 1. The property will be set in the AddSubject method from the Controller class.
+
+	Name - string
+		If the name is null or whitespace, throw an ArgumentException with the message "Name cannot be null or whitespace!" 
+		Rate – double
+		The significance of the Subject.
