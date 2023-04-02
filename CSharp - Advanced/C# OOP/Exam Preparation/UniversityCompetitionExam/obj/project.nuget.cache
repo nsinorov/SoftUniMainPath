@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUucRY+sDUKK6tLBXibnnpJCyknPEOm+YfVJPGHK2fsV3MNQ8idn6LVSz18ng/uRuH2QF+19ocAStEW2ej/w6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikolay Sinorov\\Desktop\\SoftUni\\C# Advanced\\C# OOP\\Exam Preparation\\New folder\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Sinorov\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
