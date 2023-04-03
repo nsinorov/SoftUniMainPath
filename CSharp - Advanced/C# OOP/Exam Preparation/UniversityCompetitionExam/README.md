@@ -85,3 +85,13 @@ The constructor of the EconomicalSubject should take the following parameters up
 	CoveredExams – IreadOnlyCollection<int> - A collection of integer values, representing the subject ids of all covered exams by the student.
 	
 	University – IUniversity – The University where the student managed to join, after covering all the required exams.
+
+## Behavior
+
+### void CoverExam(ISubject subject)
+
+	Takes the subject’s id and adds it to the collection of CoveredExams
+
+### void JoinUniversity(IUniversity university)
+
+	This method sets value of the property University.
