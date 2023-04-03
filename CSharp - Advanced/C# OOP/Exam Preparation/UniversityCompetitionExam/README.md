@@ -295,3 +295,11 @@ The method should set the University property of the Student with the given stud
 	If the Student with the given studentName has not covered all the required exams for the University with the given name, return the following message: "{studentName} has not covered all the required exams for {universityName} university!"
 	
 	If the Student with the given studentName has already joined the University with the given universityName, return the following message: "{studentFirstName} {studentLastName} has already joined {UniversityName}."
+
+If none of the above cases is reached, set the University property of the Student with the given studentName, to the value of the University with the given universityName. Return the following message: "{studentFirstName} {studentLastName} joined {universityName} university!"
+
+## UniversityReport Command
+
+### Parameters
+
+	universityId – int
