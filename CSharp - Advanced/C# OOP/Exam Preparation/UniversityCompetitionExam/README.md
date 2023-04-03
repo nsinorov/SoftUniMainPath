@@ -35,3 +35,7 @@ Subject is a base class for any type of Subject, and it should not be able to be
 		If the name is null or whitespace, throw an ArgumentException with the message "Name cannot be null or whitespace!" 
 		Rate – double
 		The significance of the Subject.
+		
+	Rate – double
+		The significance of the Subject.
+
