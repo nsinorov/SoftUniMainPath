@@ -95,3 +95,8 @@ The constructor of the EconomicalSubject should take the following parameters up
 ### void JoinUniversity(IUniversity university)
 
 	This method sets value of the property University.
+
+### Constructor
+
+A Student should take the following values upon initialization:
+	int studentId, string firstName, string lastName 
