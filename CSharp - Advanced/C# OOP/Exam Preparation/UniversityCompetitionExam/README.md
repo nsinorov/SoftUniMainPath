@@ -14,7 +14,7 @@ The end of the last year in high school is approaching and the students will hav
 	Exception messages and output messages can be found in the "Utilities" folder.
 	For solving this problem use Visual Studio 2019, Visual Studio 2022 and netcoreapp 3.1
 
-### Task 1: Structure (50 points)
+# Task 1: Structure (50 points)
 
 For this task’s evaluation logic in the methods isn’t included.
 
@@ -188,3 +188,16 @@ The repository holds information about the universities.
 ### IUniversity FindByName(string name)
 
 	Returns a University with the given name, if it exists in the repository, otherwise returns null.
+
+
+# Task 2: Business Logic (150 points)
+
+##The Controller Class
+
+The business logic of the program should be concentrated around several commands. You that you musts, which you have to implement in the correct classes.
+
+The first interface is IController.
+
+You must create a Controller class, which implements the interface and implements all of its methods.
+
+The constructor of Controller does not take any arguments. The given methods should have the logic described for each in the Commands section. When you create the Controller class, go into the Engine class constructor and uncomment the "this.controller = new Controller();" line.
