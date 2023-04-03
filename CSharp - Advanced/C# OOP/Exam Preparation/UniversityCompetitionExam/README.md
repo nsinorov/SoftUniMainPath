@@ -274,3 +274,5 @@ The method should add the given subjectId to the collection CoveredExams of the 
 	If a Student with the given studentId doesn’t exist in the StudentRepository, return the following message: "Invalid student ID!"
 	If a Subject with the given subjectId doesn’t exist in the SubjectRepository, return the following message: "Invalid subject ID!"
 	If the Student with the given studentId has already covered the exam (check in the CoveredExam collection of the Student) on the Subject with the given subjectId, return the following message: "{studentFirstName} {studentLastName} has already covered exam of {subjectName}."
+
+If none of the above cases is reached, add the given subjectId to the collection CoveredExams of the Student with the given studentId. Return the following message: "{studentFirstName} {studentLastName} covered {subjectName} exam!"
