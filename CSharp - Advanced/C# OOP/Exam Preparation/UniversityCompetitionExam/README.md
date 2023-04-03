@@ -317,3 +317,20 @@ If none of the above cases is reached, set the University property of the Studen
 Note: studentsCount => the count of all students admitted in the given university
 Note: capacityLeft => the university capacity – the count of all admitted students in the university
 Note: Do not use "\r\n" for a new line.
+
+## Input
+
+Below, you can see the format in which each command will be given in the input:
+
+	AddSubject {subjectName} {subjectType}
+	AddUniversity {universityName} {category} {capacity} {requiredSubjects}
+	AddStudent {firstName} {lastName}
+	TakeExam {studentId} {subjectId}
+	ApplyToUniversity {studentName} {universityName}
+	UniversityReport {universityId}
+	CompetitionReport
+	END
+
+## Output:
+
+Print the output from each command when issued. If an exception is thrown during any of the commands' execution, print the exception message.
