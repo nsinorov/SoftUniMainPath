@@ -54,3 +54,17 @@ There are three concrete types of Subject:
 	TechnicalSubject has a constant value for subjectRate = 1.3
 	The constructor of the TechnicalSubject should take the following parameters upon initialization:
 	int subjectId, string subjectName 
+
+### EconomicalSubject
+
+	EconomicalSubject has a constant value for subjectRate = 1.0
+
+The constructor of the EconomicalSubject should take the following parameters upon initialization:
+
+	int subjectId, string subjectName 
+
+### HumanitySubject
+
+	HumanitySubject has a constant value for subjectRate = 1.15
+	The constructor of the HumanitySubject should take the following parameters upon initialization:
+	int subjectId, string subjectName 
