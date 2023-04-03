@@ -283,3 +283,7 @@ If none of the above cases is reached, add the given subjectId to the collection
 
 	studentName – string
 	universityName – string
+
+### Functionality
+
+The method should set the University property of the Student with the given studentName (Split the given string by whitespace and check both the first and the last name of the student), to the value of the University with the given universityName.
