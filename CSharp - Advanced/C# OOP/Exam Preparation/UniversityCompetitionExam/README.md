@@ -303,3 +303,13 @@ If none of the above cases is reached, set the University property of the Studen
 ### Parameters
 
 	universityId – int
+
+### Functionality
+
+	Find the University with the given universityId. 
+	Returns the following string report:
+	
+		"*** {universityName} ***
+		Profile: {universityCategory}
+		Students admitted: {studentsCount}
+		University vacancy: {capacityLeft}"
