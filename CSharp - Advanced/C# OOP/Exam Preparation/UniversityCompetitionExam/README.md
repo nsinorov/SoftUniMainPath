@@ -287,3 +287,11 @@ If none of the above cases is reached, add the given subjectId to the collection
 ### Functionality
 
 The method should set the University property of the Student with the given studentName (Split the given string by whitespace and check both the first and the last name of the student), to the value of the University with the given universityName.
+
+	If a Student with the given studentName doesn’t exist in the StudentRepository, return the following message: "{studentFirstName} {studentLastName} is not registered in the application!"
+	
+	If a University with the given universityName doesn’t exist in the UniversityRepository, return the following message: "{universityName} is not registered in the application!"
+	
+	If the Student with the given studentName has not covered all the required exams for the University with the given name, return the following message: "{studentName} has not covered all the required exams for {universityName} university!"
+	
+	If the Student with the given studentName has already joined the University with the given universityName, return the following message: "{studentFirstName} {studentLastName} has already joined {UniversityName}."
