@@ -99,4 +99,23 @@ The constructor of the EconomicalSubject should take the following parameters up
 ### Constructor
 
 A Student should take the following values upon initialization:
+
 	int studentId, string firstName, string lastName 
+
+## University
+
+### Data
+
+	Id – int
+		The Id property will take its value upon adding the entity to the UniversityRepository. Every new University will take the next consecutive number in the repository, starting from 1. The property will be set in the AddUniversity method from the Controller class.
+		
+	Name - string
+		If the name is null or whitespace, throw an ArgumentException with the message "Name cannot be null or whitespace!"
+		
+	Category – string available categories are: Technical, Economical, Humanity
+		If the value does not match the allowed categories (case-sensitive), throw an ArgumentException with the message "University category {value} is not allowed in the application!"
+		
+	Capacity – int – the maximum possible number of students admitted to the university.
+		If the value is less than zero throw ArgumentException with the message: "University capacity cannot be a negative value!"
+		
+	RequiredSubjects – IReadOnlyCollection<int> - A collection of integer values, representing the subject ids of all the subjects on which the student has to have the exams covered.
