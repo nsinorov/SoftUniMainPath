@@ -237,3 +237,10 @@ The method should create and add a new entity of ISubject to the SubjectReposito
 	category – string
 	capacity –  int
 	requiredSubjects – List<string>
+
+### Functionality
+
+The method should create and add a new entity of IUniversity to the UniversityRepository.
+
+	If there is already added a University with the given name, return the following message: "{universityName} is already added in the repository."
+	If the above case is not reached, convert the given collection of requiredSubjects into collection of integers, containing every required subject’s id. The subjects will be already added into the SubjectRepository. Create a new University and add it to the UniversityRepository. Return the following message: "{universityName} university is created and added to the {relevantRepositoryTypeName}!"
