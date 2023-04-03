@@ -209,3 +209,22 @@ You need to keep track of some things, this is why you need some private fields 
 	subjects – SubjectRepository
 	students – StudentRepository
 	universities - UniversityRepository
+
+## Commands
+
+There are several commands, which control the business logic of the application. They are stated below.
+
+## AddSubject Command
+
+### Parameters
+
+	subjectName – string
+	subjectType - string
+
+### Functionality
+
+The method should create and add a new entity of ISubject to the SubjectRepository.
+
+	If the given subjectType is not supported in the application, return the following message: "Subject type {subjectType} is not available in the application!"
+	If there is already added a Subject with the given name, return the following message: "{subjectName} is already added in the repository."
+	If none of the above cases is reached, create a new Subject from the appropriate type and add it to the SubjectRepository. Return the following message: "{subjectType} {subjectName} is created and added to the {relevantRepositoryTypeName}!"
