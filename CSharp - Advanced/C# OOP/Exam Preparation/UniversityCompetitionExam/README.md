@@ -119,3 +119,28 @@ A Student should take the following values upon initialization:
 		If the value is less than zero throw ArgumentException with the message: "University capacity cannot be a negative value!"
 		
 	RequiredSubjects – IReadOnlyCollection<int> - A collection of integer values, representing the subject ids of all the subjects on which the student has to have the exams covered.
+
+### Constructor
+
+A University should take the following values upon initialization:
+
+	int universityId, string universityName, string category, int capacity, 
+	ICollection<int> requiredSubjects
+
+### Data
+
+	Models – IReadOnlyCollection<ISubject>
+
+## Behavior
+
+###void AddModel(ISubject subject)
+
+	Adds a Subject in the collection.
+
+###ISubject FindById(int id)
+
+	Returns a Subject with the given id, if it exists in the repository, otherwise returns null.
+	
+### ISubject FindByName(string name)
+
+	Returns a Subject with the given name, if it exists in the repository, otherwise returns null.
