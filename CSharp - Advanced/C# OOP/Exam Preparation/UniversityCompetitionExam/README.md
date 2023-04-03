@@ -259,3 +259,11 @@ The method should create and add a new entity of IStudent to the StudentReposito
 	If there is already added a Student with the given firstName and lastName, return the following message: "{firstName} {lastName} is already added in the repository."
 	
 	If the above case is not reached, create a new Student and add it to the StudentRepository. Return the following message: "Student {firstName} {lastName} is added to the {relevantRepositoryTypeName}!" 
+
+## TakeExam Command
+
+### Parameters
+
+	studentId – int
+	subjectId - int
+
