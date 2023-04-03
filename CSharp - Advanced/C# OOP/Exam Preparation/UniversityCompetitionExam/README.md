@@ -68,3 +68,20 @@ The constructor of the EconomicalSubject should take the following parameters up
 	HumanitySubject has a constant value for subjectRate = 1.15
 	The constructor of the HumanitySubject should take the following parameters upon initialization:
 	int subjectId, string subjectName 
+
+## Student
+
+### Data
+
+	Id – int
+		The Id property will take its value upon adding the entity to the StudentRepository. Every new Student will take the next consecutive number in the repository, starting from 1. The property will be set in the AddStudent method from the Controller class.
+		
+	FirstName - string
+		If the name is null or whitespace, throw an ArgumentException with the message "Name cannot be null or whitespace!"
+		
+	LastName - string
+		If the name is null or whitespace, throw an ArgumentException with the message "Name cannot be null or whitespace!"
+		
+	CoveredExams – IreadOnlyCollection<int> - A collection of integer values, representing the subject ids of all covered exams by the student.
+	
+	University – IUniversity – The University where the student managed to join, after covering all the required exams.
