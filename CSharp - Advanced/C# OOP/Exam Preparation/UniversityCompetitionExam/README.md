@@ -267,3 +267,10 @@ The method should create and add a new entity of IStudent to the StudentReposito
 	studentId – int
 	subjectId - int
 
+### Functionality
+
+The method should add the given subjectId to the collection CoveredExams of the Student with the given studentId.
+
+	If a Student with the given studentId doesn’t exist in the StudentRepository, return the following message: "Invalid student ID!"
+	If a Subject with the given subjectId doesn’t exist in the SubjectRepository, return the following message: "Invalid subject ID!"
+	If the Student with the given studentId has already covered the exam (check in the CoveredExam collection of the Student) on the Subject with the given subjectId, return the following message: "{studentFirstName} {studentLastName} has already covered exam of {subjectName}."
