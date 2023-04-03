@@ -137,10 +137,33 @@ A University should take the following values upon initialization:
 
 	Adds a Subject in the collection.
 
-###ISubject FindById(int id)
+### ISubject FindById(int id)
 
 	Returns a Subject with the given id, if it exists in the repository, otherwise returns null.
 	
 ### ISubject FindByName(string name)
 
 	Returns a Subject with the given name, if it exists in the repository, otherwise returns null.
+
+## StudentRepository
+
+The repository holds information about the students.
+
+### Data
+
+	Models – IReadOnlyCollection<IStudent>
+
+### Behavior
+
+### void AddModel(IStudent student)
+
+	Adds a Student in the collection.
+	
+### IStudent FindById(int id)
+
+	Returns a Student with the given id, if it exists in the repository, otherwise returns null.
+	
+### IStudent FindByName(string name)
+
+	Returns a Student with the given name (Split the given string by single space and check both the first and the last name of the student), if it exists in the repository, otherwise returns null.
+
