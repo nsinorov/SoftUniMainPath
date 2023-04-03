@@ -167,3 +167,24 @@ The repository holds information about the students.
 
 	Returns a Student with the given name (Split the given string by single space and check both the first and the last name of the student), if it exists in the repository, otherwise returns null.
 
+## UniversityRepository
+
+The repository holds information about the universities.
+
+### Data
+
+	Models – IReadOnlyCollection<IUniversity>
+
+### Behavior
+
+###void AddModel(IUniversity university)
+
+	Adds a University in the collection.
+	
+### IUniversity FindById(int id)
+
+	Returns a University with the given id, if it exists in the repository, otherwise returns null.
+	
+### IUniversity FindByName(string name)
+
+	Returns a University with the given name, if it exists in the repository, otherwise returns null.
