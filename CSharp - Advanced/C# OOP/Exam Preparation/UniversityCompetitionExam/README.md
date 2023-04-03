@@ -276,3 +276,10 @@ The method should add the given subjectId to the collection CoveredExams of the 
 	If the Student with the given studentId has already covered the exam (check in the CoveredExam collection of the Student) on the Subject with the given subjectId, return the following message: "{studentFirstName} {studentLastName} has already covered exam of {subjectName}."
 
 If none of the above cases is reached, add the given subjectId to the collection CoveredExams of the Student with the given studentId. Return the following message: "{studentFirstName} {studentLastName} covered {subjectName} exam!"
+
+## ApplyToUniversity Command
+
+### Parameters
+
+	studentName – string
+	universityName – string
