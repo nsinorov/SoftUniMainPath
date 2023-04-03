@@ -39,3 +39,18 @@ Subject is a base class for any type of Subject, and it should not be able to be
 	Rate – double
 		The significance of the Subject.
 
+## Constructor
+
+A Subject should take the following values upon initialization:
+
+	int subjectId, string subjectName, double subjectRate
+
+## Child Classes
+
+There are three concrete types of Subject:
+
+### TechnicalSubject
+
+	TechnicalSubject has a constant value for subjectRate = 1.3
+	The constructor of the TechnicalSubject should take the following parameters upon initialization:
+	int subjectId, string subjectName 
