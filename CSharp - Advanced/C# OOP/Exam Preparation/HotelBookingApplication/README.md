@@ -229,3 +229,19 @@ You need to keep track of some things, this is why you need some private fields 
 ## Commands
 	
 There are several commands, which control the business logic of the application. They are stated below.
+
+##AddHotel Command
+	
+### Parameters
+	
+	hotelName - string
+	category - int
+	
+## Functionality
+	
+Creates a Hotel with the given name and star category. The method should return one of the following messages:
+	
+	If the hotel with the given name exists return: "Hotel {hotelName} is already registered in our platform."
+	If the hotel is successfully created, store the hotel in the appropriate collection and return: "{category} stars hotel {hotelName} is registered in our platform and expects room availability to be uploaded."
+
+	
