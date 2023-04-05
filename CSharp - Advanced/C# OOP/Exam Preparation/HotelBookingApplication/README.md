@@ -93,3 +93,35 @@ There are three actual types of Room:
 The constructor should take the following values upon initialization:
 
 	IRoom room, int residenceDuration, int adultsCount, int childrenCount, int bookingNumber
+
+## Behavior
+
+### string BookingSummary()
+
+	Note: Do not use "\r\n" for a new line. 
+ 
+
+	"Booking number: {BookingNumber}
+	Room type: {RoomType}
+	Adults: {AdultsCount} Children: {ChildrenCount}
+	Total amount paid: {TotalPaid():F2} $"
+	
+HINT: TotalPaid() => MathRound(ResidenceDuration*PricePerNight, 2),  print TotalPaid() on the Console with two decimal places after decimal point.
+
+## Hotel
+
+### Data
+
+	FullName – string
+		If the name is null or whitespace, throw an ArgumentException with message: "Hotel name cannot be null or empty!"
+        Category -  int
+	
+		If the category is less than 1 or greater than 5, throw an ArgumentException with a message:
+			 "Category should be between 1 and 5 stars!"
+			 
+	Turnover – double
+		Returns the Sum of all booking amounts(ResidenceDuration*PricePerNight) paid in the Hotel, rounded to the second decimal place
+		
+	Rooms – IRepository<IRooms> which holds information about all available rooms for the Hotel
+	
+	Bookings – IRepository<IBooking> which holds information about all bookings made for the Hotel
