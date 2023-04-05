@@ -362,3 +362,5 @@ Below, you can see the format in which each command will be given in the input:
 ## Examples:
 	
 ![image](https://user-images.githubusercontent.com/45227327/230198997-a27000e8-0954-4cdd-b926-fb9945944e4d.png)
+![image](https://user-images.githubusercontent.com/45227327/230199076-603c6c44-cf03-4c75-b15a-4259672f96ac.png)
+![image](https://user-images.githubusercontent.com/45227327/230199161-21ff1421-44fd-46c2-b2d6-32b40872f2f2.png)
