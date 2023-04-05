@@ -28,3 +28,10 @@ There are 3 types of entities in the application: Room, Booking and Hotel. There
 
 The Room is a base class of any type of room and it should not be able to be instantiated.
 
+## Data
+
+	BedCapacity -  int
+		Property which represents the maximum amount of people which could be accommodated in the Room. Depends on the room type
+	PricePerNight – double
+		PricePerNight cannot be negative. If so, throw new ArgumentException with message : "Price cannot be negative!". 
+		Set PricePerNight initial value to zero. 
