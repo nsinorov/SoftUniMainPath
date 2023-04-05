@@ -209,3 +209,12 @@ The BookingRepository is a class which represents collection of bookings.
 ## Constructor
 	
 The constructor should not take any values upon initialization.
+
+# Task 2: Business Logic (150 points)
+	
+## The Controller Class
+	
+The business logic of the program should be concentrated around several commands. You are given interfaces, which you have to implement in the correct classes.
+Note: The Controller class SHOULD NOT handle exceptions! The tests are designed to expect exceptions, not messages!
+	
+The first interface is IController. You must create a Controller class, which implements the interface and implements all of its methods. The constructor of Controller does not take any arguments. The given methods should have the logic described for each in the Commands section. When you create the Controller class, go into the Engine class constructor and uncomment the "this.controller = new Controller();" line.
