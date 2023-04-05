@@ -125,3 +125,35 @@ HINT: TotalPaid() => MathRound(ResidenceDuration*PricePerNight, 2),  print Total
 	Rooms – IRepository<IRooms> which holds information about all available rooms for the Hotel
 	
 	Bookings – IRepository<IBooking> which holds information about all bookings made for the Hotel
+
+## Constructor
+
+The constructor should take the following values upon initialization:
+
+	string fullName, int category
+
+## RoomRepository
+
+The RoomRepository is a class which represents collection of rooms.
+
+## Data
+
+	Some private field might be helpful
+
+## Behavior
+
+### void AddNew(IRoom room)
+
+	Adds new Room to the repository.
+	
+### IRoom Select(string roomTypeName)
+
+	Returns a Room which is entity of type with the given room type name
+
+### IReadonlyCollection<IRoom> All()
+	
+	Returns a ReadonlyCollection of all rooms, that have been added to the repository.
+	
+## Constructor
+	
+	The constructor should not take any values upon initialization.
