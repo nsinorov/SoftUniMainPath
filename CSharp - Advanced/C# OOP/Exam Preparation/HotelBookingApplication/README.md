@@ -41,3 +41,32 @@ The Room is a base class of any type of room and it should not be able to be ins
 The constructor of the Room class should accept the following parameters:
 
 	int bedCapacity 
+
+## Behavior
+
+### void SetPrice(double price)
+
+	This method sets the PricePerNight value when needed.
+
+## Child Classes
+
+There are three actual types of Room:
+
+### DoubleBed
+
+	Has BedCapacity of 2.
+
+	The constructor should take no values upon initialization.
+
+### Studio
+
+	Has BedCapacity of 4.
+
+	The constructor should take no values upon initialization.
+
+### Apartment
+
+	Has BedCapacity of 6.
+
+	The constructor should take no values upon initialization.
+
