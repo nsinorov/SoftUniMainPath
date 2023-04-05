@@ -157,3 +157,29 @@ The RoomRepository is a class which represents collection of rooms.
 ## Constructor
 	
 	The constructor should not take any values upon initialization.
+
+## HotelRepository
+	
+The HotelRepository is a class which represents collection of hotels.
+	
+### Data
+	
+	Some private field might be helpful
+	
+## Behavior
+	
+### void AddNew(IHotel hotel)
+	
+	Adds new Hotel to the repository.
+	
+### IHotel Select(string hotelName)
+	
+	Returns a hotel which has the given hotelName or returns default value
+	
+### IReadonlyCollection<IHotel> All()
+	
+	Returns a ReadonlyCollection of all hotels, that have been added to the repository.
+	
+## Constructor
+	
+	The constructor should not take any values upon initialization.
