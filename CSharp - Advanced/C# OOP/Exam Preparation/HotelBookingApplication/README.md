@@ -260,3 +260,21 @@ Uploads new room type for the given hotel.
 	If the given type is already created, returns: "Room type is already created!"
 	If the room type is not correct, throw new ArgumentException with message: "Incorrect room type!"
 	If all the given data is correct, create a room from the given type and add it to the RoomRepository of the Hotel with the given name, return: "Successfully added {roomType} room type in {hotelName} hotel!"
+
+## SetRoomPrices Command
+	
+### Parameters
+	
+	hotelName - string
+	roomTypeName – string
+	price - double
+	
+## Functionality
+	
+Sets prices to the given room type for the given hotel.
+	
+	If hotel with such name doesn’t exist, returns: "Profile {hotelName} doesn’t exist!"
+	If the room type is not correct, throw new ArgumentException with message: "Incorrect room type!"
+	If the given type is not created yet, returns: "Room type is not created yet!"
+	You can set the room price only once. If it is already set, throw new InvalidOperationException with message: "Price is already set!"
+	If the price is set successfully, return message: "Price of {roomType} room type in {hotelName} hotel is set!"
