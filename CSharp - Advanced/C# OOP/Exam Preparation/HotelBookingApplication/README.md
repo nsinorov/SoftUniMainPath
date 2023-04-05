@@ -19,5 +19,12 @@ Guests should be able to check the room availability and bed capacity and to mak
 # 3.	Task 1: Structure (50 points)
 
 For this task’s evaluation logic in the methods isn’t included.
+
 You are given 4 interfaces, and you have to implement their functionality in the correct classes.
+
 There are 3 types of entities in the application: Room, Booking and Hotel. There should also be RoomRepository, BookingRepository and HotelRepository.
+
+## Room
+
+The Room is a base class of any type of room and it should not be able to be instantiated.
+
