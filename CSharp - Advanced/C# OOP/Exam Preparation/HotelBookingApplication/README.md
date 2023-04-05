@@ -341,3 +341,20 @@ Note: Do not use "\r\n" for a new line.
 	Total amount paid: {totalPaid} $" 
 	/ 
 	none
+
+	HINT: print hotelTurnover on the Console with two decimal places after the decimal point.
+
+## Input:
+	
+Below, you can see the format in which each command will be given in the input:
+	
+	AddHotel {hotelName} {category}
+	UploadRoomTypes {hotelName} {roomType}
+	SetRoomPrices {hotelName} {roomType} {price}
+	BookAvailableRoom {adultsCount} {childrenCount} {residenceDuration} {category}
+	HotelReport
+	Exit
+
+## Output:
+	
+	Print the output from each command when issued. If an exception is thrown during any of the commands' execution, print the exception message.
