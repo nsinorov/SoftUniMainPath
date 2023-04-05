@@ -303,3 +303,41 @@ A reservation is made in the first room, which answers all the following conditi
 	
 Also for successful booking you should add the new Booking in the BookingRepository of the selected hotel. Every new Booking should have booking number equal to the total number of the already added bookings to the selected hotel increased by one: 
 bookingNumber = totalBookingAppBookingsCount + 1; 
+
+## HotelReport
+	
+### Parameters
+	
+	hotelName – string
+	
+### Functionality
+	
+Returns on the console information about hotel with the given name and all the bookings made for this hotel.
+	
+Note: Do not use "\r\n" for a new line. 
+	
+	If there are no registered hotels with this name in the platform, return: "Profile {hotelName} doesn’t exist!"
+	If the Hotel is found, return the following information for the hotel and BookingSummary() for every Booking, separated by empty new line. If the Hotel has no bookings in its BookingRepository, print  "none" (look at the last example for reference), instead of BookingSummary() for each Booking ():
+	
+	"Hotel name: {hotelName}
+	--{Category} star hotel
+	--Turnover: {hotelTurnover : F2} $
+	--Bookings:
+
+	Booking number: {Booking1.BookingNumber}
+	Room type: {RoomType}
+	Adults: {AdultsCount} Children: {ChildrenCount}
+	Total amount paid: {totalPaid} $
+
+	Booking number: {Booking2.BookingNumber}
+	Room type: {RoomType}
+	Adults: {AdultsCount} Children: {ChildrenCount}
+	Total amount paid: {totalPaid} $
+	...
+	Booking number: { Bookingn.BookingNumber}
+	Room type: {RoomType}
+	Adults: {AdultsCount}
+	Children: {ChildrenCount}
+	Total amount paid: {totalPaid} $" 
+	/ 
+	none
