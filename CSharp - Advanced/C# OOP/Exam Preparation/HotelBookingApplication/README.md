@@ -70,3 +70,26 @@ There are three actual types of Room:
 
 	The constructor should take no values upon initialization.
 
+## Booking
+
+### Data
+
+	Room  - IRoom
+		The room where the Booking will be accomodated
+		
+	ResidenceDuration – int
+		ResidenceDuration must be greater than zero. If NOT, throw new ArgumentException with message: "Duration cannot be negative or zero!".
+		
+	AdultsCount – int
+		The count of Adults cannot be less than 1. If so, throw new ArgumentException with message: "Adults count cannot be negative or zero!".
+		
+	ChildrenCount – int
+		The count of Children cannot be less than 0. If so, throw new ArgumentException with message: "Children count cannot be negative!".
+		
+	BookingNumber – int, returns the booking number, which is set by the constructor upon creating every new Booking.
+
+## Constructor
+
+The constructor should take the following values upon initialization:
+
+	IRoom room, int residenceDuration, int adultsCount, int childrenCount, int bookingNumber
