@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\bin\Debug\net6.0\BookingApp.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\bin\Debug\net6.0\BookingApp.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\bin\Debug\net6.0\BookingApp.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\bin\Debug\net6.0\BookingApp.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\refint\BookingApp.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\C# Advanced\C# OOP\Exam Preparation\HotelBookingApplication\HotelBookingApplicationExam\obj\Debug\net6.0\ref\BookingApp.dll
