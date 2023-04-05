@@ -35,3 +35,9 @@ The Room is a base class of any type of room and it should not be able to be ins
 	PricePerNight – double
 		PricePerNight cannot be negative. If so, throw new ArgumentException with message : "Price cannot be negative!". 
 		Set PricePerNight initial value to zero. 
+
+## Constructor
+
+The constructor of the Room class should accept the following parameters:
+
+	int bedCapacity 
