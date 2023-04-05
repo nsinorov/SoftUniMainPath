@@ -183,3 +183,29 @@ The HotelRepository is a class which represents collection of hotels.
 ## Constructor
 	
 	The constructor should not take any values upon initialization.
+
+## BookingRepository
+	
+The BookingRepository is a class which represents collection of bookings.
+	
+## Data
+	
+	Some private field might be helpful
+	
+## Behavior
+	
+### void AddNew(IBooking booking)
+	
+	Adds new Booking to the repository.
+	
+###IBooking Select(string bookingNumberToString)
+	
+	Returns a booking which has the given bookingNumber or returns default value
+	
+###IReadonlyCollection<IBooking> All()
+	
+	Returns a ReadonlyCollection of all bookings, that have been added to the repository.
+	
+## Constructor
+	
+The constructor should not take any values upon initialization.
