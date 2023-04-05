@@ -278,3 +278,28 @@ Sets prices to the given room type for the given hotel.
 	If the given type is not created yet, returns: "Room type is not created yet!"
 	You can set the room price only once. If it is already set, throw new InvalidOperationException with message: "Price is already set!"
 	If the price is set successfully, return message: "Price of {roomType} room type in {hotelName} hotel is set!"
+
+## BookAvailableRoom Command
+	
+### Parameters
+	
+	adults – int
+	children – int
+	duration - int
+	category - int
+	
+### Functionality
+	
+A reservation is made in the first room, which answers all the following conditions:
+	
+	First, order all the hotels by FullName alphabetically
+	Second, take only the rooms which have their PricePerNight set (PricePerNight > 0 )
+	Third, order all taken rooms from previous step by bed capacity ascending,
+	Finally, choose from ordered rooms, the room with the lowest capacity where the guests will fit
+
+- If none of the available hotels corresponds to the given category, returns: "{category} star hotel is not available in our platform."
+- If none of the rooms can fit the requested guests, return message: "We cannot offer appropriate room for your request."
+- If the booking is successful, the method returns message: "Booking number {bookingNumber} for {hotelName} hotel is successful!"
+	
+Also for successful booking you should add the new Booking in the BookingRepository of the selected hotel. Every new Booking should have booking number equal to the total number of the already added bookings to the selected hotel increased by one: 
+bookingNumber = totalBookingAppBookingsCount + 1; 
