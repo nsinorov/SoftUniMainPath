@@ -245,3 +245,18 @@ Creates a Hotel with the given name and star category. The method should return 
 	If the hotel is successfully created, store the hotel in the appropriate collection and return: "{category} stars hotel {hotelName} is registered in our platform and expects room availability to be uploaded."
 
 	
+## UploadRoomTypes Command
+	
+### Parameters
+	
+	hotelName -string
+	roomTypeName - string
+	
+## Functionality
+	
+Uploads new room type for the given hotel.
+	
+	If hotel with such name doesn’t exist, returns: "Profile {hotelName} doesn’t exist!"
+	If the given type is already created, returns: "Room type is already created!"
+	If the room type is not correct, throw new ArgumentException with message: "Incorrect room type!"
+	If all the given data is correct, create a room from the given type and add it to the RoomRepository of the Hotel with the given name, return: "Successfully added {roomType} room type in {hotelName} hotel!"
