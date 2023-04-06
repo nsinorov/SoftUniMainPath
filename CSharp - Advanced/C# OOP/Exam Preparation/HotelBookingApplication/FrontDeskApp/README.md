@@ -10,3 +10,4 @@ You are provided with a unit test project in the project skeleton.
 
 Do NOT use Mocking in your unit tests!
 
+![image](https://user-images.githubusercontent.com/45227327/230489249-b4f9bc2b-93cb-4586-817c-bf28c4088811.png)
