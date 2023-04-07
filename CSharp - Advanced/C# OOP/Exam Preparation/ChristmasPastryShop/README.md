@@ -43,3 +43,9 @@ Override the existing method ToString() and modify it, so the returned string mu
 	"{delicacyName} - {current price - formatted to the second decimal place} lv"
 
 Note: Do not use "\r\n" for a new line.
+
+## Constructor
+
+The constructor of the Delicacy should take the following parameters upon initialization:
+
+	string delicacyName, double price
