@@ -161,3 +161,23 @@ Changes the IsReserved property:
 
 	If its value is True, then sets it to False
 	If its value is False, then sets it to True
+
+### Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"Booth: {boothId}
+	Capacity: {boothCapacity}
+	Turnover: {turnoverAmount - formatted to the second decimal place} lv
+	-Cocktail menu:
+	--{cocktail1.ToString()}
+	--{cocktail2.ToString()}
+	…
+	--{cocktailN.ToString()}
+	-Delicacy menu:
+	--{delicacy1.ToString()}
+	--{delicacy2.ToString()}
+	…
+	--{delicacyN.ToString()}"
+
+Note: Do not use "\r\n" for a new line.
