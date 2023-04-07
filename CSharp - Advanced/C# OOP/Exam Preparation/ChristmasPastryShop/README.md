@@ -23,3 +23,14 @@ For this task’s evaluation logic in the methods isn’t included.
 You are given 4 interfaces, and you must implement their functionality in the correct classes.
 
 There are 3 types of entities and 3 repositories in the application: Booth, Delicacy, Cocktail and a Repository(BoothRepository, DelicacyRepository, CocktailRepository) for each of them:
+
+## Delicacy
+
+Delicacy is a base class for any type of Delicacy, and it should not be able to be instantiated.
+
+## Data
+
+	Name - string
+		If the name is null or whitespace, throw an ArgumentException with a message "Name cannot be null or whitespace!"
+		
+	Price - double 
