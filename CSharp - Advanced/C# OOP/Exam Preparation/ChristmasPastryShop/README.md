@@ -89,3 +89,11 @@ Cocktail is a base class for any type of Cocktail and it should not be able to b
 		If the Size is set to "Large", the Price is set to be equal to the passed value
 		If the Size is set to "Middle", the Price is equal to ⅔ of the passed value (example: ⅔ * 13.50 = 9.00)
 		If the Size is set to "Small", the Price is equal to ⅓ of the passed value (example: ⅓ * 10.50 = 3.50)
+
+### Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"{cocktailName} ({size}) - {cocktailPrice - formatted to the second decimal place} lv"
+
+Note: Do not use "\r\n" for a new line.
