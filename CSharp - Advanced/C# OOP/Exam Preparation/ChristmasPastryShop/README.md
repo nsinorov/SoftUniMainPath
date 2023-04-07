@@ -187,3 +187,7 @@ Note: Do not use "\r\n" for a new line.
 A Booth should take the following values upon initialization:
 
 	int boothId, int capacity
+
+## DelicacyRepository
+
+	The repository holds information about the delicacies.
