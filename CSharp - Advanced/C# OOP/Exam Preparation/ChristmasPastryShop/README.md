@@ -103,3 +103,15 @@ Note: Do not use "\r\n" for a new line.
 A Cocktail should take the following values upon initialization:
 
 	string cocktailName, string size, double price
+
+## Child Classes
+
+There are several concrete types of Cocktail:
+
+### MulledWine
+
+	The MulledWine has constant value for price of Large MulledWine – 13.50
+
+The constructor of the MulledWine should take the following parameters upon initialization:
+
+	string cocktailName, string size
