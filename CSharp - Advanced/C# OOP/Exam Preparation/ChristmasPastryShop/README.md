@@ -191,3 +191,6 @@ A Booth should take the following values upon initialization:
 ## DelicacyRepository
 
 	The repository holds information about the delicacies.
+
+## Data
+	Models – IReadOnlyCollection<IDelicacy>
