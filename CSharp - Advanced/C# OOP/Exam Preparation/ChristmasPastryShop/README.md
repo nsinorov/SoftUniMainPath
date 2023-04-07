@@ -181,3 +181,9 @@ Override the existing method ToString() and modify it, so the returned string mu
 	--{delicacyN.ToString()}"
 
 Note: Do not use "\r\n" for a new line.
+
+## Constructor
+
+A Booth should take the following values upon initialization:
+
+	int boothId, int capacity
