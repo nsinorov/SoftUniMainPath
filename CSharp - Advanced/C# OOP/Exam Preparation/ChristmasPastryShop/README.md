@@ -144,3 +144,9 @@ The constructor of the Hibernation should take the following parameters upon ini
 		If no orders have been made to the specific Booth, return zero.
 		
 	IsReserved - boolean returns true if the Booth is reserved, otherwise returns false. Set its initial value to False.
+
+## Behavior
+
+### void UpdateCurrentBill(double amount)
+
+	When ordering new item, adds the amount(itemPrice) to the CurrentBill.
