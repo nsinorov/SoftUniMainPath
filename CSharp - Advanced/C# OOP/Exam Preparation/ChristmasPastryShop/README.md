@@ -31,6 +31,15 @@ Delicacy is a base class for any type of Delicacy, and it should not be able to 
 ## Data
 
 	Name - string
+	
 		If the name is null or whitespace, throw an ArgumentException with a message "Name cannot be null or whitespace!"
 		
 	Price - double 
+
+## Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"{delicacyName} - {current price - formatted to the second decimal place} lv"
+
+Note: Do not use "\r\n" for a new line.
