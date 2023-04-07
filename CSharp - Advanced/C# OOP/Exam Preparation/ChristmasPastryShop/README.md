@@ -150,3 +150,8 @@ The constructor of the Hibernation should take the following parameters upon ini
 ### void UpdateCurrentBill(double amount)
 
 	When ordering new item, adds the amount(itemPrice) to the CurrentBill.
+
+### void Charge()
+
+	Increases the Turnover with the amount of the CurrentBill and sets the CurrentBill to zero.
+
