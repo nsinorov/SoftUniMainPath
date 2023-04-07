@@ -194,3 +194,9 @@ A Booth should take the following values upon initialization:
 
 ## Data
 	Models – IReadOnlyCollection<IDelicacy>
+
+## Behavior
+
+### void AddModel(IDelicacy delicacy)
+
+	Adds an entity in the collection.
