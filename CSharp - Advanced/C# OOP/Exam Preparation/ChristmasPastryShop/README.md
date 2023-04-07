@@ -49,3 +49,23 @@ Note: Do not use "\r\n" for a new line.
 The constructor of the Delicacy should take the following parameters upon initialization:
 
 	string delicacyName, double price
+
+## Child Classes
+
+There are several concrete types of Delicacy:
+
+### Gingerbread
+
+	The Gingerbread has a constant value for gignerbreadPrice – 4.00
+
+The constructor of the Gingerbread should take the following parameters upon initialization:
+
+	string delicacyName
+
+### Stolen
+
+	The Stolen has a constant value for stolenPrice – 3.50
+
+The constructor of the Stolen should take the following parameters upon initialization:
+
+	string delicacyName
