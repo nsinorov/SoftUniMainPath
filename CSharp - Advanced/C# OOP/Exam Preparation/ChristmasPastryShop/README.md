@@ -73,3 +73,19 @@ The constructor of the Stolen should take the following parameters upon initiali
 ## Cocktail
 
 Cocktail is a base class for any type of Cocktail and it should not be able to be instantiated.
+
+## Data
+
+	Name - string
+		
+		If the name is null or whitespace, throw an ArgumentException with message "Name cannot be null or whitespace!"
+		
+	Size - string
+	
+		Possible values: "Small", "Middle", "Large". this.Size will be validated later in the Controller class.
+		
+	Price - double 
+	
+		If the Size is set to "Large", the Price is set to be equal to the passed value
+		If the Size is set to "Middle", the Price is equal to ⅔ of the passed value (example: ⅔ * 13.50 = 9.00)
+		If the Size is set to "Small", the Price is equal to ⅓ of the passed value (example: ⅓ * 10.50 = 3.50)
