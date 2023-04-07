@@ -15,3 +15,11 @@ The project will consist of model classes and a controller class, which manages 
 	Make sure you have no public fields anywhere.
 	Exception messages and output messages can be found in the "Utilities" folder.
 	For solving this problem use Visual Studio 2019, Visual Studio 2022 and netcoreapp 3.1
+
+# Task 1: Structure (50 points)
+
+For this task’s evaluation logic in the methods isn’t included.
+
+You are given 4 interfaces, and you must implement their functionality in the correct classes.
+
+There are 3 types of entities and 3 repositories in the application: Booth, Delicacy, Cocktail and a Repository(BoothRepository, DelicacyRepository, CocktailRepository) for each of them:
