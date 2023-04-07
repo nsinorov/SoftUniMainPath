@@ -97,3 +97,9 @@ Override the existing method ToString() and modify it, so the returned string mu
 	"{cocktailName} ({size}) - {cocktailPrice - formatted to the second decimal place} lv"
 
 Note: Do not use "\r\n" for a new line.
+
+## Constructor
+
+A Cocktail should take the following values upon initialization:
+
+	string cocktailName, string size, double price
