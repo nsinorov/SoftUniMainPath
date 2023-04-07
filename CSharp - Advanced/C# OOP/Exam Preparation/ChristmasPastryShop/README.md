@@ -115,3 +115,11 @@ There are several concrete types of Cocktail:
 The constructor of the MulledWine should take the following parameters upon initialization:
 
 	string cocktailName, string size
+
+### Hibernation
+
+	The Hibernation has constant value for price of Large Hibernation - 10.50 
+
+The constructor of the Hibernation should take the following parameters upon initialization:
+
+	string cocktailName, string size
