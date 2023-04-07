@@ -123,3 +123,24 @@ The constructor of the MulledWine should take the following parameters upon init
 The constructor of the Hibernation should take the following parameters upon initialization:
 
 	string cocktailName, string size
+
+## Booth
+
+## Data
+
+	BoothId – int the booth number
+	Capacity - int the booth capacity
+	
+		It can’t be less or equal to zero. In these cases, throw an ArgumentException with message: "Capacity has to be greater than 0!"
+ 
+	DelicacyMenu – DelicacyRepository all available to order delicacies
+	
+	CocktailMenu – CocktailRepository all available to order cocktails
+	
+	CurrentBill – double, set initial value to zero and increase the CurrentBill after every successful order (UpdateCurrentBill method)
+	
+	Turnover – double, set initial value to zero the Turnover should be increased, after paying the CurrentBill upon leaving the Booth
+	
+		If no orders have been made to the specific Booth, return zero.
+		
+	IsReserved - boolean returns true if the Booth is reserved, otherwise returns false. Set its initial value to False.
