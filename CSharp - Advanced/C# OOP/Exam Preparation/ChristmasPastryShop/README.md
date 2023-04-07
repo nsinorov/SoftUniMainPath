@@ -155,3 +155,9 @@ The constructor of the Hibernation should take the following parameters upon ini
 
 	Increases the Turnover with the amount of the CurrentBill and sets the CurrentBill to zero.
 
+### void ChangeStatus()
+
+Changes the IsReserved property:
+
+	If its value is True, then sets it to False
+	If its value is False, then sets it to True
