@@ -214,3 +214,17 @@ The repository holds information about the cocktails.
 ### void AddModel(ICocktail cocktail)
 
 	Adds an entity in the collection.
+
+## BoothRepository
+
+The repository holds information about the booths.
+
+## Data
+
+	Models – IReadOnlyCollection<IBooth>
+	
+## Behavior
+
+### void AddModel(IBooth booth)
+
+	Adds an entity in the collection.
