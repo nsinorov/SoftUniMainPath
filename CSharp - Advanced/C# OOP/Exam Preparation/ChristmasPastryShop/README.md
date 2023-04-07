@@ -200,3 +200,17 @@ A Booth should take the following values upon initialization:
 ### void AddModel(IDelicacy delicacy)
 
 	Adds an entity in the collection.
+
+## CocktailRepository
+
+The repository holds information about the cocktails.
+
+## Data
+
+	Models – IReadOnlyCollection<ICocktail>
+	
+## Behavior
+
+### void AddModel(ICocktail cocktail)
+
+	Adds an entity in the collection.
