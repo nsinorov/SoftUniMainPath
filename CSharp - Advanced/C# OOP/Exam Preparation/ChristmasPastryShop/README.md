@@ -69,3 +69,7 @@ The constructor of the Gingerbread should take the following parameters upon ini
 The constructor of the Stolen should take the following parameters upon initialization:
 
 	string delicacyName
+
+## Cocktail
+
+Cocktail is a base class for any type of Cocktail and it should not be able to be instantiated.
