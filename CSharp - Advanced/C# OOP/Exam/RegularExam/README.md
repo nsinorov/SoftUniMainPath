@@ -37,3 +37,9 @@ A Supplement is a base class of any type of supplement and it should not be able
 		
 	BatteryUsage - int
 		The power that the Supplement will consume additionally when installed to a Robot.
+
+## Constructor
+
+A Supplement should take the following values upon initialization: 
+
+	int interfaceStandard, int batteryUsage
