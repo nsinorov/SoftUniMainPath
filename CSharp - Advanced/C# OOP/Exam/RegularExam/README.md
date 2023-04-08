@@ -147,3 +147,29 @@ The IndustrialAssistant will produce a capacity of 5000 mAh of energy for every 
 The Constructor of the IndustrialAssistant should take the following parameters upon initialization:
 
 	string model
+
+##SupplementRepository
+
+The SupplementRepository is an IRepository<ISupplement>. Collection for the supplements that are created in the application.
+	
+## Data
+	
+	A private field would be useful to store the items added.
+	
+## Behavior
+	
+### IReadOnlyCollection<ISupplement> Models()
+	
+	Returns all added items as a readonly collection.
+	
+### void AddNew(ISupplement supplement)
+	
+	Adds a new ISupplement to the SupplementRepository.
+	
+### bool RemoveByName(string typeName)
+	
+	Removes the first ISupplement from the collection, which has the same typeName as the given typeName. Returns true if the removal was successful, otherwise returns false.
+	
+### ISupplement FindByStandard(int interfaceStandard)
+	
+	Returns the first ISupplement supporting the given interface, if there is any. Otherwise, returns null.
