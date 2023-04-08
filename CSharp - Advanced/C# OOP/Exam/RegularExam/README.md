@@ -25,3 +25,15 @@ You are given some interfaces, and you have to implement their functionality in 
 There are 2 types of entities in the application: Supplement and Robot. 
 
 There should also be SupplementRepository and RobotRepository, both implementing the IRepository interface.
+
+## Supplement
+
+A Supplement is a base class of any type of supplement and it should not be able to be instantiated.
+
+## Data
+
+	InterfaceStandard – int
+		The compatibility standard that the Supplement supports.
+		
+	BatteryUsage - int
+		The power that the Supplement will consume additionally when installed to a Robot.
