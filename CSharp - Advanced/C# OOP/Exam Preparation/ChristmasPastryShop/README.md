@@ -435,3 +435,4 @@ Print the output from each command when issued. If an exception is thrown during
 
 Examples:
 
+![image](https://user-images.githubusercontent.com/45227327/230731303-ff071a77-4abb-4129-b694-95af55aae187.png)
