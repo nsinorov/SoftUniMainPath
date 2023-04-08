@@ -59,3 +59,30 @@ Note: The Constructor should take no values upon initialization.
 	A LaserRadar has an InterfaceStandard of 20082 and a BatteryUsage of 5 000 mAh.
 
 Note: The Constructor should take no values upon initialization.
+
+## Robot
+
+A Robot is a base class of any type of robot and it should not be able to be instantiated.
+
+## Data
+
+	Model – string
+	
+	If the Model is null or whitespace, throw a new ArgumentException with the message: 
+	
+		"Model cannot be null or empty."
+		
+	BatteryCapacity - int
+		The maximum charging level of the Robot battery.
+		The BatteryCapacity cannot drop below zero. If it does, throw a new ArgumentException with the message: 
+		
+		"Battery capacity cannot drop below zero."
+
+	BatteryLevel – int
+		The current level of the battery. When creating a new Robot, set its initial value, equal to the BatteryCapacity.
+		
+	ConvertionCapacityIndex - int
+		The ability of the Robot to convert food into energy.
+		
+	InterfaceStandards – IReadOnlyCollection<int>
+		A collection of all the supported connectivity standards by a specific Robot.
