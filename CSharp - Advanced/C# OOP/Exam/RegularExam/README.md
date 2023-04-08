@@ -53,3 +53,9 @@ There are two concrete types of Supplement:
 	A SpecializedArm has an InterfaceStandard of 10045 and a BatteryUsage of 10 000 mAh.
 
 Note: The Constructor should take no values upon initialization.
+
+### LaserRadar
+
+	A LaserRadar has an InterfaceStandard of 20082 and a BatteryUsage of 5 000 mAh.
+
+Note: The Constructor should take no values upon initialization.
