@@ -129,3 +129,21 @@ A Robot should take the following values upon initialization:
 ## Child Classes
 
 There are several concrete types of Robot:
+
+### DomesticAssistant
+
+Has BatteryCapacity of 20 000 mAh.
+The DomesticAssistant will produce a capacity of 2000 mAh of energy for every minute of eating - (convertionCapacityIndex = 2 000).
+
+The Constructor of the DomesticAssistant should take the following parameters upon initialization:
+
+	string model 
+
+### IndustrialAssistant	
+
+Has BatteryCapacity of 40 000 mAh.
+The IndustrialAssistant will produce a capacity of 5000 mAh of energy for every minute of eating - (convertionCapacityIndex = 5 000).
+
+The Constructor of the IndustrialAssistant should take the following parameters upon initialization:
+
+	string model
