@@ -119,3 +119,13 @@ Override the existing method ToString() and modify it, so the returned string mu
 	--Supplements installed: {standard1} {standard2}…/none"
 
 Note: For best clarity see the output examples!
+
+## Constructor
+
+A Robot should take the following values upon initialization: 
+
+	string model, int batteryCapacity, int conversionCapacityIndex
+
+## Child Classes
+
+There are several concrete types of Robot:
