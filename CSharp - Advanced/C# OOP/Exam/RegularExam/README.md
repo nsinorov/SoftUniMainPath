@@ -15,3 +15,13 @@ You are working on a robot service and you need to create a RobotService project
 	Make sure you have no public fields anywhere.
 	Exception messages and output messages can be found in the "Utilities" folder.
 	For solving this problem use Visual Studio 2019, Visual Studio 2022 and netcoreapp 3.1, netcoreapp 6.0
+
+# Task 1: Structure (50 points)
+
+For this task’s evaluation logic in the methods isn’t included.
+
+You are given some interfaces, and you have to implement their functionality in the correct classes.
+
+There are 2 types of entities in the application: Supplement and Robot. 
+
+There should also be SupplementRepository and RobotRepository, both implementing the IRepository interface.
