@@ -432,3 +432,6 @@ Below, you can see the format in which each command will be given in the input:
 ## Output
 
 Print the output from each command when issued. If an exception is thrown during any of the commands' execution, print the exception message.
+
+Examples:
+
