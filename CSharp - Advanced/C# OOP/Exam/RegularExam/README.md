@@ -101,3 +101,10 @@ The Robot will be in fluidization mode, so it will convert the food into electri
 	The InstallSupplemet() method takes the given supplement’s InterfaceStandard and adds it to the list of InterfaceStandards of the Robot.
 	Decreases the BatteryCapacity of the robot by the BatteryUsage of the supplement. 
 	Decreases the BatteryLevel of the robot by the BatteryUsage of the supplement.
+
+### bool ExecuteService(int consumedEnergy)	
+
+The ExecuteService() method decreases the Robot’s BatteryLevel, with the given amount of consumed energy. 
+
+	If the BatteryLevel is equal or greater than the given consumedEnergy, decrease the BatteryLevel with the given amount of consumedEnergy and return True.
+	If the BatteryLevel is less than the given consumedEnergy, it means that it is NOT enough. Skip the execution and return False.
