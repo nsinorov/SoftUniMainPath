@@ -95,3 +95,9 @@ The Robot will be in fluidization mode, so it will convert the food into electri
 
 	The Eating() method increases the Robot’s BatteryLevel, with the produced energy. 
 	If the battery is fully charged (BatteryLevel = BatteryCapacity), the eating stops earlier. 
+
+### void InstallSupplement(ISupplement supplement)
+
+	The InstallSupplemet() method takes the given supplement’s InterfaceStandard and adds it to the list of InterfaceStandards of the Robot.
+	Decreases the BatteryCapacity of the robot by the BatteryUsage of the supplement. 
+	Decreases the BatteryLevel of the robot by the BatteryUsage of the supplement.
