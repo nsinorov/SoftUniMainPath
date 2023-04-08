@@ -43,3 +43,13 @@ A Supplement is a base class of any type of supplement and it should not be able
 A Supplement should take the following values upon initialization: 
 
 	int interfaceStandard, int batteryUsage
+
+## Child Classes
+
+There are two concrete types of Supplement:
+
+###SpecializedArm
+
+	A SpecializedArm has an InterfaceStandard of 10045 and a BatteryUsage of 10 000 mAh.
+
+Note: The Constructor should take no values upon initialization.
