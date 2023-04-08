@@ -86,3 +86,12 @@ A Robot is a base class of any type of robot and it should not be able to be ins
 		
 	InterfaceStandards – IReadOnlyCollection<int>
 		A collection of all the supported connectivity standards by a specific Robot.
+
+## Behavior
+
+### void Eating(int minutes)
+
+The Robot will be in fluidization mode, so it will convert the food into electrical energy. For every minute of eating, it will produce energy equal to the ConvertionCapacityIndex multiplied by the given minutes. 
+
+	The Eating() method increases the Robot’s BatteryLevel, with the produced energy. 
+	If the battery is fully charged (BatteryLevel = BatteryCapacity), the eating stops earlier. 
