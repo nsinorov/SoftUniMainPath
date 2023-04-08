@@ -108,3 +108,14 @@ The ExecuteService() method decreases the Robot’s BatteryLevel, with the given
 
 	If the BatteryLevel is equal or greater than the given consumedEnergy, decrease the BatteryLevel with the given amount of consumedEnergy and return True.
 	If the BatteryLevel is less than the given consumedEnergy, it means that it is NOT enough. Skip the execution and return False.
+
+## Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"{robotTypeName} {Model}: 
+	--Maximum battery capacity: {BatteryCapacity}
+	--Current battery level: {BatteryLevel} 
+	--Supplements installed: {standard1} {standard2}…/none"
+
+Note: For best clarity see the output examples!
