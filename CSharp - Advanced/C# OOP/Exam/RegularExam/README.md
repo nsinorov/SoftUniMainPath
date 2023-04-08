@@ -173,3 +173,29 @@ The SupplementRepository is an IRepository<ISupplement>. Collection for the supp
 ### ISupplement FindByStandard(int interfaceStandard)
 	
 	Returns the first ISupplement supporting the given interface, if there is any. Otherwise, returns null.
+
+## RobotRepository
+	
+The RobotRepository is an IRepository<IRobot>. Collection for the robots that are created in the application.
+	
+## Data
+	
+	A private field would be useful to store the items added.
+	
+## Behavior
+	
+###IReadOnlyCollection<IRobot> Models()
+	
+	Returns all added items as a readonly collection.
+	
+### void AddNew(IRobot robot)
+	
+	Adds a new IRobot to the RobotRepository.
+	
+### bool RemoveByName(string robotModel)
+	
+	Removes the first IRobot from the collection, which Model is the same as the given robotModel. Returns true if the deletion was successful, otherwise returns false.
+	
+### IRobot FindByStandard(int interfaceStandard)
+	
+	Returns the first IRobot supporting the given interface, if there is any. Otherwise, returns null.
