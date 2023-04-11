@@ -150,7 +150,7 @@ The Constructor of the IndustrialAssistant should take the following parameters 
 
 	string model
 
-##SupplementRepository
+## SupplementRepository
 
 The SupplementRepository is an IRepository<ISupplement>. Collection for the supplements that are created in the application.
 	
@@ -186,7 +186,7 @@ The RobotRepository is an IRepository<IRobot>. Collection for the robots that ar
 	
 ## Behavior
 	
-###IReadOnlyCollection<IRobot> Models()
+### IReadOnlyCollection<IRobot> Models()
 	
 	Returns all added items as a readonly collection.
 	
