@@ -60,7 +60,7 @@ Note: The Constructor should take no values upon initialization.
 
 	A LaserRadar has an InterfaceStandard of 20082 and a BatteryUsage of 5 000 mAh.
 
-Note: The Constructor should take no values upon initialization.
+**Note: The Constructor should take no values upon initialization.**
 
 ## Robot
 
