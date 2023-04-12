@@ -202,7 +202,10 @@ The RobotRepository is an IRepository<IRobot>. Collection for the robots that ar
 	
 	Returns the first IRobot supporting the given interface, if there is any. Otherwise, returns null.
 
-Task 2: Business Logic (150 points)
-The Controller Class
+# Task 2: Business Logic (150 points)
+	
+## The Controller Class
+	
 The business logic of the program should be concentrated around several commands, which you have to implement in the correct class.
+	
 The interface is IController. You must create a Controller class, which implements the interface and implements all of its methods. The constructor of the Controller does not take any arguments. The given methods should have the logic described for each in the Commands section. When you create the Controller class, go into the Engine class constructor and uncomment the "this.controller = new Controller();" line.
