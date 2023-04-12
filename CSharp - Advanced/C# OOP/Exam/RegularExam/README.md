@@ -343,3 +343,23 @@ Returns information about each robot from the RobotRepository. Arrange the robot
 ## End Command
 						 
 Ends the program.
+
+## Input / Output
+						 
+You are provided with one interface, which will help you with the correct execution process of your program. The interface is Engine and the class implementing this interface should read the input and when the program finishes, this class should print the output.
+						 
+## Input
+						 
+Below, you can see the format in which each command will be given in the input:
+						 
+	CreateRobot {model} {typeName}
+	CreateSupplement {typeName}
+	UpgardeRobot {model} {supplementTypeName}
+	PerformService {serviceName} {interfaceStandard} {totalPowerNeeded}
+	RobotRecovery {model} {minutes}
+	Report
+	End
+						 
+## Output	
+						 
+Print the output from each command when issued. If an exception is thrown during any of the commands' execution, print the exception message.
