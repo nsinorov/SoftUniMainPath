@@ -220,3 +220,18 @@ You will need some private fields in your controller class:
 ## Commands
 	
 There are several commands, which control the business logic of the application. They are stated below.
+
+## CreateRobot Command
+	
+### Parameters
+	
+	model - string
+	typeName - string
+	
+### Functionality
+	
+The method should create and add a new IRobot to the RobotRepository.
+	
+	If the given typeName is NOT presented as a valid Robot’s child class (DomesticAssistant or IndustrialAssistant), return the following message: "Robot type {typeName} cannot be created."
+	
+	If the above case is NOT reached, create an IRobot from the valid child type and add it to the RobotRepository. Return the following message: "{typeName} {model} is created and added to the RobotRepository."
