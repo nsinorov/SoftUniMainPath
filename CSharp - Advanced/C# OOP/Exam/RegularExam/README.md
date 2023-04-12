@@ -275,3 +275,27 @@ This method will upgrade a robot with a new supplement. There will always be at 
 	
 		Remove the ISupplement from the SupplementRepository.
 		Return the following message: "{model} is upgraded with {supplementTypeName}."
+
+## PerformService Command
+	
+## Parameters
+	
+	serviceName – string
+	interfaceStandard - int
+	totalPowerNeeded - int
+	
+## Functionality
+	
+To perform a specific service, you will need only robots supporting the given interfaceStandard. You will have to check the InterfaceStandarts property of every single robot from the RobotRepository and take those which meet that requirement. 
+
+1.	Select the robots, supporting the given interfaceStandard from the RobotRepository (check if every robot’s InterfaceStandards collection contains the given interfaceStandard)
+	
+2.	If NONE of the robots in the RobotRepository supports the given interfaceStandard, return the following message: "Unable to perform service, {intefaceStandard} not supported!"
+	
+3.	Order the selected robots by BatteryLevel descending.
+	
+4.	Find the sum of the BatteryLevel of the selected robots.
+ 
+5.	If the sum of the BatteryLevel of the selected robots, is less than the totalPowerNeeded, 
+	
+		Return the following message: 
