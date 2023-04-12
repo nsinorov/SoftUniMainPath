@@ -235,3 +235,17 @@ The method should create and add a new IRobot to the RobotRepository.
 	If the given typeName is NOT presented as a valid Robot’s child class (DomesticAssistant or IndustrialAssistant), return the following message: "Robot type {typeName} cannot be created."
 	
 	If the above case is NOT reached, create an IRobot from the valid child type and add it to the RobotRepository. Return the following message: "{typeName} {model} is created and added to the RobotRepository."
+
+## CreateSupplement Command
+	
+### Parameters
+	
+	typeName - string
+	
+### Functionality
+	
+The method should create and add a new ISupplement to the SupplementRepository.
+	
+	If the given typeName  is NOT presented as a valid Supplement’s child class (SpecializedArm or LaserRadar), return the following message: "{typeName} is not compatible with our robots."
+	
+	If the above case is NOT reached, create a new ISupplement and add it to the SupplementRepository. Return the following message: "{typeName} is created and added to the SupplementRepository."
