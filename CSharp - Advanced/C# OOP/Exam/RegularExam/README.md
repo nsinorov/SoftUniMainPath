@@ -299,3 +299,17 @@ To perform a specific service, you will need only robots supporting the given in
 5.	If the sum of the BatteryLevel of the selected robots, is less than the totalPowerNeeded, 
 	
 		Return the following message: 
+		"{serviceName} cannot be executed! {totalPowerNeeded - availablePower} more power needed."
+	
+6.	Else if the totalPowerNeeded, is greater or equal to the BatteryLevel sum, each of the selected robots will work on the service until the service is performed successfully (totalPowerNeeded == 0):
+	
+	Create a counter to calculate how many robots will take part in the service.
+	If robot.BatteryLevel >= totalPowerNeeded
+	Extract energy from the battery, equal to the totalPowerNeeded (HINT: robot.ExecuteService(totalPowerNeeded) )
+	Increase the counter by 1 and stop executing the service.
+	If robot.BatteryLevel < totalPowerNeeded:
+	Decrease the totalPowerNeeded with the value of robot.BatteryLevel
+	Extract all the energy from the battery (HINT: robot.ExecuteService(robot.BatteryLevel) )
+	Increase the counter by 1 and proceed with the next robot.
+						 
+7.	When the service is performed successfully, return the following message: "{serviceName} is performed successfully with {usedRobotsCount} robots."
