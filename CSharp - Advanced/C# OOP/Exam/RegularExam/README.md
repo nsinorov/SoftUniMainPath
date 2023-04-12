@@ -328,3 +328,18 @@ Remember that when feeding a robot, it will be in fluidization mode and it will 
 						 
 Return a string with information about how many robots were successfully fed, in the following format:
 	"Robots fed: {fedCount}"
+
+## Report Command
+						 
+### Functionality
+						 
+Returns information about each robot from the RobotRepository. Arrange the robots by BatteryLevel, descending, then by BatteryCapacity, ascending. In order to receive correct output, use the ToString() method of each robot:
+						 
+	"{robot1} 
+	{robot2}
+	...
+	{robotn}"
+						 
+## End Command
+						 
+Ends the program.
