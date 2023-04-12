@@ -249,3 +249,29 @@ The method should create and add a new ISupplement to the SupplementRepository.
 	If the given typeName  is NOT presented as a valid Supplement’s child class (SpecializedArm or LaserRadar), return the following message: "{typeName} is not compatible with our robots."
 	
 	If the above case is NOT reached, create a new ISupplement and add it to the SupplementRepository. Return the following message: "{typeName} is created and added to the SupplementRepository."
+
+## UpgradeRobot Command
+	
+### Parameters
+	
+	model - string
+	supplementTypeName - string
+	
+### Functionality
+	
+This method will upgrade a robot with a new supplement. There will always be at least one supplement from the correct type already added to the SupplementRepository. There will always be at least one robot from the given model already added to the RobotRepository:
+	
+1.	Find the first ISupplement with the given supplementTypeName in the SupplementRepository and take its interface value.
+	
+2.	From the RobotRepository, take only the robots, NOT supporting the interface value (check if every robot’s InterfaceStandards collection NOT containing the interface value).
+	
+3.	Select only the robots, from the given model (check if every robot’s Model is equal to the given model).
+	
+4.	If the collection is empty, that means all of the robots in the RobotRepository from the given model, are already upgraded with a Supplement from the given supplementTypeName,
+	
+		 return the following message: "All {model} are already upgraded!"
+	
+5.	If there are still not upgraded robots, take the first IRobot from the previous selected robots and use the built-in InstallSupplement() method to upgrade the robot with the new supplement.
+	
+		Remove the ISupplement from the SupplementRepository.
+		Return the following message: "{model} is upgraded with {supplementTypeName}."
