@@ -313,3 +313,18 @@ To perform a specific service, you will need only robots supporting the given in
 	Increase the counter by 1 and proceed with the next robot.
 						 
 7.	When the service is performed successfully, return the following message: "{serviceName} is performed successfully with {usedRobotsCount} robots."
+
+## RobotRecovery Command
+### Parameters
+						 
+	model – string
+	minutes - int
+						 
+### Functionality
+						 
+Feed all robots in the RobotRepository from the given model for the given count of minutes. Choose only those robots that have BatteryLevel under 50% from the total BatteryCapacity.
+						 
+Remember that when feeding a robot, it will be in fluidization mode and it will convert food into energy. That means that after feeding, the robot’s BatteryLevel should be increased. Use the built-in Eating() method of each robot.
+						 
+Return a string with information about how many robots were successfully fed, in the following format:
+	"Robots fed: {fedCount}"
