@@ -367,3 +367,4 @@ Print the output from each command when issued. If an exception is thrown during
 ## Examples:
 		
 ![image](https://user-images.githubusercontent.com/45227327/231553527-68816245-4f4c-4448-8d4e-22e32bf32548.png)
+![image](https://user-images.githubusercontent.com/45227327/231553628-4bdd164b-4559-414a-a9fc-1c4897113f17.png)
