@@ -50,7 +50,7 @@ A Supplement should take the following values upon initialization:
 
 There are two concrete types of Supplement:
 
-###SpecializedArm
+### SpecializedArm
 
 	A SpecializedArm has an InterfaceStandard of 10045 and a BatteryUsage of 10 000 mAh.
 
