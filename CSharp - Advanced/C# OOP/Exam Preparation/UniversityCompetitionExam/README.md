@@ -319,7 +319,9 @@ If none of the above cases is reached, set the University property of the Studen
 		University vacancy: {capacityLeft}"
 
 Note: studentsCount => the count of all students admitted in the given university
+
 Note: capacityLeft => the university capacity – the count of all admitted students in the university
+
 Note: Do not use "\r\n" for a new line.
 
 ## Input
