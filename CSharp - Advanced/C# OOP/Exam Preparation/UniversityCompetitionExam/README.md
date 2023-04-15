@@ -1,4 +1,4 @@
-### Overview
+# Overview
 
 The end of the last year in high school is approaching and the students will have to choose wisely their way to the future.
 
@@ -6,7 +6,7 @@ Everyone will try to enter the best universities. You will be in the department,
 
 This system must have support for Subject, Student and University. The project will consist of model classes and a controller class, which manages the interaction between the subjects, students and universities.
 
-### Setup
+# Setup
 
 	Upload only the UniversityCompetition project in every task except Unit Tests.
 	Do not modify the interfaces or their packages.
