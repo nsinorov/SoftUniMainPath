@@ -324,7 +324,7 @@ Note: capacityLeft => the university capacity – the count of all admitted stud
 
 Note: Do not use "\r\n" for a new line.
 
-## Input
+## Input:
 
 Below, you can see the format in which each command will be given in the input:
 
