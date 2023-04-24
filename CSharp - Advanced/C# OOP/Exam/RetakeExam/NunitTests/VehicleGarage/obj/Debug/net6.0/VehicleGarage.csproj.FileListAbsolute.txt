@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\bin\Debug\net6.0\VehicleGarage.exe
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\bin\Debug\net6.0\VehicleGarage.deps.json
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\bin\Debug\net6.0\VehicleGarage.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\bin\Debug\net6.0\VehicleGarage.dll
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\bin\Debug\net6.0\VehicleGarage.pdb
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.dll
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\refint\VehicleGarage.dll
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.pdb
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\VehicleGarage.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\NunitTests\VehicleGarage\obj\Debug\net6.0\ref\VehicleGarage.dll
