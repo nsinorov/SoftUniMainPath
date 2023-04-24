@@ -41,5 +41,5 @@
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/courses/c-sharp-oop" > C# OPP </a>        | <a> In progress </a> | 
+| <a href="https://softuni.bg/courses/c-sharp-oop" > C# OPP </a>        | <a href="https://softuni.bg/certificates/details/168772/55dbcd02"> Click here</a> | 
   
