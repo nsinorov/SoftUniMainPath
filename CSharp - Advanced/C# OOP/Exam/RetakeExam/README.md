@@ -170,3 +170,23 @@ The constructor of the CargoVan should take the following parameters upon initia
 A Route should take the following values upon initialization:
 
 	string startPoint, string endPoint, double length, int routeId
+
+## UserRepository
+
+The UserRepository is an IRepository<IUser>. Collection for the users that are created in the application.
+	
+## Behavior
+	
+### void AddModel(IUser user)
+	
+	Adds a new IUser to the collection.
+	
+	bool RemoveById(string identifier)
+		Removes the first IUser from the collection, which has the same DrivingLicenseNumber as the given identifier. Returns true if the removal was successful, otherwise returns false.
+	
+	IUser FindById(string identifier)
+		Returns the first IUser from the collection, which has the same DrivingLicenseNumber as the given identifier, or returns null.
+	
+	IReadOnlyCollection<IUser> GetAll()
+	
+		Returns all added models as a readonly collection.
