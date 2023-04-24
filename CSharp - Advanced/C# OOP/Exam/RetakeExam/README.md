@@ -181,12 +181,57 @@ The UserRepository is an IRepository<IUser>. Collection for the users that are c
 	
 	Adds a new IUser to the collection.
 	
-	bool RemoveById(string identifier)
+### bool RemoveById(string identifier)
+	
 		Removes the first IUser from the collection, which has the same DrivingLicenseNumber as the given identifier. Returns true if the removal was successful, otherwise returns false.
 	
-	IUser FindById(string identifier)
+### IUser FindById(string identifier)
 		Returns the first IUser from the collection, which has the same DrivingLicenseNumber as the given identifier, or returns null.
 	
-	IReadOnlyCollection<IUser> GetAll()
+### IReadOnlyCollection<IUser> GetAll()
 	
 		Returns all added models as a readonly collection.
+
+## VehicleRepository
+	
+The VehicleRepository is an IRepository<IVehicle>. Collection for the vehicles that are created in the application.
+	
+## Behavior
+	
+### void AddModel(IVehicle vehicle)
+	
+	Adds a new IVehicle to the collection.
+	
+### bool RemoveById(string identifier)
+	
+	Removes the first IVehicle from the collection, which has the same LicensePlateNumber as the given identifier. Returns true if the removal was successful, otherwise returns false.
+	
+### IVehicle FindById(string identifier)
+	
+	Returns the first IVehicle from the collection, which has the same LicensePlateNumber as the given identifier, or returns null.
+	
+### IReadOnlyCollection<IVehicle> GetAll()
+	
+	Returns all added models as a readonly collection.
+	
+## RouteRepository
+	
+The RouteRepository is an IRepository<IRoute>. Collection for the routes that are created in the application.
+	
+## Behavior
+	
+### void AddModel(IRoute route)
+	
+	Adds a new IRoute to the collection.
+	
+### bool RemoveById(string identifier)
+	
+	Removes the first IRoute from the collection, which has the same RouteId as the given identifier (int.Parse()). Returns true if the removal was successful, otherwise returns false.
+	
+### IRoute FindById(string identifier)
+	
+	Returns the first Route from the collection, which has the same RouteId as the given identifier (int.Parse()), or returns null.
+	
+### IReadOnlyCollection<IRoute> GetAll()
+	
+	Returns all added models as a readonly collection.
