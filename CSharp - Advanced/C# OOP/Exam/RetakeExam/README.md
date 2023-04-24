@@ -41,3 +41,28 @@ There should be 3 types of entities and 3 repositories in the application: User,
 		
 	IsBlocked – bool
 		Set IsBloked’s initial value to false.
+
+## Behavior
+
+### void IncreaseRating()
+
+Еvery time a User rents a Vehicle and completes the trip without any accidents, his Rating will increase by 0.5:
+
+	If the Rating’s value exeeds 10.0, set the value to 10.0.
+
+### void DecreaseRating()
+
+	Еvery time a User rents a Vehicle and completes the trip with an accident, his Rating will decrease by 2.0:
+
+	If the Rating’s value drops below 0.0, set the Rating’s value to 0.0 and IsBlocked’s value to true.
+
+### Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"{FirstName} {LastName} Driving license: {drivingLicenseNumber} Rating: {rating}"
+	
+### Constructor
+
+	A User should take the following values upon initialization:
+	string firstName, string lastName, string drivingLicenceNumber
