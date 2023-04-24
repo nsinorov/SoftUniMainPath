@@ -255,3 +255,15 @@ You need to keep track of some things, this is why you need some private fields 
 	routes – RouteRepository
 
 NOTE: For best evaluation, keep the private collections’ names as shown.
+
+## Commands
+	
+There are several commands, which control the business logic of the application. They are stated below.
+	
+## RegisterUser Command
+	
+### Parameters
+
+	firstName – string
+	lastName – string
+	drivingLicenseNumber - string
