@@ -235,3 +235,13 @@ The RouteRepository is an IRepository<IRoute>. Collection for the routes that ar
 ### IReadOnlyCollection<IRoute> GetAll()
 	
 	Returns all added models as a readonly collection.
+
+	
+
+# Task 2: Business Logic (150 points)
+	
+The Controller Class
+	
+The business logic of the program should be concentrated around several commands. You that you musts, which you have to implement in the correct classes.
+	
+The first interface is IController. You must create a Controller class, which implements the interface and implements all of its methods. The constructor of Controller does not take any arguments. The given methods should have the logic described for each in the Commands section. When you create the Controller class, go into the Engine class constructor and uncomment the "this.controller = new Controller();" line.
