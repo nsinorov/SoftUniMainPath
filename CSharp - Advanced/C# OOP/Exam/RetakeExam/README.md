@@ -66,3 +66,26 @@ Override the existing method ToString() and modify it, so the returned string mu
 
 	A User should take the following values upon initialization:
 	string firstName, string lastName, string drivingLicenceNumber
+
+## Vehicle
+
+Vehicle is a base class for any type of Vehicle, and it should not be able to be instantiated.
+
+## Data
+
+	Brand – string
+		If the Brand is null or whitespace, throw an ArgumentException with the message "Brand cannot be null or whitespace!"
+		
+	Model - string
+		If the Model is null or whitespace, throw an ArgumentException with the message "Model cannot be null or whitespace!"
+	
+	MaxMilеage - double
+	
+	LicensePlateNumber – string
+	If the LicensePlateNumber is null or whitespace, throw an ArgumentException with the message "License plate number is required!"
+	
+	BatteryLevel – int
+		Set BatteryLevel’s initial value to 100. This would be 100%. The value of the BatteryLevel will be changed every time a User drives a Vehicle or the Vehicle is being recharged. Remember to keep the setter private.
+		
+	IsDamaged – bool
+		Set IsDamaged’s initial value to false.
