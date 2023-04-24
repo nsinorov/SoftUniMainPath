@@ -21,3 +21,23 @@ For this task’s evaluation logic in the methods isn’t included.
 You are given 4 interfaces (IUser, IVehicle, IRoute and IRepository) and you must implement their functionality in the correct classes.
 
 There should be 3 types of entities and 3 repositories in the application: User, Vehicle, Route and Repository (UserRepository, VehicleRepository and RouteRepository) for each of them:
+
+## User
+
+## Data
+
+	FirstName – string
+		If the FirstName is null or whitespace, throw an ArgumentException with the message "FirstName cannot be null or whitespace!" 
+		
+	LastName - string
+		If the LastName is null or whitespace, throw an ArgumentException with the message 
+		"LastName cannot be null or whitespace!" 
+		
+	DrivingLicenseNumber – string
+		If the DrivingLicenseNumber is null or whitespace, throw an ArgumentException with the message "Driving license number is required!"
+		
+	Rating – double
+		Set Rating’s initial value to zero. The value of the Rating will be changed every time a User drives a Vehicle. Remember to keep the setter private.
+		
+	IsBlocked – bool
+		Set IsBloked’s initial value to false.
