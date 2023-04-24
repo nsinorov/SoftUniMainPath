@@ -291,3 +291,27 @@ The method should create and add a new entity of IVehicle to the VehicleReposito
 	If the given vehicleTypeName  is NOT presented as a valid Vehicle’s child class (PassengerCar or CargoVan), return the following message: "{typeName} is not accessible in our platform."
 	If there is already a vehicle with the same licensePlateNumber, return the following message: "{licensePlateNumber} belongs to another vehicle."
 	If none of the above cases is reached, create a correct type of IVehicle and add it to the VehicleRepository. Return the following message: "{brand} {model} is uploaded successfully with LPN-{licensePlaneNumber}"
+
+
+## AllowRoute Command
+	
+### Parameters
+	
+	startPoint – string
+	endPoint – string
+	length - double
+	
+## Functionality
+	
+The method should create and add a new entity of IRoute to the RouteRepository.
+	
+HINT: Route’s constructor will be expecting as the last parameter routeId.So it should be created by taking the count of already added routes in the RouteRepository + 1
+
+	If there is already added Route with the given startPoint, endPoint and length, return the following message: "{startPoint}/{endPoint} - {length} km is already added in our platform."
+	
+	If there is already added Route with the given startPoint, endPoint and Route.Length is less than the given length return the following message: "{startPoint}/{endPoint} shorter route is already added in our platform."
+	
+	If the above case is not reached, create a new Route and add it to the RouteRepository. 
+	
+		If there is already added Route with the given startPoint, endPoint and greater Length, lock the longer Route. 
+		Return the following message: "{startPoint}/{endPoint} - {length} km is unlocked in our platform." 
