@@ -89,3 +89,34 @@ Vehicle is a base class for any type of Vehicle, and it should not be able to be
 		
 	IsDamaged – bool
 		Set IsDamaged’s initial value to false.
+
+## Behavior
+
+### void Drive(double mileage)
+
+	The Drive() method should reduce the BatteryLevel by a certain percentage. It should be calculated what part of the MaxMileage will be passed (for example: if the given mileage is 90 kilometers and the Vehicle’s MaxMileage is 180 kilometers, then you should reduce BatteryLevel by 50%). Also when driving CargoVan you should reduce additional 5%, because of the load.  The percentage should be rounded to the closest integer number. 
+
+	Note: The Vehicle will always have enough battery to finish the trip.
+	
+### void Recharge()
+
+	This method restores the value of the property BatteryLevel to 100%.
+	
+### void ChangeStatus()
+
+This method sets value of the property IsDamaged. 
+
+	If the value is false, set it to true
+	Else set it to false.
+	
+### Override ToString() method:
+
+Override the existing method ToString() and modify it, so the returned string must be in the following format:
+
+	"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: OK/damaged"
+
+### Constructor
+
+A Vehicle should take the following values upon initialization:
+
+	string brand, string model, double maxMileage, string licensePlateNumber
