@@ -283,3 +283,11 @@ The method should create and add a new entity of IUser to the UserRepository.
 	brand – string
 	model –  int
 	licensePlateNumber – string
+
+## Functionality
+	
+The method should create and add a new entity of IVehicle to the VehicleRepository.
+	
+	If the given vehicleTypeName  is NOT presented as a valid Vehicle’s child class (PassengerCar or CargoVan), return the following message: "{typeName} is not accessible in our platform."
+	If there is already a vehicle with the same licensePlateNumber, return the following message: "{licensePlateNumber} belongs to another vehicle."
+	If none of the above cases is reached, create a correct type of IVehicle and add it to the VehicleRepository. Return the following message: "{brand} {model} is uploaded successfully with LPN-{licensePlaneNumber}"
