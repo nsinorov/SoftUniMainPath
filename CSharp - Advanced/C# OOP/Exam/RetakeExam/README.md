@@ -120,3 +120,23 @@ Override the existing method ToString() and modify it, so the returned string mu
 A Vehicle should take the following values upon initialization:
 
 	string brand, string model, double maxMileage, string licensePlateNumber
+
+## Child Classes
+
+There are two concrete types of Vehicle:
+
+### PassengerCar
+
+	PassengerCar has a constant value for MaxMileage = 450
+
+The constructor of the PassengerCar should take the following parameters upon initialization:
+
+	string brand, string model, string licensePlateNumber
+
+### CargoVan
+
+	CargoVan has a constant value for MaxMileage = 180
+
+The constructor of the CargoVan should take the following parameters upon initialization:
+
+	string brand, string model, string licensePlateNumber
