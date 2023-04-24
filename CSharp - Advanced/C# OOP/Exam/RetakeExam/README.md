@@ -274,3 +274,12 @@ The method should create and add a new entity of IUser to the UserRepository.
 	
 	If there is already a user with the same drivingLicenseNumber, return the following message: "{drivingLicenseNumber} is already registered in our platform."
 	If the above case is NOT reached, create a new User and add it to the UserRepository. Return the following message: "{firstName} {lastName} is registered successfully with DLN-{drivingLicenseNumber}"
+
+## UploadVehicle Command
+	
+### Parameters
+	
+	vehicleTypeName – string
+	brand – string
+	model –  int
+	licensePlateNumber – string
