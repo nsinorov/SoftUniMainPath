@@ -140,3 +140,21 @@ The constructor of the PassengerCar should take the following parameters upon in
 The constructor of the CargoVan should take the following parameters upon initialization:
 
 	string brand, string model, string licensePlateNumber
+
+## Route
+
+## Data
+
+	StartPoint – string
+		If the StartPoint is null or whitespace, throw an ArgumentException with the message "StartPoint cannot be null or whitespace!"
+		
+	EndPoint - string
+		If the EndPoint is null or whitespace, throw an ArgumentException with the message "Endpoint cannot be null or whitespace!"
+	
+	Lenght – double
+		If the value is less than 1, throw an ArgumentException with the message "Length cannot be less than 1 kilometer.".
+	
+	RouteId – int
+	
+	IsLocked – bool
+		Set IsLocked’s initial value to false.
