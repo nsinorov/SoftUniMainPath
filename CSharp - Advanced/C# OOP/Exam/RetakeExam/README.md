@@ -158,3 +158,15 @@ The constructor of the CargoVan should take the following parameters upon initia
 	
 	IsLocked – bool
 		Set IsLocked’s initial value to false.
+
+## Behavior
+
+### void LockRoute()
+
+	This method sets the value of the property IsLocked to true.
+
+## Constructor
+
+A Route should take the following values upon initialization:
+
+	string startPoint, string endPoint, double length, int routeId
