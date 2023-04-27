@@ -1,4 +1,5 @@
-function greetingByName(input){
+function greetingByName(input)
+{
 
     let name = input[0];
 
