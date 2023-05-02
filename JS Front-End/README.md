@@ -6,4 +6,4 @@ Skills are acquired for properly structuring the Front-End part of web applicati
 
 Your algorithmic thinking will develop. It will be possible to work with the DOM tree, make manipulations on it and work with "events". Functional and OOP approaches to JavaScript programming will be covered. HTTP and REST data transfer concepts will be studied.
 
-## The module "JS Front-End" has two courses inside, which are C# Advanced and C# OOP.
+## The module "JS Front-End" has two courses inside, which are HTMS & CSS and JS Front-End.
