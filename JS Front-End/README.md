@@ -7,3 +7,5 @@ Skills are acquired for properly structuring the Front-End part of web applicati
 Your algorithmic thinking will develop. It will be possible to work with the DOM tree, make manipulations on it and work with "events". Functional and OOP approaches to JavaScript programming will be covered. HTTP and REST data transfer concepts will be studied.
 
 ## The module "JS Front-End" has two courses inside, which are HTMS & CSS and JS Front-End.
+
+1. The purpose of the "HTML & CSS" course is to provide basic knowledge of web technologies and, more specifically, familiarity with HTML5 and CSS3. Basic knowledge of web development, web browsers, HTML/CSS/DOM development tools is acquired and practical skills are developed using the Web Content Description Language (HTML) and the Web Content Styling Language (CSS).
