@@ -13,3 +13,7 @@ Create file: wiki-page.html. Use the texts from the file site-texts.txt.
      Text: use paragraph
      List: use ordered list and unordered list
      Image: bear.jpg
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/09c2e038-029e-40a7-b410-4178fbb8bdf6)
