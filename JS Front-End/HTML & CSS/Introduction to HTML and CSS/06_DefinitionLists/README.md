@@ -8,3 +8,6 @@ Create a file named definition-lists.html. Use the texts from the file site-text
 
      <h2> tag for heading
      <dl> + <dt> + <dd> tags for definition list
+
+### Example:
+
