@@ -1,7 +1,9 @@
 # <p align="center"> Courses from the main C# - CSharp (.NET) path + Front-End  <p>
 
-![SoftUni-Logo-Flat](https://user-images.githubusercontent.com/45227327/221373978-613fa545-1f25-4bfc-9345-b814363bac25.png)
-
+<p align="centre">
+  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
+</p> 
+  
 </br>
 
 <h1 align="center">Certificates 📜 </h1>
