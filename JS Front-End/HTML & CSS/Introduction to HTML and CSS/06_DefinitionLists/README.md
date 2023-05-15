@@ -11,3 +11,4 @@ Create a file named definition-lists.html. Use the texts from the file site-text
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/63e38166-96c1-43b4-891b-6efc4b18bdfb)
