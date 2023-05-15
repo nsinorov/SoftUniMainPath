@@ -10,3 +10,4 @@ Create file: html-lists.html. Use the texts from the file site-texts.txt. Use th
     
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/aa934241-789d-4ea7-b9ca-e9ff8150bedb)
