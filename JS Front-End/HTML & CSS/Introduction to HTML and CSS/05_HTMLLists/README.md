@@ -7,3 +7,6 @@ Create file: html-lists.html. Use the texts from the file site-texts.txt. Use th
 ### Hints:
 
     Use: <ol>, <ul> and <li>. You need to use nested lists.
+    
+### Example:
+
