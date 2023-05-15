@@ -24,3 +24,4 @@ Use:
 
 ### Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/0a02e27d-a0e2-416a-a2da-24be3187bd01)
