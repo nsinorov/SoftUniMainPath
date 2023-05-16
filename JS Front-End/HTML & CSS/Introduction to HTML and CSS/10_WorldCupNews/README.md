@@ -30,3 +30,4 @@
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/7498734c-b5d8-4be5-a713-50194560d551)
