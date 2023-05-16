@@ -13,9 +13,9 @@ Create two files: modern-javascript.html and modern-javascript.css. Set the html
 ### Hints:
 
 Use:
-• <h1> and <h2> tags for headings
-• <sup> tag for superscript text
-• <p> tag for paragraphs and <span>
-• <ul> tag for list items
-• <hr /> for horizontal line
-• <footer> tag for copyright part + &copy; for copy right symbol
+                    <h1> and <h2> tags for headings
+ <sup> tag for superscript text
+ <p> tag for paragraphs and <span>
+ <ul> tag for list items
+ <hr /> for horizontal line
+ <footer> tag for copyright part + &copy; for copy right symbol
