@@ -22,3 +22,4 @@ Create two files: modern-javascript.html and modern-javascript.css. Set the html
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/4ca3dc17-2903-4a2b-9b4a-84a403665353)
