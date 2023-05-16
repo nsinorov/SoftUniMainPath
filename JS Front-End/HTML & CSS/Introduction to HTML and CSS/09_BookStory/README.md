@@ -31,3 +31,4 @@ Set the html title to be the same as the task name.
 
 ### Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/411857ce-2cf3-4c06-8e25-7435cf511469)
