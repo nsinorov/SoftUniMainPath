@@ -5,3 +5,7 @@
 Create two files: book-story.html and book-story.css. Set the html title to be the same as the task name. 
 
 Set the html title to be the same as the task name.
+
+### Requirements:
+
+    <main> for the main container
