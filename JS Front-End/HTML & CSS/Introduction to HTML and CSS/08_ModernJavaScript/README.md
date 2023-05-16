@@ -19,3 +19,6 @@ Create two files: modern-javascript.html and modern-javascript.css. Set the html
          <ul> tag for list items
          <hr /> for horizontal line
          <footer> tag for copyright part + &copy; for copy right symbol
+
+### Example:
+
