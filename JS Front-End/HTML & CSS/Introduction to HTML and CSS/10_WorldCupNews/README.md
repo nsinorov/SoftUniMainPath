@@ -27,3 +27,6 @@
       o Margin Bottom: 5px;
       o Font Size: 14px;
       o Border: 1px solid #000000;
+
+### Example:
+
