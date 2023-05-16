@@ -16,3 +16,15 @@ Set the html title to be the same as the task name.
          Padding: 10px;
      <p> tag for paragraph + font-size: 18px;
      <em> tag for italic text
+
+### Hints:
+
+    Use:
+         <h1> tag for heading + center the text
+         <q> tag for quotation text
+             q::before {
+                     content: open-quote;
+                        }
+             q::after { 
+                     content: close-quote;
+                       }
