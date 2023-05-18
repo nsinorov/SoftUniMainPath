@@ -31,3 +31,9 @@ Create two files: nav-bar.html and nav-bar.css.
     • <a> tag for hyperlink
       o text-decoration: none;
       o Text-Color: #ffffff
+
+### Hints:
+
+Use:
+
+    • <li> with display: inline-block
