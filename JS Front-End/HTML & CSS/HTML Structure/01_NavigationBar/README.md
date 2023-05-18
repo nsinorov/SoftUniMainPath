@@ -40,3 +40,4 @@ Use:
 
 ### Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/1b2bb83e-5add-4286-9a33-f93bf99ba2be)
