@@ -37,3 +37,6 @@ Create two files: nav-bar.html and nav-bar.css.
 Use:
 
     • <li> with display: inline-block
+
+### Example: 
+
