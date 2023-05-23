@@ -21,3 +21,4 @@ Create two files: simple-website.html and simple-website.css.
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/fef19bf6-9dd4-4789-bb1d-c8c1da2afbe3)
