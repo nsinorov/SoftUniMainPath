@@ -27,3 +27,4 @@ The CSS in the example above uses:
 
 ### Hints:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/a346cf2d-3b71-4b5e-98fa-f1d2a40321ab)
