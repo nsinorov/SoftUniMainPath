@@ -21,3 +21,6 @@ Create files: index.html and styles.css.
     
     • Use footer tag with two paragraphs Inside
         o Use anchor tag for the name in the last sentence
+
+### Example:
+
