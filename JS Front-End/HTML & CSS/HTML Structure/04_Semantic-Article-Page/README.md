@@ -36,3 +36,4 @@ Create files: index.html and styles.css.
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/e23ae7dc-fe9f-43cd-be72-b7a5fd1fdac6)
