@@ -24,3 +24,4 @@ Create files: index.html and styles.css.
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/39bac360-f418-4ff6-8652-6b14fe8ca027)
