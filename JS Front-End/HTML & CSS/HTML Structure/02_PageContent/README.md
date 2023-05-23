@@ -25,3 +25,4 @@ Create two files: page-content.html and page-content.css.
 
 ### Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b6de3ac0-5f45-455f-9d7c-35a03ff50ed6)
