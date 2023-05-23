@@ -33,3 +33,6 @@ Create files: index.html and styles.css.
      • width: 700px
      • border: 1px solid #b2ad7d;
      • margin: 15px 10px;
+
+### Example:
+
