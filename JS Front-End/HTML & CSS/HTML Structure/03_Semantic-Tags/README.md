@@ -24,3 +24,6 @@ The CSS in the example above uses:
     • padding: 15px, 5px 15px
     • background colors: #f9f7cf, #f2dcbb
     • width: 480px
+
+### Hints:
+
