@@ -36,3 +36,7 @@ CSS:
         o Font size: 16px
         o Height of the line: 1.46
         o Text color: #5c5a5a
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/60dc6e1f-1fd4-4cc5-ae37-3fb05852a000)
