@@ -25,3 +25,7 @@
     • Change the cursor property to "pointer"
     • Change the outline property to "none"
     • FontAwesome: https://use.fontawesome.com/releases/v5.6.3/css/all.css
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/73da352f-c2a9-45c6-9805-00210bf6d175)
