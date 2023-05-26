@@ -26,3 +26,7 @@
 
 You will be given a skeleton with filled HTML and an empty CSS file. Write the missing CSS following the guidelines 
 in the task.
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/1f9383f1-8c53-4953-8589-a2cc3cac4aa4)
