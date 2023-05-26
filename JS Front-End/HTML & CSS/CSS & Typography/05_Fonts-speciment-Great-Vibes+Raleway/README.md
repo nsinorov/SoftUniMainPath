@@ -14,3 +14,7 @@
         o Change the line-height to 1.2
         o Change the font weight to bold
 
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8ede5d11-ea66-47c5-8f57-81bcdf129b50)
+
