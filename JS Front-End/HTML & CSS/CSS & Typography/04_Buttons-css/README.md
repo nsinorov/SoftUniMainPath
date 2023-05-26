@@ -19,3 +19,9 @@
       o gray(rgb(51, 51, 51))
       
     • Use FontAwesome for this task. Import it in your CSS, with the @import rule.
+
+### Hints:
+
+    • Change the cursor property to "pointer"
+    • Change the outline property to "none"
+    • FontAwesome: https://use.fontawesome.com/releases/v5.6.3/css/all.css
