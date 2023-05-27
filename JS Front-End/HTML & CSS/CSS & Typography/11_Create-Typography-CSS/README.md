@@ -20,3 +20,8 @@
       o Style its font to italic
       
     • Use hr tag for the horizontal lines
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/229a4b5f-9499-4cbf-b5d9-20f39ef71f48)
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d5fc5b78-804e-4ef6-9745-ffe012625e22)
