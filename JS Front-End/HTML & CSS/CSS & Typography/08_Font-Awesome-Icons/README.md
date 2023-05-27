@@ -64,3 +64,7 @@
         
     For the button.delete:
         • Background color: #cc4036
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/76164764-5d93-4a10-8830-f2994a56cd74)
