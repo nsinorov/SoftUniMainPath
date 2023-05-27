@@ -30,3 +30,5 @@ You will be given a skeleton with HTML and an empty CSS file. Write the missing 
       o Font size: 25px
       
     • Use FontAwesome for this task. Import it in your CSS, with the @import rule
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/01aa35c5-18f7-4b83-afa1-21fe0f72492e)
