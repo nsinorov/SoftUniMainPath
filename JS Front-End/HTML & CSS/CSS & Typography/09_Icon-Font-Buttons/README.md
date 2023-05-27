@@ -34,3 +34,7 @@ You will be given a skeleton with HTML and an empty CSS file. Write the missing 
       o Background color: orange
       
     • Use FontAwesome for this task. Import it in your CSS, with the @import rule
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/490c5312-136d-4024-958a-99a472860112)
