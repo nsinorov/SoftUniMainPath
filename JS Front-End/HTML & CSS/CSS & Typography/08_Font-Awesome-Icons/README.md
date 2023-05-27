@@ -18,3 +18,31 @@
       o <button> with class="shopping"
       o <button> with class="info"
       o <button> with class="delete
+
+### CSS:
+
+    • Import font awesome link
+    
+    • <body>:
+        o Fonts: proxima-nova, "Helvetica Neue", Helvetica, Arial
+        o Generic Font: sans-serif
+        
+    • <nav>:
+        o Width: 200px
+        o Solid border with size 1px and color #e3e3e3
+        o Font size: 14px
+        o Height of the line: 20px
+        o Background color: #f5f5f5
+        
+    • <li>:
+        o None list style
+        o Height of the line: 25px
+        o Left margin: -15px
+        
+    • <a>:
+        o None text decoration
+        o Text color #c83025
+        
+    • <i>:
+        o Width: 1.14em
+        o Right padding: 0.28em
