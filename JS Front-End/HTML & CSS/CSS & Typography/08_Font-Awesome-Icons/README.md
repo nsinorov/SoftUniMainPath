@@ -46,3 +46,21 @@
     • <i>:
         o Width: 1.14em
         o Right padding: 0.28em
+
+    For all the buttons:
+    
+        • Top & bottom padding 4px
+        • Left & right padding 12px
+        • Height of the line: 20px
+        • Text color: #ffffff
+        • Border color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25)
+        • Cursor: pointer
+        
+    For the button.shopping:
+        • Background color: #83a94c
+        
+    For the button.info: 
+        • Background color: #008ed0
+        
+    For the button.delete:
+        • Background color: #cc4036
