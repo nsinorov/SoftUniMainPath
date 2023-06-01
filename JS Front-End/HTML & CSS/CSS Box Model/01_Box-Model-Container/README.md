@@ -18,3 +18,7 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
       o Solid border with size 2px and color #e6eaef
       o Top left and bottom right border radius: 15px
       o Top right and bottom left border radius: 50px
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d2573cef-ef92-40fb-9472-e8b98d49786a)
