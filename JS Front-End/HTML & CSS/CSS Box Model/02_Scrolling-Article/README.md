@@ -5,4 +5,4 @@
 
 ### Requirements:
 
-HTML with <body> that contains: <section> with <article> which has <h2>, <h3> and <p>.
+    HTML with <body> that contains: <section> with <article> which has <h2>, <h3> and <p>.
