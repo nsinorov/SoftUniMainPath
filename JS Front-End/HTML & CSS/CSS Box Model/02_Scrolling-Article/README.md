@@ -25,3 +25,7 @@ CSS:
         
     • <p>:
         o Indent text in the first line 30px
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/9e0d0a61-8af2-42c7-ab70-c1c0ba33dd21)
