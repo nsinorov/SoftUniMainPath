@@ -41,3 +41,11 @@ CSS:
         o Left & right padding 16px
         o Top margin: 20px
         o Bottom margin: 20px
+
+    • <p>:
+        o Fonts: Georgia, Cambria, Times New Roman, Times
+        o Generic Font: serif
+        o Font size: 18px
+        o Height of the line: 30px
+        o Top margin: 0
+        
