@@ -49,3 +49,6 @@ CSS:
         o Height of the line: 30px
         o Top margin: 0
         
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/677a5144-baf7-4645-9fc3-cf9039cd7608)
