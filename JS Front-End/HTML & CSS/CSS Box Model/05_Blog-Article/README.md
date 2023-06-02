@@ -41,3 +41,6 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
             ▪ Display the span as block
             ▪ Relative position
             ▪ Top coordinates: -11px
+
+### Example:
+
