@@ -21,3 +21,5 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
         o Text align: justify
         
 ### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/50c72ca9-a228-41f2-8796-6e643bc58393)
