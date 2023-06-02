@@ -28,3 +28,16 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
             ▪ Solid top border with size 2px and color #fff
             ▪ Relative position
             ▪ Top coordinates: 20px
+            
+        o <span>:
+             ▪ Width: 120px
+            ▪ Font size: 14px
+            ▪ Align the text to the center
+            ▪ Top & bottom paddings 3px
+            ▪ Left & right paddings 5px
+            ▪ Top & bottom margins 0
+            ▪ Left & right margins auto
+            ▪ Background color: #fff
+            ▪ Display the span as block
+            ▪ Relative position
+            ▪ Top coordinates: -11px
