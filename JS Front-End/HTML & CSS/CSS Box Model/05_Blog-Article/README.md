@@ -22,3 +22,9 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
             ▪ Height of the line: 24px
             ▪ Paddings: 10px
             ▪ Indent text in the first line 30px
+            
+        o <div>:
+            ▪ Bottom margin: 30px
+            ▪ Solid top border with size 2px and color #fff
+            ▪ Relative position
+            ▪ Top coordinates: 20px
