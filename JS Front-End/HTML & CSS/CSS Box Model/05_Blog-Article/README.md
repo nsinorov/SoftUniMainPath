@@ -5,4 +5,13 @@
 You will be given a skeleton with filled HTML and an empty CSS file. Write the missing CSS following the guidelines in the task.
 
     • <body>:
-      o Background color: #02475e
+             o Background color: #02475e
+             
+    • <article> :
+    
+         o <h2>:
+             ▪ Font size: 36px
+             ▪ Text color: #fefecc
+             ▪ Margins: 12px
+             ▪ Align the text to the center
+             
