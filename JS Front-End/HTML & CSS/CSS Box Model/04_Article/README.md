@@ -7,3 +7,9 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
     • <main>:
        o Width: 900px
        o Height: 140px
+       
+    • <img>:
+        o Solid right border with size 1px and color #d1d1d1
+        o Float the images on the left
+        o Right margin: 19px
+        o Right padding: 19px
