@@ -3,3 +3,6 @@
 ### Requirements:
 
 You will be given a skeleton with filled HTML and an empty CSS file. Write the missing CSS following the guidelines in the task.
+
+    • <body>:
+      o Background color: #02475e
