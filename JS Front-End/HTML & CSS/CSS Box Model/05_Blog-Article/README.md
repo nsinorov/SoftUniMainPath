@@ -15,3 +15,10 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
              ▪ Margins: 12px
              ▪ Align the text to the center
              
+        o <p>:
+            ▪ Text color: #eee
+            ▪ Font: Arial
+            ▪ Generic Font: sans-serif
+            ▪ Height of the line: 24px
+            ▪ Paddings: 10px
+            ▪ Indent text in the first line 30px
