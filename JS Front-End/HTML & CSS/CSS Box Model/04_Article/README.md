@@ -3,3 +3,7 @@
 ### Requirements:
 
 You will be given a skeleton with filled HTML and an empty CSS file. Write the missing CSS following the guidelines in the task.
+
+    • <main>:
+       o Width: 900px
+       o Height: 140px
