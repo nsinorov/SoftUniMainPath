@@ -44,3 +44,4 @@ You will be given a skeleton with filled HTML and an empty CSS file. Write the m
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/02132a38-25fc-4d71-8042-22cd7489b17b)
