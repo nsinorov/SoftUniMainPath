@@ -1,0 +1,19 @@
+html {
+    font-family: Helvetica, sans-serif;
+    padding-left: 7%;
+  }
+
+header h1,
+nav,
+ul,
+li,
+a {
+  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+}
+li>a{
+    color: green;
+    padding-right: 20px;
+}
+
