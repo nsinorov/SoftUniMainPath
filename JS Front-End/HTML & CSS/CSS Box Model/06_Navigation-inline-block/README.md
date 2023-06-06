@@ -11,3 +11,7 @@ Create a web page like the following:
     • Create a navigation bar
         o Add four list items in nav tag with a tags inside 
         o Add display: inline-block; style for each item in the nav
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/c7cc35bf-13e9-4189-b2af-daf362e02d98)
