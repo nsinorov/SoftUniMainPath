@@ -30,3 +30,7 @@ Create a web page like the following:
       o display: block
       o width: 100%
       o height: auto
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/5d3268af-d443-466b-afc5-70aecd52909e)
