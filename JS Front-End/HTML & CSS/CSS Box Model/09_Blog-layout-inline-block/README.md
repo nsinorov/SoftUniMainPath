@@ -13,3 +13,7 @@ Create a web page like the following:
     • Use aside tag to create aside for the Latest Posts
     • Use background with color - rgb(238, 238, 238)
     • Use rgb(51, 51, 51) color for the tex
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/a780733b-c92c-4092-a435-2757f80e1413)
