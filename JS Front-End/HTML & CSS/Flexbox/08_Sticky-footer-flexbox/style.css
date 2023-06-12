@@ -1,0 +1,42 @@
+
+
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    background: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif;
+    height: 100vh; 
+    margin: 0;
+    
+}
+
+header {
+    border-bottom: 3px solid rgb(102, 102, 102);
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    width: 100%;
+    padding-left: 1rem;
+    position: sticky;
+    top: 0;
+    background-color: rgb(238, 238, 238) ;
+    font-size: 36px;
+    padding: 0.5em;
+}
+
+h2 {
+    font-family:Georgia, serif;
+}
+
+main {
+    padding: 1rem 1rem;
+
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    color:rgb(255, 255, 255);
+    padding-left: 1rem;
+
+}
