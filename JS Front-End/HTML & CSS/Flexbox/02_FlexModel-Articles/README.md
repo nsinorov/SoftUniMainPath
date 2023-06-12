@@ -15,3 +15,7 @@ Change the document title to "Articles"
       
     • Change the section display property to flex and set justify-content: space-between
     • Set on the section max-width 70vw
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/1ad3055a-5171-4cee-aaa4-7ddd8d9b4df0)
