@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    background-color: #EEE;
+    padding: 5rem;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+body>*{
+    padding: 2rem;
+    background-color: #FFF;
+    border-radius: 0.4rem;
+    color: #000;
+}
+
+header, footer {
+    flex-basis: 100%;
+    height: 6rem;
+}
+
+main {
+    flex: 8 1 40rem;
+    
+}
+
+aside {
+    flex: 2 1 20rem;
+    height: 20rem;
+}
+
