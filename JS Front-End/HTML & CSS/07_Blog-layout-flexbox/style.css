@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem 4rem;
+  
+    font: 16px/1.4 Arial, Helvetica, sans-serif;
+
+    justify-content: space-between;
+}
+
+section h1, h2, h3 {
+    font-family: Georgia, serif;
+}
+
+.header {
+    border-bottom: 2px solid rgb(0,0,0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+section {
+    width: 70%;
+}
+
+section>div {
+    margin-bottom: 2rem;
+}
+
+
+ img {
+    border: 2px solid black;
+    padding: 8px; 
+    background: rgb(255, 255, 255);  
+}
+
+.first img{
+    float:right;
+    margin-left: 1rem;
+  
+}
+
+.third img {
+    float: left;
+    margin-right: 1rem;
+   
+}
+
+aside {
+    line-height: 1.4;
+    margin-right: 6rem;
+}
+
+aside a {
+    color:rgb(0, 153, 0)
+}
+
+
+.second {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+.middle {
+    max-width:100%;
+    margin: 0;
+    display:flex;
+    justify-content: space-between; 
+    align-items:flex-start
+}
+
+ .middle>* {
+    width: 50%;
+} 
+
+.middle>p {
+    padding-right: 1rem;
+    border-right: 2px solid grey;
+}
+
+blockquote {
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, serif;
+}
+blockquote p {
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.author {
+   text-align: end;
+}
