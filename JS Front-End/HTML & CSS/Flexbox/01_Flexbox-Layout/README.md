@@ -28,3 +28,7 @@ Change the document title to "Flexbox Layout"
       
     • <aside>
       o flex - 2 1 20rem;
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/deb11de3-33bf-49ce-a744-bf3e7b4d598b)
