@@ -13,3 +13,7 @@ Change the document title to "Blog Layout - Flexbox"
     • Blockquote font family must be Georgia, serif
     • The anchors text color in the aside section must be rgb(0, 153, 0)
     • Page headings font family must be Georgia, serif
+    
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/356deb5a-7234-4831-9b31-1e6feaa681a8)
