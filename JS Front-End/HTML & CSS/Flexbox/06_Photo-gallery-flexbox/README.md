@@ -10,3 +10,7 @@ Change the document title to "Photo Gallery - Flexbox"
     • Add unordered list with list items and images inside
     • Change the body, ul and li display property to flex
     • Set the ul property justify-content to be equal to space-between
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/f355b6e4-d70d-48e2-9989-a1ac2637c586)
