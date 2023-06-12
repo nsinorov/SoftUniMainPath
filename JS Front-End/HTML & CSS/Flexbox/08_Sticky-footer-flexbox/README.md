@@ -14,3 +14,7 @@ Change the document title to "Sticky Footer - Flexbox"
     • The footer should be at the bottom of the page
       o The footer text color must be rgb(255, 255, 255)
       o The footer background color must be rgb(102, 102, 102)
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/28f4fa64-7b4c-4623-86a4-4ea4eb93b251)
