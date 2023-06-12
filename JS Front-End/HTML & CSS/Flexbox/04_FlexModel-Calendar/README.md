@@ -21,3 +21,7 @@ Change the document title to "Calendar"
       
     • For the section with class notes use the property flex-direction column
     • Set on all HTML elements the property box-sizing: border-box
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/6277812e-3842-42d0-ae64-604cab0f5869)
