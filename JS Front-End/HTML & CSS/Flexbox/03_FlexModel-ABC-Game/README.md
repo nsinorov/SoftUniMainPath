@@ -18,3 +18,7 @@ Change the document title to "ABC Game"
       o Border style - solid
       
     • To arrange the letters, use the flex property order
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b489d42b-93ae-41e1-8fa9-f2660d0b4e90)
