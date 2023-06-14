@@ -41,3 +41,13 @@ The elements into the body:
     
     • <footer> tag that contain:
       o <div> with copyright sign and tex
+      
+### CSS Grid:
+
+In the styles.css:
+
+    • Make the body grid container by displaying the grid.
+    • Define two grid columns and their size. 100px for the first column and auto for the second. 
+    • Define the grid areas: header, main, aside, footer.
+    • Reference the grid areas: "header header", "aside main", "footer footer".
+    • Set gap: 10px.
