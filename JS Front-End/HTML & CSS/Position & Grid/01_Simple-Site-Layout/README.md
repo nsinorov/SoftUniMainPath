@@ -18,12 +18,15 @@ The elements into the body:
 
     • <header> with
       o <h1> text that is displayed as inline block and is vertically aligned in the middle;
+      
     • <aside> tag that contains:
       o <ul> tag for unordered list
+      
     ▪ list-style-type: none;
     ▪ margin: 0px;
     ▪ padding: 5px;
     ▪ <li> tag for list item
+    
     ▪ <a> tag for hyperlink
       o display: block;
       o padding: 5px 0px;
@@ -33,6 +36,8 @@ The elements into the body:
     ▪ <main> tag that contain:
       o <h1> text title for the tasks
       o <ul> tag with:
+      
     ▪ <li> for the tasks with their status
+    
     • <footer> tag that contain:
       o <div> with copyright sign and tex
