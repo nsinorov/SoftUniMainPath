@@ -51,3 +51,7 @@ In the styles.css:
     • Define the grid areas: header, main, aside, footer.
     • Reference the grid areas: "header header", "aside main", "footer footer".
     • Set gap: 10px.
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/eb096214-8da4-4f6d-bf03-5565452c561f)
