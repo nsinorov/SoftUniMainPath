@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(238, 238, 238) ;
+    height: 100vh;
+   
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    position:relative;
+    width:60%;
+    height:60%;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+h3 {
+    font: bold 1em/1.2 Georgia, serif;
+    margin-bottom: 1em;
+}
+
+p{
+    margin-bottom: 1em;
+  
+    font: 0.8em/1.4  sans-serif;
+}
+
+.img-container {
+    display: block;
+    position:relative;
+    width:100%;
+    height: 60%;
+   
+}
+img {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+
+}
+
+div.text-container{
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+button {
+    background-color: rgb(0, 153, 0);
+    padding: 0.6em;
+    border: none;
+    color:white;
+    width:25%;
+    align-self: flex-end;
+    
+    
+}
+
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+
