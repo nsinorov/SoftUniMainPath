@@ -4,9 +4,9 @@ Create a web page like the following:
 
 ### Requirements:
 
-HTML with <body> that contains <main> and two <img>.
+        HTML with <body> that contains <main> and two <img>.
 
-<img> with new.png need class="new".
+        <img> with new.png need class="new".
 
 CSS:
 
@@ -19,3 +19,7 @@ CSS:
       o Relative position
       o Top coordinates: -200px
       o Right coordinates: 150px
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/4685f09a-ca55-4151-be0c-150888b1bd65)
