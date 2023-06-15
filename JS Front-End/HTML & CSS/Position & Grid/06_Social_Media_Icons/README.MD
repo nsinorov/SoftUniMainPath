@@ -1,8 +1,8 @@
 Create a web page like the following:
 
 
-• Change the document title to "Social Media Icons"
-• Use FontAwesome to add social icons
+    • Change the document title to "Social Media Icons"
+    • Use FontAwesome to add social icons
 
 ### Requirements:
 
