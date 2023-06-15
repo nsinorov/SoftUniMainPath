@@ -12,3 +12,7 @@ Create a web page like the following:
       
   ▪ Change the display property to block
   ▪ Try to center the section with position property absolute
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/308402b6-fbb7-4eee-af24-637d53b17736)
