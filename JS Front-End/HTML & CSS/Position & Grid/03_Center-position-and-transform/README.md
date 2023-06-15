@@ -17,3 +17,7 @@ Change the document title to "Center Position and Transform"
   • Use rgb(0, 153, 0) for card button background
   • Use font Georgia, serif with size 1em/1.2 for the headings
   • Set the image position property to absolute
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/275b5f97-974e-475c-b858-b115c468e395)
