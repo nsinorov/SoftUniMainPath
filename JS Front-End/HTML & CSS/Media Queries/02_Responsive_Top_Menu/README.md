@@ -24,3 +24,4 @@ The behavior of the Web page should be like the following:
       Make the navigation responsive by using media query. Define a maximum width of 500px, if the screen is less than that: 
   
      • the <a> tag in the <nav> need to be displayed as block and with padding-left: 5px
+     • the <ul> tag in the <nav> need to be left with 0 margin and paddin
