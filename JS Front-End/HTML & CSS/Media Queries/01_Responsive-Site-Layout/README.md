@@ -11,5 +11,3 @@ Define a maximum width of 500px, if the screen is less than that, set in the bod
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/941511a3-09ab-4ad6-83a5-3e89e1d05b8a)
 
-### Example: 
-
