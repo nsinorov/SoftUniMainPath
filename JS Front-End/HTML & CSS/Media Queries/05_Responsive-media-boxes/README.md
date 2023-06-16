@@ -16,3 +16,4 @@ Create a web page like the following:
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/08d9ac6d-43a1-48c4-aaea-d6efcdf3fead)
