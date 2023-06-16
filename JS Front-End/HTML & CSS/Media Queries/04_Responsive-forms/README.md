@@ -11,3 +11,7 @@ Create a web page like the following:
       o Add icons to the input fields using FontAwesome
       o Add focus state that changes the input and the icon
       o User form and two p tags
+
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/35783384-a4da-4f12-86da-c3888bfa58f2)
