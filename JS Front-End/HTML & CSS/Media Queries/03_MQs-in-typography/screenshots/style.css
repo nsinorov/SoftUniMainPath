@@ -1,0 +1,149 @@
+body {
+    margin: 60px;
+    background-color: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif; 
+    letter-spacing: 0.3px;  
+}
+
+p {
+    color: rgb(54, 53, 53);
+}
+
+header p, nav li{
+    display: inline-block;
+}
+
+header h1 {
+    margin-top: 0px;
+}
+
+header p {
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 0;
+}
+
+header nav {
+    margin: 0;  
+    float: right;
+}
+
+header nav li {
+    padding: 8px;
+    color: green;
+}
+
+/*Section*/
+main {
+    display: inline-block;
+    width: 70%;
+}
+
+.first__image {
+    float: right;
+    border: 2px solid black;
+    padding: 6px;
+    border-radius: 5px;
+    display: block;
+    margin: 15px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.25);
+    /* height: 100%;
+    width: 100%; */
+}
+
+/* Heading level 2 */
+
+h2 {
+    margin-top: 50px;
+}
+
+blockquote {
+    margin: 5px;
+    padding: 0;
+    border-left: 2px solid rgb(173, 171, 171);
+    float: right;
+    width: 45%;
+    font-family: Georgia, serif;
+    text-align: top;
+}
+
+blockquote p {
+    margin: 0;
+    padding-left: 25px;
+}
+
+blockquote span {
+    display: block;
+    text-align: right;
+    margin: 15px;
+}
+
+/* Next Heading level 2 */
+
+.second__img {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    float: left;
+    border: 2px solid black;
+    padding: 6px;
+    margin-right: 15px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-size: 1.2;
+}
+
+aside {
+    
+    /* display: inline-block; */
+    
+    float: right;
+    width: 30;
+}
+
+aside ul {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+aside ul li {
+    display: list-item;
+    padding-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 102, 0)
+}
+
+@media (min-width: 500px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  @media (min-width: 800px) {
+    body {
+      font-size: 18px;
+    }
+  }
+  
+  @media (min-width: 1300px) {
+    body {
+      font-size: 21px;
+    }
+  }
+  
+  @media (min-width: 1800px) {
+    body {
+      font-size: 23px;
+    }
+  }
