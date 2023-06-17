@@ -13,3 +13,6 @@ You are given the above screenshots + all required images.
     • Use font – (https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif)
     • The site should open correctly in the latest version of Chrome
     
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/bc4a2bea-9ad6-4d4e-bb47-b6e8279848d5)
