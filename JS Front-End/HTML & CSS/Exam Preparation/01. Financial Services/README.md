@@ -13,3 +13,4 @@ Create a Web page (HTML5 + CSS3) that looks and behaves like the screenshot belo
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/7b5175e7-eeab-4d10-be50-26ccc9898ed6)
