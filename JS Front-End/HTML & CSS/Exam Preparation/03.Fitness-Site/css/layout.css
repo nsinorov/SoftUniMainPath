@@ -1,0 +1,22 @@
+@import url(https://use.fontawesome.com/releases/v5.6.3/css/all.css);
+
+ul{
+    list-style-type: none;
+}
+
+.socials ul{
+    color: #fff;
+    font-size: 25px;
+}
+
+.site{
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: url(../image/fitness-main.jpg);
+    background-size: 120% auto;
+    background-position: center -12em;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,24 @@
+.main-nav{
+    display: flex;
+    justify-content: end;
+}
+
+.main-nav ul{
+    display: flex;
+}
+
+.main-nav li,
+.main-nav a{
+    display: block;
+}
+
+.main-nav li{
+    padding: 0 0.5em;
+}
+
+.main-nav a{
+    padding: 1em;
+    text-decoration: none;
+    color: #fff;
+}
+

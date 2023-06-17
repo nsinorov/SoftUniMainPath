@@ -1,0 +1,109 @@
+.section-banner {
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8em;
+    padding-bottom: 8em;
+}
+
+.section-banner h2 {
+    font-size: 2.8em;
+    letter-spacing: 0.3em;
+}
+
+.section-banner p {
+    max-width: 28em;
+    line-height: 1.2;
+}
+
+.section-banner a {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background: rgba(208, 25, 25, 1);
+    color: #fff;
+    border-radius: 0.3em;
+    line-height: 1;
+    text-decoration: none;
+}
+
+.section-welcome,
+.section-coaches {
+    padding: 2em 4em;
+}
+
+[class*="section-"] header h2 {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: normal;
+}
+
+[class*="section-"] header h2:after {
+    display: block;
+    content: '';
+    width: 1.5em;
+    height: 2px;
+    border-radius: 2px;
+    margin: 1em auto;
+    background: rgba(208, 25, 25, 1);
+}
+
+.section-welcome {
+    background: #fff;
+    min-height: 10em;
+}
+
+.columns {
+    display: flex;
+    gap: 10em;
+}
+
+.columns img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.columns li,
+.columns li span {
+    display: block;
+}
+
+.columns li {
+    flex: 1 1 30%;
+    text-align: center;
+}
+
+.columns .title {
+    color: rgba(210, 61, 97, 1);
+    font-weight: bold;
+    padding: 0.5em 0;
+}
+
+.columns .name {
+    font-weight: bold;
+}
+
+.columns .desc {
+    color: #333;
+    line-height: 1.2;
+}
+
+.section-welcome .columns img {
+    width: 2.8em;
+    margin: 0 auto;
+}
+
+.section-coaches {
+    background: rgba(239, 239, 239, 1);
+}
+
+.section-coaches .columns img {
+    border-radius: 0.3em;
+    margin-bottom: 1em;
+}
+
+.section-coaches .columns .desc {
+    color: #999;
+}
