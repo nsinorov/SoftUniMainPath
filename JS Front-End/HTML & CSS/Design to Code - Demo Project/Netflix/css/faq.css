@@ -1,0 +1,40 @@
+
+dt {
+    display: block;
+    padding-bottom: 4px;
+}
+
+dt a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #303030;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 1.5em;
+}
+
+dt a:after {
+    display: block;
+    content: '+';
+}
+
+dt:target a:after {
+    content: '-';
+}
+
+dt:target a,
+dt a:hover {
+    background: #222;
+}
+
+dd {
+    display: none;
+    padding: 1em 1.5em;
+    border: 2px solid #222;
+    margin-bottom: 4px;
+}
+
+dt:target + dd {
+    display: block;
+}

@@ -1,0 +1,32 @@
+form {
+    display: flex;
+    padding-bottom: 1.5em;
+    gap: 2px;
+    justify-content: center;
+}
+
+form p {
+    padding: 0;
+}
+
+form p:first-child {
+    flex: 1 0 auto;
+}
+
+form label {
+    display: none;
+}
+
+input {
+    width: 100%;
+    display: block;
+    border: none;
+    background: #fff;
+    padding: 1em 1.5em;
+}
+
+
+input[type="submit"] {
+    background: var(--clr-primary);
+    color: #fff;
+}
