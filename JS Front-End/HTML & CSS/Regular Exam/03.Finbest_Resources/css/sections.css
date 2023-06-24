@@ -1,0 +1,215 @@
+.section1{
+    background-color:rgb(173, 226, 223);
+    text-align: center;
+    height: 250px;
+    padding:3em;
+}
+.section1-btns>a{
+    margin-top:1em;
+    display: inline-block;
+    padding:1.5em;
+    border-radius:0.5em;
+    background-color:black;
+    text-decoration: none;
+    color:white;
+}
+svg{
+    fill: white;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+    height: 250px;
+    text-align: center;
+    
+}
+.section2-cards{
+    margin-top:1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:center;
+    width: 25%;
+    height: 180px;
+    border-right: 1px solid rgba(177, 177, 177, 0.726);
+    border-left: 1px solid rgba(177, 177, 177, 0.726);
+}
+.section3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-top:1em;
+    background-color:rgb(173, 226, 223);
+}
+.phone-image{
+    width: 25%;
+    border:1px dashed gray;
+    padding:10px 20px;
+}
+img{
+    width: 100%;
+    height:auto;
+}
+.section3-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 45%;
+    padding:3.5em;
+}
+.section3-content h2{
+    font-size: 2em;
+    padding-bottom: 0.5em;
+}
+.section3-content h4{
+    font-size: 1em;
+    padding-bottom: 0.5em;
+}
+.section3-content p{
+    padding-bottom: 2em;
+}
+.section3-content a{
+    font-size: 1em;
+    text-decoration: none;
+    padding: 0.5em 0em;
+    border-bottom: 1px solid black;
+    width: 180px;
+    color: black;
+}
+.section3-content a svg{
+    fill: black;
+    margin-left: 20px;
+}
+.section4{
+    background-color:rgb(243, 245, 250);
+    height: 230px;
+    text-align: center;
+}
+.section4-content>a{
+    margin-top: 4em;
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    text-decoration: none;
+    color: black;
+    background-color:rgb(173, 226, 223);
+}
+.section4-content>p{
+    margin:0.5em;
+    font-size: 3em;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding:2em 4em;
+}
+.icons svg{
+    margin-left: 5px;
+    fill:black;
+}
+.section5{
+    display: flex;
+    flex-direction: row;
+    height:500px;
+    width: 100%;
+}
+.section5 .plans{
+    display: flex;
+    flex-direction: row;
+    background-color:white;
+    padding: 2em;
+    border-top-left-radius:1em;
+    border-bottom-left-radius:1em;
+    border:1px solid rgb(206, 206, 206);
+
+
+}
+.section5-content{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(173, 226, 223);
+    border-top-right-radius:1em;
+    border-bottom-right-radius:1em;
+    border:1px solid rgb(206, 206, 206);
+}
+.plan{
+    padding: 1em;
+    border-right: 1px solid rgba(211, 211, 211, 0.726);
+    border-left: 1px solid rgba(211, 211, 211, 0.726);
+    height: 90%;
+}
+.plan h1{
+    font-size: 1em;
+    text-align:center;
+}
+.plan>p{
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 0 1em;
+}
+.price{
+    font-size: 2em;
+    font-weight: bold;
+    padding: 1em 0.5em;
+}
+.monthly{
+    font-size: 10px;
+    color: gray;
+}
+.description ul li svg{
+    margin-right: 5px;
+    fill: black;
+}
+.description ul li{
+    line-height: 2;
+}
+.button{
+    display: inline-block;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    border-radius: 0.5em;
+    text-decoration: none;
+    color: black;
+    border: none;
+    background-color:rgb(173, 226, 223);
+}
+.button a{
+    text-decoration: none;
+    color: black;
+}
+.section5-content>h3{
+    text-align:center;
+    font-size: 1.5em;
+    margin-top: 2em;
+}
+.section5-content>p{
+    font-weight:600;
+    font-size: 1.2em;
+}
+.section5-content ul li svg{
+    fill: black;
+    margin-right:10px;
+}
+.section5-content ul{
+    padding: 1em 1em;
+    line-height: 1.8;
+}
+.section5-btn{
+    text-align: center;
+    display: inline-block;
+    padding: 1em 0;
+    border-radius:0.5em;
+    background-color:black;
+    text-decoration: none;
+    color:white;
+    margin-top: 6.5em;
+}
+.section5-content{
+    padding: 2em;
+}

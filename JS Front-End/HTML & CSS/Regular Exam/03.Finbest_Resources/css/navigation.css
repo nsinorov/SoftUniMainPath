@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    padding: 1em 2em;
+}
+.top-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+    width: 80%;
+}
+.top-nav-bar{
+    display: flex;
+    flex-direction: row;
+    gap:1.5em;
+}
+.sign-up{
+    padding: 1em;
+    border-radius: 0.5em;
+    text-decoration: none;
+    color: black;
+}
+.special{
+    background-color:rgb(173, 226, 223);
+}
