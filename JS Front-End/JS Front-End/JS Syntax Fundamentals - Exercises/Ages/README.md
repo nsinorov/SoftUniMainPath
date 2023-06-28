@@ -14,3 +14,4 @@ The output should be printed to the console.
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/91e58916-fca9-403d-916a-9ec4895052e9)
