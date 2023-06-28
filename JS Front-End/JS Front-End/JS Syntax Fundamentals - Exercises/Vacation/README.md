@@ -11,3 +11,7 @@ There are also discounts based on some conditions:
      Regular – if the group is bigger than or equal to 10 and less than or equal to 20 reduce the total price by 5%
     
 Note: You should reduce the prices in that EXACT order.
+
+### Examples:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/81bc9865-1b90-42df-945a-cabff683f1db)
