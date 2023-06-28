@@ -11,3 +11,6 @@ The input comes as a single number parameter. The bounders are:
      In all other cases print – "out of bounds";
  
 The output should be printed to the console.
+
+### Examples:
+
