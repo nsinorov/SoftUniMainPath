@@ -6,3 +6,4 @@ The output should be a single line containing the converted string
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/569724d2-b285-4fdf-a83c-a4d72c6821fb)
