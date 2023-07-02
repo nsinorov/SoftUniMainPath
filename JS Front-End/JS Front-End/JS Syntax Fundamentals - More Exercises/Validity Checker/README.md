@@ -15,3 +15,4 @@ For each comparison print either `{x1, y1} to {x2, y2} is valid` if the distance
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/90f75e1f-2c58-4824-82ef-f57d83fb5b72)
