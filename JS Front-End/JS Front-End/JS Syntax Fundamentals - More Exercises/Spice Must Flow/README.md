@@ -15,3 +15,6 @@ Write a program that calculates the total amount of spice that can be extracted 
 ### Constraints:
 
      The starting yield will be a number within range [0…228].
+
+### Examples:
+
