@@ -4,3 +4,5 @@ The input comes as a single string argument - the text to extract and convert wo
 
 The output should be a single line containing the converted string
 
+### Examples:
+
