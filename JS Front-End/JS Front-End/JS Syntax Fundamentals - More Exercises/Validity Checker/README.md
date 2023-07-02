@@ -8,3 +8,7 @@ The order of comparisons should always be first {x1, y1} to {0, 0}, then {x2, y2
 
 In case a distance is valid, print: `{x1, y1} to {x2, y2} is valid`
 If the distance is invalid, print: `{x1, y1} to {x2, y2} is invalid`
+
+The input consists of two points given as 4 numbers.
+
+For each comparison print either `{x1, y1} to {x2, y2} is valid` if the distance is valid, or `{x1, y1} to {x2, y2} is invalid` if it is invalid.
