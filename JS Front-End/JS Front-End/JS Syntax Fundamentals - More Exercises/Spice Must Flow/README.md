@@ -18,3 +18,4 @@ Write a program that calculates the total amount of spice that can be extracted 
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8cee513d-a68e-4c22-aefc-5b6125b3feb0)
