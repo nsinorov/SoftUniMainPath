@@ -3,3 +3,9 @@ Write a function that calculates how much money you need to buy fruit. You will 
 Print the following text on the console:
 
     `I need ${money} to buy {weight} kilograms {fruit}.`
+
+Print the weight and the money rounded to two decimal places.
+
+The input comes as three arguments passed to your function.
+
+The output should be printed on the console.
