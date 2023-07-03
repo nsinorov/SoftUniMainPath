@@ -9,3 +9,7 @@ Print the weight and the money rounded to two decimal places.
 The input comes as three arguments passed to your function.
 
 The output should be printed on the console.
+
+### Examples:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/540dd4d4-61cd-446c-95d6-c1532a8fb05d)
