@@ -8,3 +8,4 @@ Print every row of the table in the following format:
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/2d40a30d-5125-42e7-80a7-8ccdb13c4694)
