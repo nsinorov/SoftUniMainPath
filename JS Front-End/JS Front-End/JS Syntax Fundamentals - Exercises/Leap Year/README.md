@@ -6,3 +6,4 @@ Write a JS function to check whether a year is a leap. Leap years are either div
     
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/eca4e428-63c7-4498-8334-c470cd153624)
