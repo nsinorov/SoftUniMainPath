@@ -8,3 +8,4 @@ The output should be printed on the console.
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d2465b3e-f05c-4f87-a215-119f3e1391bf)
