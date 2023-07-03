@@ -6,3 +6,5 @@ The input comes as an integer number.
 
 The output should be printed on the console.
 
+### Examples:
+
