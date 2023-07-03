@@ -4,3 +4,5 @@ Write a JS function to check whether a year is a leap. Leap years are either div
     -  Otherwise, print: "no"
 
     
+### Examples:
+
