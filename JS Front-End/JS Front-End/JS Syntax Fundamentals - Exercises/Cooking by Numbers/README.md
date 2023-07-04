@@ -5,3 +5,8 @@ Write a program that receives 6 parameters which are a number and a list of five
      spice - add 1 to the number
      bake - multiply number by 3
      fillet - subtract 20% from the number
+     
+The input comes as 6 string elements. The first element is the starting point and must be parsed to a number. The remaining 5 elements are the names of the operations to be performed.
+
+The output should be printed on the console.
+
