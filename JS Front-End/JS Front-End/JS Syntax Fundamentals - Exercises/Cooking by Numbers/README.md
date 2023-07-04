@@ -12,3 +12,4 @@ The output should be printed on the console.
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/166c4061-7dce-4741-b5f7-2b7a65878591)
