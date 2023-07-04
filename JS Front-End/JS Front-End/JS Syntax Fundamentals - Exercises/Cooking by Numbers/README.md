@@ -10,3 +10,5 @@ The input comes as 6 string elements. The first element is the starting point an
 
 The output should be printed on the console.
 
+### Examples:
+
