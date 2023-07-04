@@ -27,3 +27,4 @@ The output should be printed on the console.
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/c2497160-803e-4983-8cb5-fdc5fba454d5)
