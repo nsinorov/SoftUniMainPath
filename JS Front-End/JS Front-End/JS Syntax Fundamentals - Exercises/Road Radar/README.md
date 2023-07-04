@@ -24,3 +24,6 @@ For anything else, status should be reckless driving.
 The input comes as 2 string parameters. The first element is the current speed (number), the second element is the area.
 
 The output should be printed on the console.
+
+### Examples:
+
