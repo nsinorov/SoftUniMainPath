@@ -15,3 +15,12 @@ If the driver is over the limit, however, your function should print the severit
 
     `The speed is {difference} km/h faster than the allowed speed of {speed limit} -{status}`
 
+For speeding up to 20 km/h over the limit, the status should be speeding.
+
+For speeding up to 40 km/h over the limit, the status should be excessive speeding.
+
+For anything else, status should be reckless driving.
+
+The input comes as 2 string parameters. The first element is the current speed (number), the second element is the area.
+
+The output should be printed on the console.
