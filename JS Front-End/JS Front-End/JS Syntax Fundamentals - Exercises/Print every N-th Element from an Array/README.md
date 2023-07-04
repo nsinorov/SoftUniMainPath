@@ -4,3 +4,6 @@ The output is every element on the N-th step starting from the first one. If the
 
 The output is the return value of your function and must be an array.
 
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/ea152270-82ad-4366-bf19-d8d5e74f01a5)
