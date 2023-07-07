@@ -11,3 +11,4 @@ Write a function, that checks whether the result of the multiplication numOne * 
 
 ### Example:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/c16d585e-57f9-496a-a5a4-3b114e8340da)
