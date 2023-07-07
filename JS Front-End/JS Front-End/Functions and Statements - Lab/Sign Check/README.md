@@ -8,3 +8,6 @@ Write a function, that checks whether the result of the multiplication numOne * 
 
      If the result is positive, print on the console -> "Positive"
      Otherwise, print -> "Negative"
+
+### Example:
+
