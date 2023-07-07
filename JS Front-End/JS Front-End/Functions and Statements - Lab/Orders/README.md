@@ -6,3 +6,7 @@ Write a function that calculates the total price of an order and prints it on th
      snacks - 2.00
      
 Print the result formatted to the second decimal place.
+
+### Example:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b00d3c37-7494-4806-b654-1369f28f0540)
