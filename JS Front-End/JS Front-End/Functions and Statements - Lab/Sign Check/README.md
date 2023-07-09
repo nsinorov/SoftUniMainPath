@@ -2,7 +2,7 @@ Write a function, that checks whether the result of the multiplication numOne * 
 
 ### Input:
 
-    The input comes as parameters named numOne, numTwo, numThree.
+    The input comes as parameters named numOne, numTwo, numThree
 
 ### Output:
 
