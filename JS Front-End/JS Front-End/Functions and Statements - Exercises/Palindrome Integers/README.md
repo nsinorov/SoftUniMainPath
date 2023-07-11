@@ -5,3 +5,6 @@ A palindrome is a number, which reads the same backward as forward, such as 323 
      If the current integer is a palindrome, print: "true"
      Otherwise, print: "false"
 
+### Examples:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/ab226be8-0694-4ebe-b662-4ff51a3fbae3)
