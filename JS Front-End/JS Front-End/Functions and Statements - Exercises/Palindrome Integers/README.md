@@ -9,3 +9,7 @@ A palindrome is a number, which reads the same backward as forward, such as 323 
 ### Examples:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/ab226be8-0694-4ebe-b662-4ff51a3fbae3)
+
+### Hints:
+
+     Read more about palindromes: https://en.wikipedia.org/wiki/Palindrome
