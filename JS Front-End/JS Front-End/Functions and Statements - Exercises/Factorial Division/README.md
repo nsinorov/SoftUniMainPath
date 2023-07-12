@@ -3,3 +3,8 @@ Write a function that receives two integer numbers. Calculate the factorial of e
 ### Examples:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/4182a6dc-c3a2-45f6-a8b8-33a2818a3051)
+
+### Hints:
+
+ Read more about factorial here: https://en.wikipedia.org/wiki/Factorial
+ You can use recursion
