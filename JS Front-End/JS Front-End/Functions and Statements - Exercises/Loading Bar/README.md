@@ -4,3 +4,4 @@ Your task is to create a function that visualizes a loading bar depending on the
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/00345494-4335-4091-ac57-fa5b92db68c6)
