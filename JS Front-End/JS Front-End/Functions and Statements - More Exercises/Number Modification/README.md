@@ -3,3 +3,8 @@ Write a JS program that changes a number until the average of all its digits is 
 The input is a single number.
 
 The output should consist of a single number - the final modified number which has an average value of all its digits higher than 5. The output should be printed on the console.
+
+### Constraints:
+
+     The input number will consist of no more than 6 digits.
+     The input will be a valid number (there will be no leading zeroes).
