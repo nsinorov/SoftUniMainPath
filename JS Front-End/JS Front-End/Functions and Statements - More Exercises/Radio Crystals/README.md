@@ -17,3 +17,7 @@ At the beginning of your program, you will receive a number representing the des
 The input comes as a numeric array with a variable number of elements. The first number is the target thickness and all following numbers are the thickness of different chunks of quartz ore.
 
 The output is the order of operation and how many times they are repeated, every operation on a new line. See the examples for more information.
+
+### Examples:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/cfb8fc83-36c0-44c0-8094-d0c5ab48e053)
