@@ -10,3 +10,7 @@ The different operations you can perform are the following:
      Etch – removes 2 microns of thickness
      X-ray – increases the thickness of the crystal by 1 micron; this operation can only be done once!
      Transporting and washing – removes any imperfections smaller than 1 micron (round down the number); do this after every batch of operations that remove material.
+
+At the beginning of your program, you will receive a number representing the desired final thickness and a series of numbers, representing the 
+ thickness of crystal ore in microns. Process each chunk and print to the console the order of operations and the number of times they need to be repeated to bring them to the desired thickness.
+
