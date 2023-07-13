@@ -14,3 +14,6 @@ The different operations you can perform are the following:
 At the beginning of your program, you will receive a number representing the desired final thickness and a series of numbers, representing the 
  thickness of crystal ore in microns. Process each chunk and print to the console the order of operations and the number of times they need to be repeated to bring them to the desired thickness.
 
+The input comes as a numeric array with a variable number of elements. The first number is the target thickness and all following numbers are the thickness of different chunks of quartz ore.
+
+The output is the order of operation and how many times they are repeated, every operation on a new line. See the examples for more information.
