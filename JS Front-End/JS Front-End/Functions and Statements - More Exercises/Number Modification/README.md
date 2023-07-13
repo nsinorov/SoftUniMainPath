@@ -11,3 +11,4 @@ The output should consist of a single number - the final modified number which h
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/257baeb2-f18f-44a6-bb5f-a341d2e7a42b)
