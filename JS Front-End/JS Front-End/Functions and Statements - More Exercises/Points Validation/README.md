@@ -9,3 +9,4 @@ The input consists of two points given as an array of numbers
 
 ### Examples:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d18a427b-b32d-41b3-9a02-9cb2765d402d)
