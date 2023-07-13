@@ -8,3 +8,6 @@ The output should consist of a single number - the final modified number which h
 
      The input number will consist of no more than 6 digits.
      The input will be a valid number (there will be no leading zeroes).
+
+### Examples:
+
