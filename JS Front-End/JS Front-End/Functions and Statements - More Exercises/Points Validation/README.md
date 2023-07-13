@@ -10,3 +10,9 @@ The input consists of two points given as an array of numbers
 ### Examples:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d18a427b-b32d-41b3-9a02-9cb2765d402d)
+
+### Hints:
+
+        You can use the following formula to help you calculate the distance between the points (x1, y1) and (x2, y2).
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/9ac2bed6-9a30-4330-87a1-31825dbf5746)
