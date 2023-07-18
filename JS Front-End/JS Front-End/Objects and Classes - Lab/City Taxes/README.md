@@ -12,3 +12,7 @@ Round down the values after each calculation.
 
 Your solution will receive three valid parameters. The methods that expect parameters will be tested with valid input.
 
+### Output:
+
+Return an object as described above. The methods of the object modify the object and don’t return anything.
+
