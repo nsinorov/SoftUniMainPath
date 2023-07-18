@@ -8,3 +8,4 @@ For each of the strings provided, you must create a cat object and invoke the .m
 
 ### Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/c46a60ff-acc3-4287-b282-b77c0f43bbd4)
