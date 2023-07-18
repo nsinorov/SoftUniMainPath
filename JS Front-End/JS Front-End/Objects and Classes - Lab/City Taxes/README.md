@@ -16,3 +16,6 @@ Your solution will receive three valid parameters. The methods that expect param
 
 Return an object as described above. The methods of the object modify the object and don’t return anything.
 
+### Example: 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/2dc76b46-3a32-499b-b039-f4feba2280d0)
