@@ -5,3 +5,10 @@ You will receive a city’s name (string), population (number), and treasury (nu
     collectTaxes() - Increase treasury by population * taxRate
     applyGrowth(percentage) - Increase population by given percentage
     applyRecession(percentage) - Decrease treasury by given percentage
+
+Round down the values after each calculation.
+
+### Input:
+
+Your solution will receive three valid parameters. The methods that expect parameters will be tested with valid input.
+
