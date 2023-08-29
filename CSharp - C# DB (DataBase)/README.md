@@ -2,3 +2,5 @@
 
 In the "C# DB" module, knowledge of MS SQL and popular ORMs for processing databases with C# is acquired. The first part of the module focuses on MS SQL, introducing students to basic concepts in the world of databases. The module will introduce students to one of the most widely used database management systems (DBMS) in the development of modern applications - MS SQL. They will acquire skills for working with relational databases, with an emphasis on basic functionalities, such as working with tables, grouping functions, transactions, procedures, etc. The second course is about working with databases using the standard for object-oriented data modeling in C# and .NET Core - Entity Framework Core (EF Core). 
 Students will use their acquired knowledge of object-oriented programming and MS SQL so that at the end of the course they can build, navigate and test large projects, applying popular methodologies and best practices for writing code.
+
+## The module "C# DB" has two courses inside, which are MS SQL and Entity Framework Core.
