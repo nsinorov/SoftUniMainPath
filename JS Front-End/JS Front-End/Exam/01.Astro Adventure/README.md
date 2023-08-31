@@ -12,11 +12,11 @@ After you have formed your team, you will receive different commands, each on a 
 
     "Explore – {astronaut name} – {energy needed}"
 
-•	If the astronaut has enough energy reserves, they can perform an exploration task, thus reducing their energy reserves. Print this message:
+  If the astronaut has enough energy reserves, they can perform an exploration task, thus reducing their energy reserves. Print this message:
 
     	"{astronaut name} has successfully explored a new area and now has {energy reserves left} energy!"
 
-•	If the astronaut does not have enough energy to perform the task, print:
+  If the astronaut does not have enough energy to perform the task, print:
 
     	"{astronaut name} does not have enough energy to explore!"
 
@@ -24,8 +24,10 @@ After you have formed your team, you will receive different commands, each on a 
 
 	The astronaut refuels their energy reserves. If it brings the energy reserves of the astronaut above the maximum value (200), the energy reserves are increased to 200 (the energy reserves can't go over the maximum value).
 
-• Print the following message:
+   Print the following message:
 
 	 "{astronaut name} refueled their energy by {amount recovered}!"
   
 	"Breathe – {astronaut name} – {amount}"
+
+  If The astronaut replenishes their oxygen level. If a command is given that would bring the oxygen level of the astronaut above the maximum value (100), the oxygen level is increased to 100 (the oxygen level can't go over the maximum value).
