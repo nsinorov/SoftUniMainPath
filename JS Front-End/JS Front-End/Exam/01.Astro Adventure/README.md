@@ -24,3 +24,8 @@ After you have formed your team, you will receive different commands, each on a 
 
 	The astronaut refuels their energy reserves. If it brings the energy reserves of the astronaut above the maximum value (200), the energy reserves are increased to 200 (the energy reserves can't go over the maximum value).
 
+• Print the following message:
+
+	 "{astronaut name} refueled their energy by {amount recovered}!"
+  
+	"Breathe – {astronaut name} – {amount}"
