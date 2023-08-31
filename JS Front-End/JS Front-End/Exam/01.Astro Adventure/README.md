@@ -54,3 +54,7 @@ After you have formed your team, you will receive different commands, each on a 
 
 	The names of the astronauts will always be unique.
 	All given commands will be valid.
+
+### Examples:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/94e28c07-ac1b-41eb-bb98-d6df5dd96a29)
