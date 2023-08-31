@@ -38,8 +38,14 @@ After you have formed your team, you will receive different commands, each on a 
 
 ### Input:
 
-On the first line of the standard input, you will receive an integer n
+	On the first line of the standard input, you will receive an integer n
 
-On the following n lines, the astronauts themselves will follow with their oxygen level and energy reserves, separated by a space in the following format
+	On the following n lines, the astronauts themselves will follow with their oxygen level and energy reserves, separated by a space in the following format
 
-You will be receiving different commands, each on a new line, separated by " - ", until the "End" command is given
+	You will be receiving different commands, each on a new line, separated by " - ", until the "End" command is given
+
+### Output:
+
+	Every command should print its own template sentence, after that print all astronauts, in the following format:
+ 
+		"Astronaut: {astronaut name}, Oxygen: {oxygen level}, Energy: {energy reserves}"
