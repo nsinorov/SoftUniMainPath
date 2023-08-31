@@ -49,3 +49,8 @@ After you have formed your team, you will receive different commands, each on a 
 	Every command should print its own template sentence, after that print all astronauts, in the following format:
  
 		"Astronaut: {astronaut name}, Oxygen: {oxygen level}, Energy: {energy reserves}"
+
+### Constraints:
+
+	The names of the astronauts will always be unique.
+	All given commands will be valid.
