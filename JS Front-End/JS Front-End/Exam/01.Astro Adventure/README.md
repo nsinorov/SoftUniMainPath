@@ -35,3 +35,11 @@ After you have formed your team, you will receive different commands, each on a 
  Print the following message:
  
 	"{astronaut name} took a breath and recovered {amount recovered} oxygen!"
+
+### Input:
+
+On the first line of the standard input, you will receive an integer n
+
+On the following n lines, the astronauts themselves will follow with their oxygen level and energy reserves, separated by a space in the following format
+
+You will be receiving different commands, each on a new line, separated by " - ", until the "End" command is given
