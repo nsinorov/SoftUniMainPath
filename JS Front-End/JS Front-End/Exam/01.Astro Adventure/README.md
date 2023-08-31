@@ -31,3 +31,7 @@ After you have formed your team, you will receive different commands, each on a 
 	"Breathe – {astronaut name} – {amount}"
 
   If The astronaut replenishes their oxygen level. If a command is given that would bring the oxygen level of the astronaut above the maximum value (100), the oxygen level is increased to 100 (the oxygen level can't go over the maximum value).
+
+ Print the following message:
+ 
+	"{astronaut name} took a breath and recovered {amount recovered} oxygen!"
