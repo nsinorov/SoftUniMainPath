@@ -3,3 +3,11 @@
 Use the provided skeleton to solve this problem.
 
 Note: You can't and you have no permission to change directly the given HTML code (index.html file).
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/93f8e0bc-1167-4b18-84fd-f4e8383cbfda)
+
+## Your Task:
+
+Write the missing JavaScript code to make the Dart Scoring work as expected:
+
+  	Player Name, Score, and Round should be non-empty strings. If any of them are empty, the program should not do anything.
