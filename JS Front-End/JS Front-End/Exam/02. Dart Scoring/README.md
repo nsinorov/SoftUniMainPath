@@ -19,3 +19,4 @@ The HTML structure should look like this:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/052a26f0-a9c3-4a4a-b9ac-b990c342ac82)
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/be809ffa-4940-4073-a26f-409547b37e3e)
