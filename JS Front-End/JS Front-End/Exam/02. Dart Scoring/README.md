@@ -24,3 +24,7 @@ The HTML structure should look like this:
 2.Edit information
    
 When the [Edit] button is clicked, the information from the post must be sent to the input fields on the left side and the record should be deleted from the <ul> "sure-list" and [Add] button must be enabled again. 
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/36a704cc-5ced-4c70-8b24-359a875d611b)
+
+After editing the information, add a new item to the <ul> with the updated information.
