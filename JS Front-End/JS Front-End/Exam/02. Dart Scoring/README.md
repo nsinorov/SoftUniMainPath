@@ -42,3 +42,7 @@ The buttons [Edit] and [Ok] should be removed from the <li> element and [Add] bu
 4.Clear Scoreboard
 
 When [Clear] button is clicked, you must reload the application.
+
+Submission
+
+Submit only your solve() function.
