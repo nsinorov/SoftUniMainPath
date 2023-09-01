@@ -38,3 +38,7 @@ The buttons [Edit] and [Ok] should be removed from the <li> element and [Add] bu
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8ee26ee4-301e-46a2-b9b7-b7f524a66ba4)
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/dcc699c3-99f4-482a-a5ea-6b340f3fb0d4)
+
+4.Clear Scoreboard
+
+When [Clear] button is clicked, you must reload the application.
