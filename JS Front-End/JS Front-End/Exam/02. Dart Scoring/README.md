@@ -31,3 +31,7 @@ After editing the information, add a new item to the <ul> with the updated infor
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b625568b-924f-4e37-96f9-ae919c5a5c13)
 
+3.Add to Scoreboard
+
+When you click the [Ok] button, the record must be deleted from the <ul> with id "sure-list" and appended to the <ul> with id "scoreboard-list".
+The buttons [Edit] and [Ok] should be removed from the <li> element and [Add] button must be enabled again.
