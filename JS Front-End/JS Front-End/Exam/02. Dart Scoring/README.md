@@ -17,3 +17,5 @@ Write the missing JavaScript code to make the Dart Scoring work as expected:
 When you click the [Add] button, the information from the input fields must be added to the <ul> with the id "sure-list",[Add] button must be disabled and the input fields should be cleared.
 The HTML structure should look like this:
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/052a26f0-a9c3-4a4a-b9ac-b990c342ac82)
+
