@@ -28,3 +28,6 @@ When the [Edit] button is clicked, the information from the post must be sent to
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/36a704cc-5ced-4c70-8b24-359a875d611b)
 
 After editing the information, add a new item to the <ul> with the updated information.
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b625568b-924f-4e37-96f9-ae919c5a5c13)
+
