@@ -22,3 +22,9 @@ At any point, you can open up another console and run npm test to test the curre
 ### Load History:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/ec126cfa-7507-4ccf-8ef9-4ccc69a065fd)
+
+Clicking the [Load History] button should send a GET request to the server to fetch all records from your local database. You must add each task to the <div> with id="list". [Edit Weather] button should be deactivated.
+
+Each record has the following HTML structure:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/e367f5fd-eab6-4c38-b83c-331a61af74f1)
