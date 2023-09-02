@@ -49,3 +49,7 @@ After clicking the [Edit Weather] button in the form, you should send a PUT requ
 ### Delete:
 
 Clicking the [Delete] button should send a DELETE request to the server and remove the item from your local database. After you've removed it successfully, fetch the items again.
+
+### Submitting Your Solution:
+
+Select the content of your working folder (the given resources). Exclude the node_modules & tests folders. Archive the rest into a ZIP file and upload the archive to Judge.
