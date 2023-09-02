@@ -28,3 +28,6 @@ Clicking the [Load History] button should send a GET request to the server to fe
 Each record has the following HTML structure:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/e367f5fd-eab6-4c38-b83c-331a61af74f1)
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b07611af-6ab2-49fd-9574-4ceb7ac726e8)
+
