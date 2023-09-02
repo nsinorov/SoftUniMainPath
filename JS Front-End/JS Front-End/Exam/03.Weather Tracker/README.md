@@ -29,6 +29,7 @@ Each record has the following HTML structure:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/e367f5fd-eab6-4c38-b83c-331a61af74f1)
 
+
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b07611af-6ab2-49fd-9574-4ceb7ac726e8)
 
 ### Add а Weather:
@@ -43,3 +44,4 @@ Clicking the [Change] button on a record should remove the record from the DOM s
 
 After clicking the [Edit Weather] button in the form, you should send a PUT request to the server to modify the location, temperature and the date of the changed item. After the successful request, you should fetch the items again and see that the changes have been made. After that, the [Edit Weather] button should be deactivated and the [Add Weather] one should be activated.
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/24467056-06fb-4f93-8e32-69419cbc5cba)
