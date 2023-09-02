@@ -31,3 +31,6 @@ Each record has the following HTML structure:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b07611af-6ab2-49fd-9574-4ceb7ac726e8)
 
+### Add а Weather:
+
+Clicking the [Add Weather] button should send a POST request to the server, creating a new scheduled vacation with the location, temperature, and date from the input values. After a successful creation, you should send another GET request to fetch all the scheduled vacations, including the newly added one into the History column. You should also clear all the input fields after the creation!
