@@ -11,3 +11,6 @@ Then, you can start the front-end application with the npm start command
 You also must start the server.js file in the server folder using the node server.js command in another console (BOTH THE CLIENT AND THE SERVER MUST RUN AT THE SAME TIME).
 
 At any point, you can open up another console and run npm test to test the current state of your application. It’s preferable for all of your tests to pass locally before you submit to the Judge platform, like this:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d56f7472-7008-48c5-8e87-b9780f3f3544)
+
