@@ -36,3 +36,10 @@ Each record has the following HTML structure:
 Clicking the [Add Weather] button should send a POST request to the server, creating a new scheduled vacation with the location, temperature, and date from the input values. After a successful creation, you should send another GET request to fetch all the scheduled vacations, including the newly added one into the History column. You should also clear all the input fields after the creation!
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/7b6029c2-d251-48d6-8a83-75f1965348e2)
+
+### Edit a Weather:
+
+Clicking the [Change] button on a record should remove the record from the DOM structure and the information about the task should be populated into the input fields above. The [Edit Weather] button in the form should be activated and the [Add Weather] one should be deactivated.
+
+After clicking the [Edit Weather] button in the form, you should send a PUT request to the server to modify the location, temperature and the date of the changed item. After the successful request, you should fetch the items again and see that the changes have been made. After that, the [Edit Weather] button should be deactivated and the [Add Weather] one should be activated.
+
