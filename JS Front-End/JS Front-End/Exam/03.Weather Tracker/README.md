@@ -14,3 +14,7 @@ At any point, you can open up another console and run npm test to test the curre
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d56f7472-7008-48c5-8e87-b9780f3f3544)
 
+### Endpoints:
+
+    	http://localhost:3030/jsonstore/tasks/
+    	http://localhost:3030/jsonstore/tasks/:id
