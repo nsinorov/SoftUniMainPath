@@ -18,3 +18,7 @@ At any point, you can open up another console and run npm test to test the curre
 
     	http://localhost:3030/jsonstore/tasks/
     	http://localhost:3030/jsonstore/tasks/:id
+
+### Load History:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/ec126cfa-7507-4ccf-8ef9-4ccc69a065fd)
