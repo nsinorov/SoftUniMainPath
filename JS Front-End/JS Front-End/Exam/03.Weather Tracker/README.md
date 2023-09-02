@@ -45,3 +45,7 @@ Clicking the [Change] button on a record should remove the record from the DOM s
 After clicking the [Edit Weather] button in the form, you should send a PUT request to the server to modify the location, temperature and the date of the changed item. After the successful request, you should fetch the items again and see that the changes have been made. After that, the [Edit Weather] button should be deactivated and the [Add Weather] one should be activated.
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/24467056-06fb-4f93-8e32-69419cbc5cba)
+
+### Delete:
+
+Clicking the [Delete] button should send a DELETE request to the server and remove the item from your local database. After you've removed it successfully, fetch the items again.
