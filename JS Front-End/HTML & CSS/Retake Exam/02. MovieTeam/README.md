@@ -8,3 +8,7 @@ You need to implement 1 layout: width <= 600p. The figures below represent this 
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/b2cda435-8443-49ee-8739-45640ffc1f5c)
 
+### Output:
+
+The output should be valid HTML5 + CSS3 + images that implement the above responsive site.
+
