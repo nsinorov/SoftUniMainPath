@@ -10,5 +10,9 @@ You need to implement 1 layout: width <= 600p. The figures below represent this 
 
 ### Output:
 
-The output should be valid HTML5 + CSS3 + images that implement the above responsive site.
+	The output should be valid HTML5 + CSS3 + images that implement the above responsive site.
 
+### Constraints:
+
+	You should write styles only in responsive.css file.
+	The site should open correctly in the latest version of Chrome
