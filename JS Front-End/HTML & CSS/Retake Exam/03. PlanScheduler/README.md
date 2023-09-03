@@ -4,3 +4,6 @@ Create a Web page (HTML5 + CSS3 + images) that looks and behaves like the screen
 
 You are given the above screenshots + all required images.
 
+### Output:
+
+  The output should be valid HTML5 + CSS3 + images that implement the above web page.
