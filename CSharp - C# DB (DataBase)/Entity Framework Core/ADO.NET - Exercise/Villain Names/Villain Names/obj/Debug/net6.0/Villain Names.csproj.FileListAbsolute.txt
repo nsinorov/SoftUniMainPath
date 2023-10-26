@@ -1,0 +1,63 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Villain Names.exe
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Villain Names.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Villain Names.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Villain Names.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Villain Names.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\refint\Villain Names.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\ref\Villain Names.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\ADO.NET - Exercise\Villain Names\Villain Names\obj\Debug\net6.0\Villain Names.csproj.CopyComplete
