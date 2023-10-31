@@ -12,3 +12,5 @@ In the end, you should have the following tables:
     •	EvilnessFactors
     •	Villains
     •	MinionsVillains
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/6c84ea72-e09c-4742-9af0-c58864688920)
