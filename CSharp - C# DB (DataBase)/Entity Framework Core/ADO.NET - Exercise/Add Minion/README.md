@@ -18,3 +18,7 @@ After completing an operation, you must print one of the following messages:
 	After adding a new town to the database: "Town <TownName> was added to the database."
 	After adding a new villain to the database: "Villain <VillainName> was added to the database."
 	Finally, after successfully adding the minion to the database and making it a servant of a villain: "Successfully added <MinionName> to be minion of <VillainName>."
+
+## Example
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/975b1d4f-8214-4f36-917d-eb5bee741bf6)
