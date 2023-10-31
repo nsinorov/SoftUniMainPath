@@ -6,3 +6,4 @@ If the selected villain has no minions, print "(no minions)" on the second row.
 
 ## Example: 
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/f6845f56-64b4-4483-aaf5-68cba19ef805)
