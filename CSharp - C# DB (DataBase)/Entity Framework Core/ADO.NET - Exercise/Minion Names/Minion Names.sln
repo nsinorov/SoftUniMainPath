@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minion Names", "Minion Names\Minion Names.csproj", "{08B567BE-E72C-4CB5-9723-18D21BEEE908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B567BE-E72C-4CB5-9723-18D21BEEE908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B567BE-E72C-4CB5-9723-18D21BEEE908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B567BE-E72C-4CB5-9723-18D21BEEE908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B567BE-E72C-4CB5-9723-18D21BEEE908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65529BD4-E21B-4D7B-A609-B294AAEA9605}
+	EndGlobalSection
+EndGlobal
