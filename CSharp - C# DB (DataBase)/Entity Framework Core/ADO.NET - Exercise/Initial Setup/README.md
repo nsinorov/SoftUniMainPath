@@ -14,3 +14,5 @@ In the end, you should have the following tables:
     •	MinionsVillains
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/6c84ea72-e09c-4742-9af0-c58864688920)
+
+NOTE: You will need the "MinionsDB.sql" file. The queries for creating the database and the tables, and inserting info in those tables, are already written. You can use those queries or you can write your own, as long as they follow the objectives of the tasks.
