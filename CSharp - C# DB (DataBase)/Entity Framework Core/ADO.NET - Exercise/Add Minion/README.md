@@ -8,5 +8,11 @@ Finally set the new minion to be a servant of the villain. Print appropriate mes
 
 The input comes in two lines:
 
-    •	On the first line, you will receive the minion information in the format "Minion: <Name> <Age> <TownName>"
-    •	On the second – the villain information in the format "Villain: <Name>"
+    	On the first line, you will receive the minion information in the format "Minion: <Name> <Age> <TownName>"
+    	On the second – the villain information in the format "Villain: <Name>"
+
+## Output
+
+After completing an operation, you must print one of the following messages:
+
+	After adding a new town to the database: "Town <TownName> was added to the database."
