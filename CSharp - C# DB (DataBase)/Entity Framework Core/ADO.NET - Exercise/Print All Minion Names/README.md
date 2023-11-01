@@ -4,3 +4,4 @@ Write a program that prints all minion names from the minions table in the follo
 
 ## Example
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8b76f403-1d8c-49e9-b279-3ea17adee16a)
