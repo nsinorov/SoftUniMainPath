@@ -1,5 +1,3 @@
-Read from the console minion IDs separated by space. Increment the age of those minions by 1 and make the first letter of their name lower case. Finally, print the name and the age of all minions in the database, each on a new row in the format "<Name> <Age>".
+Create stored procedure usp_GetOlder (directly in the database using Management Studio or any other similar tool) that receives MinionId and increases that minion's age by 1.
 
-## Example
-
-![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/a456205f-5ec6-4917-a2e9-899221aec07a)
+Write a program that uses that stored procedure to increase the age of a minion whose id will be given as input from the console. After that print the name and the age of that minion.
