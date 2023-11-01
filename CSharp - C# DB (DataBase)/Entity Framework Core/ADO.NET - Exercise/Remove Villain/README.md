@@ -6,3 +6,4 @@ If there is no villain in the database with the given ID, print "No such villain
 
 ## Example
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/03a8d7c5-3d38-42f0-8a27-c5429df1fdb7)
