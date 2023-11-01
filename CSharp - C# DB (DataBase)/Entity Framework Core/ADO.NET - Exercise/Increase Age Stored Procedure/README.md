@@ -4,3 +4,4 @@ Write a program that uses that stored procedure to increase the age of a minion 
 
 ## Example
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/c904e35c-c8fd-4f00-9e9d-c82fd7aed077)
