@@ -2,3 +2,4 @@ Read from the console minion IDs separated by space. Increment the age of those 
 
 ## Example
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/a456205f-5ec6-4917-a2e9-899221aec07a)
