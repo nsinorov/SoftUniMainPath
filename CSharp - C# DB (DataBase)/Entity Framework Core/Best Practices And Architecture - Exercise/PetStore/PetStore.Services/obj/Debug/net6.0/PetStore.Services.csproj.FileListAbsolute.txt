@@ -1,0 +1,12 @@
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.deps.json
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\refint\PetStore.Services.dll
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.pdb
+C:\Users\Nikolay Sinorov\Desktop\SoftUni\CSharp - C# DB (DataBase)\Entity Framework Core\Best Practices And Architecture - Exercise\PetStore\PetStore.Services\obj\Debug\net6.0\ref\PetStore.Services.dll
