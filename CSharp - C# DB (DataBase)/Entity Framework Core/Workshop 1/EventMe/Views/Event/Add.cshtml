@@ -1,0 +1,49 @@
+﻿@model EventModel;
+
+@{
+    ViewBag.Title = "Add an Event";
+    IEnumerable<SelectListItem> towns = ViewBag.Towns ?? new List<SelectListItem>();
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <form asp-action="Add" method="post">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" aria-required="true" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Start" class="form-label"></label>
+                <input asp-for="Start" class="form-control" aria-required="true" />
+                <span asp-validation-for="Start" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="End" class="form-label"></label>
+                <input asp-for="End" class="form-control" aria-required="true" />
+                <span asp-validation-for="End" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="StreetAddress" class="form-label"></label>
+                <input asp-for="StreetAddress" class="form-control" aria-required="true" />
+                <span asp-validation-for="StreetAddress" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="TownId" class="form-label"></label>
+                <select asp-for="TownId" asp-items="towns" class="form-control"></select>
+                <span asp-validation-for="TownId" class="text-danger"></span>
+            </div>
+            <div class="mb-3 text-center">
+                <input class="btn btn-primary" type="submit" value="Add" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
