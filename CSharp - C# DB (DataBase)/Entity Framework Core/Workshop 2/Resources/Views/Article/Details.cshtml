@@ -1,0 +1,48 @@
+﻿@model ArticleViewModel;
+
+@{
+    ViewBag.Title = "View Article Details";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row mx-auto">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <div class="mb-3">
+            <p class="font-weight-bold"><span class="fw-bold">Title: </span>@Model.Title</p>
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p class="form-label font-weight-bold"><span class="fw-bold">Author: </span>@Model.Author</p>
+            <span asp-validation-for="Author" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p asp-for="End" class="form-label font-weight-bold"><span class="fw-bold">Created on: </span>@Model.CreatedOn</p>
+            <span asp-validation-for="CreatedOn" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p asp-for="End" class="form-label font-weight-bold"><span class="fw-bold">Category: </span>@Model.Category</p>
+            <span asp-validation-for="Category" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p asp-for="End" class="form-label font-weight-bold"><span class="fw-bold">Content: </span>@Model.Content</p>
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+        <div class="d-flex flex-row justify-content-around">
+            @if (Model.Author == User.Identity.Name)
+            {
+                <a asp-controller="Article" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+                 <form asp-controller="Article" asp-action="Delete" asp-route-id="@Model.Id" method="Post">
+                <input type="submit" value="Delete" class="btn btn-primary" />
+            </form>
+            }
+            <a asp-controller="Article" asp-action="All" asp-route-id="@Model.Id" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

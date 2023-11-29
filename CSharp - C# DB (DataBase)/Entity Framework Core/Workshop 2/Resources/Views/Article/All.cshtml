@@ -1,0 +1,32 @@
+﻿@model IEnumerable<ArticleViewModel>
+
+@{
+    ViewData["Title"] = "View All Articles";
+}
+
+<h1 class="text-center">@ViewBag.Title</h1>
+
+
+<div class="text-center row">
+    @foreach (var article in Model)
+    {
+        <div class="card col-4" style="width: 20rem;">
+            <h3 class="card-title mt-1">@article.Title</h3>
+            <p class="mb-0">@article.Content</p>
+            <p class="mb-0"><span class="fw-bold">Created on: </span>@article.CreatedOn</p>
+            <p class="mb-0"><span class="fw-bold">Author: </span>@article.Author</p>
+            <p><span class="fw-bold">Category: </span>@article.Category</p>
+            <a asp-controller="Article" asp-action="Details" asp-route-id="@article.Id" class="btn btn-primary mb-1">Details</a>
+            @if(article.Author == User.Identity.Name)
+            {
+                <a asp-controller="Article" asp-action="Edit" asp-route-id="@article.Id" class="btn btn-primary mb-1">Edit</a>
+                <button type="button" class="btn btn-primary">
+                    <form asp-controller="Article" asp-action="Delete" asp-route-id="@article.Id" method="Post">
+                        <input type="submit" value="Delete" class="btn btn-primary" />
+                    </form>
+                </button>
+            }
+        </div>
+    }
+</div>
+
