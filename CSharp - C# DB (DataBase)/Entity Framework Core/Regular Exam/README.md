@@ -114,4 +114,4 @@ Using the file "patients.json", import the data from that file into the database
 ## Example
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d8b6b20b-1578-434a-a6dc-2e327a4584de)
-
+Upon correct import logic, you should have imported 64 patients with 139 patientsmedicines.
