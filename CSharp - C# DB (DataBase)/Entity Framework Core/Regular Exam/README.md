@@ -91,5 +91,6 @@ Using the file "pharmacies.xml", import the data from the file into the database
 	If the medicines collection of the current pharmacy contains another medicine with the same name and same producer, the record should NOT be added and an error message should be appended to the method output. 
 		However, if the producer is different, or the medicine is available in another pharmacy with the same name and producer, the record will be added.
 
- 
+ ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/4c6bb6be-2bfa-4e67-b349-8210f8b63f1f)
+
 
