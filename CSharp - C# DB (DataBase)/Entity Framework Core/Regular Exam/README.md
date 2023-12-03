@@ -96,4 +96,4 @@ Using the file "pharmacies.xml", import the data from the file into the database
 ## Example
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/0b015075-37d6-455f-9c94-37843894259a)
-
+Upon correct import logic, you should have imported 10 pharmacies and 29 medicines.
