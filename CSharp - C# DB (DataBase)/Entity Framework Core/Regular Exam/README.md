@@ -71,3 +71,17 @@ You are not allowed to modify the provided JSON and XML files.
 If a record does not meet the requirements from the first section, print an error message:
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/9301598a-659e-4e22-9877-89ac2e480970)
+
+## XML Import
+
+### Import Pharmacies
+
+Using the file "pharmacies.xml", import the data from the file into the database. Print information about each imported object in the format described below.
+
+### Constraints
+
+	If there are any validation errors for the pharmacy entity (such as invalid name, invalid phone number, invalid boolean value (valid boolean values are only true/false)), do not import any part of the entity and append an error message to the method output.
+	If there are any validation errors for the medicine entity such as:
+		 invalid price or missing producer;
+		production date is on the same day or after the expiry date or category is invalid, do not import only the medicine entity and append an error message to the method output. 
+
