@@ -125,3 +125,7 @@ Use the provided methods in the Serializer class. Usage of Data Transfer Objects
 ### Export Medicines From Desired Category existing in Non Stop Pharmacies
 
 Select all the medicines, from a specific category (for this task the category is hardcoded in the StartUp class and passed to the method), that can be found in pharmacies working 24/7 (non-stop). Select them with their name, price, pharmacy. For the pharmacy, export its name and phone number. Order the medicines by price (ascending) and then by name (alphabetically).
+
+In the exported document, the price should be formatted to the second decimal place and exported to string format.
+
+## Example
