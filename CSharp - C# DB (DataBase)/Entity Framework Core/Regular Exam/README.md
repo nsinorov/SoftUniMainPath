@@ -17,3 +17,5 @@ You are given a project skeleton, which includes the following folders:
 	Datasets – contains the .json and .xml files for the import part
 	ImportResults – contains the import results you make in the Deserializer class
 	ExportResults – contains the export results you make in the Serializer class
+ 
+## 2.	Model Definition (50 pts)
