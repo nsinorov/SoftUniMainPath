@@ -131,3 +131,16 @@ In the exported document, the price should be formatted to the second decimal pl
 ## Example
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8abf7311-1d91-4e6b-ba02-0424dee2169d)
+
+## XML Export
+
+### Export Patients with Their Medicines
+
+Export all patients that have bought at least one medicine, produced after the given date. For each Patient, export their full name, age group and gender. For each medicine, export its name, price, category, producer and expiry date. Order the medicines by expiry date (descending), then by price (ascending). Order the patients by medicines count (descending), then by name (alphabetically).
+
+	The price should be exported to string format  and formatted to the second decimal place.
+	The DateTime data in the document will be in the following fomat: "yyyy-MM-dd" 
+	Make sure you use CultureInfo.InvariantCulture
+
+
+
