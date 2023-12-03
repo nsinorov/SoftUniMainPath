@@ -60,3 +60,14 @@ The application needs to store the following data:
 	MedicineId – integer, Primary Key, foreign key (required)
 	Medicine – Medicine
 
+## 3.	Data Import (25pts)
+
+For the functionality of the application, you need to create several methods that manipulate the database. The project skeleton already provides you with these methods, inside the Deserializer class. Usage of Data Transfer Objects and AutoMapper is optional.
+
+Use the provided JSON and XML files to populate the database with data. Import all the information from those files into the database.
+
+You are not allowed to modify the provided JSON and XML files.
+
+If a record does not meet the requirements from the first section, print an error message:
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/9301598a-659e-4e22-9877-89ac2e480970)
