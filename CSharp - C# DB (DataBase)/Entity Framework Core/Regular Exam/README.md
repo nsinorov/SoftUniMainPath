@@ -19,3 +19,15 @@ You are given a project skeleton, which includes the following folders:
 	ExportResults – contains the export results you make in the Serializer class
  
 ## 2.	Model Definition (50 pts)
+
+The application needs to store the following data:
+
+### Pharmacy
+
+	Id – integer, Primary Key
+	Name – text with length [2, 50] (required)
+	PhoneNumber – text with length 14. (required)
+	All phone numbers must have the following structure: three digits enclosed in parentheses, followed by a space, three more digits, a hyphen, and four final digits: 
+	Example -> (123) 456-7890 
+	IsNonStop – bool  (required)
+	Medicines - collection of type Medicine
