@@ -109,3 +109,9 @@ Using the file "patients.json", import the data from that file into the database
 	If any validation error occurs for the patient entity (such as invalid name, age group, gender value), do not import any part of the entity and append an error message to the method output.
 	If a medicine id is already added to the medicines collection of the patient, do not add the duplicated id and append an error message to the method output.
 
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/e43e31b7-d8b3-4fab-ac0d-c449d1a6acc7)
+
+## Example
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d8b6b20b-1578-434a-a6dc-2e327a4584de)
+
