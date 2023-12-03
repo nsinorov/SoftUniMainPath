@@ -129,3 +129,5 @@ Select all the medicines, from a specific category (for this task the category i
 In the exported document, the price should be formatted to the second decimal place and exported to string format.
 
 ## Example
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/8abf7311-1d91-4e6b-ba02-0424dee2169d)
