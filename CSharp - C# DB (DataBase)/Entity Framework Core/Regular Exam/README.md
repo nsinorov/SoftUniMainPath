@@ -45,3 +45,11 @@ The application needs to store the following data:
 	Pharmacy – Pharmacy
 	PatientsMedicines - collection of type PatientMedicine
 
+### Patient
+
+	Id – integer, Primary Key
+	FullName – text with length [5, 100] (required)
+	AgeGroup – AgeGroup enum (Child = 0, Adult, Senior) (required)
+	Gender – Gender enum (Male = 0, Female) (required)
+	PatientsMedicines - collection of type PatientMedicine
+
