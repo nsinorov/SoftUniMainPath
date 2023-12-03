@@ -115,3 +115,13 @@ Using the file "patients.json", import the data from that file into the database
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/d8b6b20b-1578-434a-a6dc-2e327a4584de)
 Upon correct import logic, you should have imported 64 patients with 139 patientsmedicines.
+
+## 4.	Data Export (25 pts)
+
+Use the provided methods in the Serializer class. Usage of Data Transfer Objects and AutoMapper is optional.
+
+## JSON Export
+
+### Export Medicines From Desired Category existing in Non Stop Pharmacies
+
+Select all the medicines, from a specific category (for this task the category is hardcoded in the StartUp class and passed to the method), that can be found in pharmacies working 24/7 (non-stop). Select them with their name, price, pharmacy. For the pharmacy, export its name and phone number. Order the medicines by price (ascending) and then by name (alphabetically).
