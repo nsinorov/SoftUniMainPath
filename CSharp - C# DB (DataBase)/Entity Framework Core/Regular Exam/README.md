@@ -81,7 +81,15 @@ Using the file "pharmacies.xml", import the data from the file into the database
 ### Constraints
 
 	If there are any validation errors for the pharmacy entity (such as invalid name, invalid phone number, invalid boolean value (valid boolean values are only true/false)), do not import any part of the entity and append an error message to the method output.
+ 
 	If there are any validation errors for the medicine entity such as:
 		 invalid price or missing producer;
 		production date is on the same day or after the expiry date or category is invalid, do not import only the medicine entity and append an error message to the method output. 
+	The DateTime data in the document will be in the following fomat: "yyyy-MM-dd" 
+	Make sure you use CultureInfo.InvariantCulture
+ 
+	If the medicines collection of the current pharmacy contains another medicine with the same name and same producer, the record should NOT be added and an error message should be appended to the method output. 
+		However, if the producer is different, or the medicine is available in another pharmacy with the same name and producer, the record will be added.
+
+ 
 
