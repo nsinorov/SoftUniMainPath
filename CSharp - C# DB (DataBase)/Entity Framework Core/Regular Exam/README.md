@@ -142,5 +142,8 @@ Export all patients that have bought at least one medicine, produced after the g
 	The DateTime data in the document will be in the following fomat: "yyyy-MM-dd" 
 	Make sure you use CultureInfo.InvariantCulture
 
+## Example
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/f9e971f9-5b18-4c9e-83a1-bd01a4b13a36)
 
 
