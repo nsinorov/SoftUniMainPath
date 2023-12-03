@@ -9,3 +9,5 @@ Your task is to create a database application, using Entity Framework Core, usin
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/87df2cc2-b91e-424b-b25e-c6debedeabaf)
 
 ## 1.	Project Skeleton Overview
+
+You are given a project skeleton, which includes the following folders:
