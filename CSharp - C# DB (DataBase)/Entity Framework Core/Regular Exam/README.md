@@ -53,3 +53,10 @@ The application needs to store the following data:
 	Gender – Gender enum (Male = 0, Female) (required)
 	PatientsMedicines - collection of type PatientMedicine
 
+### PatientMedicine
+
+	PatientId – integer, Primary Key, foreign key (required)
+	Patient – Patient
+	MedicineId – integer, Primary Key, foreign key (required)
+	Medicine – Medicine
+
