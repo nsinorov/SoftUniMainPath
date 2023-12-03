@@ -97,3 +97,15 @@ Using the file "pharmacies.xml", import the data from the file into the database
 
 ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/0b015075-37d6-455f-9c94-37843894259a)
 Upon correct import logic, you should have imported 10 pharmacies and 29 medicines.
+
+## JSON Import
+
+### Import Patients
+
+Using the file "patients.json", import the data from that file into the database. Print information about each imported object in the format described below.
+
+### Constraints
+
+	If any validation error occurs for the patient entity (such as invalid name, age group, gender value), do not import any part of the entity and append an error message to the method output.
+	If a medicine id is already added to the medicines collection of the patient, do not add the duplicated id and append an error message to the method output.
+
