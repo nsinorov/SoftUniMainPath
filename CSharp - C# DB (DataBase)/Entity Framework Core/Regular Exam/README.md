@@ -93,4 +93,7 @@ Using the file "pharmacies.xml", import the data from the file into the database
 
  ![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/4c6bb6be-2bfa-4e67-b349-8210f8b63f1f)
 
+## Example
+
+![image](https://github.com/nsinorov/SoftUniMainPath/assets/45227327/0b015075-37d6-455f-9c94-37843894259a)
 
