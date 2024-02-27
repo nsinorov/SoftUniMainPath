@@ -1,6 +1,6 @@
 # <p align="center"> Courses from the main C# - CSharp (.NET) path + Front-End  <p>
 
-<p align="centre">
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
 </p> 
   
