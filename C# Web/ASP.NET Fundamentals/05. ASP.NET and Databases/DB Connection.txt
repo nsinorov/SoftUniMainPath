@@ -1,0 +1,4 @@
+DESKTOP-NGVD83T\SQLEXPRESS
+
+
+"DefaultConnection": "Server=.;Database=ShopingListDb;User Id=sa; Password=SoftUn!2021; TrustServerCertificate=True;"
